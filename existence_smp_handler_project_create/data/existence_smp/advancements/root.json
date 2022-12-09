@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "create:large_cogwheel"
+    },
+    "title": "Existence SMP",
+    "description": "Welcome to Existence SMP Project Create",
+    "frame": "task",
+    "background": "minecraft:textures/block/cyan_glazed_terracotta.png",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "function": "existence_smp:join_first",
+    "loot": ["minecraft:chests/spawn_bonus_chest"]
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

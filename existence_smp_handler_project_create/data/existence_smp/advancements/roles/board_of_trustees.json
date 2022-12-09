@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "green_banner"
+      },
+      "title": "Board of Trustees",
+      "description": "Be a trusted member of the Existence SMP Community",
+      "frame": "task",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "parent": "existence_smp:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
