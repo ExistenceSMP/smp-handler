@@ -1,0 +1,136 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:filled_map"
+    },
+    "title": "Around the World",
+    "description": "Visit all Major Outposts",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "exi:locations/outposts/mining_outpost",
+  "criteria": {
+    "coastal_outpost": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "x": {
+                    "min": -50,
+                    "max": 50
+                  },
+                  "y": {
+                    "min": 0,
+                    "max": 256
+                  },
+                  "z": {
+                    "min": -3710,
+                    "max": -3610
+                  }
+                },
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "aquatic_outpost": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "x": {
+                    "min": 3600,
+                    "max": 3700
+                  },
+                  "y": {
+                    "min": 0,
+                    "max": 256
+                  },
+                  "z": {
+                    "min": -50,
+                    "max": 50
+                  }
+                },
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "forest_outpost": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "x": {
+                    "min": -50,
+                    "max": 50
+                  },
+                  "y": {
+                    "min": 0,
+                    "max": 256
+                  },
+                  "z": {
+                    "min": 3310,
+                    "max": 3410
+                  }
+                },
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "mining_outpost": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "x": {
+                    "min": -3850,
+                    "max": -3750
+                  },
+                  "y": {
+                    "min": 0,
+                    "max": 256
+                  },
+                  "z": {
+                    "min": -50,
+                    "max": 50
+                  }
+                },
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

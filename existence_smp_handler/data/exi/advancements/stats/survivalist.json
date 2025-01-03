@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "campfire"
+      },
+      "title": "Survivalist",
+      "description": "Surpass 100 hours played with less than 50 deaths",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "exi:stats/playtime/time_well_spent",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

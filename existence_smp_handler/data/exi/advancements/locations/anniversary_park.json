@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:yellow_banner"
+    },
+    "title": "Anniversary Park",
+    "description": "Celebrate the 5th Anniversary of Existence SMP by visiting Anniversary Park",
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "exi:locations/globe_trotter",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "x": {
+                    "min": 224,
+                    "max": 261
+                  },
+                  "y": {
+                    "min": 70,
+                    "max": 83
+                  },
+                  "z": {
+                    "min": 162,
+                    "max": 199
+                  }
+                },
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

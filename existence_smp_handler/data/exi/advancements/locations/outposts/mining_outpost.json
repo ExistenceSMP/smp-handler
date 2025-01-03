@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:raw_copper"
+    },
+    "title": "Mining Outpost",
+    "description": "Visit the West Mining Outpost",
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "exi:locations/outposts/forest_outpost",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "x": {
+                    "min": -3850,
+                    "max": -3750
+                  },
+                  "y": {
+                    "min": 0,
+                    "max": 256
+                  },
+                  "z": {
+                    "min": -50,
+                    "max": 50
+                  }
+                },
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

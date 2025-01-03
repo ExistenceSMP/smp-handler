@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "item": "jack_o_lantern"
+      },
+      "title": "Halloween Build Event 2020",
+      "description": "Participate in the Halloween build event 2020",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "exi:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

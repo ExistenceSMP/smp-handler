@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "snowball"
+    },
+    "title": "Winter Wonderland",
+    "description": "Contribute to Winter Wonderland during December 2020",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "exi:events/halloween_build",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

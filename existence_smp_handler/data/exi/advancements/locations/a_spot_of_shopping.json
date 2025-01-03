@@ -1,0 +1,74 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:emerald"
+    },
+    "title": "A Spot of Shopping",
+    "description": "Visit the Market areas in town for a spot of shopping",
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "exi:locations/subway_post_office",
+  "criteria": {
+    "market_cavern": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "x": {
+                    "min": 390,
+                    "max": 450
+                  },
+                  "y": {
+                    "min": 64,
+                    "max": 70
+                  },
+                  "z": {
+                    "min": 162,
+                    "max": 250
+                  }
+                },
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "market_docks": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "x": {
+                    "min": 347,
+                    "max": 390
+                  },
+                  "y": {
+                    "min": 64,
+                    "max": 70
+                  },
+                  "z": {
+                    "min": 227,
+                    "max": 270
+                  }
+                },
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

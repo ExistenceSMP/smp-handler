@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:brick"
+    },
+    "title": "Main Street",
+    "description": "Visit the Main Street area of town",
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "exi:locations/town_hall",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "x": {
+                    "min": 203,
+                    "max": 291
+                  },
+                  "y": {
+                    "min": 57,
+                    "max": 85
+                  },
+                  "z": {
+                    "min": -76,
+                    "max": 39
+                  }
+                },
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

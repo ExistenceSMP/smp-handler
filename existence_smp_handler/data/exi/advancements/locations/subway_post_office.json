@@ -1,0 +1,74 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:rail"
+    },
+    "title": "Subway & Post Office",
+    "description": "Visit the Subway and Post Office beneath town",
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "exi:locations/town_hall",
+  "criteria": {
+    "subway": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "x": {
+                    "min": 292,
+                    "max": 302
+                  },
+                  "y": {
+                    "min": 53,
+                    "max": 56
+                  },
+                  "z": {
+                    "min": 170,
+                    "max": 220
+                  }
+                },
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "post_office": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "x": {
+                    "min": 321,
+                    "max": 345
+                  },
+                  "y": {
+                    "min": 53,
+                    "max": 57
+                  },
+                  "z": {
+                    "min": 197,
+                    "max": 221
+                  }
+                },
+                "dimension": "minecraft:overworld"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
