@@ -1,16 +1,16 @@
 {
     "display": {
       "icon": {
-        "item": "wither_rose"
+        "item": "phantom_membrane"
       },
-      "title": "Game Over!",
-      "description": "You Died",
+      "title": "Flight of the Phantom",
+      "description": "Craft an Elytra using Phantom membrane",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true,
       "hidden": false
     },
-    "parent": "existence_smp:stats/mathematical",
+    "parent": "existence_smp:root",
     "criteria": {
       "requirement": {
         "trigger": "minecraft:impossible"

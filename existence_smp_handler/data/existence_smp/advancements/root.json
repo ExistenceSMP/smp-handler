@@ -3,10 +3,10 @@
       "icon": {
         "item": "iron_pickaxe"
       },
-      "title": "Existence Community",
-      "description": "Welcome to the Existence SMP Community Server",
+      "title": "Existence SMP",
+      "description": "Welcome to Existence SMP: Project Amplified",
       "frame": "task",
-      "background": "minecraft:textures/block/lime_terracotta.png",
+      "background": "minecraft:textures/block/gray_concrete.png",
       "show_toast": false,
       "announce_to_chat": true,
       "hidden": false

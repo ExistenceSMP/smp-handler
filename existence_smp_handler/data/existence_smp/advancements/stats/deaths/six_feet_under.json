@@ -10,7 +10,7 @@
       "announce_to_chat": true,
       "hidden": false
     },
-    "parent": "existence_smp:stats/deaths/game_over",
+    "parent": "existence_smp:stats/mathematical",
     "criteria": {
       "1": {
         "trigger": "minecraft:impossible"

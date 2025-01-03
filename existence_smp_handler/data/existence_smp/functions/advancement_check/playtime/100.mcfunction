@@ -1,7 +1,10 @@
 #Debug clean
-execute if score @s exi_playtime_h matches 0 run advancement revoke @s from existence_smp:stats/playtime/time_well_spent
-execute if score @s exi_playtime_h matches 0 run advancement revoke @s from existence_smp:stats/playtime/time_very_well_spent
-execute if score @s exi_playtime_h matches 0 run advancement revoke @s from existence_smp:stats/playtime/time_extremely_well_spent
+execute unless score @s exi_playtime_h = @s exi_playtime_h run advancement revoke @s from existence_smp:stats/playtime/time_well_spent
+execute unless score @s exi_playtime_h = @s exi_playtime_h run advancement revoke @s from existence_smp:stats/playtime/time_very_well_spent
+execute unless score @s exi_playtime_h = @s exi_playtime_h run advancement revoke @s from existence_smp:stats/playtime/time_extremely_well_spent
+advancement revoke @s[scores={exi_playtime_h=0}] from existence_smp:stats/playtime/time_well_spent
+advancement revoke @s[scores={exi_playtime_h=0}] from existence_smp:stats/playtime/time_very_well_spent
+advancement revoke @s[scores={exi_playtime_h=0}] from existence_smp:stats/playtime/time_extremely_well_spent
 
 #time_well_spent
 advancement grant @s[scores={exi_playtime_h=1..}] only existence_smp:stats/playtime/time_well_spent 1

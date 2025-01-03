@@ -1,19 +1,19 @@
 {
-  "display": {
-    "icon": {
-      "item": "minecraft:cake"
+    "display": {
+      "icon": {
+        "item": "cake"
+      },
+      "title": "The Lie",
+      "description": "Bake cake using wheat, sugar, milk, and eggs!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
     },
-    "title": "The Lie",
-    "description": "Bake cake using wheat, sugar, milk, and eggs!",
-    "frame": "task",
-    "show_toast": true,
-    "announce_to_chat": true,
-    "hidden": false
-  },
-  "parent": "existence_smp:root",
-  "criteria": {
-    "requirement": {
-      "trigger": "minecraft:impossible"
+    "parent": "existence_smp:crafting/flight_of_the_phantom",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
     }
   }
-}

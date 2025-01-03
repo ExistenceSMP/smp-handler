@@ -299,5 +299,3 @@ advancement grant @s[scores={exi_playtime_h=497..}] only existence_smp:stats/pla
 advancement grant @s[scores={exi_playtime_h=498..}] only existence_smp:stats/playtime/time_extremely_well_spent 498
 advancement grant @s[scores={exi_playtime_h=499..}] only existence_smp:stats/playtime/time_extremely_well_spent 499
 advancement grant @s[scores={exi_playtime_h=500..}] only existence_smp:stats/playtime/time_extremely_well_spent 500
-
-execute if score @s exi_playtime_h matches 500.. run function existence_smp:advancement_check/playtime/1000

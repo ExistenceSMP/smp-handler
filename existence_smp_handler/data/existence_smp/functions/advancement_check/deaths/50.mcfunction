@@ -1,22 +1,13 @@
 #Reset
-execute if score @s[tag=!hardcore_redemption] exi_deaths_c matches 1.. run advancement revoke @s from existence_smp:stats/deaths/hardcore_redemption
-execute if score @s exi_deaths_c matches 1.. run scoreboard players set @s exi_deaths_since_c 0
-execute if score @s exi_deaths_c matches 1.. run scoreboard players set @s exi_deaths_since 0
-execute if score @s exi_deaths_c matches 1.. run scoreboard players set @s exi_deaths_c 0
-
+scoreboard players set @s exi_deaths_c 0
 
 #Debug clean
-execute if score @s exi_deaths matches 0 run advancement revoke @s from existence_smp:stats/deaths/game_over
-execute if score @s exi_deaths matches 0 run advancement revoke @s from existence_smp:stats/deaths/six_feet_under
-execute if score @s exi_deaths matches 0 run advancement revoke @s from existence_smp:stats/deaths/meet_ones_maker
-execute if score @s exi_deaths matches 0 run advancement revoke @s from existence_smp:stats/deaths/catastrophic
-execute if score @s exi_playtime_h matches 0 run advancement revoke @s from existence_smp:stats/deaths/hardcore_redemption
-
-#Game Over
-advancement grant @s[scores={exi_deaths=1..}] only existence_smp:stats/deaths/game_over
-
-#Noble Efforts
-execute as @s if score @s exi_deaths matches 1 if score @s exi_playtime_h matches 50..100 run advancement grant @s only existence_smp:stats/deaths/noble_efforts
+execute unless score @s exi_deaths = @s exi_deaths run advancement revoke @s from existence_smp:stats/deaths/six_feet_under
+execute unless score @s exi_deaths = @s exi_deaths run advancement revoke @s from existence_smp:stats/deaths/meet_ones_maker
+execute unless score @s exi_deaths = @s exi_deaths run advancement revoke @s from existence_smp:stats/deaths/catastrophic
+advancement revoke @s[scores={exi_deaths=0}] from existence_smp:stats/deaths/six_feet_under
+advancement revoke @s[scores={exi_deaths=0}] from existence_smp:stats/deaths/meet_ones_maker
+advancement revoke @s[scores={exi_deaths=0}] from existence_smp:stats/deaths/catastrophic
 
 #Six Feet Under
 advancement grant @s[scores={exi_deaths=1..}] only existence_smp:stats/deaths/six_feet_under 1
@@ -175,4 +166,3 @@ advancement grant @s[scores={exi_deaths=49..}] only existence_smp:stats/deaths/c
 advancement grant @s[scores={exi_deaths=50..}] only existence_smp:stats/deaths/catastrophic 50
 
 execute if score @s exi_deaths matches 50.. run function existence_smp:advancement_check/deaths/100
-
