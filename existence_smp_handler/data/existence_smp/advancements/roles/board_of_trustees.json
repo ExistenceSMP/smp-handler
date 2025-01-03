@@ -1,16 +1,16 @@
 {
     "display": {
       "icon": {
-        "item": "minecraft:lime_terracotta"
+        "item": "green_banner"
       },
-      "title": "Events & Roles",
-      "description": "Be a Trusted member of the Existence Community",
+      "title": "Board of Trustees",
+      "description": "Be a trusted member of the Existence SMP Community",
       "frame": "task",
-      "background": "minecraft:textures/block/lime_terracotta.png",
       "show_toast": false,
       "announce_to_chat": false,
       "hidden": false
     },
+    "parent": "existence_smp:root",
     "criteria": {
       "requirement": {
         "trigger": "minecraft:tick"

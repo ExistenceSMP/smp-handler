@@ -24,10 +24,7 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "type_specific": {
-                    "type": "parrot",
-                    "variant": "red_blue"
-                  }
+                  "nbt": "{Variant:0}"
                 }
               }
             }
@@ -52,10 +49,7 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "type_specific": {
-                    "type": "parrot",
-                    "variant": "blue"
-                  }
+                  "nbt": "{Variant:1}"
                 }
               }
             }
@@ -80,10 +74,7 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "type_specific": {
-                    "type": "parrot",
-                    "variant": "green"
-                  }
+                  "nbt": "{Variant:2}"
                 }
               }
             }
@@ -108,10 +99,7 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "type_specific": {
-                    "type": "parrot",
-                    "variant": "yellow_blue"
-                  }
+                  "nbt": "{Variant:3}"
                 }
               }
             }
@@ -136,10 +124,7 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "type_specific": {
-                    "type": "parrot",
-                    "variant": "gray"
-                  }
+                  "nbt": "{Variant:4}"
                 }
               }
             }

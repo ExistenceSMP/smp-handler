@@ -1,74 +1,67 @@
 {
-  "display": {
-    "icon": {
-      "item": "minecraft:spyglass"
+    "display": {
+      "icon": {
+        "item": "minecraft:spyglass"
+      },
+      "title": "Llamas With Hats",
+      "description": "What is wrong with you, Carl?",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
     },
-    "title": "Llamas With Hats",
-    "description": "What is wrong with you, Carl?",
-    "frame": "challenge",
-    "show_toast": true,
-    "announce_to_chat": true,
-    "hidden": false
-  },
-  "parent": "existence_smp:spyglass/goober",
-  "criteria": {
-    "carl": {
-      "trigger": "minecraft:using_item",
-      "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type_specific": {
-                "type": "player",
-                "looking_at": {
-                  "type": "minecraft:llama",
-                  "type_specific": {
-                    "type": "llama",
-                    "variant": "gray"
-                  },
-                  "nbt": "{CustomName:'\"Carl\"',DecorItem:{id:\"minecraft:lime_carpet\",Count:1b}}"
+    "parent": "existence_smp:spyglass/goober",
+    "criteria": {
+      "carl": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "looking_at": {
+                    "type": "minecraft:llama",
+                    "nbt": "{Variant:3,CustomName:'{\"text\":\"Carl\"}',DecorItem:{id:\"minecraft:lime_carpet\",Count:1b}}"
+                  }
                 }
               }
             }
+          ],
+          "item": {
+            "items": [
+              "minecraft:spyglass"
+            ]
           }
-        ],
-        "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
         }
-      }
-    },
-    "paul": {
-      "trigger": "minecraft:using_item",
-      "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "type_specific": {
-                "type": "player",
-                "looking_at": {
-                  "type": "minecraft:llama",
-                  "type_specific": {
-                    "type": "llama",
-                    "variant": "creamy"
-                  },
-                  "nbt": "{CustomName:'\"Paul\"',DecorItem:{id:\"minecraft:red_carpet\",Count:1b}}"
+      },
+      "paul": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "looking_at": {
+                    "type": "minecraft:llama",
+                    "nbt": "{Variant:0,CustomName:'{\"text\":\"Paul\"}',DecorItem:{id:\"minecraft:red_carpet\",Count:1b}}"
+                  }
                 }
               }
             }
+          ],
+          "item": {
+            "items": [
+              "minecraft:spyglass"
+            ]
           }
-        ],
-        "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
         }
       }
     }
   }
-}
+  

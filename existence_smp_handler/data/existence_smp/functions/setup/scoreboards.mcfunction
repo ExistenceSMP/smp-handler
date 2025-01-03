@@ -35,9 +35,6 @@ scoreboard objectives add elytra trigger
 scoreboard objectives add deaths trigger
 scoreboard objectives add afk_total trigger
 scoreboard objectives add sleep_total trigger
-scoreboard objectives add wardens_killed trigger
-scoreboard objectives add wardens_summoned trigger
-scoreboard objectives add uptime trigger
 
 scoreboard objectives setdisplay list exi_health
 
@@ -52,7 +49,6 @@ team join Server unix_time_h
 team join Server unix_time_d
 team join Server unix_time_mo
 team join Server unix_time_y
-team join Server unix_time_w
 
 team join ServerBackground unix_time_c
 team join ServerBackground unix_time_mc
@@ -65,24 +61,6 @@ execute unless score unix_time_h exi_unix matches 0.. run scoreboard players set
 execute unless score unix_time_d exi_unix matches 0.. run scoreboard players set unix_time_d exi_unix 0
 execute unless score unix_time_mo exi_unix matches 0.. run scoreboard players set unix_time_mo exi_unix 0
 execute unless score unix_time_y exi_unix matches 0.. run scoreboard players set unix_time_y exi_unix 0
-execute unless score unix_time_w exi_unix matches 0.. run scoreboard players set unix_time_y exi_unix 0
-
-#Entity Count
-scoreboard objectives add exi_entity_count dummy
-
-#Values
-scoreboard objectives add exi_value dummy
-team join ServerBackground value_7
-team join ServerBackground value_24
-team join ServerBackground value_30
-team join ServerBackground value_60
-team join ServerBackground value_365
-scoreboard players set value_7 exi_value 7
-scoreboard players set value_24 exi_value 24
-scoreboard players set value_30 exi_value 30
-scoreboard players set value_60 exi_value 60
-scoreboard players set value_365 exi_value 365
-
 
 #DISPLAY
 scoreboard objectives modify exi_playtime_h displayname {"text":"⛏ Play Time (Hours)","color":"gray"}
@@ -102,17 +80,11 @@ scoreboard objectives modify exi_warden_kill displayname {"text":"🗡 Total War
 scoreboard objectives modify mpp_sleep_adv displayname {"text":"☽ Total Nights Slept","color":"gray"}
 scoreboard objectives modify mpp_afk_adv displayname {"text":"🎣 Total AFK Time (Hours)","color":"gray"}
 
-#Triggers
 scoreboard objectives modify map displayname {"text":"Online Map","color":"gray"}
 scoreboard objectives modify playtime displayname {"text":"Total Play Time","color":"gray"}
 scoreboard objectives modify elytra displayname {"text":"Elytra Distance","color":"gray"}
 scoreboard objectives modify deaths displayname {"text":"Total Deaths","color":"gray"}
 scoreboard objectives modify afk_total displayname {"text":"Total AFK Time","color":"gray"}
 scoreboard objectives modify sleep_total displayname {"text":"Total Nights Slept","color":"gray"}
-scoreboard objectives modify wardens_killed displayname {"text":"Total Wardens Killed","color":"gray"}
-scoreboard objectives modify wardens_summoned displayname {"text":"Total Wardens Summoned","color":"gray"}
-scoreboard objectives modify uptime displayname {"text":"Total Server Uptime","color":"gray"}
 
-scoreboard objectives modify exi_unix displayname {"text":"⌚ Server Uptime (Unix)","color":"gray"}
-
-scoreboard objectives modify exi_entity_count displayname {"text":"Entity Counts","color":"gray"}
+scoreboard objectives modify exi_unix displayname {"text":"Server Uptime (Unix)","color":"gray"}
