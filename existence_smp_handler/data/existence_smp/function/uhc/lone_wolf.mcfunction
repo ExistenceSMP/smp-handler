@@ -1,0 +1,33 @@
+execute as @s[team=black,tag=alive] run team join black @a[tag=lone_wolf]
+execute as @s[team=dark_blue,tag=alive] run team join dark_blue @a[tag=lone_wolf]
+execute as @s[team=dark_green,tag=alive] run team join dark_green @a[tag=lone_wolf]
+execute as @s[team=dark_aqua,tag=alive] run team join dark_aqua @a[tag=lone_wolf]
+execute as @s[team=dark_red,tag=alive] run team join dark_red @a[tag=lone_wolf]
+execute as @s[team=dark_purple,tag=alive] run team join dark_purple @a[tag=lone_wolf]
+execute as @s[team=gold,tag=alive] run team join gold @a[tag=lone_wolf]
+execute as @s[team=gray,tag=alive] run team join gray @a[tag=lone_wolf]
+execute as @s[team=dark_gray,tag=alive] run team join dark_gray @a[tag=lone_wolf]
+execute as @s[team=green,tag=alive] run team join green @a[tag=lone_wolf]
+execute as @s[team=red,tag=alive] run team join red @a[tag=lone_wolf]
+execute as @s[team=light_purple,tag=alive] run team join light_purple @a[tag=lone_wolf]
+execute as @s[team=yellow,tag=alive] run team join yellow @a[tag=lone_wolf]
+execute as @s[team=white,tag=alive] run team join white @a[tag=lone_wolf]
+
+execute if entity @a[tag=lone_wolf,team=black] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=black,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=dark_blue] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=dark_blue,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=dark_green] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=dark_green,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=dark_aqua] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=dark_aqua,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=dark_red] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=dark_red,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=dark_purple] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=dark_purple,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=gold] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=gold,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=gray] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=gray,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=dark_gray] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=dark_gray,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=green] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=green,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=red] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=red,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=light_purple] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=light_purple,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=yellow] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=yellow,tag=!lone_wolf]"}]
+execute if entity @a[tag=lone_wolf,team=white] run tellraw @a ["",{"selector":"@a[tag=lone_wolf]"},{"text":" has joined a team with "},{"selector":"@a[team=white,tag=!lone_wolf]"}]
+
+tag @a[tag=lone_wolf] remove lone_wolf
+
+execute as @a at @s run playsound minecraft:entity.player.levelup master @s

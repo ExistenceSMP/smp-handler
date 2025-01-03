@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "iron_pickaxe"
+      },
+      "title": "Existence Community",
+      "description": "Welcome to the Existence SMP Community Server",
+      "frame": "task",
+      "background": "minecraft:textures/block/lime_terracotta.png",
+      "show_toast": false,
+      "announce_to_chat": false,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }

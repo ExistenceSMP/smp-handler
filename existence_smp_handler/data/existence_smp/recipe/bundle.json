@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      "SRS",
+      "R R",
+      "RRR"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:string"
+      },
+      "R": {
+        "item": "minecraft:rabbit_hide"
+      }
+    },
+    "result": {
+      "id": "minecraft:bundle",
+      "count": 1
+    }
+  }
+  

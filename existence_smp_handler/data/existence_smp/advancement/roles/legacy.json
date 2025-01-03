@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "yellow_terracotta"
+      },
+      "title": "Legacy",
+      "description": "Returning Legacy Member from Season 1, 2 or 3",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": true
+    },
+    "parent": "existence_smp:roles/board_of_trustees",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

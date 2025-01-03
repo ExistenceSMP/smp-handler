@@ -1,0 +1,33 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:reinforced_deepslate"
+      },
+      "title": "What Once Was",
+      "description": "Discover an Ancient City",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "existence_smp:locations/globe_trotter",
+    "criteria": {
+      "enter_ancient_city": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "location": {
+                  "structures": "minecraft:ancient_city"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+  

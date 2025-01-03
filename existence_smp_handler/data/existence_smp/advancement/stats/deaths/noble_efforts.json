@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "totem_of_undying"
+      },
+      "title": "Noble Efforts",
+      "description": "Awarded to the fallen for their efforts towards Hardcore Survivalist",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "existence_smp:stats/deaths/hardcore_redemption",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

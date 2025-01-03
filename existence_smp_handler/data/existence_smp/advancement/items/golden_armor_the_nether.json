@@ -1,0 +1,59 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:golden_helmet"
+    },
+    "title": "Fool's Gold",
+    "description": "Wear a full set of Golden Armor in The Nether",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "existence_smp:items/golden_armor",
+  "criteria": {
+    "golden_armor": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "minecraft:the_nether"
+              },
+              "equipment": {
+                "head": {
+                  "items": [
+                    "minecraft:golden_helmet"
+                  ]
+                },
+                "chest": {
+                  "items": [
+                    "minecraft:golden_chestplate"
+                  ]
+                },
+                "legs": {
+                  "items": [
+                    "minecraft:golden_leggings"
+                  ]
+                },
+                "feet": {
+                  "items": [
+                    "minecraft:golden_boots"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "golden_armor"
+    ]
+  ]
+}

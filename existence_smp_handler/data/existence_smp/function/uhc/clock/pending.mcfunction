@@ -1,0 +1,1 @@
+execute if score team_alive exi_uhc matches 2.. run function existence_smp:uhc/end/cancel

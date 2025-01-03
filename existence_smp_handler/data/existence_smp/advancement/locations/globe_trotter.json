@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "map"
+      },
+      "title": "Globe Trotter",
+      "description": "Use the map trigger command to view the online dynamic world map",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "existence_smp:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
