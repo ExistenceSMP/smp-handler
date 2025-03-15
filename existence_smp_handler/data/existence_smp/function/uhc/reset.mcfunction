@@ -7,6 +7,7 @@ weather clear
 gamerule naturalRegeneration true
 
 gamerule doDaylightCycle false
+scoreboard players set gamerule uhc_day 0
 gamerule doWeatherCycle false
 gamerule doFireTick false
 

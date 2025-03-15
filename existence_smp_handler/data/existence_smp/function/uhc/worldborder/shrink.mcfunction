@@ -7,7 +7,7 @@ title @a subtitle ["",{"text":"Shrinking","bold":true,"color":"red"}]
 
 tellraw @a ["",{"text":"Worldborder Shrinking","bold":false,"color":"red"}]
 tellraw @a ["",{"text":"Starting size ","color":"gray"},{"text":"4000 blocks wide","color":"red"},{"text":" Shrinking to ","color":"gray"},{"text":"100 blocks ","color":"red"},{"text":"over ","color":"gray"},{"text":"2 Hours","color":"red"}]
-#tellraw @a ["",{"text":"Friendly Fire ","color":"gray"},{"text":"Enabled","color":"red"}]
+tellraw @a ["",{"text":"Friendly Fire ","color":"gray"},{"text":"Disabled","color":"green"}]
 
 #team modify black friendlyFire true 
 #team modify dark_blue friendlyFire true 

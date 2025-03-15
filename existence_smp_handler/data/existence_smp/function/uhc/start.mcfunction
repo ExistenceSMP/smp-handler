@@ -32,8 +32,8 @@ kill @e[type=item]
 clear @a
 give @a minecraft:compass
 
-title @a title {"text":"Existence SMP","bold":true,"color":"red"}
-title @a subtitle {"text":" Reunion UHC 4","bold":false,"color":"gray"}
+title @a title {"text":"Existence Community","bold":true,"color":"red"}
+title @a subtitle {"text":"9th Anniversary UHC","bold":false,"color":"gray"}
 
 tellraw @a ["",{"text":"Worldborder Shrinking in 20 Minutes","bold":false,"color":"red"}]
 tellraw @a ["",{"text":"Starting size ","color":"gray"},{"text":"4000 blocks wide ","color":"red"},{"text":"Shrinking to ","color":"gray"},{"text":"100 blocks wide ","color":"red"},{"text":"in ","color":"gray"},{"text":"20 Minutes","color":"red"}]
@@ -48,22 +48,22 @@ effect give @a minecraft:resistance 10 255 true
 effect give @a minecraft:saturation 1 50 true
 effect give @a minecraft:instant_health 1 20 true
 
-#team modify black friendlyFire false 
-#team modify dark_blue friendlyFire false 
-#team modify dark_green friendlyFire false
-#team modify dark_aqua friendlyFire false
-#team modify dark_red friendlyFire false
-#team modify dark_purple friendlyFire false
-#team modify gold friendlyFire false
-#team modify gray friendlyFire false
-#team modify dark_gray friendlyFire false
-#team modify blue friendlyFire false
-#team modify green friendlyFire false
-#team modify aqua friendlyFire false
-#team modify red friendlyFire false
-#team modify light_purple friendlyFire false
-#team modify yellow friendlyFire false
-#team modify white friendlyFire false
+team modify black friendlyFire false 
+team modify dark_blue friendlyFire false 
+team modify dark_green friendlyFire false
+team modify dark_aqua friendlyFire false
+team modify dark_red friendlyFire false
+team modify dark_purple friendlyFire false
+team modify gold friendlyFire false
+team modify gray friendlyFire false
+team modify dark_gray friendlyFire false
+team modify blue friendlyFire false
+team modify green friendlyFire false
+team modify aqua friendlyFire false
+team modify red friendlyFire false
+team modify light_purple friendlyFire false
+team modify yellow friendlyFire false
+team modify white friendlyFire false
 
 tag @a[gamemode=!spectator] add alive
 

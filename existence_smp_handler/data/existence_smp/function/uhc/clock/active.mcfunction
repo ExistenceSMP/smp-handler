@@ -33,3 +33,9 @@ scoreboard players operation @a[team=white] exi_uhc_team_code = white exi_uhc_te
 #VICTORY DETECTION
 execute if score team_alive exi_uhc matches 1 run function existence_smp:uhc/end/pending
 
+#DAY
+execute store result score gamerule uhc_day run gamerule doDaylightCycle
+execute store result score current_day uhc_day run time query day
+execute store result score current_daytime uhc_day run time query daytime
+#execute if score current_day uhc_day matches 6 if score gamerule uhc_day matches 1 run say Beans
+execute if score current_day uhc_day matches 6 if score gamerule uhc_day matches 1 run gamerule doDaylightCycle false
