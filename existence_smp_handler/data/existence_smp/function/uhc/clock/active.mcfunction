@@ -37,5 +37,6 @@ execute if score team_alive exi_uhc matches 1 run function existence_smp:uhc/end
 execute store result score gamerule uhc_day run gamerule doDaylightCycle
 execute store result score current_day uhc_day run time query day
 execute store result score current_daytime uhc_day run time query daytime
-#execute if score current_day uhc_day matches 6 if score gamerule uhc_day matches 1 run say Beans
-execute if score current_day uhc_day matches 6 if score gamerule uhc_day matches 1 run gamerule doDaylightCycle false
+execute if score current_day uhc_day matches 6 if score gamerule uhc_day matches 1 run function existence_smp:uhc/pause_daylight_cycle
+
+execute as @a[gamemode=spectator] at @s unless entity @p[tag=alive,distance=..100] run tp @s @p[tag=alive]

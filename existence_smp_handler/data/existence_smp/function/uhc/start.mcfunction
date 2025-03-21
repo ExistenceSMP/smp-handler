@@ -1,5 +1,3 @@
-fill 50 255 50 -50 255 -50 air replace barrier
-
 time set 0
 weather rain 1t
 difficulty hard
@@ -14,17 +12,18 @@ gamerule doFireTick true
 
 gamerule doMobSpawning true
 
-worldborder center 0 0
-worldborder set 4000
+worldborder center -650 335
+worldborder set 3500
 worldborder warning distance 100
 schedule function existence_smp:uhc/worldborder/shrink 1200s
 
+fill -600 127 385 -700 127 285 air replace barrier
 #SPREADPLAYERS
-spreadplayers 0 0 500 2000 true @a[team=!Default,tag=alive]
-spreadplayers 0 0 500 2000 false @a[team=Default]
+spreadplayers -650 335 500 1700 true @a[team=!Default,tag=alive]
+spreadplayers -650 335 500 1700 false @a[team=Default]
 
 execute as @a[tag=alive,team=!Default] at @s run spreadplayers ~ ~ 10 11 false @s
-execute as @a[team=Spectator] run tp @s @r[team=!Spectator]
+execute as @a[team=Spectator] run tp @s @r[tag=alive]
 
 execute as @a at @s run playsound minecraft:entity.player.levelup master @s
 
@@ -36,9 +35,10 @@ title @a title {"text":"Existence Community","bold":true,"color":"red"}
 title @a subtitle {"text":"9th Anniversary UHC","bold":false,"color":"gray"}
 
 tellraw @a ["",{"text":"Worldborder Shrinking in 20 Minutes","bold":false,"color":"red"}]
-tellraw @a ["",{"text":"Starting size ","color":"gray"},{"text":"4000 blocks wide ","color":"red"},{"text":"Shrinking to ","color":"gray"},{"text":"100 blocks wide ","color":"red"},{"text":"in ","color":"gray"},{"text":"20 Minutes","color":"red"}]
-tellraw @a ["",{"text":"Centered on ","color":"gray"},{"text":"0, 0","color":"red"}]
-#tellraw @a ["",{"text":"Friendly Fire ","color":"gray"},{"text":"Disabled","color":"red"}]
+tellraw @a ["",{"text":"Starting size ","color":"gray"},{"text":"3500 blocks wide ","color":"red"},{"text":"Shrinking to ","color":"gray"},{"text":"100 blocks wide ","color":"red"},{"text":"in ","color":"gray"},{"text":"20 Minutes","color":"red"}]
+tellraw @a ["",{"text":"Centered on ","color":"gray"},{"text":"-650, 335","color":"red"}]
+tellraw @a ["",{"text":"Friendly Fire ","color":"gray"},{"text":"Disabled","color":"green"}]
+tellraw @a ["",{"text":"Gamemode ","color":"gray"},{"text":"It Takes Three","color":"green"}]
 
 gamemode survival @a
 gamemode spectator @a[team=Spectator]

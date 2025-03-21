@@ -1,5 +1,3 @@
-fill 50 255 50 -50 255 -50 barrier replace air
-
 time set day
 weather clear
 #difficulty peaceful
@@ -13,12 +11,13 @@ gamerule doFireTick false
 
 gamerule doMobSpawning false
 
-worldborder center 0 0
+worldborder center -650 335
 worldborder set 100
 worldborder warning distance 0
 function existence_smp:uhc/schedule_clear
 
-spreadplayers 0 0 5 24 false @a
+fill -600 127 385 -700 127 285 barrier replace air
+spreadplayers -650 335 5 24 false @a
 gamemode adventure @a
 effect clear @a
 

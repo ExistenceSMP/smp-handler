@@ -9,6 +9,8 @@ execute if score @s exi_uhc_team_code matches 0 run function existence_smp:uhc/j
 execute as @s run function existence_smp:uhc/join/select_team
 
 tellraw @a ["",{"selector":"@s"},{"text":" has joined a team with "},{"selector":"@p[tag=exi_uhc_it_takes_two]"}]
+title @s title ["",{"text":"You are now teamed with "},{"selector":"@p[tag=exi_uhc_it_takes_two]"}]
+title @p[tag=exi_uhc_it_takes_two] title ["",{"text":"You are now teamed with "},{"selector":"@s"}]
 
 tag @a remove exi_uhc_found_team
 tag @a remove exi_uhc_join_team

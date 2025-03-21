@@ -1,10 +1,11 @@
 #SPAWN & GAMERULES
 gamerule disableElytraMovementCheck true
 gamerule playersSleepingPercentage 100
-gamerule spawnRadius 25
+gamerule spawnRadius 50
 gamerule spectatorsGenerateChunks true
 
-setworldspawn 0 64 0
+setworldspawn -650 64 335
+gamerule spawnChunkRadius 4
 
 function existence_smp:setup/teams
 function existence_smp:setup/scoreboards

@@ -1,5 +1,5 @@
 #Welcome
-tellraw @s ["",{"text":"Welcome to the 4th Existence SMP Reunion UHC!\n","color":"dark_green"},{"text":"Visit ","color":"gray"},{"text":"existencesmp.com/server","underlined":false,"italic":true,"color":"gray","clickEvent":{"action":"open_url","value":"https://existencesmp.com/server/"},"hoverEvent":{"action":"show_text","value":["",{"text":"Official Website of Existence SMP","italic":true,"underlined":false,"color":"gray"}]}},{"text":" for more info","color":"gray"}]
+tellraw @s ["",{"text":"Welcome to the Existence 9th Anniversary Community UHC\n","color":"dark_red"},{"text":"Visit ","color":"gray"},{"text":"existencesmp.com/server","underlined":false,"italic":true,"color":"gray","clickEvent":{"action":"open_url","value":"https://existencesmp.com/server/"},"hoverEvent":{"action":"show_text","value":["",{"text":"Official Website of the Existence Community","italic":true,"underlined":false,"color":"gray"}]}},{"text":" for more info","color":"gray"}]
 
 #Reset Scoreboards
 #gamemode spectator @s[team=Spectator]
@@ -11,6 +11,7 @@ scoreboard players remove @s[team=] exi_playtime_h 1
 tag mcpeachpies add Staff
 tag iGalaxy add Staff
 tag ItsPurpleJay add Staff
+tag Dr_Little add Staff
 
 #team join Spectator ExistenceSMP
 
