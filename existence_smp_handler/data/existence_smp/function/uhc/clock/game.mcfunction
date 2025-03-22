@@ -58,3 +58,4 @@ execute as @a[team=yellow] run scoreboard players operation @s exi_uhc_on_team =
 execute as @a[team=white] run scoreboard players operation @s exi_uhc_on_team = alive_white exi_uhc_on_team
 
 execute as @a[tag=alive] at @s run spawnpoint @s ~ ~ ~
+execute as @a[gamemode=spectator] at @s unless entity @p[tag=alive,distance=..100] run tp @s @p[tag=alive]

@@ -24,7 +24,7 @@ effect clear @a
 tag @a remove alive
 tag @a remove dead
 
-function existence_smp:uhc/setup/teams
+#function existence_smp:uhc/setup/teams
 team join Default @a[team=]
 
 scoreboard players set alive_black exi_uhc_on_team 0

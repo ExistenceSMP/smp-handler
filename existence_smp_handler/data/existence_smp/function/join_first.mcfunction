@@ -7,4 +7,4 @@ title @s subtitle ["",{"text":"Existence 9th Anniversary UHC!","color":"gray"}]
 
 execute as @a at @s run playsound minecraft:entity.player.levelup master @s
 
-function existence_smp:join
+execute as @s run function existence_smp:join

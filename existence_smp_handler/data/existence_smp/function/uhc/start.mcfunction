@@ -1,3 +1,5 @@
+fill -600 127 385 -700 127 285 air replace barrier
+
 time set 0
 weather rain 1t
 difficulty hard
@@ -17,10 +19,11 @@ worldborder set 3500
 worldborder warning distance 100
 schedule function existence_smp:uhc/worldborder/shrink 1200s
 
-fill -600 127 385 -700 127 285 air replace barrier
+tag @a[gamemode=!spectator] add alive
+
 #SPREADPLAYERS
-spreadplayers -650 335 500 1700 true @a[team=!Default,tag=alive]
-spreadplayers -650 335 500 1700 false @a[team=Default]
+spreadplayers -650 335 300 1750 true @a[tag=alive,team=!Default]
+spreadplayers -650 335 300 1750 false @a[team=Default]
 
 execute as @a[tag=alive,team=!Default] at @s run spreadplayers ~ ~ 10 11 false @s
 execute as @a[team=Spectator] run tp @s @r[tag=alive]
@@ -64,8 +67,6 @@ team modify red friendlyFire false
 team modify light_purple friendlyFire false
 team modify yellow friendlyFire false
 team modify white friendlyFire false
-
-tag @a[gamemode=!spectator] add alive
 
 scoreboard players set team_alive exi_uhc 100
 scoreboard players set player_alive exi_uhc 100

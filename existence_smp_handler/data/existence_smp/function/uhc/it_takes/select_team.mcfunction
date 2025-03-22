@@ -1,5 +1,5 @@
 
-execute if score @s exi_uhc_team_code matches 0 run function existence_smp:uhc/join/random_team
+execute if score @s exi_uhc_team_code matches 0 run function existence_smp:uhc/it_takes/random_team
 execute if score @s exi_uhc_team_code matches 1 unless entity @a[team=dark_blue,tag=!exi_uhc_join_team] run team join dark_blue @a[tag=exi_uhc_join_team,limit=3]
 execute if score @s exi_uhc_team_code matches 2 unless entity @a[team=dark_blue,tag=!exi_uhc_join_team] run team join dark_blue @a[tag=exi_uhc_join_team,limit=3]
 execute if score @s exi_uhc_team_code matches 3 unless entity @a[team=dark_green,tag=!exi_uhc_join_team] run team join dark_green @a[tag=exi_uhc_join_team,limit=3]

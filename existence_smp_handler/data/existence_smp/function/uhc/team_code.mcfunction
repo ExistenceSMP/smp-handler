@@ -1,0 +1,17 @@
+scoreboard players operation @a[team=Default] exi_uhc_team_code = Default exi_uhc_team_code
+scoreboard players operation @a[team=black] exi_uhc_team_code = black exi_uhc_team_code
+scoreboard players operation @a[team=dark_blue] exi_uhc_team_code = dark_blue exi_uhc_team_code
+scoreboard players operation @a[team=dark_green] exi_uhc_team_code = dark_green exi_uhc_team_code
+scoreboard players operation @a[team=dark_aqua] exi_uhc_team_code = dark_aqua exi_uhc_team_code
+scoreboard players operation @a[team=dark_red] exi_uhc_team_code = dark_red exi_uhc_team_code
+scoreboard players operation @a[team=dark_purple] exi_uhc_team_code = dark_purple exi_uhc_team_code
+scoreboard players operation @a[team=gold] exi_uhc_team_code = gold exi_uhc_team_code
+scoreboard players operation @a[team=gray] exi_uhc_team_code = gray exi_uhc_team_code
+scoreboard players operation @a[team=dark_gray] exi_uhc_team_code = dark_gray exi_uhc_team_code
+scoreboard players operation @a[team=blue] exi_uhc_team_code = blue exi_uhc_team_code
+scoreboard players operation @a[team=green] exi_uhc_team_code = green exi_uhc_team_code
+scoreboard players operation @a[team=aqua] exi_uhc_team_code = aqua exi_uhc_team_code
+scoreboard players operation @a[team=red] exi_uhc_team_code = red exi_uhc_team_code
+scoreboard players operation @a[team=light_purple] exi_uhc_team_code = light_purple exi_uhc_team_code
+scoreboard players operation @a[team=yellow] exi_uhc_team_code = yellow exi_uhc_team_code
+scoreboard players operation @a[team=white] exi_uhc_team_code = white exi_uhc_team_code
