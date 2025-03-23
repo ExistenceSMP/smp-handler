@@ -22,3 +22,4 @@ team join yellow_dead @s[team=yellow]
 team join white_dead @s[team=white]
 
 gamemode spectator @s
+spawnpoint @s -650 128 633

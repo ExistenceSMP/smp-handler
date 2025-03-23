@@ -1,3 +1,5 @@
+team join Spectator @a[team=]
+
 scoreboard players set team_alive exi_uhc 0
 scoreboard players set player_alive exi_uhc 0
 

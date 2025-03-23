@@ -7,12 +7,12 @@ difficulty hard
 function existence_smp:uhc/schedule_clear
 
 gamerule naturalRegeneration false
-
+gamerule keepInventory false
 gamerule doDaylightCycle true
 gamerule doWeatherCycle true
 gamerule doFireTick true
-
 gamerule doMobSpawning true
+gamerule mobGriefing true
 
 worldborder center -650 335
 worldborder set 3500

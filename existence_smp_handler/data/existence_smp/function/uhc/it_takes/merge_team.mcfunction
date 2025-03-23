@@ -13,7 +13,7 @@ execute if score @s exi_uhc_team_code matches 2 unless entity @a[team=dark_blue,
 execute if score @s exi_uhc_team_code matches 3 unless entity @a[team=dark_green,tag=!exi_uhc_merge_team] run team join dark_green @a[tag=exi_uhc_merge_team,limit=3]
 execute if score @s exi_uhc_team_code matches 4 unless entity @a[team=dark_aqua,tag=!exi_uhc_merge_team] run team join dark_aqua @a[tag=exi_uhc_merge_team,limit=3]
 execute if score @s exi_uhc_team_code matches 5 unless entity @a[team=dark_red,tag=!exi_uhc_merge_team] run team join dark_red @a[tag=exi_uhc_merge_team,limit=3]
-execute if score @s exi_uhc_team_code matches 6 unless entity @a[team=dark_red,tag=!exi_uhc_merge_team] run team join dark_red @a[tag=exi_uhc_merge_team,limit=3]
+execute if score @s exi_uhc_team_code matches 6 unless entity @a[team=dark_purple,tag=!exi_uhc_merge_team] run team join dark_purple @a[tag=exi_uhc_merge_team,limit=3]
 execute if score @s exi_uhc_team_code matches 7 unless entity @a[team=gold,tag=!exi_uhc_merge_team] run team join gold @a[tag=exi_uhc_merge_team,limit=3]
 execute if score @s exi_uhc_team_code matches 8 unless entity @a[team=gray,tag=!exi_uhc_merge_team] run team join gray @a[tag=exi_uhc_merge_team,limit=3]
 execute if score @s exi_uhc_team_code matches 9 unless entity @a[team=gray,tag=!exi_uhc_merge_team] run team join gray @a[tag=exi_uhc_merge_team,limit=3]
@@ -33,7 +33,7 @@ title @s subtitle ["",{"selector":"@p[tag=exi_uhc_new_team]"}]
 title @p[tag=exi_uhc_new_team] title ["",{"text":"You are now teamed with "}]
 title @p[tag=exi_uhc_new_team] subtitle ["",{"selector":"@s"}]
 
-execute if score debug exi_uhc matches 1 run execute as @a at @s run playsound minecraft:entity.player.levelup master @s
+#execute if score debug exi_uhc matches 1 run execute as @a at @s run playsound minecraft:entity.player.levelup master @s
 execute if score debug exi_uhc matches 1 run say It Takes Three!
 
 function existence_smp:uhc/team_code

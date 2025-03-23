@@ -2,6 +2,8 @@ effect give @a weakness 2 255 true
 effect give @a saturation 2 10 true
 effect give @a instant_health 2 10 true
 
+team join Default @a[team=]
+
 team join Default @a[team=Default_dead]
 team join black @a[team=black_dead]
 team join dark_blue @a[team=dark_blue_dead]
@@ -20,7 +22,7 @@ team join light_purple @a[team=light_purple_dead]
 team join yellow @a[team=yellow_dead]
 team join white @a[team=white_dead]
 
-tag @a remove alive
-tag @a remove dead
+tag @a[tag=alive] remove alive
+tag @a[tag=dead] remove dead
 
-spawnpoint @a 0 256 0
+spawnpoint @a -650 128 335

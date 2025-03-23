@@ -1,22 +1,24 @@
+fill -600 127 385 -700 127 285 barrier replace air
+
 time set day
 weather clear
 #difficulty peaceful
 
-gamerule naturalRegeneration true
-
-gamerule doDaylightCycle false
 scoreboard players set gamerule uhc_day 0
+
+gamerule naturalRegeneration true
+gamerule keepInventory true
+gamerule doDaylightCycle false
 gamerule doWeatherCycle false
 gamerule doFireTick false
-
 gamerule doMobSpawning false
+gamerule mobGriefing false
 
 worldborder center -650 335
 worldborder set 100
 worldborder warning distance 0
 function existence_smp:uhc/schedule_clear
 
-fill -600 127 385 -700 127 285 barrier replace air
 spreadplayers -650 335 5 24 false @a
 gamemode adventure @a
 effect clear @a
