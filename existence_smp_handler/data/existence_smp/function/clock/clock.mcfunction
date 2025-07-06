@@ -43,10 +43,5 @@ execute as @a[gamemode=!spectator] if score @s exi_deaths_since_c matches 3600..
 #Entity Count
 execute if score run_count exi_entity_count matches 1 at mcpeachpies run function existence_smp:clock/entity_count
 
-#Void Cat
-execute in minecraft:overworld as @e[type=minecraft:cat,y=-65,dy=-64] run data modify entity @s variant set value "existence_smp:void"
-execute in minecraft:the_end as @e[type=minecraft:cat,y=-1,dy=-64] run data modify entity @s variant set value "existence_smp:void"
-execute in minecraft:the_nether as @e[type=minecraft:cat,y=-1,dy=-64] run data modify entity @s variant set value "existence_smp:void"
-
 function existence_smp:clock/uptime
 schedule function existence_smp:clock/clock 20t

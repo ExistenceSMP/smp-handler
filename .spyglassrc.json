@@ -1,5 +1,6 @@
 {
   "env": {
-    "gameVersion": "1.21.7"
+    "gameVersion": "1.21.7",
+    "permissionLevel": 3
   }
 }
