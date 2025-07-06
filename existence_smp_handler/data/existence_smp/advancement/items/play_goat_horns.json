@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "existence_smp:root",
+  "parent": "existence_smp:locations/globe_trotter",
   "criteria": {
     "ponder": {
       "trigger": "minecraft:using_item",

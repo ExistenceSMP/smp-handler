@@ -1,0 +1,71 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "translate": "gui.existence_smp.root.title",
+    "fallback": "Existence SMP"
+  },
+  "external_title": {
+    "translate": "gui.existence_smp.root.external_title",
+    "fallback": "Existence SMP..."
+  },
+  "exit_action": {
+    "label": { "translate": "gui.back" }
+  },
+  "actions": [
+    {
+      "label": {
+        "translate": "gui.existence_smp.links.external_title",
+        "fallback": "Links..."
+      },
+      "action": {
+        "type": "show_dialog",
+        "dialog": "existence_smp:links"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.external_title",
+        "fallback": "Scoreboards..."
+      },
+      "action": {
+        "type": "show_dialog",
+        "dialog": "existence_smp:scoreboards"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.customization.external_title",
+        "fallback": "Customization..."
+      },
+      "action": {
+        "type": "show_dialog",
+        "dialog": "existence_smp:customization"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.hud.external_title",
+        "fallback": "HUD Settings..."
+      },
+      "action": {
+        "type": "show_dialog",
+        "dialog": "existence_smp:hud"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.server_transfer",
+        "fallback": "Server Transfer"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger transfer"
+      },
+      "width": 202
+    }
+  ]
+}

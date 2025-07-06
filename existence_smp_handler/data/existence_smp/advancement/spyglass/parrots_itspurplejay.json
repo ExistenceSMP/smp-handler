@@ -159,17 +159,7 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:player",
-                  "components": {
-                    "minecraft:entity_data": {
-                      "id": "minecraft:player",
-                      "UUID": [
-                        -1461977708,
-                        1605713966,
-                        -1894269338,
-                        1979621609
-                      ]
-                    }
-                  }
+                  "nbt": "{UUID: [I; -1461977708, 1605713966, -1894269338, 1979621609]}"
                 }
               }
             }
@@ -196,14 +186,25 @@
                   "type": "minecraft:player",
                   "equipment": {
                     "head": {
-                      "items": "minecraft:player_head",
+                      "items": [
+                        "minecraft:player_head"
+                      ],
+                      "count": 1,
                       "components": {
                         "minecraft:profile": {
+                          "name": "ItsPurpleJay",
                           "id": [
                             -1461977708,
                             1605713966,
                             -1894269338,
                             1979621609
+                          ],
+                          "properties": [
+                            {
+                              "name": "textures",
+                              "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTYzNDQ5NzgxNSwKICAicHJvZmlsZUlkIiA6ICJhOGRiZmQ5NDVmYjU0MDJlOGYxN2JlNjY3NWZlYTBlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHNQdXJwbGVKYXkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjI1ZmEwY2M1M2ZjNzNlNDA1MGUxMDE3MmEzOGRjMjdhYmQ2YjcxZDNmMzE2MGViOWIxZGVhZTBkZGUzMzBjNSIKICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM0MGMwZTAzZGQyNGExMWIxNWE4YjMzYzJhN2U5ZTMyYWJiMjA1MWIyNDgxZDBiYTdkZWZkNjM1Y2E3YTkzMyIKICAgIH0KICB9Cn0=",
+                              "signature": "YZ78gOh9fTfQhkPPjqgijTaQYp7+T/B/SJGrPnwIAQd/a8TLCKi1u2Zj7L44tryG2hi6Dd28WiXZfFFc2clGHnc8YV1GZUxCm3vpS7lgzD5K8QOQ1mgY/WhWpU/Z17deK1zNobb8OH3JXeKIwPFq+uHowLawtsPCjtehw+j6dV8P2XdTOi3+OI8h/jHkrQE7wcwFVQAcaVDXB14u241UqcbO2jCy21ee2px8/129VVGisedLyEDSF58eMrSsNT7m5g96Td0gz/tQbDX3bzR52z22Q7NAHr6c3ExCCuWvbzlWnT5TjyXRjKvuRepWYnt2vs0Sm1OpGERkawh0ITo48yFJwOGCrRAU9FmtK1EyXyFZMS+XcGBGCGn7xSozpCo8ZXOQyD6NKJY/7L/7vjzK1I49jpC3kJ2D1No2lBxLdSE68fKcvgUrwoEcb4LJbHA8OH/cyWBJDHU26qV5SyJ5rvGoqbpDi/fOkc3Mndynhq+AZQyJgYwVpKZC/9BZHrSQzzHcInxEV02gGdUSBaZOnF5eUBHNkFO2cDz5YQAQMzpvr4nobi/Jrv5pXqcK2i8jkiE2zkZwKEsvUawEjOHDtXnHl9Pm/oGdSU18mVLR2mO0GSJS+XitxT8mPsZX4Tliqg7kS4KOjNWkX+8Wui4YMh3n34TvT6VxpVfYxfXItQ0="
+                            }
                           ]
                         }
                       }

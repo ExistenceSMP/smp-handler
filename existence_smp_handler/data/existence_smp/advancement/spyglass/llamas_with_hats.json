@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "existence_smp:spyglass/parrots",
+  "parent": "existence_smp:spyglass/happy_ghast",
   "criteria": {
     "carl": {
       "trigger": "minecraft:using_item",

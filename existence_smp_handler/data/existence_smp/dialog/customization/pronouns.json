@@ -1,0 +1,68 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "translate": "gui.existence_smp.pronouns.title",
+    "fallback": "Pronouns"
+  },
+  "external_title": {
+    "translate": "gui.existence_smp.pronouns.external_title",
+    "fallback": "Pronouns..."
+  },
+  "exit_action": {
+    "label": { "translate": "gui.back" }
+  },
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "translate": "gui.existence_smp.pronouns.body",
+        "fallback": "Choose one of the options below to set your pronouns."
+      }
+    }
+  ],
+  "actions": [
+    {
+      "label": "he/him",
+      "action": {
+        "type": "run_command",
+        "command": "pronouns set he/him"
+      },
+      "width": 75
+    },
+    {
+      "label": "it/its",
+      "action": {
+        "type": "run_command",
+        "command": "pronouns set it/its"
+      },
+      "width": 75
+    },
+    {
+      "label": "she/her",
+      "action": {
+        "type": "run_command",
+        "command": "pronouns set she/her"
+      },
+      "width": 75
+    },
+    {
+      "label": "they/them",
+      "action": {
+        "type": "run_command",
+        "command": "pronouns set they/them"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.pronouns.custom.external_title",
+        "fallback": "Custom..."
+      },
+      "action": {
+        "type": "show_dialog",
+        "dialog": "existence_smp:customization/pronouns/custom"
+      },
+      "width": 152
+    }
+  ]
+}

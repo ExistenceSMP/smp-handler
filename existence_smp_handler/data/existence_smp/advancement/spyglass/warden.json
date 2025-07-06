@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "existence_smp:spyglass/enderman",
+  "parent": "existence_smp:spyglass/creaking",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:using_item",

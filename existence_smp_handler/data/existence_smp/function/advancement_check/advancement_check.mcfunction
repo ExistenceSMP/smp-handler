@@ -5,10 +5,12 @@ execute if score uptime_months exi_uptime matches 0 run advancement grant @s onl
 
 execute unless score @s exi_playtime_h matches 0.. run scoreboard players set @s exi_playtime_h 0
 execute unless score @s exi_elytra_km matches 0.. run scoreboard players set @s exi_elytra_km 0
+execute unless score @s exi_happy_ghast_km matches 0.. run scoreboard players set @s exi_happy_ghast_km 0
 execute unless score @s exi_deaths matches 0.. run scoreboard players set @s exi_deaths 0
 
 function existence_smp:advancement_check/playtime/100
 function existence_smp:advancement_check/elytra/500
+function existence_smp:advancement_check/happy_ghast/100
 function existence_smp:advancement_check/deaths/50
 function existence_smp:advancement_check/survivalist/50
 
@@ -120,6 +122,44 @@ tag @s[name="Dashleb"] add adv_new_dawn
 advancement grant @s[tag=adv_new_dawn] only existence_smp:roles/new_dawn
 
 #EVENTS
-tag @s[name="PLAYER"] add adv_events
+tag @s[name="Change24"] add adv_events
+tag @s[name="Faeolin_WildElf"] add adv_events
+tag @s[name="Flaxxyy"] add adv_events
+tag @s[name="SugarCaney"] add adv_events
+tag @s[name="Yoglington"] add adv_events
+tag @s[name="mcpeachpies"] add adv_events
+tag @s[name="Dr_Little"] add adv_events
+tag @s[name="cyaniide_"] add adv_events
+tag @s[name="Evalynn88"] add adv_events
+tag @s[name="leviandus"] add adv_events
+tag @s[name="LordOfTheUndead"] add adv_events
+tag @s[name="Noellee_"] add adv_events
+tag @s[name="Pure6198"] add adv_events
+tag @s[name="Rayezzz"] add adv_events
+tag @s[name="igalaxy"] add adv_events
+tag @s[name="Theowlguardian"] add adv_events
+tag @s[name="mcnugggzs"] add adv_events
 
 advancement grant @s[tag=adv_events] only existence_smp:events/events
+
+
+#The End Opening
+tag @s[name="Change24"] add adv_end_opening
+tag @s[name="Faeolin_WildElf"] add adv_end_opening
+tag @s[name="Flaxxyy"] add adv_end_opening
+tag @s[name="SugarCaney"] add adv_end_opening
+tag @s[name="Yoglington"] add adv_end_opening
+tag @s[name="mcpeachpies"] add adv_end_opening
+tag @s[name="Dr_Little"] add adv_end_opening
+tag @s[name="cyaniide_"] add adv_end_opening
+tag @s[name="Evalynn88"] add adv_end_opening
+tag @s[name="leviandus"] add adv_end_opening
+tag @s[name="LordOfTheUndead"] add adv_end_opening
+tag @s[name="Noellee_"] add adv_end_opening
+tag @s[name="Pure6198"] add adv_end_opening
+tag @s[name="Rayezzz"] add adv_end_opening
+tag @s[name="igalaxy"] add adv_end_opening
+tag @s[name="Theowlguardian"] add adv_end_opening
+tag @s[name="mcnugggzs"] add adv_end_opening
+
+advancement grant @s[tag=adv_end_opening] only existence_smp:events/the_end_opening

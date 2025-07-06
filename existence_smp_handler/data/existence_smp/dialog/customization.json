@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "translate": "gui.existence_smp.customization.title",
+    "fallback": "Customization"
+  },
+  "external_title": {
+    "translate": "gui.existence_smp.customization.external_title",
+    "fallback": "Customization..."
+  },
+  "exit_action": {
+    "label": { "translate": "gui.back" }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": {
+        "translate": "gui.existence_smp.pronouns.external_title",
+        "fallback": "Pronouns..."
+      },
+      "action": {
+        "type": "show_dialog",
+        "dialog": "existence_smp:customization/pronouns"
+      }
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.patron_color.external_title",
+        "fallback": "Patron Name Color..."
+      },
+      "action": {
+        "type": "show_dialog",
+        "dialog": "existence_smp:customization/patron_color"
+      },
+      "tooltip": {
+        "translate": "gui.existence_smp.patron_color.tooltip",
+        "fallback": "Requires Patron status."
+      }
+    }
+  ]
+}

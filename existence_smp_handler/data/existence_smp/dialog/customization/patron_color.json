@@ -1,0 +1,180 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "translate": "gui.existence_smp.patron_color.title",
+    "fallback": "Patron Name Color"
+  },
+  "external_title": {
+    "translate": "gui.existence_smp.patron_color.external_title",
+    "fallback": "Patron Name Color..."
+  },
+  "exit_action": {
+    "label": { "translate": "gui.back" }
+  },
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "translate": "gui.existence_smp.patron_color.body",
+        "fallback": "Choose one of the options below to set your Patron name color."
+      }
+    }
+  ],
+  "actions": [
+    {
+      "label": {
+        "color": "dark_red",
+        "translate": "gui.minecraft.color.dark_red",
+        "fallback": "Dark Red"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set 6"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "color": "red",
+        "translate": "gui.minecraft.color.red",
+        "fallback": "Red"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set -1"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "color": "gold",
+        "translate": "gui.minecraft.color.gold",
+        "fallback": "Gold"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set 8"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "color": "yellow",
+        "translate": "gui.minecraft.color.yellow",
+        "fallback": "Yellow"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set 16"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "color": "green",
+        "translate": "gui.minecraft.color.green",
+        "fallback": "Green"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set 12"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "color": "dark_green",
+        "translate": "gui.minecraft.color.dark_green",
+        "fallback": "Dark Green"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set 4"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "color": "dark_aqua",
+        "translate": "gui.minecraft.color.dark_aqua",
+        "fallback": "Dark Aqua"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set 5"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "color": "aqua",
+        "translate": "gui.minecraft.color.aqua",
+        "fallback": "Aqua"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set 13"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "color": "blue",
+        "translate": "gui.minecraft.color.blue",
+        "fallback": "Blue"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set 11"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "color": "dark_blue",
+        "translate": "gui.minecraft.color.dark_blue",
+        "fallback": "Dark Blue"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set 3"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "color": "dark_purple",
+        "translate": "gui.minecraft.color.dark_purple",
+        "fallback": "Dark Purple"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set 7"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "color": "light_purple",
+        "translate": "gui.minecraft.color.light_purple",
+        "fallback": "Light Purple"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger patron_color set 15"
+      },
+      "width": 75
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.links.patreon",
+        "fallback": "Patreon"
+      },
+      "action": {
+        "type": "open_url",
+        "url": "https://existencesmp.com/patreon"
+      },
+      "width": 152
+    }
+  ]
+}

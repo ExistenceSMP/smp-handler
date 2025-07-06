@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "red_glazed_terracotta"
+      },
+      "title": "World of Color!",
+      "description": "Change your Display Name color with /trigger patron_color",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "existence_smp:roles/patron",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }

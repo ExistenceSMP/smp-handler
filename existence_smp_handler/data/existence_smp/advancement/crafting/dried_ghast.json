@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:dried_ghast"
+    },
+    "title": "Love, Sweat and Tears",
+    "description": "Craft a Dried Ghast",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "existence_smp:root",
+  "criteria": {
+    "craft_dried_ghast": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "craft_dried_ghast"
+    ]
+  ]
+}
