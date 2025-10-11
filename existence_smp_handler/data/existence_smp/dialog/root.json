@@ -58,6 +58,17 @@
     },
     {
       "label": {
+        "translate": "gui.existence_smp.go_afk",
+        "fallback": "Go AFK"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger afk"
+      },
+      "width": 100
+    },
+    {
+      "label": {
         "translate": "gui.existence_smp.server_transfer",
         "fallback": "Server Transfer"
       },
@@ -65,7 +76,7 @@
         "type": "run_command",
         "command": "trigger transfer"
       },
-      "width": 202
+      "width": 100
     }
   ]
 }
