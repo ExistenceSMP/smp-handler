@@ -1,0 +1,8 @@
+{
+  "sound_event": {
+    "sound_id": "dr_little:music_disc.moonlight_instrumental"
+  },
+  "description": "Little - Moonlight (Instrumental)",
+  "comparator_output": 2,
+  "length_in_seconds": 208
+}

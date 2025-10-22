@@ -1,0 +1,8 @@
+{
+  "sound_event": {
+    "sound_id": "dr_little:music_disc.stillness"
+  },
+  "description": "Little - Stillness",
+  "comparator_output": 3,
+  "length_in_seconds": 99
+}
