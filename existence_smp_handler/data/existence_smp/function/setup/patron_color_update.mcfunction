@@ -33,9 +33,9 @@ execute as @s[tag=Patron,tag=!Staff] if score @s exi_patron_color matches 14 run
 execute as @s[tag=Patron,tag=!Staff] if score @s exi_patron_color matches 15 run team join Patron_light_purple
 execute as @s[tag=Patron,tag=!Staff] if score @s exi_patron_color matches 16 run team join Patron_yellow
 
-#execute as @s[tag=Patron,tag=!Staff] if score @s exi_patron_color matches 17 run team join Patron_white
-execute as @s[tag=Patron,tag=!Staff] if score @s exi_patron_color matches 17 run tellraw @s[tag=!mpp_afk] ["",{"text":"Error: Sorry! White is reserved for other uses.","color":"red"}]
-execute as @s[tag=Patron,tag=!Staff] if score @s exi_patron_color matches 17 run scoreboard players set @s exi_patron_color 0
+execute as @s[tag=Patron,tag=!Staff] if score @s exi_patron_color matches 17 run team join Patron_white
+#execute as @s[tag=Patron,tag=!Staff] if score @s exi_patron_color matches 17 run tellraw @s[tag=!mpp_afk] ["",{"text":"Error: Sorry! White is reserved for other uses.","color":"red"}]
+#execute as @s[tag=Patron,tag=!Staff] if score @s exi_patron_color matches 17 run scoreboard players set @s exi_patron_color 0
 
 #STAFF PATRON
 #execute as @s[tag=Patron,tag=Staff] if score @s exi_patron_color matches 2 run team join StaffPatron_dark_gray
@@ -64,9 +64,9 @@ execute as @s[tag=Patron,tag=Staff] if score @s exi_patron_color matches 14 run 
 execute as @s[tag=Patron,tag=Staff] if score @s exi_patron_color matches 15 run team join StaffPatron_light_purple
 execute as @s[tag=Patron,tag=Staff] if score @s exi_patron_color matches 16 run team join StaffPatron_yellow
 
-#execute as @s[tag=Patron,tag=Staff] if score @s exi_patron_color matches 17 run team join StaffPatron_white
-execute as @s[tag=Patron,tag=Staff] if score @s exi_patron_color matches 17 run tellraw @s[tag=!mpp_afk] ["",{"text":"Error: Sorry! White is reserved for other uses.","color":"red"}]
-execute as @s[tag=Patron,tag=Staff] if score @s exi_patron_color matches 17 run scoreboard players set @s exi_patron_color 0
+execute as @s[tag=Patron,tag=Staff] if score @s exi_patron_color matches 17 run team join StaffPatron_white
+#execute as @s[tag=Patron,tag=Staff] if score @s exi_patron_color matches 17 run tellraw @s[tag=!mpp_afk] ["",{"text":"Error: Sorry! White is reserved for other uses.","color":"red"}]
+#execute as @s[tag=Patron,tag=Staff] if score @s exi_patron_color matches 17 run scoreboard players set @s exi_patron_color 0
 
 execute if score @s exi_patron_color matches 2..17 run tellraw @s[tag=!mpp_afk] ["",{text:"Name color updated to: ",color:"gray"},{text:"<",color:"white"},{selector:"@s"},{text:">"}]
 execute if score @s exi_patron_color matches -1 run tellraw @s[tag=!mpp_afk] ["",{text:"Name color reset to: ",color:"gray"},{text:"<",color:"white"},{selector:"@s"},{text:">"}]

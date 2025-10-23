@@ -45,7 +45,7 @@ execute if score run_count exi_entity_count matches 1 at mcpeachpies run functio
 
 #Void Cat
 #execute in minecraft:overworld as @e[type=minecraft:cat,y=-65,dy=-64] run data modify entity @s variant set value "existence_smp:void"
-execute in minecraft:the_end as @e[type=minecraft:cat,y=-1,dy=-64,tag=!void_cat] run function existence_smp:void_cat
+#execute in minecraft:the_end as @e[type=minecraft:cat,y=-1,dy=-64,tag=!void_cat] run function existence_smp:void_cat
 #execute in minecraft:the_nether as @e[type=minecraft:cat,y=-1,dy=-64] run data modify entity @s variant set value "existence_smp:void"
 
 function existence_smp:clock/uptime

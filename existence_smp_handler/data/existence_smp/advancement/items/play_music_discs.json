@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "existence_smp:crafting/music_disc_5",
+  "parent": "existence_smp:items/kill_chicken_jockey",
   "criteria": {
     "13": {
       "trigger": "minecraft:item_used_on_block",

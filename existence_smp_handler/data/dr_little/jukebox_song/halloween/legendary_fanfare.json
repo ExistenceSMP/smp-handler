@@ -1,0 +1,8 @@
+{
+  "sound_event": {
+    "sound_id": "dr_little:music_disc.halloween.legendary_fanfare"
+  },
+  "description": "Little - Fanfare (Nightmare in Spawn Town)",
+  "comparator_output": 15,
+  "length_in_seconds": 9
+}
