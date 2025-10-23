@@ -37,3 +37,6 @@ execute as @a if score @s patron_color matches ..-1 run function existence_smp:t
 execute as @a if score @s exi_game_leave matches 1.. run function existence_smp:join
 
 #execute as @e[type=item,limit=1,tag=!exi_no_grav] run data merge entity @s {NoGravity:1b,Tags:["exi_no_grav"]}
+
+#Void Cat
+execute as @a as @e[type=minecraft:cat,distance=..30,tag=void_cat] run particle reverse_portal ~ ~1.5 ~ 0.3 0.3 0.3 0.002 1
