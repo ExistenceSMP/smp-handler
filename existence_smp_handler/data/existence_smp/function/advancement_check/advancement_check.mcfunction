@@ -12,6 +12,7 @@ execute unless score @s exi_deaths matches 0.. run scoreboard players set @s exi
 function existence_smp:advancement_check/playtime/100
 function existence_smp:advancement_check/elytra/500
 function existence_smp:advancement_check/happy_ghast/100
+function existence_smp:advancement_check/nautilus/100
 function existence_smp:advancement_check/deaths/50
 function existence_smp:advancement_check/survivalist/50
 
