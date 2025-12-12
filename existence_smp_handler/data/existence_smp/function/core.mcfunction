@@ -42,4 +42,4 @@ execute as @a if score @s exi_game_leave matches 1.. run function existence_smp:
 #execute as @e[type=item,limit=1,tag=!exi_no_grav] run data merge entity @s {NoGravity:1b,Tags:["exi_no_grav"]}
 
 #Void Cat
-execute as @a at @e[distance=..32,type=minecraft:cat,nbt={variant:"existence_smp:void"}] run particle reverse_portal ~ ~ ~ 0.3 0.5 0.3 0.002 1
+execute as @a at @e[distance=..32,type=minecraft:cat] if predicate existence_smp:void_cat/is_void_cat run particle reverse_portal ~ ~ ~ 0.3 0.5 0.3 0.002 1
