@@ -6,6 +6,7 @@ execute if score uptime_months exi_uptime matches 0 run advancement grant @s onl
 execute unless score @s exi_playtime_h matches 0.. run scoreboard players set @s exi_playtime_h 0
 execute unless score @s exi_elytra_km matches 0.. run scoreboard players set @s exi_elytra_km 0
 execute unless score @s exi_happy_ghast_km matches 0.. run scoreboard players set @s exi_happy_ghast_km 0
+execute unless score @s exi_nautilus_km matches 0.. run scoreboard players set @s exi_nautilus_km 0
 execute unless score @s exi_deaths matches 0.. run scoreboard players set @s exi_deaths 0
 
 function existence_smp:advancement_check/playtime/100

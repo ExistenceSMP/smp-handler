@@ -34,6 +34,10 @@ scoreboard objectives add exi_warden_kill minecraft.killed:minecraft.warden
 scoreboard objectives add exi_happy_ghast_c minecraft.custom:minecraft.happy_ghast_one_cm
 scoreboard objectives add exi_happy_ghast_km dummy
 
+#Nautilus
+scoreboard objectives add exi_nautilus_c minecraft.custom:minecraft.nautilus_one_cm
+scoreboard objectives add exi_nautilus_km dummy
+
 #Location
 scoreboard objectives add exi_hud dummy
 scoreboard objectives add exi_x dummy
@@ -52,6 +56,7 @@ scoreboard objectives add stats_wardens_killed trigger
 scoreboard objectives add stats_wardens_summoned trigger
 scoreboard objectives add stats_happy_ghast trigger
 scoreboard objectives add stats_dried_ghast trigger
+scoreboard objectives add stats_nautilus trigger
 scoreboard objectives add uptime trigger
 scoreboard objectives add hud trigger
 scoreboard objectives add transfer trigger
@@ -109,6 +114,8 @@ scoreboard objectives modify exi_warden_kill displayname {"text":"🗡 Total War
 
 scoreboard objectives modify exi_happy_ghast_km displayname {"text":"👻 Happy Ghast (Kilometers)","color":"gray"}
 scoreboard objectives modify exi_craft_dried_ghast displayname {"text":"👻 Dried Ghasts Crafted","color":"gray"}
+
+scoreboard objectives modify exi_nautilus_km displayname {"text":"🐚 Nautilus (Kilometers)","color":"gray"}
 
 scoreboard objectives modify mpp_sleep_adv displayname {"text":"☽ Total Nights Slept","color":"gray"}
 scoreboard objectives modify mpp_afk_adv displayname {"text":"🎣 Total AFK Time (Hours)","color":"gray"}

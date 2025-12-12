@@ -80,6 +80,17 @@
     },
     {
       "label": {
+        "translate": "gui.existence_smp.scoreboards.nautilus",
+        "fallback": "Nautilus Distance"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_nautilus"
+      },
+      "width": 100
+    },
+    {
+      "label": {
         "translate": "gui.existence_smp.scoreboards.playtime",
         "fallback": "Play Time"
       },

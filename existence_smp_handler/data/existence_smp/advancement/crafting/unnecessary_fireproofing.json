@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:netherite_nautilus_armor"
+    },
+    "title": "Unnecessary Fireproofing",
+    "description": "Use a Netherite Ingot to upgrade Nautilus Armor",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "existence_smp:nautilus/ride_nautilus",
+  "criteria": {
+    "craft_netherite_nautilus_armor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:netherite_nautilus_armor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [["craft_netherite_nautilus_armor"]],
+  "rewards": {
+    "experience": 100
+  }
+}
