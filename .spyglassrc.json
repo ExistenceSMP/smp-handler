@@ -1,10 +1,6 @@
 {
   "env": {
-<<<<<<< HEAD
     "gameVersion": "1.21.11",
-=======
-    "gameVersion": "1.21.10",
->>>>>>> wiidotmom/master
     "permissionLevel": 3
   }
 }
