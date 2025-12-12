@@ -1,0 +1,12 @@
+{
+  "asset_id": "existence_smp:entity/cat/void",
+  "spawn_conditions": [
+    {
+      "priority": 0,
+      "condition": {
+        "type": "biome",
+        "biomes": ["minecraft:the_void"]
+      }
+    }
+  ]
+}
