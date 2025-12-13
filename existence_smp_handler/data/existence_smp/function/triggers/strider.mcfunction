@@ -1,4 +1,4 @@
-tellraw @a [{text:""},{selector:"@s"},{text:" is now displaying ",color:"gray"},{text:"Total Strider Distance",color:"dark_red"}]
+tellraw @a [{text:""},{selector:"@s"},{text:" is now displaying ",color:"gray"},{text:"Total Strider distance",color:"dark_red"}]
 execute as @a unless score @s exi_strider_km matches 1.. run tellraw @s {text:"You have ridden less than 1km on a Strider",italic:true,color:"gray"}
 execute as @a if score @s exi_strider_km matches 1.. run tellraw @s [{text:""},{text:"You have ridden ",italic:true,color:"gray"},{score:{name:"@s",objective:"exi_strider_km"},italic:true,color:"dark_red"},{text:"km on a Strider",italic:true,color:"gray"}]
 
