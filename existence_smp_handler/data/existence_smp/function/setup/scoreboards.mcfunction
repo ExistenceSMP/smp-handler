@@ -38,6 +38,46 @@ scoreboard objectives add exi_happy_ghast_km dummy
 scoreboard objectives add exi_nautilus_c minecraft.custom:minecraft.nautilus_one_cm
 scoreboard objectives add exi_nautilus_km dummy
 
+#Sprint
+scoreboard objectives add exi_sprint_c minecraft.custom:minecraft.sprint_one_cm
+scoreboard objectives add exi_sprint_km dummy
+
+#Walk
+scoreboard objectives add exi_walk_c minecraft.custom:minecraft.walk_one_cm
+scoreboard objectives add exi_walk_km dummy
+
+#Swim
+scoreboard objectives add exi_swim_c minecraft.custom:minecraft.swim_one_cm
+scoreboard objectives add exi_swim_km dummy
+
+#Climb
+scoreboard objectives add exi_climb_c minecraft.custom:minecraft.climb_one_cm
+scoreboard objectives add exi_climb_km dummy
+
+#Crouch
+scoreboard objectives add exi_crouch_c minecraft.custom:minecraft.crouch_one_cm
+scoreboard objectives add exi_crouch_km dummy
+
+#Boat
+scoreboard objectives add exi_boat_c minecraft.custom:minecraft.boat_one_cm
+scoreboard objectives add exi_boat_km dummy
+
+#Horse
+scoreboard objectives add exi_horse_c minecraft.custom:minecraft.horse_one_cm
+scoreboard objectives add exi_horse_km dummy
+
+#Minecart
+scoreboard objectives add exi_minecart_c minecraft.custom:minecraft.minecart_one_cm
+scoreboard objectives add exi_minecart_km dummy
+
+#Pig
+scoreboard objectives add exi_pig_c minecraft.custom:minecraft.pig_one_cm
+scoreboard objectives add exi_pig_km dummy
+
+#Strider
+scoreboard objectives add exi_strider_c minecraft.custom:minecraft.strider_one_cm
+scoreboard objectives add exi_strider_km dummy
+
 #Location
 scoreboard objectives add exi_hud dummy
 scoreboard objectives add exi_x dummy
@@ -57,6 +97,16 @@ scoreboard objectives add stats_wardens_summoned trigger
 scoreboard objectives add stats_happy_ghast trigger
 scoreboard objectives add stats_dried_ghast trigger
 scoreboard objectives add stats_nautilus trigger
+scoreboard objectives add stats_sprint trigger
+scoreboard objectives add stats_walk trigger
+scoreboard objectives add stats_swim trigger
+scoreboard objectives add stats_climb trigger
+scoreboard objectives add stats_crouch trigger
+scoreboard objectives add stats_boat trigger
+scoreboard objectives add stats_horse trigger
+scoreboard objectives add stats_minecart trigger
+scoreboard objectives add stats_pig trigger
+scoreboard objectives add stats_strider trigger
 scoreboard objectives add uptime trigger
 scoreboard objectives add hud trigger
 scoreboard objectives add transfer trigger
@@ -112,10 +162,30 @@ scoreboard objectives modify exi_warden_ticks displayname {"text":"🗡 Time Sin
 scoreboard objectives modify exi_warden_count displayname {"text":"🗡 Total Wardens Summoned","color":"gray"}
 scoreboard objectives modify exi_warden_kill displayname {"text":"🗡 Total Wardens Killed","color":"gray"}
 
-scoreboard objectives modify exi_happy_ghast_km displayname {"text":"👻 Happy Ghast (Kilometers)","color":"gray"}
+scoreboard objectives modify exi_happy_ghast_km displayname {"text":"👻 Happy Ghast Distance (Kilometers)","color":"gray"}
 scoreboard objectives modify exi_craft_dried_ghast displayname {"text":"👻 Dried Ghasts Crafted","color":"gray"}
 
-scoreboard objectives modify exi_nautilus_km displayname {"text":"🐚 Nautilus (Kilometers)","color":"gray"}
+scoreboard objectives modify exi_nautilus_km displayname {"text":"🐚 Nautilus Distance (Kilometers)","color":"gray"}
+
+scoreboard objectives modify exi_sprint_km displayname {"text":"🏃 Distance Sprinted (Kilometers)","color":"gray"}
+
+scoreboard objectives modify exi_walk_km displayname {"text":"🚶 Distance Walked (Kilometers)","color":"gray"}
+
+scoreboard objectives modify exi_swim_km displayname {"text":"🏊 Distance Swum (Kilometers)","color":"gray"}
+
+scoreboard objectives modify exi_climb_km displayname {"text":"🪜 Distance Climbed (Kilometers)","color":"gray"}
+
+scoreboard objectives modify exi_crouch_km displayname {"text":"🧎 Distance Crouched (Kilometers)","color":"gray"}
+
+scoreboard objectives modify exi_boat_km displayname {"text":"🚣 Boat Distance (Kilometers)","color":"gray"}
+
+scoreboard objectives modify exi_horse_km displayname {"text":"🏇 Horse Distance (Kilometers)","color":"gray"}
+
+scoreboard objectives modify exi_minecart_km displayname {"text":"🛒 Minecart Distance (Kilometers)","color":"gray"}
+
+scoreboard objectives modify exi_pig_km displayname {"text":"🐖 Pig Distance (Kilometers)","color":"gray"}
+
+scoreboard objectives modify exi_strider_km displayname {"text":"🐞 Strider Distance (Kilometers)","color":"gray"}
 
 scoreboard objectives modify mpp_sleep_adv displayname {"text":"☽ Total Nights Slept","color":"gray"}
 scoreboard objectives modify mpp_afk_adv displayname {"text":"🎣 Total AFK Time (Hours)","color":"gray"}
@@ -131,6 +201,16 @@ scoreboard objectives modify stats_wardens_killed displayname {"text":"Total War
 scoreboard objectives modify stats_wardens_summoned displayname {"text":"Total Wardens Summoned","color":"gray"}
 scoreboard objectives modify stats_happy_ghast displayname {"text":"Happy Ghast Distance","color":"gray"}
 scoreboard objectives modify stats_dried_ghast displayname {"text":"Dried Ghasts Crafted","color":"gray"}
+scoreboard objectives modify stats_sprint displayname {"text":"Distance Sprinted","color":"gray"}
+scoreboard objectives modify stats_walk displayname {"text":"Distance Walked","color":"gray"}
+scoreboard objectives modify stats_swim displayname {"text":"Distance Swum","color":"gray"}
+scoreboard objectives modify stats_climb displayname {"text":"Distance Climbed","color":"gray"}
+scoreboard objectives modify stats_crouch displayname {"text":"Distance Crouched","color":"gray"}
+scoreboard objectives modify stats_boat displayname {"text":"Boat Distance","color":"gray"}
+scoreboard objectives modify stats_horse displayname {"text":"Horse Distance","color":"gray"}
+scoreboard objectives modify stats_minecart displayname {"text":"Minecart Distance","color":"gray"}
+scoreboard objectives modify stats_pig displayname {"text":"Pig Distance","color":"gray"}
+scoreboard objectives modify stats_strider displayname {"text":"Strider Distance","color":"gray"}
 scoreboard objectives modify uptime displayname {"text":"Total Server Uptime","color":"gray"}
 scoreboard objectives modify hud displayname {"text":"Action Bar HUD","color":"gray"}
 scoreboard objectives modify transfer displayname {"text":"Server Transfer","color":"gray"}

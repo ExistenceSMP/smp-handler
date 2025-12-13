@@ -7,6 +7,16 @@ execute unless score @s exi_playtime_h matches 0.. run scoreboard players set @s
 execute unless score @s exi_elytra_km matches 0.. run scoreboard players set @s exi_elytra_km 0
 execute unless score @s exi_happy_ghast_km matches 0.. run scoreboard players set @s exi_happy_ghast_km 0
 execute unless score @s exi_nautilus_km matches 0.. run scoreboard players set @s exi_nautilus_km 0
+execute unless score @s exi_sprint_km matches 0.. run scoreboard players set @s exi_sprint_km 0
+execute unless score @s exi_walk_km matches 0.. run scoreboard players set @s exi_walk_km 0
+execute unless score @s exi_swim_km matches 0.. run scoreboard players set @s exi_swim_km 0
+execute unless score @s exi_climb_km matches 0.. run scoreboard players set @s exi_climb_km 0
+execute unless score @s exi_crouch_km matches 0.. run scoreboard players set @s exi_crouch_km 0
+execute unless score @s exi_boat_km matches 0.. run scoreboard players set @s exi_boat_km 0
+execute unless score @s exi_horse_km matches 0.. run scoreboard players set @s exi_horse_km 0
+execute unless score @s exi_minecart_km matches 0.. run scoreboard players set @s exi_minecart_km 0
+execute unless score @s exi_pig_km matches 0.. run scoreboard players set @s exi_pig_km 0
+execute unless score @s exi_strider_km matches 0.. run scoreboard players set @s exi_strider_km 0
 execute unless score @s exi_deaths matches 0.. run scoreboard players set @s exi_deaths 0
 
 function existence_smp:advancement_check/playtime/100

@@ -1,0 +1,159 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "translate": "gui.existence_smp.scoreboards.distance.title",
+    "fallback": "Distance Scoreboards"
+  },
+  "external_title": {
+    "translate": "gui.existence_smp.scoreboards.distance.external_title",
+    "fallback": "Distance..."
+  },
+  "exit_action": {
+    "label": { "translate": "gui.back" }
+  },
+  "actions": [
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.climb",
+        "fallback": "Distance Climbed"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_climb"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.crouch",
+        "fallback": "Distance Crouched"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_crouch"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.sprint",
+        "fallback": "Distance Sprinted"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_sprint"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.swim",
+        "fallback": "Distance Swum"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_swim"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.walk",
+        "fallback": "Distance Walked"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_walk"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.boat",
+        "fallback": "Boat Distance"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_boat"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.elytra",
+        "fallback": "Elytra Distance"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_elytra"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.happy_ghast",
+        "fallback": "Happy Ghast Distance"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_happy_ghast"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.horse",
+        "fallback": "Horse Distance"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_horse"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.minecart",
+        "fallback": "Minecart Distance"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_minecart"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.nautilus",
+        "fallback": "Nautilus Distance"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_nautilus"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.pig",
+        "fallback": "Pig Distance"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_pig"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.strider",
+        "fallback": "Strider Distance"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_strider"
+      },
+      "width": 100
+    }
+  ]
+}

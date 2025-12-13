@@ -10,20 +10,27 @@ execute as @a[gamemode=!spectator] if score @s exi_playtime_c matches 3600.. run
 execute as @a[gamemode=!spectator] if score @s exi_deaths matches 1.. run scoreboard players add @s exi_deaths_since_c 1
 execute as @a[gamemode=!spectator] if score @s exi_deaths_since_c matches 3600.. run scoreboard players add @s exi_deaths_since 1
 
-#ELYTRA
+#STATS ADD
 execute as @a[gamemode=!spectator] if score @s exi_elytra_c matches 100000.. run scoreboard players add @s exi_elytra_km 1
-
-#HAPPY GHAST
 execute as @a[gamemode=!spectator] if score @s exi_happy_ghast_c matches 100000.. run scoreboard players add @s exi_happy_ghast_km 1
-
-#NAUTILUS
 execute as @a[gamemode=!spectator] if score @s exi_nautilus_c matches 100000.. run scoreboard players add @s exi_nautilus_km 1
+execute as @a[gamemode=!spectator] if score @s exi_sprint_c matches 100000.. run scoreboard players add @s exi_sprint_km 1
+execute as @a[gamemode=!spectator] if score @s exi_walk_c matches 100000.. run scoreboard players add @s exi_walk_km 1
+execute as @a[gamemode=!spectator] if score @s exi_swim_c matches 100000.. run scoreboard players add @s exi_swim_km 1
+execute as @a[gamemode=!spectator] if score @s exi_climb_c matches 100000.. run scoreboard players add @s exi_climb_km 1
+execute as @a[gamemode=!spectator] if score @s exi_crouch_c matches 100000.. run scoreboard players add @s exi_crouch_km 1
+execute as @a[gamemode=!spectator] if score @s exi_boat_c matches 100000.. run scoreboard players add @s exi_boat_km 1
+execute as @a[gamemode=!spectator] if score @s exi_horse_c matches 100000.. run scoreboard players add @s exi_horse_km 1
+execute as @a[gamemode=!spectator] if score @s exi_minecart_c matches 100000.. run scoreboard players add @s exi_minecart_km 1
+execute as @a[gamemode=!spectator] if score @s exi_pig_c matches 100000.. run scoreboard players add @s exi_pig_km 1
+execute as @a[gamemode=!spectator] if score @s exi_strider_c matches 100000.. run scoreboard players add @s exi_strider_km 1
 
 execute as @a if score @s exi_playtime_c matches 3600.. run function existence_smp:advancement_check/advancement_check
 execute as @a if score @s exi_elytra_c matches 100000.. run function existence_smp:advancement_check/advancement_check
 execute as @a if score @s exi_deaths_c matches 1.. run function existence_smp:advancement_check/advancement_check
 execute as @a if score @s exi_deaths_since_c matches 3600.. run function existence_smp:advancement_check/advancement_check
 execute as @a if score @s exi_happy_ghast_c matches 100000.. run function existence_smp:advancement_check/advancement_check
+execute as @a if score @s exi_nautilus_c matches 100000.. run function existence_smp:advancement_check/advancement_check
 
 #CRAFTING
 execute as @a if score @s exi_craft_cake matches 1.. run advancement grant @s only existence_smp:crafting/the_lie
@@ -33,11 +40,21 @@ execute as @a if score @s exi_craft_nether_wart matches 1.. run advancement gran
 execute as @a if score @s exi_craft_dried_ghast matches 1.. run advancement grant @s only existence_smp:crafting/dried_ghast
 advancement revoke @a[advancements={existence_smp:functional/spyglass_player=true}] only existence_smp:functional/spyglass_player
 
-#RESET
+#STATS RESET
 execute as @a[gamemode=!spectator] if score @s exi_playtime_c matches 3600.. run scoreboard players remove @s exi_playtime_c 3600
 execute as @a[gamemode=!spectator] if score @s exi_elytra_c matches 100000.. run scoreboard players remove @s exi_elytra_c 100000
 execute as @a[gamemode=!spectator] if score @s exi_happy_ghast_c matches 100000.. run scoreboard players remove @s exi_happy_ghast_c 100000
 execute as @a[gamemode=!spectator] if score @s exi_nautilus_c matches 100000.. run scoreboard players remove @s exi_nautilus_c 100000
+execute as @a[gamemode=!spectator] if score @s exi_sprint_c matches 100000.. run scoreboard players remove @s exi_sprint_c 100000
+execute as @a[gamemode=!spectator] if score @s exi_walk_c matches 100000.. run scoreboard players remove @s exi_walk_c 100000
+execute as @a[gamemode=!spectator] if score @s exi_swim_c matches 100000.. run scoreboard players remove @s exi_swim_c 100000
+execute as @a[gamemode=!spectator] if score @s exi_climb_c matches 100000.. run scoreboard players remove @s exi_climb_c 100000
+execute as @a[gamemode=!spectator] if score @s exi_crouch_c matches 100000.. run scoreboard players remove @s exi_crouch_c 100000
+execute as @a[gamemode=!spectator] if score @s exi_boat_c matches 100000.. run scoreboard players remove @s exi_boat_c 100000
+execute as @a[gamemode=!spectator] if score @s exi_horse_c matches 100000.. run scoreboard players remove @s exi_horse_c 100000
+execute as @a[gamemode=!spectator] if score @s exi_minecart_c matches 100000.. run scoreboard players remove @s exi_minecart_c 100000
+execute as @a[gamemode=!spectator] if score @s exi_pig_c matches 100000.. run scoreboard players remove @s exi_pig_c 100000
+execute as @a[gamemode=!spectator] if score @s exi_strider_c matches 100000.. run scoreboard players remove @s exi_strider_c 100000
 execute as @a[gamemode=!spectator] if score @s exi_deaths_since_c matches 3600.. run scoreboard players remove @s exi_deaths_since_c 3600
 
 #Space Camp

@@ -58,39 +58,6 @@
     },
     {
       "label": {
-        "translate": "gui.existence_smp.scoreboards.elytra",
-        "fallback": "Elytra Distance"
-      },
-      "action": {
-        "type": "run_command",
-        "command": "trigger stats_elytra"
-      },
-      "width": 100
-    },
-    {
-      "label": {
-        "translate": "gui.existence_smp.scoreboards.happy_ghast",
-        "fallback": "Happy Ghast Distance"
-      },
-      "action": {
-        "type": "run_command",
-        "command": "trigger stats_happy_ghast"
-      },
-      "width": 100
-    },
-    {
-      "label": {
-        "translate": "gui.existence_smp.scoreboards.nautilus",
-        "fallback": "Nautilus Distance"
-      },
-      "action": {
-        "type": "run_command",
-        "command": "trigger stats_nautilus"
-      },
-      "width": 100
-    },
-    {
-      "label": {
         "translate": "gui.existence_smp.scoreboards.playtime",
         "fallback": "Play Time"
       },
@@ -130,6 +97,17 @@
       "action": {
         "type": "run_command",
         "command": "trigger stats_wardens_summoned"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.distance.external_title",
+        "fallback": "Distance..."
+      },
+      "action": {
+        "type": "show_dialog",
+        "dialog": "existence_smp:scoreboards/distance"
       },
       "width": 100
     }
