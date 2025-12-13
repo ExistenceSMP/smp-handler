@@ -151,6 +151,11 @@ tag @s[name="Rayezzz"] add adv_events
 tag @s[name="igalaxy"] add adv_events
 tag @s[name="Theowlguardian"] add adv_events
 tag @s[name="mcnugggzs"] add adv_events
+tag @s[name="1stHowlerGamer"] add adv_events
+tag @s[name="marcoiscool"] add adv_events
+tag @s[name="Bananabubble"] add adv_events
+tag @s[name="Rynnex"] add adv_events
+tag @s[name="KittyKatToeBeans"] add adv_events
 
 advancement grant @s[tag=adv_events] only existence_smp:events/events
 
