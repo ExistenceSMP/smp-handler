@@ -182,6 +182,7 @@ tag @s[name="kindabland"] add adv_taskmaster
 tag @s[name="Change24"] add adv_taskmaster
 tag @s[name="Dr_Little"] add adv_taskmaster
 tag @s[name="mcpeachpies"] add adv_taskmaster
+tag @s[name="marcoiscool"] add adv_taskmaster
 
 advancement grant @s[tag=adv_taskmaster] only existence_smp:events/taskmaster
 
