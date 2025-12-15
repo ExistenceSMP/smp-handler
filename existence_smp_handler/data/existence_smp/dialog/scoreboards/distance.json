@@ -15,7 +15,7 @@
     {
       "label": {
         "translate": "gui.existence_smp.scoreboards.climb",
-        "fallback": "Distance Climbed"
+        "fallback": "Climbed"
       },
       "action": {
         "type": "run_command",
@@ -26,7 +26,7 @@
     {
       "label": {
         "translate": "gui.existence_smp.scoreboards.crouch",
-        "fallback": "Distance Crouched"
+        "fallback": "Crouched"
       },
       "action": {
         "type": "run_command",
@@ -37,7 +37,7 @@
     {
       "label": {
         "translate": "gui.existence_smp.scoreboards.sprint",
-        "fallback": "Distance Sprinted"
+        "fallback": "Sprinted"
       },
       "action": {
         "type": "run_command",
@@ -48,7 +48,7 @@
     {
       "label": {
         "translate": "gui.existence_smp.scoreboards.swim",
-        "fallback": "Distance Swum"
+        "fallback": "Swum"
       },
       "action": {
         "type": "run_command",
@@ -59,7 +59,7 @@
     {
       "label": {
         "translate": "gui.existence_smp.scoreboards.walk",
-        "fallback": "Distance Walked"
+        "fallback": "Walked"
       },
       "action": {
         "type": "run_command",
@@ -70,7 +70,7 @@
     {
       "label": {
         "translate": "gui.existence_smp.scoreboards.boat",
-        "fallback": "Boat Distance"
+        "fallback": "Boat"
       },
       "action": {
         "type": "run_command",
@@ -80,8 +80,7 @@
     },
     {
       "label": {
-        "translate": "gui.existence_smp.scoreboards.elytra",
-        "fallback": "Elytra Distance"
+        "translate": "item.minecraft.elytra"
       },
       "action": {
         "type": "run_command",
@@ -91,8 +90,7 @@
     },
     {
       "label": {
-        "translate": "gui.existence_smp.scoreboards.happy_ghast",
-        "fallback": "Happy Ghast Distance"
+        "translate": "entity.minecraft.happy_ghast"
       },
       "action": {
         "type": "run_command",
@@ -102,8 +100,7 @@
     },
     {
       "label": {
-        "translate": "gui.existence_smp.scoreboards.horse",
-        "fallback": "Horse Distance"
+        "translate": "entity.minecraft.horse"
       },
       "action": {
         "type": "run_command",
@@ -113,8 +110,7 @@
     },
     {
       "label": {
-        "translate": "gui.existence_smp.scoreboards.minecart",
-        "fallback": "Minecart Distance"
+        "translate": "entity.minecraft.minecart"
       },
       "action": {
         "type": "run_command",
@@ -124,8 +120,7 @@
     },
     {
       "label": {
-        "translate": "gui.existence_smp.scoreboards.nautilus",
-        "fallback": "Nautilus Distance"
+        "translate": "entity.minecraft.nautilus"
       },
       "action": {
         "type": "run_command",
@@ -135,8 +130,7 @@
     },
     {
       "label": {
-        "translate": "gui.existence_smp.scoreboards.pig",
-        "fallback": "Pig Distance"
+        "translate": "entity.minecraft.pig"
       },
       "action": {
         "type": "run_command",
@@ -146,8 +140,7 @@
     },
     {
       "label": {
-        "translate": "gui.existence_smp.scoreboards.strider",
-        "fallback": "Strider Distance"
+        "translate": "entity.minecraft.strider"
       },
       "action": {
         "type": "run_command",
