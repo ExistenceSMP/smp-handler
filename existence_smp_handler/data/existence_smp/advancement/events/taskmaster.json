@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:resin_block"
+    },
+    "title": "Snerd is the Word",
+    "description": "Complete a series of challenging tasks in 1stHowlerGamer's Taskmaster event\nJuly 19th 2025",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "existence_smp:events/the_end_opening",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

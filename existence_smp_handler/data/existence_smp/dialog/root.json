@@ -30,7 +30,7 @@
       },
       "action": {
         "type": "show_dialog",
-        "dialog": "existence_smp:scoreboards"
+        "dialog": "existence_smp:scoreboards/root"
       },
       "width": 100
     },

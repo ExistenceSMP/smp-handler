@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:nautilus_shell"
+    },
+    "title": "It Goes Anywhere But Land",
+    "description": "Take an underwater ride on a Nautilus",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "existence_smp:root",
+  "criteria": {
+    "ride_nautilus": {
+      "trigger": "minecraft:started_riding",
+      "conditions": {
+        "player": {
+          "vehicle": {
+            "type": "minecraft:nautilus"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [["ride_nautilus"]]
+}

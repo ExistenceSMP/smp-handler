@@ -1,19 +1,19 @@
 {
-    "display": {
-      "icon": {
-        "id": "dragon_egg"
-      },
-      "title": "Beginning of The End",
-      "description": "Take Part in the first Ender Dragon fight and end city raiding",
-      "frame": "task",
-      "show_toast": true,
-      "announce_to_chat": false,
-      "hidden": true
+  "display": {
+    "icon": {
+      "id": "minecraft:dragon_egg"
     },
-    "parent": "existence_smp:events/events",
-    "criteria": {
-      "requirement": {
-        "trigger": "minecraft:impossible"
-      }
+    "title": "Beginning of The End",
+    "description": "Take part in the first Ender Dragon fight and end city raiding\nMay 3rd 2025",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "existence_smp:events/events",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
   }
 }

@@ -1,0 +1,6 @@
+{
+  "data_pack": {
+    "load": ["existence_smp_handler"]
+  },
+  "output": "build"
+}

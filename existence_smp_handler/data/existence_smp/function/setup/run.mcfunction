@@ -1,10 +1,10 @@
 #SPAWN & GAMERULES
-gamerule disableElytraMovementCheck true
-gamerule disablePlayerMovementCheck true
-gamerule playersSleepingPercentage 25
-gamerule spawnRadius 25
-gamerule spectatorsGenerateChunks true
-gamerule enderPearlsVanishOnDeath false
+gamerule minecraft:elytra_movement_check false
+gamerule minecraft:player_movement_check false
+gamerule minecraft:players_sleeping_percentage 25
+gamerule minecraft:respawn_radius 25
+gamerule minecraft:spectators_generate_chunks true
+gamerule minecraft:ender_pearls_vanish_on_death false
 
 difficulty hard
 

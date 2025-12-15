@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 88,
-    "description": "§6Existence SMP\n§71.21.10 Handler"
+    "min_format": 94,
+    "max_format": 94,
+    "description": "§6Existence SMP\n§71.21.11 Handler"
   }
 }
