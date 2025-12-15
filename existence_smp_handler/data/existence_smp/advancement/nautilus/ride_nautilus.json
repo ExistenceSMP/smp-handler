@@ -3,8 +3,8 @@
     "icon": {
       "id": "minecraft:nautilus_shell"
     },
-    "title": "Happy Ghast of the Sea",
-    "description": "Take an underwater ride on a Nautilus!",
+    "title": "It Goes Anywhere But Land",
+    "description": "Take an underwater ride on a Nautilus",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
