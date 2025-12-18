@@ -6,6 +6,7 @@ scoreboard players enable @a stats_afk_total
 scoreboard players enable @a stats_sleep_total
 scoreboard players enable @a stats_wardens_killed
 scoreboard players enable @a stats_wardens_summoned
+scoreboard players enable @a stats_spear
 scoreboard players enable @a stats_happy_ghast
 scoreboard players enable @a stats_dried_ghast
 scoreboard players enable @a stats_nautilus
@@ -36,6 +37,7 @@ execute as @a if score @s stats_afk_total matches 1.. run function existence_smp
 execute as @a if score @s stats_sleep_total matches 1.. run function existence_smp:triggers/sleep_total
 execute as @a if score @s stats_wardens_killed matches 1.. run function existence_smp:triggers/wardens_killed
 execute as @a if score @s stats_wardens_summoned matches 1.. run function existence_smp:triggers/wardens_summoned
+execute as @a if score @s stats_spear matches 1.. run function existence_smp:triggers/spear
 execute as @a if score @s stats_happy_ghast matches 1.. run function existence_smp:triggers/happy_ghast
 execute as @a if score @s stats_dried_ghast matches 1.. run function existence_smp:triggers/dried_ghast
 execute as @a if score @s stats_nautilus matches 1.. run function existence_smp:triggers/nautilus
