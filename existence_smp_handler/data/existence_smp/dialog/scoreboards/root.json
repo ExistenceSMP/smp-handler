@@ -102,6 +102,17 @@
     },
     {
       "label": {
+        "translate": "gui.existence_smp.scoreboards.spear",
+        "fallback": "Mobs Speared"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_spear"
+      },
+      "width": 100
+    },
+    {
+      "label": {
         "translate": "gui.existence_smp.scoreboards.distance.external_title",
         "fallback": "Distance..."
       },

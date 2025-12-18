@@ -1,0 +1,25 @@
+{
+  "parent": "existence_smp:functional/root",
+  "criteria": {
+    "spear_mob": {
+      "trigger": "minecraft:spear_mobs",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:nether_wart_block"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "existence_smp:nether_wart"
+      }
+    }
+  },
+  "requirements": [["has_the_recipe", "has_nether_wart_block"]],
+  "rewards": {
+    "recipes": ["existence_smp:nether_wart"]
+  }
+}
