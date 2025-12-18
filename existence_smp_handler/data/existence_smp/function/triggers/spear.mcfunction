@@ -6,7 +6,7 @@ execute as @a if score @s exi_spear_count matches 2.. run tellraw @s [{text:""},
 
 scoreboard players set @s stats_spear 0
 
-scoreboard objectives setdisplay sidebar stats_spear
+scoreboard objectives setdisplay sidebar exi_spear_count
 schedule function existence_smp:triggers/scoreboard_clear 600t
 
 advancement grant @s only existence_smp:stats/mathematical
