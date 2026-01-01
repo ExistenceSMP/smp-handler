@@ -1,6 +1,7 @@
 {
   "sound_event": {
-    "sound_id": "dr_little:music_disc.unending_rainfall"
+    "sound_id": "dr_little:music_disc.unending_rainfall",
+    "range": 64
   },
   "description": "Little - Unending Rainfall",
   "comparator_output": 4,

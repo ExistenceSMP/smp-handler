@@ -1,6 +1,7 @@
 {
   "sound_event": {
-    "sound_id": "dr_little:music_disc.moonlight_instrumental"
+    "sound_id": "dr_little:music_disc.moonlight_instrumental",
+    "range": 64
   },
   "description": "Little - Moonlight (Instrumental)",
   "comparator_output": 2,

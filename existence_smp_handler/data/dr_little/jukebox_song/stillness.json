@@ -1,6 +1,7 @@
 {
   "sound_event": {
-    "sound_id": "dr_little:music_disc.stillness"
+    "sound_id": "dr_little:music_disc.stillness",
+    "range": 64
   },
   "description": "Little - Stillness",
   "comparator_output": 3,
