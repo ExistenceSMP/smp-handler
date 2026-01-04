@@ -4,309 +4,309 @@ execute if score @s exi_playtime_h matches 0 run advancement revoke @s from exis
 execute if score @s exi_playtime_h matches 0 run advancement revoke @s from existence_smp:stats/playtime/time_extremely_well_spent
 
 #time_well_spent
-advancement grant @s[scores={exi_playtime_h=1..}] only existence_smp:stats/playtime/time_well_spent 1
-advancement grant @s[scores={exi_playtime_h=2..}] only existence_smp:stats/playtime/time_well_spent 2
-advancement grant @s[scores={exi_playtime_h=3..}] only existence_smp:stats/playtime/time_well_spent 3
-advancement grant @s[scores={exi_playtime_h=4..}] only existence_smp:stats/playtime/time_well_spent 4
-advancement grant @s[scores={exi_playtime_h=5..}] only existence_smp:stats/playtime/time_well_spent 5
-advancement grant @s[scores={exi_playtime_h=6..}] only existence_smp:stats/playtime/time_well_spent 6
-advancement grant @s[scores={exi_playtime_h=7..}] only existence_smp:stats/playtime/time_well_spent 7
-advancement grant @s[scores={exi_playtime_h=8..}] only existence_smp:stats/playtime/time_well_spent 8
-advancement grant @s[scores={exi_playtime_h=9..}] only existence_smp:stats/playtime/time_well_spent 9
-advancement grant @s[scores={exi_playtime_h=10..}] only existence_smp:stats/playtime/time_well_spent 10
-advancement grant @s[scores={exi_playtime_h=11..}] only existence_smp:stats/playtime/time_well_spent 11
-advancement grant @s[scores={exi_playtime_h=12..}] only existence_smp:stats/playtime/time_well_spent 12
-advancement grant @s[scores={exi_playtime_h=13..}] only existence_smp:stats/playtime/time_well_spent 13
-advancement grant @s[scores={exi_playtime_h=14..}] only existence_smp:stats/playtime/time_well_spent 14
-advancement grant @s[scores={exi_playtime_h=15..}] only existence_smp:stats/playtime/time_well_spent 15
-advancement grant @s[scores={exi_playtime_h=16..}] only existence_smp:stats/playtime/time_well_spent 16
-advancement grant @s[scores={exi_playtime_h=17..}] only existence_smp:stats/playtime/time_well_spent 17
-advancement grant @s[scores={exi_playtime_h=18..}] only existence_smp:stats/playtime/time_well_spent 18
-advancement grant @s[scores={exi_playtime_h=19..}] only existence_smp:stats/playtime/time_well_spent 19
-advancement grant @s[scores={exi_playtime_h=20..}] only existence_smp:stats/playtime/time_well_spent 20
-advancement grant @s[scores={exi_playtime_h=21..}] only existence_smp:stats/playtime/time_well_spent 21
-advancement grant @s[scores={exi_playtime_h=22..}] only existence_smp:stats/playtime/time_well_spent 22
-advancement grant @s[scores={exi_playtime_h=23..}] only existence_smp:stats/playtime/time_well_spent 23
-advancement grant @s[scores={exi_playtime_h=24..}] only existence_smp:stats/playtime/time_well_spent 24
-advancement grant @s[scores={exi_playtime_h=25..}] only existence_smp:stats/playtime/time_well_spent 25
-advancement grant @s[scores={exi_playtime_h=26..}] only existence_smp:stats/playtime/time_well_spent 26
-advancement grant @s[scores={exi_playtime_h=27..}] only existence_smp:stats/playtime/time_well_spent 27
-advancement grant @s[scores={exi_playtime_h=28..}] only existence_smp:stats/playtime/time_well_spent 28
-advancement grant @s[scores={exi_playtime_h=29..}] only existence_smp:stats/playtime/time_well_spent 29
-advancement grant @s[scores={exi_playtime_h=30..}] only existence_smp:stats/playtime/time_well_spent 30
-advancement grant @s[scores={exi_playtime_h=31..}] only existence_smp:stats/playtime/time_well_spent 31
-advancement grant @s[scores={exi_playtime_h=32..}] only existence_smp:stats/playtime/time_well_spent 32
-advancement grant @s[scores={exi_playtime_h=33..}] only existence_smp:stats/playtime/time_well_spent 33
-advancement grant @s[scores={exi_playtime_h=34..}] only existence_smp:stats/playtime/time_well_spent 34
-advancement grant @s[scores={exi_playtime_h=35..}] only existence_smp:stats/playtime/time_well_spent 35
-advancement grant @s[scores={exi_playtime_h=36..}] only existence_smp:stats/playtime/time_well_spent 36
-advancement grant @s[scores={exi_playtime_h=37..}] only existence_smp:stats/playtime/time_well_spent 37
-advancement grant @s[scores={exi_playtime_h=38..}] only existence_smp:stats/playtime/time_well_spent 38
-advancement grant @s[scores={exi_playtime_h=39..}] only existence_smp:stats/playtime/time_well_spent 39
-advancement grant @s[scores={exi_playtime_h=40..}] only existence_smp:stats/playtime/time_well_spent 40
-advancement grant @s[scores={exi_playtime_h=41..}] only existence_smp:stats/playtime/time_well_spent 41
-advancement grant @s[scores={exi_playtime_h=42..}] only existence_smp:stats/playtime/time_well_spent 42
-advancement grant @s[scores={exi_playtime_h=43..}] only existence_smp:stats/playtime/time_well_spent 43
-advancement grant @s[scores={exi_playtime_h=44..}] only existence_smp:stats/playtime/time_well_spent 44
-advancement grant @s[scores={exi_playtime_h=45..}] only existence_smp:stats/playtime/time_well_spent 45
-advancement grant @s[scores={exi_playtime_h=46..}] only existence_smp:stats/playtime/time_well_spent 46
-advancement grant @s[scores={exi_playtime_h=47..}] only existence_smp:stats/playtime/time_well_spent 47
-advancement grant @s[scores={exi_playtime_h=48..}] only existence_smp:stats/playtime/time_well_spent 48
-advancement grant @s[scores={exi_playtime_h=49..}] only existence_smp:stats/playtime/time_well_spent 49
-advancement grant @s[scores={exi_playtime_h=50..}] only existence_smp:stats/playtime/time_well_spent 50
-advancement grant @s[scores={exi_playtime_h=51..}] only existence_smp:stats/playtime/time_well_spent 51
-advancement grant @s[scores={exi_playtime_h=52..}] only existence_smp:stats/playtime/time_well_spent 52
-advancement grant @s[scores={exi_playtime_h=53..}] only existence_smp:stats/playtime/time_well_spent 53
-advancement grant @s[scores={exi_playtime_h=54..}] only existence_smp:stats/playtime/time_well_spent 54
-advancement grant @s[scores={exi_playtime_h=55..}] only existence_smp:stats/playtime/time_well_spent 55
-advancement grant @s[scores={exi_playtime_h=56..}] only existence_smp:stats/playtime/time_well_spent 56
-advancement grant @s[scores={exi_playtime_h=57..}] only existence_smp:stats/playtime/time_well_spent 57
-advancement grant @s[scores={exi_playtime_h=58..}] only existence_smp:stats/playtime/time_well_spent 58
-advancement grant @s[scores={exi_playtime_h=59..}] only existence_smp:stats/playtime/time_well_spent 59
-advancement grant @s[scores={exi_playtime_h=60..}] only existence_smp:stats/playtime/time_well_spent 60
-advancement grant @s[scores={exi_playtime_h=61..}] only existence_smp:stats/playtime/time_well_spent 61
-advancement grant @s[scores={exi_playtime_h=62..}] only existence_smp:stats/playtime/time_well_spent 62
-advancement grant @s[scores={exi_playtime_h=63..}] only existence_smp:stats/playtime/time_well_spent 63
-advancement grant @s[scores={exi_playtime_h=64..}] only existence_smp:stats/playtime/time_well_spent 64
-advancement grant @s[scores={exi_playtime_h=65..}] only existence_smp:stats/playtime/time_well_spent 65
-advancement grant @s[scores={exi_playtime_h=66..}] only existence_smp:stats/playtime/time_well_spent 66
-advancement grant @s[scores={exi_playtime_h=67..}] only existence_smp:stats/playtime/time_well_spent 67
-advancement grant @s[scores={exi_playtime_h=68..}] only existence_smp:stats/playtime/time_well_spent 68
-advancement grant @s[scores={exi_playtime_h=69..}] only existence_smp:stats/playtime/time_well_spent 69
-advancement grant @s[scores={exi_playtime_h=70..}] only existence_smp:stats/playtime/time_well_spent 70
-advancement grant @s[scores={exi_playtime_h=71..}] only existence_smp:stats/playtime/time_well_spent 71
-advancement grant @s[scores={exi_playtime_h=72..}] only existence_smp:stats/playtime/time_well_spent 72
-advancement grant @s[scores={exi_playtime_h=73..}] only existence_smp:stats/playtime/time_well_spent 73
-advancement grant @s[scores={exi_playtime_h=74..}] only existence_smp:stats/playtime/time_well_spent 74
-advancement grant @s[scores={exi_playtime_h=75..}] only existence_smp:stats/playtime/time_well_spent 75
-advancement grant @s[scores={exi_playtime_h=76..}] only existence_smp:stats/playtime/time_well_spent 76
-advancement grant @s[scores={exi_playtime_h=77..}] only existence_smp:stats/playtime/time_well_spent 77
-advancement grant @s[scores={exi_playtime_h=78..}] only existence_smp:stats/playtime/time_well_spent 78
-advancement grant @s[scores={exi_playtime_h=79..}] only existence_smp:stats/playtime/time_well_spent 79
-advancement grant @s[scores={exi_playtime_h=80..}] only existence_smp:stats/playtime/time_well_spent 80
-advancement grant @s[scores={exi_playtime_h=81..}] only existence_smp:stats/playtime/time_well_spent 81
-advancement grant @s[scores={exi_playtime_h=82..}] only existence_smp:stats/playtime/time_well_spent 82
-advancement grant @s[scores={exi_playtime_h=83..}] only existence_smp:stats/playtime/time_well_spent 83
-advancement grant @s[scores={exi_playtime_h=84..}] only existence_smp:stats/playtime/time_well_spent 84
-advancement grant @s[scores={exi_playtime_h=85..}] only existence_smp:stats/playtime/time_well_spent 85
-advancement grant @s[scores={exi_playtime_h=86..}] only existence_smp:stats/playtime/time_well_spent 86
-advancement grant @s[scores={exi_playtime_h=87..}] only existence_smp:stats/playtime/time_well_spent 87
-advancement grant @s[scores={exi_playtime_h=88..}] only existence_smp:stats/playtime/time_well_spent 88
-advancement grant @s[scores={exi_playtime_h=89..}] only existence_smp:stats/playtime/time_well_spent 89
-advancement grant @s[scores={exi_playtime_h=90..}] only existence_smp:stats/playtime/time_well_spent 90
-advancement grant @s[scores={exi_playtime_h=91..}] only existence_smp:stats/playtime/time_well_spent 91
-advancement grant @s[scores={exi_playtime_h=92..}] only existence_smp:stats/playtime/time_well_spent 92
-advancement grant @s[scores={exi_playtime_h=93..}] only existence_smp:stats/playtime/time_well_spent 93
-advancement grant @s[scores={exi_playtime_h=94..}] only existence_smp:stats/playtime/time_well_spent 94
-advancement grant @s[scores={exi_playtime_h=95..}] only existence_smp:stats/playtime/time_well_spent 95
-advancement grant @s[scores={exi_playtime_h=96..}] only existence_smp:stats/playtime/time_well_spent 96
-advancement grant @s[scores={exi_playtime_h=97..}] only existence_smp:stats/playtime/time_well_spent 97
-advancement grant @s[scores={exi_playtime_h=98..}] only existence_smp:stats/playtime/time_well_spent 98
-advancement grant @s[scores={exi_playtime_h=99..}] only existence_smp:stats/playtime/time_well_spent 99
-advancement grant @s[scores={exi_playtime_h=100..}] only existence_smp:stats/playtime/time_well_spent 100
+execute if score @s exi_playtime_h matches 1.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 1
+execute if score @s exi_playtime_h matches 2.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 2
+execute if score @s exi_playtime_h matches 3.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 3
+execute if score @s exi_playtime_h matches 4.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 4
+execute if score @s exi_playtime_h matches 5.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 5
+execute if score @s exi_playtime_h matches 6.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 6
+execute if score @s exi_playtime_h matches 7.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 7
+execute if score @s exi_playtime_h matches 8.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 8
+execute if score @s exi_playtime_h matches 9.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 9
+execute if score @s exi_playtime_h matches 10.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 10
+execute if score @s exi_playtime_h matches 11.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 11
+execute if score @s exi_playtime_h matches 12.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 12
+execute if score @s exi_playtime_h matches 13.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 13
+execute if score @s exi_playtime_h matches 14.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 14
+execute if score @s exi_playtime_h matches 15.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 15
+execute if score @s exi_playtime_h matches 16.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 16
+execute if score @s exi_playtime_h matches 17.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 17
+execute if score @s exi_playtime_h matches 18.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 18
+execute if score @s exi_playtime_h matches 19.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 19
+execute if score @s exi_playtime_h matches 20.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 20
+execute if score @s exi_playtime_h matches 21.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 21
+execute if score @s exi_playtime_h matches 22.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 22
+execute if score @s exi_playtime_h matches 23.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 23
+execute if score @s exi_playtime_h matches 24.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 24
+execute if score @s exi_playtime_h matches 25.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 25
+execute if score @s exi_playtime_h matches 26.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 26
+execute if score @s exi_playtime_h matches 27.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 27
+execute if score @s exi_playtime_h matches 28.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 28
+execute if score @s exi_playtime_h matches 29.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 29
+execute if score @s exi_playtime_h matches 30.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 30
+execute if score @s exi_playtime_h matches 31.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 31
+execute if score @s exi_playtime_h matches 32.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 32
+execute if score @s exi_playtime_h matches 33.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 33
+execute if score @s exi_playtime_h matches 34.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 34
+execute if score @s exi_playtime_h matches 35.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 35
+execute if score @s exi_playtime_h matches 36.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 36
+execute if score @s exi_playtime_h matches 37.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 37
+execute if score @s exi_playtime_h matches 38.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 38
+execute if score @s exi_playtime_h matches 39.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 39
+execute if score @s exi_playtime_h matches 40.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 40
+execute if score @s exi_playtime_h matches 41.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 41
+execute if score @s exi_playtime_h matches 42.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 42
+execute if score @s exi_playtime_h matches 43.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 43
+execute if score @s exi_playtime_h matches 44.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 44
+execute if score @s exi_playtime_h matches 45.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 45
+execute if score @s exi_playtime_h matches 46.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 46
+execute if score @s exi_playtime_h matches 47.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 47
+execute if score @s exi_playtime_h matches 48.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 48
+execute if score @s exi_playtime_h matches 49.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 49
+execute if score @s exi_playtime_h matches 50.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 50
+execute if score @s exi_playtime_h matches 51.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 51
+execute if score @s exi_playtime_h matches 52.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 52
+execute if score @s exi_playtime_h matches 53.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 53
+execute if score @s exi_playtime_h matches 54.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 54
+execute if score @s exi_playtime_h matches 55.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 55
+execute if score @s exi_playtime_h matches 56.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 56
+execute if score @s exi_playtime_h matches 57.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 57
+execute if score @s exi_playtime_h matches 58.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 58
+execute if score @s exi_playtime_h matches 59.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 59
+execute if score @s exi_playtime_h matches 60.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 60
+execute if score @s exi_playtime_h matches 61.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 61
+execute if score @s exi_playtime_h matches 62.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 62
+execute if score @s exi_playtime_h matches 63.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 63
+execute if score @s exi_playtime_h matches 64.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 64
+execute if score @s exi_playtime_h matches 65.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 65
+execute if score @s exi_playtime_h matches 66.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 66
+execute if score @s exi_playtime_h matches 67.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 67
+execute if score @s exi_playtime_h matches 68.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 68
+execute if score @s exi_playtime_h matches 69.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 69
+execute if score @s exi_playtime_h matches 70.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 70
+execute if score @s exi_playtime_h matches 71.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 71
+execute if score @s exi_playtime_h matches 72.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 72
+execute if score @s exi_playtime_h matches 73.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 73
+execute if score @s exi_playtime_h matches 74.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 74
+execute if score @s exi_playtime_h matches 75.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 75
+execute if score @s exi_playtime_h matches 76.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 76
+execute if score @s exi_playtime_h matches 77.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 77
+execute if score @s exi_playtime_h matches 78.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 78
+execute if score @s exi_playtime_h matches 79.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 79
+execute if score @s exi_playtime_h matches 80.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 80
+execute if score @s exi_playtime_h matches 81.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 81
+execute if score @s exi_playtime_h matches 82.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 82
+execute if score @s exi_playtime_h matches 83.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 83
+execute if score @s exi_playtime_h matches 84.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 84
+execute if score @s exi_playtime_h matches 85.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 85
+execute if score @s exi_playtime_h matches 86.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 86
+execute if score @s exi_playtime_h matches 87.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 87
+execute if score @s exi_playtime_h matches 88.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 88
+execute if score @s exi_playtime_h matches 89.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 89
+execute if score @s exi_playtime_h matches 90.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 90
+execute if score @s exi_playtime_h matches 91.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 91
+execute if score @s exi_playtime_h matches 92.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 92
+execute if score @s exi_playtime_h matches 93.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 93
+execute if score @s exi_playtime_h matches 94.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 94
+execute if score @s exi_playtime_h matches 95.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 95
+execute if score @s exi_playtime_h matches 96.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 96
+execute if score @s exi_playtime_h matches 97.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 97
+execute if score @s exi_playtime_h matches 98.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 98
+execute if score @s exi_playtime_h matches 99.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 99
+execute if score @s exi_playtime_h matches 100.. run advancement grant @s only existence_smp:stats/playtime/time_well_spent 100
 
 #time_very_well_spent
-advancement grant @s[scores={exi_playtime_h=1..}] only existence_smp:stats/playtime/time_very_well_spent 1
-advancement grant @s[scores={exi_playtime_h=2..}] only existence_smp:stats/playtime/time_very_well_spent 2
-advancement grant @s[scores={exi_playtime_h=3..}] only existence_smp:stats/playtime/time_very_well_spent 3
-advancement grant @s[scores={exi_playtime_h=4..}] only existence_smp:stats/playtime/time_very_well_spent 4
-advancement grant @s[scores={exi_playtime_h=5..}] only existence_smp:stats/playtime/time_very_well_spent 5
-advancement grant @s[scores={exi_playtime_h=6..}] only existence_smp:stats/playtime/time_very_well_spent 6
-advancement grant @s[scores={exi_playtime_h=7..}] only existence_smp:stats/playtime/time_very_well_spent 7
-advancement grant @s[scores={exi_playtime_h=8..}] only existence_smp:stats/playtime/time_very_well_spent 8
-advancement grant @s[scores={exi_playtime_h=9..}] only existence_smp:stats/playtime/time_very_well_spent 9
-advancement grant @s[scores={exi_playtime_h=10..}] only existence_smp:stats/playtime/time_very_well_spent 10
-advancement grant @s[scores={exi_playtime_h=11..}] only existence_smp:stats/playtime/time_very_well_spent 11
-advancement grant @s[scores={exi_playtime_h=12..}] only existence_smp:stats/playtime/time_very_well_spent 12
-advancement grant @s[scores={exi_playtime_h=13..}] only existence_smp:stats/playtime/time_very_well_spent 13
-advancement grant @s[scores={exi_playtime_h=14..}] only existence_smp:stats/playtime/time_very_well_spent 14
-advancement grant @s[scores={exi_playtime_h=15..}] only existence_smp:stats/playtime/time_very_well_spent 15
-advancement grant @s[scores={exi_playtime_h=16..}] only existence_smp:stats/playtime/time_very_well_spent 16
-advancement grant @s[scores={exi_playtime_h=17..}] only existence_smp:stats/playtime/time_very_well_spent 17
-advancement grant @s[scores={exi_playtime_h=18..}] only existence_smp:stats/playtime/time_very_well_spent 18
-advancement grant @s[scores={exi_playtime_h=19..}] only existence_smp:stats/playtime/time_very_well_spent 19
-advancement grant @s[scores={exi_playtime_h=20..}] only existence_smp:stats/playtime/time_very_well_spent 20
-advancement grant @s[scores={exi_playtime_h=21..}] only existence_smp:stats/playtime/time_very_well_spent 21
-advancement grant @s[scores={exi_playtime_h=22..}] only existence_smp:stats/playtime/time_very_well_spent 22
-advancement grant @s[scores={exi_playtime_h=23..}] only existence_smp:stats/playtime/time_very_well_spent 23
-advancement grant @s[scores={exi_playtime_h=24..}] only existence_smp:stats/playtime/time_very_well_spent 24
-advancement grant @s[scores={exi_playtime_h=25..}] only existence_smp:stats/playtime/time_very_well_spent 25
-advancement grant @s[scores={exi_playtime_h=26..}] only existence_smp:stats/playtime/time_very_well_spent 26
-advancement grant @s[scores={exi_playtime_h=27..}] only existence_smp:stats/playtime/time_very_well_spent 27
-advancement grant @s[scores={exi_playtime_h=28..}] only existence_smp:stats/playtime/time_very_well_spent 28
-advancement grant @s[scores={exi_playtime_h=29..}] only existence_smp:stats/playtime/time_very_well_spent 29
-advancement grant @s[scores={exi_playtime_h=30..}] only existence_smp:stats/playtime/time_very_well_spent 30
-advancement grant @s[scores={exi_playtime_h=31..}] only existence_smp:stats/playtime/time_very_well_spent 31
-advancement grant @s[scores={exi_playtime_h=32..}] only existence_smp:stats/playtime/time_very_well_spent 32
-advancement grant @s[scores={exi_playtime_h=33..}] only existence_smp:stats/playtime/time_very_well_spent 33
-advancement grant @s[scores={exi_playtime_h=34..}] only existence_smp:stats/playtime/time_very_well_spent 34
-advancement grant @s[scores={exi_playtime_h=35..}] only existence_smp:stats/playtime/time_very_well_spent 35
-advancement grant @s[scores={exi_playtime_h=36..}] only existence_smp:stats/playtime/time_very_well_spent 36
-advancement grant @s[scores={exi_playtime_h=37..}] only existence_smp:stats/playtime/time_very_well_spent 37
-advancement grant @s[scores={exi_playtime_h=38..}] only existence_smp:stats/playtime/time_very_well_spent 38
-advancement grant @s[scores={exi_playtime_h=39..}] only existence_smp:stats/playtime/time_very_well_spent 39
-advancement grant @s[scores={exi_playtime_h=40..}] only existence_smp:stats/playtime/time_very_well_spent 40
-advancement grant @s[scores={exi_playtime_h=41..}] only existence_smp:stats/playtime/time_very_well_spent 41
-advancement grant @s[scores={exi_playtime_h=42..}] only existence_smp:stats/playtime/time_very_well_spent 42
-advancement grant @s[scores={exi_playtime_h=43..}] only existence_smp:stats/playtime/time_very_well_spent 43
-advancement grant @s[scores={exi_playtime_h=44..}] only existence_smp:stats/playtime/time_very_well_spent 44
-advancement grant @s[scores={exi_playtime_h=45..}] only existence_smp:stats/playtime/time_very_well_spent 45
-advancement grant @s[scores={exi_playtime_h=46..}] only existence_smp:stats/playtime/time_very_well_spent 46
-advancement grant @s[scores={exi_playtime_h=47..}] only existence_smp:stats/playtime/time_very_well_spent 47
-advancement grant @s[scores={exi_playtime_h=48..}] only existence_smp:stats/playtime/time_very_well_spent 48
-advancement grant @s[scores={exi_playtime_h=49..}] only existence_smp:stats/playtime/time_very_well_spent 49
-advancement grant @s[scores={exi_playtime_h=50..}] only existence_smp:stats/playtime/time_very_well_spent 50
-advancement grant @s[scores={exi_playtime_h=51..}] only existence_smp:stats/playtime/time_very_well_spent 51
-advancement grant @s[scores={exi_playtime_h=52..}] only existence_smp:stats/playtime/time_very_well_spent 52
-advancement grant @s[scores={exi_playtime_h=53..}] only existence_smp:stats/playtime/time_very_well_spent 53
-advancement grant @s[scores={exi_playtime_h=54..}] only existence_smp:stats/playtime/time_very_well_spent 54
-advancement grant @s[scores={exi_playtime_h=55..}] only existence_smp:stats/playtime/time_very_well_spent 55
-advancement grant @s[scores={exi_playtime_h=56..}] only existence_smp:stats/playtime/time_very_well_spent 56
-advancement grant @s[scores={exi_playtime_h=57..}] only existence_smp:stats/playtime/time_very_well_spent 57
-advancement grant @s[scores={exi_playtime_h=58..}] only existence_smp:stats/playtime/time_very_well_spent 58
-advancement grant @s[scores={exi_playtime_h=59..}] only existence_smp:stats/playtime/time_very_well_spent 59
-advancement grant @s[scores={exi_playtime_h=60..}] only existence_smp:stats/playtime/time_very_well_spent 60
-advancement grant @s[scores={exi_playtime_h=61..}] only existence_smp:stats/playtime/time_very_well_spent 61
-advancement grant @s[scores={exi_playtime_h=62..}] only existence_smp:stats/playtime/time_very_well_spent 62
-advancement grant @s[scores={exi_playtime_h=63..}] only existence_smp:stats/playtime/time_very_well_spent 63
-advancement grant @s[scores={exi_playtime_h=64..}] only existence_smp:stats/playtime/time_very_well_spent 64
-advancement grant @s[scores={exi_playtime_h=65..}] only existence_smp:stats/playtime/time_very_well_spent 65
-advancement grant @s[scores={exi_playtime_h=66..}] only existence_smp:stats/playtime/time_very_well_spent 66
-advancement grant @s[scores={exi_playtime_h=67..}] only existence_smp:stats/playtime/time_very_well_spent 67
-advancement grant @s[scores={exi_playtime_h=68..}] only existence_smp:stats/playtime/time_very_well_spent 68
-advancement grant @s[scores={exi_playtime_h=69..}] only existence_smp:stats/playtime/time_very_well_spent 69
-advancement grant @s[scores={exi_playtime_h=70..}] only existence_smp:stats/playtime/time_very_well_spent 70
-advancement grant @s[scores={exi_playtime_h=71..}] only existence_smp:stats/playtime/time_very_well_spent 71
-advancement grant @s[scores={exi_playtime_h=72..}] only existence_smp:stats/playtime/time_very_well_spent 72
-advancement grant @s[scores={exi_playtime_h=73..}] only existence_smp:stats/playtime/time_very_well_spent 73
-advancement grant @s[scores={exi_playtime_h=74..}] only existence_smp:stats/playtime/time_very_well_spent 74
-advancement grant @s[scores={exi_playtime_h=75..}] only existence_smp:stats/playtime/time_very_well_spent 75
-advancement grant @s[scores={exi_playtime_h=76..}] only existence_smp:stats/playtime/time_very_well_spent 76
-advancement grant @s[scores={exi_playtime_h=77..}] only existence_smp:stats/playtime/time_very_well_spent 77
-advancement grant @s[scores={exi_playtime_h=78..}] only existence_smp:stats/playtime/time_very_well_spent 78
-advancement grant @s[scores={exi_playtime_h=79..}] only existence_smp:stats/playtime/time_very_well_spent 79
-advancement grant @s[scores={exi_playtime_h=80..}] only existence_smp:stats/playtime/time_very_well_spent 80
-advancement grant @s[scores={exi_playtime_h=81..}] only existence_smp:stats/playtime/time_very_well_spent 81
-advancement grant @s[scores={exi_playtime_h=82..}] only existence_smp:stats/playtime/time_very_well_spent 82
-advancement grant @s[scores={exi_playtime_h=83..}] only existence_smp:stats/playtime/time_very_well_spent 83
-advancement grant @s[scores={exi_playtime_h=84..}] only existence_smp:stats/playtime/time_very_well_spent 84
-advancement grant @s[scores={exi_playtime_h=85..}] only existence_smp:stats/playtime/time_very_well_spent 85
-advancement grant @s[scores={exi_playtime_h=86..}] only existence_smp:stats/playtime/time_very_well_spent 86
-advancement grant @s[scores={exi_playtime_h=87..}] only existence_smp:stats/playtime/time_very_well_spent 87
-advancement grant @s[scores={exi_playtime_h=88..}] only existence_smp:stats/playtime/time_very_well_spent 88
-advancement grant @s[scores={exi_playtime_h=89..}] only existence_smp:stats/playtime/time_very_well_spent 89
-advancement grant @s[scores={exi_playtime_h=90..}] only existence_smp:stats/playtime/time_very_well_spent 90
-advancement grant @s[scores={exi_playtime_h=91..}] only existence_smp:stats/playtime/time_very_well_spent 91
-advancement grant @s[scores={exi_playtime_h=92..}] only existence_smp:stats/playtime/time_very_well_spent 92
-advancement grant @s[scores={exi_playtime_h=93..}] only existence_smp:stats/playtime/time_very_well_spent 93
-advancement grant @s[scores={exi_playtime_h=94..}] only existence_smp:stats/playtime/time_very_well_spent 94
-advancement grant @s[scores={exi_playtime_h=95..}] only existence_smp:stats/playtime/time_very_well_spent 95
-advancement grant @s[scores={exi_playtime_h=96..}] only existence_smp:stats/playtime/time_very_well_spent 96
-advancement grant @s[scores={exi_playtime_h=97..}] only existence_smp:stats/playtime/time_very_well_spent 97
-advancement grant @s[scores={exi_playtime_h=98..}] only existence_smp:stats/playtime/time_very_well_spent 98
-advancement grant @s[scores={exi_playtime_h=99..}] only existence_smp:stats/playtime/time_very_well_spent 99
-advancement grant @s[scores={exi_playtime_h=100..}] only existence_smp:stats/playtime/time_very_well_spent 100
+execute if score @s exi_playtime_h matches 1.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 1
+execute if score @s exi_playtime_h matches 2.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 2
+execute if score @s exi_playtime_h matches 3.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 3
+execute if score @s exi_playtime_h matches 4.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 4
+execute if score @s exi_playtime_h matches 5.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 5
+execute if score @s exi_playtime_h matches 6.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 6
+execute if score @s exi_playtime_h matches 7.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 7
+execute if score @s exi_playtime_h matches 8.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 8
+execute if score @s exi_playtime_h matches 9.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 9
+execute if score @s exi_playtime_h matches 10.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 10
+execute if score @s exi_playtime_h matches 11.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 11
+execute if score @s exi_playtime_h matches 12.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 12
+execute if score @s exi_playtime_h matches 13.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 13
+execute if score @s exi_playtime_h matches 14.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 14
+execute if score @s exi_playtime_h matches 15.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 15
+execute if score @s exi_playtime_h matches 16.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 16
+execute if score @s exi_playtime_h matches 17.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 17
+execute if score @s exi_playtime_h matches 18.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 18
+execute if score @s exi_playtime_h matches 19.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 19
+execute if score @s exi_playtime_h matches 20.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 20
+execute if score @s exi_playtime_h matches 21.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 21
+execute if score @s exi_playtime_h matches 22.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 22
+execute if score @s exi_playtime_h matches 23.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 23
+execute if score @s exi_playtime_h matches 24.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 24
+execute if score @s exi_playtime_h matches 25.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 25
+execute if score @s exi_playtime_h matches 26.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 26
+execute if score @s exi_playtime_h matches 27.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 27
+execute if score @s exi_playtime_h matches 28.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 28
+execute if score @s exi_playtime_h matches 29.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 29
+execute if score @s exi_playtime_h matches 30.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 30
+execute if score @s exi_playtime_h matches 31.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 31
+execute if score @s exi_playtime_h matches 32.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 32
+execute if score @s exi_playtime_h matches 33.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 33
+execute if score @s exi_playtime_h matches 34.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 34
+execute if score @s exi_playtime_h matches 35.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 35
+execute if score @s exi_playtime_h matches 36.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 36
+execute if score @s exi_playtime_h matches 37.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 37
+execute if score @s exi_playtime_h matches 38.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 38
+execute if score @s exi_playtime_h matches 39.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 39
+execute if score @s exi_playtime_h matches 40.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 40
+execute if score @s exi_playtime_h matches 41.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 41
+execute if score @s exi_playtime_h matches 42.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 42
+execute if score @s exi_playtime_h matches 43.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 43
+execute if score @s exi_playtime_h matches 44.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 44
+execute if score @s exi_playtime_h matches 45.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 45
+execute if score @s exi_playtime_h matches 46.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 46
+execute if score @s exi_playtime_h matches 47.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 47
+execute if score @s exi_playtime_h matches 48.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 48
+execute if score @s exi_playtime_h matches 49.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 49
+execute if score @s exi_playtime_h matches 50.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 50
+execute if score @s exi_playtime_h matches 51.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 51
+execute if score @s exi_playtime_h matches 52.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 52
+execute if score @s exi_playtime_h matches 53.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 53
+execute if score @s exi_playtime_h matches 54.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 54
+execute if score @s exi_playtime_h matches 55.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 55
+execute if score @s exi_playtime_h matches 56.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 56
+execute if score @s exi_playtime_h matches 57.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 57
+execute if score @s exi_playtime_h matches 58.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 58
+execute if score @s exi_playtime_h matches 59.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 59
+execute if score @s exi_playtime_h matches 60.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 60
+execute if score @s exi_playtime_h matches 61.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 61
+execute if score @s exi_playtime_h matches 62.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 62
+execute if score @s exi_playtime_h matches 63.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 63
+execute if score @s exi_playtime_h matches 64.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 64
+execute if score @s exi_playtime_h matches 65.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 65
+execute if score @s exi_playtime_h matches 66.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 66
+execute if score @s exi_playtime_h matches 67.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 67
+execute if score @s exi_playtime_h matches 68.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 68
+execute if score @s exi_playtime_h matches 69.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 69
+execute if score @s exi_playtime_h matches 70.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 70
+execute if score @s exi_playtime_h matches 71.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 71
+execute if score @s exi_playtime_h matches 72.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 72
+execute if score @s exi_playtime_h matches 73.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 73
+execute if score @s exi_playtime_h matches 74.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 74
+execute if score @s exi_playtime_h matches 75.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 75
+execute if score @s exi_playtime_h matches 76.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 76
+execute if score @s exi_playtime_h matches 77.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 77
+execute if score @s exi_playtime_h matches 78.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 78
+execute if score @s exi_playtime_h matches 79.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 79
+execute if score @s exi_playtime_h matches 80.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 80
+execute if score @s exi_playtime_h matches 81.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 81
+execute if score @s exi_playtime_h matches 82.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 82
+execute if score @s exi_playtime_h matches 83.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 83
+execute if score @s exi_playtime_h matches 84.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 84
+execute if score @s exi_playtime_h matches 85.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 85
+execute if score @s exi_playtime_h matches 86.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 86
+execute if score @s exi_playtime_h matches 87.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 87
+execute if score @s exi_playtime_h matches 88.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 88
+execute if score @s exi_playtime_h matches 89.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 89
+execute if score @s exi_playtime_h matches 90.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 90
+execute if score @s exi_playtime_h matches 91.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 91
+execute if score @s exi_playtime_h matches 92.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 92
+execute if score @s exi_playtime_h matches 93.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 93
+execute if score @s exi_playtime_h matches 94.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 94
+execute if score @s exi_playtime_h matches 95.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 95
+execute if score @s exi_playtime_h matches 96.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 96
+execute if score @s exi_playtime_h matches 97.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 97
+execute if score @s exi_playtime_h matches 98.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 98
+execute if score @s exi_playtime_h matches 99.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 99
+execute if score @s exi_playtime_h matches 100.. run advancement grant @s only existence_smp:stats/playtime/time_very_well_spent 100
 
 #time_extremely_well_spent
-advancement grant @s[scores={exi_playtime_h=1..}] only existence_smp:stats/playtime/time_extremely_well_spent 1
-advancement grant @s[scores={exi_playtime_h=2..}] only existence_smp:stats/playtime/time_extremely_well_spent 2
-advancement grant @s[scores={exi_playtime_h=3..}] only existence_smp:stats/playtime/time_extremely_well_spent 3
-advancement grant @s[scores={exi_playtime_h=4..}] only existence_smp:stats/playtime/time_extremely_well_spent 4
-advancement grant @s[scores={exi_playtime_h=5..}] only existence_smp:stats/playtime/time_extremely_well_spent 5
-advancement grant @s[scores={exi_playtime_h=6..}] only existence_smp:stats/playtime/time_extremely_well_spent 6
-advancement grant @s[scores={exi_playtime_h=7..}] only existence_smp:stats/playtime/time_extremely_well_spent 7
-advancement grant @s[scores={exi_playtime_h=8..}] only existence_smp:stats/playtime/time_extremely_well_spent 8
-advancement grant @s[scores={exi_playtime_h=9..}] only existence_smp:stats/playtime/time_extremely_well_spent 9
-advancement grant @s[scores={exi_playtime_h=10..}] only existence_smp:stats/playtime/time_extremely_well_spent 10
-advancement grant @s[scores={exi_playtime_h=11..}] only existence_smp:stats/playtime/time_extremely_well_spent 11
-advancement grant @s[scores={exi_playtime_h=12..}] only existence_smp:stats/playtime/time_extremely_well_spent 12
-advancement grant @s[scores={exi_playtime_h=13..}] only existence_smp:stats/playtime/time_extremely_well_spent 13
-advancement grant @s[scores={exi_playtime_h=14..}] only existence_smp:stats/playtime/time_extremely_well_spent 14
-advancement grant @s[scores={exi_playtime_h=15..}] only existence_smp:stats/playtime/time_extremely_well_spent 15
-advancement grant @s[scores={exi_playtime_h=16..}] only existence_smp:stats/playtime/time_extremely_well_spent 16
-advancement grant @s[scores={exi_playtime_h=17..}] only existence_smp:stats/playtime/time_extremely_well_spent 17
-advancement grant @s[scores={exi_playtime_h=18..}] only existence_smp:stats/playtime/time_extremely_well_spent 18
-advancement grant @s[scores={exi_playtime_h=19..}] only existence_smp:stats/playtime/time_extremely_well_spent 19
-advancement grant @s[scores={exi_playtime_h=20..}] only existence_smp:stats/playtime/time_extremely_well_spent 20
-advancement grant @s[scores={exi_playtime_h=21..}] only existence_smp:stats/playtime/time_extremely_well_spent 21
-advancement grant @s[scores={exi_playtime_h=22..}] only existence_smp:stats/playtime/time_extremely_well_spent 22
-advancement grant @s[scores={exi_playtime_h=23..}] only existence_smp:stats/playtime/time_extremely_well_spent 23
-advancement grant @s[scores={exi_playtime_h=24..}] only existence_smp:stats/playtime/time_extremely_well_spent 24
-advancement grant @s[scores={exi_playtime_h=25..}] only existence_smp:stats/playtime/time_extremely_well_spent 25
-advancement grant @s[scores={exi_playtime_h=26..}] only existence_smp:stats/playtime/time_extremely_well_spent 26
-advancement grant @s[scores={exi_playtime_h=27..}] only existence_smp:stats/playtime/time_extremely_well_spent 27
-advancement grant @s[scores={exi_playtime_h=28..}] only existence_smp:stats/playtime/time_extremely_well_spent 28
-advancement grant @s[scores={exi_playtime_h=29..}] only existence_smp:stats/playtime/time_extremely_well_spent 29
-advancement grant @s[scores={exi_playtime_h=30..}] only existence_smp:stats/playtime/time_extremely_well_spent 30
-advancement grant @s[scores={exi_playtime_h=31..}] only existence_smp:stats/playtime/time_extremely_well_spent 31
-advancement grant @s[scores={exi_playtime_h=32..}] only existence_smp:stats/playtime/time_extremely_well_spent 32
-advancement grant @s[scores={exi_playtime_h=33..}] only existence_smp:stats/playtime/time_extremely_well_spent 33
-advancement grant @s[scores={exi_playtime_h=34..}] only existence_smp:stats/playtime/time_extremely_well_spent 34
-advancement grant @s[scores={exi_playtime_h=35..}] only existence_smp:stats/playtime/time_extremely_well_spent 35
-advancement grant @s[scores={exi_playtime_h=36..}] only existence_smp:stats/playtime/time_extremely_well_spent 36
-advancement grant @s[scores={exi_playtime_h=37..}] only existence_smp:stats/playtime/time_extremely_well_spent 37
-advancement grant @s[scores={exi_playtime_h=38..}] only existence_smp:stats/playtime/time_extremely_well_spent 38
-advancement grant @s[scores={exi_playtime_h=39..}] only existence_smp:stats/playtime/time_extremely_well_spent 39
-advancement grant @s[scores={exi_playtime_h=40..}] only existence_smp:stats/playtime/time_extremely_well_spent 40
-advancement grant @s[scores={exi_playtime_h=41..}] only existence_smp:stats/playtime/time_extremely_well_spent 41
-advancement grant @s[scores={exi_playtime_h=42..}] only existence_smp:stats/playtime/time_extremely_well_spent 42
-advancement grant @s[scores={exi_playtime_h=43..}] only existence_smp:stats/playtime/time_extremely_well_spent 43
-advancement grant @s[scores={exi_playtime_h=44..}] only existence_smp:stats/playtime/time_extremely_well_spent 44
-advancement grant @s[scores={exi_playtime_h=45..}] only existence_smp:stats/playtime/time_extremely_well_spent 45
-advancement grant @s[scores={exi_playtime_h=46..}] only existence_smp:stats/playtime/time_extremely_well_spent 46
-advancement grant @s[scores={exi_playtime_h=47..}] only existence_smp:stats/playtime/time_extremely_well_spent 47
-advancement grant @s[scores={exi_playtime_h=48..}] only existence_smp:stats/playtime/time_extremely_well_spent 48
-advancement grant @s[scores={exi_playtime_h=49..}] only existence_smp:stats/playtime/time_extremely_well_spent 49
-advancement grant @s[scores={exi_playtime_h=50..}] only existence_smp:stats/playtime/time_extremely_well_spent 50
-advancement grant @s[scores={exi_playtime_h=51..}] only existence_smp:stats/playtime/time_extremely_well_spent 51
-advancement grant @s[scores={exi_playtime_h=52..}] only existence_smp:stats/playtime/time_extremely_well_spent 52
-advancement grant @s[scores={exi_playtime_h=53..}] only existence_smp:stats/playtime/time_extremely_well_spent 53
-advancement grant @s[scores={exi_playtime_h=54..}] only existence_smp:stats/playtime/time_extremely_well_spent 54
-advancement grant @s[scores={exi_playtime_h=55..}] only existence_smp:stats/playtime/time_extremely_well_spent 55
-advancement grant @s[scores={exi_playtime_h=56..}] only existence_smp:stats/playtime/time_extremely_well_spent 56
-advancement grant @s[scores={exi_playtime_h=57..}] only existence_smp:stats/playtime/time_extremely_well_spent 57
-advancement grant @s[scores={exi_playtime_h=58..}] only existence_smp:stats/playtime/time_extremely_well_spent 58
-advancement grant @s[scores={exi_playtime_h=59..}] only existence_smp:stats/playtime/time_extremely_well_spent 59
-advancement grant @s[scores={exi_playtime_h=60..}] only existence_smp:stats/playtime/time_extremely_well_spent 60
-advancement grant @s[scores={exi_playtime_h=61..}] only existence_smp:stats/playtime/time_extremely_well_spent 61
-advancement grant @s[scores={exi_playtime_h=62..}] only existence_smp:stats/playtime/time_extremely_well_spent 62
-advancement grant @s[scores={exi_playtime_h=63..}] only existence_smp:stats/playtime/time_extremely_well_spent 63
-advancement grant @s[scores={exi_playtime_h=64..}] only existence_smp:stats/playtime/time_extremely_well_spent 64
-advancement grant @s[scores={exi_playtime_h=65..}] only existence_smp:stats/playtime/time_extremely_well_spent 65
-advancement grant @s[scores={exi_playtime_h=66..}] only existence_smp:stats/playtime/time_extremely_well_spent 66
-advancement grant @s[scores={exi_playtime_h=67..}] only existence_smp:stats/playtime/time_extremely_well_spent 67
-advancement grant @s[scores={exi_playtime_h=68..}] only existence_smp:stats/playtime/time_extremely_well_spent 68
-advancement grant @s[scores={exi_playtime_h=69..}] only existence_smp:stats/playtime/time_extremely_well_spent 69
-advancement grant @s[scores={exi_playtime_h=70..}] only existence_smp:stats/playtime/time_extremely_well_spent 70
-advancement grant @s[scores={exi_playtime_h=71..}] only existence_smp:stats/playtime/time_extremely_well_spent 71
-advancement grant @s[scores={exi_playtime_h=72..}] only existence_smp:stats/playtime/time_extremely_well_spent 72
-advancement grant @s[scores={exi_playtime_h=73..}] only existence_smp:stats/playtime/time_extremely_well_spent 73
-advancement grant @s[scores={exi_playtime_h=74..}] only existence_smp:stats/playtime/time_extremely_well_spent 74
-advancement grant @s[scores={exi_playtime_h=75..}] only existence_smp:stats/playtime/time_extremely_well_spent 75
-advancement grant @s[scores={exi_playtime_h=76..}] only existence_smp:stats/playtime/time_extremely_well_spent 76
-advancement grant @s[scores={exi_playtime_h=77..}] only existence_smp:stats/playtime/time_extremely_well_spent 77
-advancement grant @s[scores={exi_playtime_h=78..}] only existence_smp:stats/playtime/time_extremely_well_spent 78
-advancement grant @s[scores={exi_playtime_h=79..}] only existence_smp:stats/playtime/time_extremely_well_spent 79
-advancement grant @s[scores={exi_playtime_h=80..}] only existence_smp:stats/playtime/time_extremely_well_spent 80
-advancement grant @s[scores={exi_playtime_h=81..}] only existence_smp:stats/playtime/time_extremely_well_spent 81
-advancement grant @s[scores={exi_playtime_h=82..}] only existence_smp:stats/playtime/time_extremely_well_spent 82
-advancement grant @s[scores={exi_playtime_h=83..}] only existence_smp:stats/playtime/time_extremely_well_spent 83
-advancement grant @s[scores={exi_playtime_h=84..}] only existence_smp:stats/playtime/time_extremely_well_spent 84
-advancement grant @s[scores={exi_playtime_h=85..}] only existence_smp:stats/playtime/time_extremely_well_spent 85
-advancement grant @s[scores={exi_playtime_h=86..}] only existence_smp:stats/playtime/time_extremely_well_spent 86
-advancement grant @s[scores={exi_playtime_h=87..}] only existence_smp:stats/playtime/time_extremely_well_spent 87
-advancement grant @s[scores={exi_playtime_h=88..}] only existence_smp:stats/playtime/time_extremely_well_spent 88
-advancement grant @s[scores={exi_playtime_h=89..}] only existence_smp:stats/playtime/time_extremely_well_spent 89
-advancement grant @s[scores={exi_playtime_h=90..}] only existence_smp:stats/playtime/time_extremely_well_spent 90
-advancement grant @s[scores={exi_playtime_h=91..}] only existence_smp:stats/playtime/time_extremely_well_spent 91
-advancement grant @s[scores={exi_playtime_h=92..}] only existence_smp:stats/playtime/time_extremely_well_spent 92
-advancement grant @s[scores={exi_playtime_h=93..}] only existence_smp:stats/playtime/time_extremely_well_spent 93
-advancement grant @s[scores={exi_playtime_h=94..}] only existence_smp:stats/playtime/time_extremely_well_spent 94
-advancement grant @s[scores={exi_playtime_h=95..}] only existence_smp:stats/playtime/time_extremely_well_spent 95
-advancement grant @s[scores={exi_playtime_h=96..}] only existence_smp:stats/playtime/time_extremely_well_spent 96
-advancement grant @s[scores={exi_playtime_h=97..}] only existence_smp:stats/playtime/time_extremely_well_spent 97
-advancement grant @s[scores={exi_playtime_h=98..}] only existence_smp:stats/playtime/time_extremely_well_spent 98
-advancement grant @s[scores={exi_playtime_h=99..}] only existence_smp:stats/playtime/time_extremely_well_spent 99
-advancement grant @s[scores={exi_playtime_h=100..}] only existence_smp:stats/playtime/time_extremely_well_spent 100
+execute if score @s exi_playtime_h matches 1.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 1
+execute if score @s exi_playtime_h matches 2.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 2
+execute if score @s exi_playtime_h matches 3.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 3
+execute if score @s exi_playtime_h matches 4.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 4
+execute if score @s exi_playtime_h matches 5.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 5
+execute if score @s exi_playtime_h matches 6.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 6
+execute if score @s exi_playtime_h matches 7.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 7
+execute if score @s exi_playtime_h matches 8.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 8
+execute if score @s exi_playtime_h matches 9.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 9
+execute if score @s exi_playtime_h matches 10.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 10
+execute if score @s exi_playtime_h matches 11.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 11
+execute if score @s exi_playtime_h matches 12.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 12
+execute if score @s exi_playtime_h matches 13.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 13
+execute if score @s exi_playtime_h matches 14.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 14
+execute if score @s exi_playtime_h matches 15.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 15
+execute if score @s exi_playtime_h matches 16.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 16
+execute if score @s exi_playtime_h matches 17.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 17
+execute if score @s exi_playtime_h matches 18.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 18
+execute if score @s exi_playtime_h matches 19.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 19
+execute if score @s exi_playtime_h matches 20.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 20
+execute if score @s exi_playtime_h matches 21.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 21
+execute if score @s exi_playtime_h matches 22.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 22
+execute if score @s exi_playtime_h matches 23.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 23
+execute if score @s exi_playtime_h matches 24.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 24
+execute if score @s exi_playtime_h matches 25.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 25
+execute if score @s exi_playtime_h matches 26.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 26
+execute if score @s exi_playtime_h matches 27.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 27
+execute if score @s exi_playtime_h matches 28.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 28
+execute if score @s exi_playtime_h matches 29.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 29
+execute if score @s exi_playtime_h matches 30.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 30
+execute if score @s exi_playtime_h matches 31.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 31
+execute if score @s exi_playtime_h matches 32.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 32
+execute if score @s exi_playtime_h matches 33.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 33
+execute if score @s exi_playtime_h matches 34.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 34
+execute if score @s exi_playtime_h matches 35.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 35
+execute if score @s exi_playtime_h matches 36.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 36
+execute if score @s exi_playtime_h matches 37.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 37
+execute if score @s exi_playtime_h matches 38.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 38
+execute if score @s exi_playtime_h matches 39.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 39
+execute if score @s exi_playtime_h matches 40.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 40
+execute if score @s exi_playtime_h matches 41.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 41
+execute if score @s exi_playtime_h matches 42.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 42
+execute if score @s exi_playtime_h matches 43.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 43
+execute if score @s exi_playtime_h matches 44.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 44
+execute if score @s exi_playtime_h matches 45.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 45
+execute if score @s exi_playtime_h matches 46.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 46
+execute if score @s exi_playtime_h matches 47.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 47
+execute if score @s exi_playtime_h matches 48.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 48
+execute if score @s exi_playtime_h matches 49.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 49
+execute if score @s exi_playtime_h matches 50.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 50
+execute if score @s exi_playtime_h matches 51.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 51
+execute if score @s exi_playtime_h matches 52.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 52
+execute if score @s exi_playtime_h matches 53.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 53
+execute if score @s exi_playtime_h matches 54.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 54
+execute if score @s exi_playtime_h matches 55.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 55
+execute if score @s exi_playtime_h matches 56.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 56
+execute if score @s exi_playtime_h matches 57.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 57
+execute if score @s exi_playtime_h matches 58.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 58
+execute if score @s exi_playtime_h matches 59.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 59
+execute if score @s exi_playtime_h matches 60.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 60
+execute if score @s exi_playtime_h matches 61.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 61
+execute if score @s exi_playtime_h matches 62.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 62
+execute if score @s exi_playtime_h matches 63.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 63
+execute if score @s exi_playtime_h matches 64.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 64
+execute if score @s exi_playtime_h matches 65.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 65
+execute if score @s exi_playtime_h matches 66.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 66
+execute if score @s exi_playtime_h matches 67.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 67
+execute if score @s exi_playtime_h matches 68.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 68
+execute if score @s exi_playtime_h matches 69.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 69
+execute if score @s exi_playtime_h matches 70.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 70
+execute if score @s exi_playtime_h matches 71.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 71
+execute if score @s exi_playtime_h matches 72.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 72
+execute if score @s exi_playtime_h matches 73.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 73
+execute if score @s exi_playtime_h matches 74.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 74
+execute if score @s exi_playtime_h matches 75.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 75
+execute if score @s exi_playtime_h matches 76.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 76
+execute if score @s exi_playtime_h matches 77.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 77
+execute if score @s exi_playtime_h matches 78.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 78
+execute if score @s exi_playtime_h matches 79.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 79
+execute if score @s exi_playtime_h matches 80.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 80
+execute if score @s exi_playtime_h matches 81.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 81
+execute if score @s exi_playtime_h matches 82.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 82
+execute if score @s exi_playtime_h matches 83.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 83
+execute if score @s exi_playtime_h matches 84.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 84
+execute if score @s exi_playtime_h matches 85.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 85
+execute if score @s exi_playtime_h matches 86.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 86
+execute if score @s exi_playtime_h matches 87.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 87
+execute if score @s exi_playtime_h matches 88.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 88
+execute if score @s exi_playtime_h matches 89.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 89
+execute if score @s exi_playtime_h matches 90.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 90
+execute if score @s exi_playtime_h matches 91.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 91
+execute if score @s exi_playtime_h matches 92.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 92
+execute if score @s exi_playtime_h matches 93.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 93
+execute if score @s exi_playtime_h matches 94.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 94
+execute if score @s exi_playtime_h matches 95.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 95
+execute if score @s exi_playtime_h matches 96.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 96
+execute if score @s exi_playtime_h matches 97.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 97
+execute if score @s exi_playtime_h matches 98.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 98
+execute if score @s exi_playtime_h matches 99.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 99
+execute if score @s exi_playtime_h matches 100.. run advancement grant @s only existence_smp:stats/playtime/time_extremely_well_spent 100
 
 execute if score @s exi_playtime_h matches 100.. run function existence_smp:advancement_check/playtime/200

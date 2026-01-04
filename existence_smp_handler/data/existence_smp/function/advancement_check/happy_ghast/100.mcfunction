@@ -1,105 +1,105 @@
 #Debug clean
 execute unless score @s exi_happy_ghast_km = @s exi_happy_ghast_km run advancement revoke @s from existence_smp:stats/happy_ghast/fly_100_km
-advancement revoke @s[scores={exi_happy_ghast_km=0}] from existence_smp:stats/happy_ghast/fly_100_km
+execute if score @s exi_happy_ghast_km matches 0 run advancement revoke @s from existence_smp:stats/happy_ghast/fly_100_km
 
 #fly_100_km
-advancement grant @s[scores={exi_happy_ghast_km=1..}] only existence_smp:stats/happy_ghast/fly_100_km 1
-advancement grant @s[scores={exi_happy_ghast_km=2..}] only existence_smp:stats/happy_ghast/fly_100_km 2
-advancement grant @s[scores={exi_happy_ghast_km=3..}] only existence_smp:stats/happy_ghast/fly_100_km 3
-advancement grant @s[scores={exi_happy_ghast_km=4..}] only existence_smp:stats/happy_ghast/fly_100_km 4
-advancement grant @s[scores={exi_happy_ghast_km=5..}] only existence_smp:stats/happy_ghast/fly_100_km 5
-advancement grant @s[scores={exi_happy_ghast_km=6..}] only existence_smp:stats/happy_ghast/fly_100_km 6
-advancement grant @s[scores={exi_happy_ghast_km=7..}] only existence_smp:stats/happy_ghast/fly_100_km 7
-advancement grant @s[scores={exi_happy_ghast_km=8..}] only existence_smp:stats/happy_ghast/fly_100_km 8
-advancement grant @s[scores={exi_happy_ghast_km=9..}] only existence_smp:stats/happy_ghast/fly_100_km 9
-advancement grant @s[scores={exi_happy_ghast_km=10..}] only existence_smp:stats/happy_ghast/fly_100_km 10
-advancement grant @s[scores={exi_happy_ghast_km=11..}] only existence_smp:stats/happy_ghast/fly_100_km 11
-advancement grant @s[scores={exi_happy_ghast_km=12..}] only existence_smp:stats/happy_ghast/fly_100_km 12
-advancement grant @s[scores={exi_happy_ghast_km=13..}] only existence_smp:stats/happy_ghast/fly_100_km 13
-advancement grant @s[scores={exi_happy_ghast_km=14..}] only existence_smp:stats/happy_ghast/fly_100_km 14
-advancement grant @s[scores={exi_happy_ghast_km=15..}] only existence_smp:stats/happy_ghast/fly_100_km 15
-advancement grant @s[scores={exi_happy_ghast_km=16..}] only existence_smp:stats/happy_ghast/fly_100_km 16
-advancement grant @s[scores={exi_happy_ghast_km=17..}] only existence_smp:stats/happy_ghast/fly_100_km 17
-advancement grant @s[scores={exi_happy_ghast_km=18..}] only existence_smp:stats/happy_ghast/fly_100_km 18
-advancement grant @s[scores={exi_happy_ghast_km=19..}] only existence_smp:stats/happy_ghast/fly_100_km 19
-advancement grant @s[scores={exi_happy_ghast_km=20..}] only existence_smp:stats/happy_ghast/fly_100_km 20
-advancement grant @s[scores={exi_happy_ghast_km=21..}] only existence_smp:stats/happy_ghast/fly_100_km 21
-advancement grant @s[scores={exi_happy_ghast_km=22..}] only existence_smp:stats/happy_ghast/fly_100_km 22
-advancement grant @s[scores={exi_happy_ghast_km=23..}] only existence_smp:stats/happy_ghast/fly_100_km 23
-advancement grant @s[scores={exi_happy_ghast_km=24..}] only existence_smp:stats/happy_ghast/fly_100_km 24
-advancement grant @s[scores={exi_happy_ghast_km=25..}] only existence_smp:stats/happy_ghast/fly_100_km 25
-advancement grant @s[scores={exi_happy_ghast_km=26..}] only existence_smp:stats/happy_ghast/fly_100_km 26
-advancement grant @s[scores={exi_happy_ghast_km=27..}] only existence_smp:stats/happy_ghast/fly_100_km 27
-advancement grant @s[scores={exi_happy_ghast_km=28..}] only existence_smp:stats/happy_ghast/fly_100_km 28
-advancement grant @s[scores={exi_happy_ghast_km=29..}] only existence_smp:stats/happy_ghast/fly_100_km 29
-advancement grant @s[scores={exi_happy_ghast_km=30..}] only existence_smp:stats/happy_ghast/fly_100_km 30
-advancement grant @s[scores={exi_happy_ghast_km=31..}] only existence_smp:stats/happy_ghast/fly_100_km 31
-advancement grant @s[scores={exi_happy_ghast_km=32..}] only existence_smp:stats/happy_ghast/fly_100_km 32
-advancement grant @s[scores={exi_happy_ghast_km=33..}] only existence_smp:stats/happy_ghast/fly_100_km 33
-advancement grant @s[scores={exi_happy_ghast_km=34..}] only existence_smp:stats/happy_ghast/fly_100_km 34
-advancement grant @s[scores={exi_happy_ghast_km=35..}] only existence_smp:stats/happy_ghast/fly_100_km 35
-advancement grant @s[scores={exi_happy_ghast_km=36..}] only existence_smp:stats/happy_ghast/fly_100_km 36
-advancement grant @s[scores={exi_happy_ghast_km=37..}] only existence_smp:stats/happy_ghast/fly_100_km 37
-advancement grant @s[scores={exi_happy_ghast_km=38..}] only existence_smp:stats/happy_ghast/fly_100_km 38
-advancement grant @s[scores={exi_happy_ghast_km=39..}] only existence_smp:stats/happy_ghast/fly_100_km 39
-advancement grant @s[scores={exi_happy_ghast_km=40..}] only existence_smp:stats/happy_ghast/fly_100_km 40
-advancement grant @s[scores={exi_happy_ghast_km=41..}] only existence_smp:stats/happy_ghast/fly_100_km 41
-advancement grant @s[scores={exi_happy_ghast_km=42..}] only existence_smp:stats/happy_ghast/fly_100_km 42
-advancement grant @s[scores={exi_happy_ghast_km=43..}] only existence_smp:stats/happy_ghast/fly_100_km 43
-advancement grant @s[scores={exi_happy_ghast_km=44..}] only existence_smp:stats/happy_ghast/fly_100_km 44
-advancement grant @s[scores={exi_happy_ghast_km=45..}] only existence_smp:stats/happy_ghast/fly_100_km 45
-advancement grant @s[scores={exi_happy_ghast_km=46..}] only existence_smp:stats/happy_ghast/fly_100_km 46
-advancement grant @s[scores={exi_happy_ghast_km=47..}] only existence_smp:stats/happy_ghast/fly_100_km 47
-advancement grant @s[scores={exi_happy_ghast_km=48..}] only existence_smp:stats/happy_ghast/fly_100_km 48
-advancement grant @s[scores={exi_happy_ghast_km=49..}] only existence_smp:stats/happy_ghast/fly_100_km 49
-advancement grant @s[scores={exi_happy_ghast_km=50..}] only existence_smp:stats/happy_ghast/fly_100_km 50
-advancement grant @s[scores={exi_happy_ghast_km=51..}] only existence_smp:stats/happy_ghast/fly_100_km 51
-advancement grant @s[scores={exi_happy_ghast_km=52..}] only existence_smp:stats/happy_ghast/fly_100_km 52
-advancement grant @s[scores={exi_happy_ghast_km=53..}] only existence_smp:stats/happy_ghast/fly_100_km 53
-advancement grant @s[scores={exi_happy_ghast_km=54..}] only existence_smp:stats/happy_ghast/fly_100_km 54
-advancement grant @s[scores={exi_happy_ghast_km=55..}] only existence_smp:stats/happy_ghast/fly_100_km 55
-advancement grant @s[scores={exi_happy_ghast_km=56..}] only existence_smp:stats/happy_ghast/fly_100_km 56
-advancement grant @s[scores={exi_happy_ghast_km=57..}] only existence_smp:stats/happy_ghast/fly_100_km 57
-advancement grant @s[scores={exi_happy_ghast_km=58..}] only existence_smp:stats/happy_ghast/fly_100_km 58
-advancement grant @s[scores={exi_happy_ghast_km=59..}] only existence_smp:stats/happy_ghast/fly_100_km 59
-advancement grant @s[scores={exi_happy_ghast_km=60..}] only existence_smp:stats/happy_ghast/fly_100_km 60
-advancement grant @s[scores={exi_happy_ghast_km=61..}] only existence_smp:stats/happy_ghast/fly_100_km 61
-advancement grant @s[scores={exi_happy_ghast_km=62..}] only existence_smp:stats/happy_ghast/fly_100_km 62
-advancement grant @s[scores={exi_happy_ghast_km=63..}] only existence_smp:stats/happy_ghast/fly_100_km 63
-advancement grant @s[scores={exi_happy_ghast_km=64..}] only existence_smp:stats/happy_ghast/fly_100_km 64
-advancement grant @s[scores={exi_happy_ghast_km=65..}] only existence_smp:stats/happy_ghast/fly_100_km 65
-advancement grant @s[scores={exi_happy_ghast_km=66..}] only existence_smp:stats/happy_ghast/fly_100_km 66
-advancement grant @s[scores={exi_happy_ghast_km=67..}] only existence_smp:stats/happy_ghast/fly_100_km 67
-advancement grant @s[scores={exi_happy_ghast_km=68..}] only existence_smp:stats/happy_ghast/fly_100_km 68
-advancement grant @s[scores={exi_happy_ghast_km=69..}] only existence_smp:stats/happy_ghast/fly_100_km 69
-advancement grant @s[scores={exi_happy_ghast_km=70..}] only existence_smp:stats/happy_ghast/fly_100_km 70
-advancement grant @s[scores={exi_happy_ghast_km=71..}] only existence_smp:stats/happy_ghast/fly_100_km 71
-advancement grant @s[scores={exi_happy_ghast_km=72..}] only existence_smp:stats/happy_ghast/fly_100_km 72
-advancement grant @s[scores={exi_happy_ghast_km=73..}] only existence_smp:stats/happy_ghast/fly_100_km 73
-advancement grant @s[scores={exi_happy_ghast_km=74..}] only existence_smp:stats/happy_ghast/fly_100_km 74
-advancement grant @s[scores={exi_happy_ghast_km=75..}] only existence_smp:stats/happy_ghast/fly_100_km 75
-advancement grant @s[scores={exi_happy_ghast_km=76..}] only existence_smp:stats/happy_ghast/fly_100_km 76
-advancement grant @s[scores={exi_happy_ghast_km=77..}] only existence_smp:stats/happy_ghast/fly_100_km 77
-advancement grant @s[scores={exi_happy_ghast_km=78..}] only existence_smp:stats/happy_ghast/fly_100_km 78
-advancement grant @s[scores={exi_happy_ghast_km=79..}] only existence_smp:stats/happy_ghast/fly_100_km 79
-advancement grant @s[scores={exi_happy_ghast_km=80..}] only existence_smp:stats/happy_ghast/fly_100_km 80
-advancement grant @s[scores={exi_happy_ghast_km=81..}] only existence_smp:stats/happy_ghast/fly_100_km 81
-advancement grant @s[scores={exi_happy_ghast_km=82..}] only existence_smp:stats/happy_ghast/fly_100_km 82
-advancement grant @s[scores={exi_happy_ghast_km=83..}] only existence_smp:stats/happy_ghast/fly_100_km 83
-advancement grant @s[scores={exi_happy_ghast_km=84..}] only existence_smp:stats/happy_ghast/fly_100_km 84
-advancement grant @s[scores={exi_happy_ghast_km=85..}] only existence_smp:stats/happy_ghast/fly_100_km 85
-advancement grant @s[scores={exi_happy_ghast_km=86..}] only existence_smp:stats/happy_ghast/fly_100_km 86
-advancement grant @s[scores={exi_happy_ghast_km=87..}] only existence_smp:stats/happy_ghast/fly_100_km 87
-advancement grant @s[scores={exi_happy_ghast_km=88..}] only existence_smp:stats/happy_ghast/fly_100_km 88
-advancement grant @s[scores={exi_happy_ghast_km=89..}] only existence_smp:stats/happy_ghast/fly_100_km 89
-advancement grant @s[scores={exi_happy_ghast_km=90..}] only existence_smp:stats/happy_ghast/fly_100_km 90
-advancement grant @s[scores={exi_happy_ghast_km=91..}] only existence_smp:stats/happy_ghast/fly_100_km 91
-advancement grant @s[scores={exi_happy_ghast_km=92..}] only existence_smp:stats/happy_ghast/fly_100_km 92
-advancement grant @s[scores={exi_happy_ghast_km=93..}] only existence_smp:stats/happy_ghast/fly_100_km 93
-advancement grant @s[scores={exi_happy_ghast_km=94..}] only existence_smp:stats/happy_ghast/fly_100_km 94
-advancement grant @s[scores={exi_happy_ghast_km=95..}] only existence_smp:stats/happy_ghast/fly_100_km 95
-advancement grant @s[scores={exi_happy_ghast_km=96..}] only existence_smp:stats/happy_ghast/fly_100_km 96
-advancement grant @s[scores={exi_happy_ghast_km=97..}] only existence_smp:stats/happy_ghast/fly_100_km 97
-advancement grant @s[scores={exi_happy_ghast_km=98..}] only existence_smp:stats/happy_ghast/fly_100_km 98
-advancement grant @s[scores={exi_happy_ghast_km=99..}] only existence_smp:stats/happy_ghast/fly_100_km 99
-advancement grant @s[scores={exi_happy_ghast_km=100..}] only existence_smp:stats/happy_ghast/fly_100_km 100
+execute if score @s exi_happy_ghast_km matches 1.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 1
+execute if score @s exi_happy_ghast_km matches 2.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 2
+execute if score @s exi_happy_ghast_km matches 3.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 3
+execute if score @s exi_happy_ghast_km matches 4.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 4
+execute if score @s exi_happy_ghast_km matches 5.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 5
+execute if score @s exi_happy_ghast_km matches 6.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 6
+execute if score @s exi_happy_ghast_km matches 7.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 7
+execute if score @s exi_happy_ghast_km matches 8.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 8
+execute if score @s exi_happy_ghast_km matches 9.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 9
+execute if score @s exi_happy_ghast_km matches 10.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 10
+execute if score @s exi_happy_ghast_km matches 11.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 11
+execute if score @s exi_happy_ghast_km matches 12.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 12
+execute if score @s exi_happy_ghast_km matches 13.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 13
+execute if score @s exi_happy_ghast_km matches 14.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 14
+execute if score @s exi_happy_ghast_km matches 15.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 15
+execute if score @s exi_happy_ghast_km matches 16.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 16
+execute if score @s exi_happy_ghast_km matches 17.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 17
+execute if score @s exi_happy_ghast_km matches 18.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 18
+execute if score @s exi_happy_ghast_km matches 19.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 19
+execute if score @s exi_happy_ghast_km matches 20.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 20
+execute if score @s exi_happy_ghast_km matches 21.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 21
+execute if score @s exi_happy_ghast_km matches 22.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 22
+execute if score @s exi_happy_ghast_km matches 23.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 23
+execute if score @s exi_happy_ghast_km matches 24.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 24
+execute if score @s exi_happy_ghast_km matches 25.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 25
+execute if score @s exi_happy_ghast_km matches 26.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 26
+execute if score @s exi_happy_ghast_km matches 27.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 27
+execute if score @s exi_happy_ghast_km matches 28.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 28
+execute if score @s exi_happy_ghast_km matches 29.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 29
+execute if score @s exi_happy_ghast_km matches 30.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 30
+execute if score @s exi_happy_ghast_km matches 31.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 31
+execute if score @s exi_happy_ghast_km matches 32.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 32
+execute if score @s exi_happy_ghast_km matches 33.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 33
+execute if score @s exi_happy_ghast_km matches 34.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 34
+execute if score @s exi_happy_ghast_km matches 35.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 35
+execute if score @s exi_happy_ghast_km matches 36.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 36
+execute if score @s exi_happy_ghast_km matches 37.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 37
+execute if score @s exi_happy_ghast_km matches 38.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 38
+execute if score @s exi_happy_ghast_km matches 39.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 39
+execute if score @s exi_happy_ghast_km matches 40.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 40
+execute if score @s exi_happy_ghast_km matches 41.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 41
+execute if score @s exi_happy_ghast_km matches 42.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 42
+execute if score @s exi_happy_ghast_km matches 43.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 43
+execute if score @s exi_happy_ghast_km matches 44.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 44
+execute if score @s exi_happy_ghast_km matches 45.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 45
+execute if score @s exi_happy_ghast_km matches 46.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 46
+execute if score @s exi_happy_ghast_km matches 47.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 47
+execute if score @s exi_happy_ghast_km matches 48.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 48
+execute if score @s exi_happy_ghast_km matches 49.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 49
+execute if score @s exi_happy_ghast_km matches 50.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 50
+execute if score @s exi_happy_ghast_km matches 51.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 51
+execute if score @s exi_happy_ghast_km matches 52.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 52
+execute if score @s exi_happy_ghast_km matches 53.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 53
+execute if score @s exi_happy_ghast_km matches 54.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 54
+execute if score @s exi_happy_ghast_km matches 55.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 55
+execute if score @s exi_happy_ghast_km matches 56.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 56
+execute if score @s exi_happy_ghast_km matches 57.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 57
+execute if score @s exi_happy_ghast_km matches 58.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 58
+execute if score @s exi_happy_ghast_km matches 59.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 59
+execute if score @s exi_happy_ghast_km matches 60.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 60
+execute if score @s exi_happy_ghast_km matches 61.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 61
+execute if score @s exi_happy_ghast_km matches 62.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 62
+execute if score @s exi_happy_ghast_km matches 63.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 63
+execute if score @s exi_happy_ghast_km matches 64.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 64
+execute if score @s exi_happy_ghast_km matches 65.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 65
+execute if score @s exi_happy_ghast_km matches 66.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 66
+execute if score @s exi_happy_ghast_km matches 67.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 67
+execute if score @s exi_happy_ghast_km matches 68.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 68
+execute if score @s exi_happy_ghast_km matches 69.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 69
+execute if score @s exi_happy_ghast_km matches 70.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 70
+execute if score @s exi_happy_ghast_km matches 71.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 71
+execute if score @s exi_happy_ghast_km matches 72.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 72
+execute if score @s exi_happy_ghast_km matches 73.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 73
+execute if score @s exi_happy_ghast_km matches 74.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 74
+execute if score @s exi_happy_ghast_km matches 75.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 75
+execute if score @s exi_happy_ghast_km matches 76.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 76
+execute if score @s exi_happy_ghast_km matches 77.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 77
+execute if score @s exi_happy_ghast_km matches 78.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 78
+execute if score @s exi_happy_ghast_km matches 79.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 79
+execute if score @s exi_happy_ghast_km matches 80.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 80
+execute if score @s exi_happy_ghast_km matches 81.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 81
+execute if score @s exi_happy_ghast_km matches 82.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 82
+execute if score @s exi_happy_ghast_km matches 83.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 83
+execute if score @s exi_happy_ghast_km matches 84.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 84
+execute if score @s exi_happy_ghast_km matches 85.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 85
+execute if score @s exi_happy_ghast_km matches 86.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 86
+execute if score @s exi_happy_ghast_km matches 87.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 87
+execute if score @s exi_happy_ghast_km matches 88.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 88
+execute if score @s exi_happy_ghast_km matches 89.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 89
+execute if score @s exi_happy_ghast_km matches 90.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 90
+execute if score @s exi_happy_ghast_km matches 91.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 91
+execute if score @s exi_happy_ghast_km matches 92.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 92
+execute if score @s exi_happy_ghast_km matches 93.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 93
+execute if score @s exi_happy_ghast_km matches 94.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 94
+execute if score @s exi_happy_ghast_km matches 95.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 95
+execute if score @s exi_happy_ghast_km matches 96.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 96
+execute if score @s exi_happy_ghast_km matches 97.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 97
+execute if score @s exi_happy_ghast_km matches 98.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 98
+execute if score @s exi_happy_ghast_km matches 99.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 99
+execute if score @s exi_happy_ghast_km matches 100.. run advancement grant @s only existence_smp:stats/happy_ghast/fly_100_km 100

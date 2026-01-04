@@ -1,105 +1,105 @@
 #Meet Ones Maker
-advancement grant @s[scores={exi_deaths=51..}] only existence_smp:stats/deaths/meet_ones_maker 51
-advancement grant @s[scores={exi_deaths=52..}] only existence_smp:stats/deaths/meet_ones_maker 52
-advancement grant @s[scores={exi_deaths=53..}] only existence_smp:stats/deaths/meet_ones_maker 53
-advancement grant @s[scores={exi_deaths=54..}] only existence_smp:stats/deaths/meet_ones_maker 54
-advancement grant @s[scores={exi_deaths=55..}] only existence_smp:stats/deaths/meet_ones_maker 55
-advancement grant @s[scores={exi_deaths=56..}] only existence_smp:stats/deaths/meet_ones_maker 56
-advancement grant @s[scores={exi_deaths=57..}] only existence_smp:stats/deaths/meet_ones_maker 57
-advancement grant @s[scores={exi_deaths=58..}] only existence_smp:stats/deaths/meet_ones_maker 58
-advancement grant @s[scores={exi_deaths=59..}] only existence_smp:stats/deaths/meet_ones_maker 59
-advancement grant @s[scores={exi_deaths=60..}] only existence_smp:stats/deaths/meet_ones_maker 60
-advancement grant @s[scores={exi_deaths=61..}] only existence_smp:stats/deaths/meet_ones_maker 61
-advancement grant @s[scores={exi_deaths=62..}] only existence_smp:stats/deaths/meet_ones_maker 62
-advancement grant @s[scores={exi_deaths=63..}] only existence_smp:stats/deaths/meet_ones_maker 63
-advancement grant @s[scores={exi_deaths=64..}] only existence_smp:stats/deaths/meet_ones_maker 64
-advancement grant @s[scores={exi_deaths=65..}] only existence_smp:stats/deaths/meet_ones_maker 65
-advancement grant @s[scores={exi_deaths=66..}] only existence_smp:stats/deaths/meet_ones_maker 66
-advancement grant @s[scores={exi_deaths=67..}] only existence_smp:stats/deaths/meet_ones_maker 67
-advancement grant @s[scores={exi_deaths=68..}] only existence_smp:stats/deaths/meet_ones_maker 68
-advancement grant @s[scores={exi_deaths=69..}] only existence_smp:stats/deaths/meet_ones_maker 69
-advancement grant @s[scores={exi_deaths=70..}] only existence_smp:stats/deaths/meet_ones_maker 70
-advancement grant @s[scores={exi_deaths=71..}] only existence_smp:stats/deaths/meet_ones_maker 71
-advancement grant @s[scores={exi_deaths=72..}] only existence_smp:stats/deaths/meet_ones_maker 72
-advancement grant @s[scores={exi_deaths=73..}] only existence_smp:stats/deaths/meet_ones_maker 73
-advancement grant @s[scores={exi_deaths=74..}] only existence_smp:stats/deaths/meet_ones_maker 74
-advancement grant @s[scores={exi_deaths=75..}] only existence_smp:stats/deaths/meet_ones_maker 75
-advancement grant @s[scores={exi_deaths=76..}] only existence_smp:stats/deaths/meet_ones_maker 76
-advancement grant @s[scores={exi_deaths=77..}] only existence_smp:stats/deaths/meet_ones_maker 77
-advancement grant @s[scores={exi_deaths=78..}] only existence_smp:stats/deaths/meet_ones_maker 78
-advancement grant @s[scores={exi_deaths=79..}] only existence_smp:stats/deaths/meet_ones_maker 79
-advancement grant @s[scores={exi_deaths=80..}] only existence_smp:stats/deaths/meet_ones_maker 80
-advancement grant @s[scores={exi_deaths=81..}] only existence_smp:stats/deaths/meet_ones_maker 81
-advancement grant @s[scores={exi_deaths=82..}] only existence_smp:stats/deaths/meet_ones_maker 82
-advancement grant @s[scores={exi_deaths=83..}] only existence_smp:stats/deaths/meet_ones_maker 83
-advancement grant @s[scores={exi_deaths=84..}] only existence_smp:stats/deaths/meet_ones_maker 84
-advancement grant @s[scores={exi_deaths=85..}] only existence_smp:stats/deaths/meet_ones_maker 85
-advancement grant @s[scores={exi_deaths=86..}] only existence_smp:stats/deaths/meet_ones_maker 86
-advancement grant @s[scores={exi_deaths=87..}] only existence_smp:stats/deaths/meet_ones_maker 87
-advancement grant @s[scores={exi_deaths=88..}] only existence_smp:stats/deaths/meet_ones_maker 88
-advancement grant @s[scores={exi_deaths=89..}] only existence_smp:stats/deaths/meet_ones_maker 89
-advancement grant @s[scores={exi_deaths=90..}] only existence_smp:stats/deaths/meet_ones_maker 90
-advancement grant @s[scores={exi_deaths=91..}] only existence_smp:stats/deaths/meet_ones_maker 91
-advancement grant @s[scores={exi_deaths=92..}] only existence_smp:stats/deaths/meet_ones_maker 92
-advancement grant @s[scores={exi_deaths=93..}] only existence_smp:stats/deaths/meet_ones_maker 93
-advancement grant @s[scores={exi_deaths=94..}] only existence_smp:stats/deaths/meet_ones_maker 94
-advancement grant @s[scores={exi_deaths=95..}] only existence_smp:stats/deaths/meet_ones_maker 95
-advancement grant @s[scores={exi_deaths=96..}] only existence_smp:stats/deaths/meet_ones_maker 96
-advancement grant @s[scores={exi_deaths=97..}] only existence_smp:stats/deaths/meet_ones_maker 97
-advancement grant @s[scores={exi_deaths=98..}] only existence_smp:stats/deaths/meet_ones_maker 98
-advancement grant @s[scores={exi_deaths=99..}] only existence_smp:stats/deaths/meet_ones_maker 99
-advancement grant @s[scores={exi_deaths=100..}] only existence_smp:stats/deaths/meet_ones_maker 100
+execute if score @s exi_deaths matches 51.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 51
+execute if score @s exi_deaths matches 52.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 52
+execute if score @s exi_deaths matches 53.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 53
+execute if score @s exi_deaths matches 54.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 54
+execute if score @s exi_deaths matches 55.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 55
+execute if score @s exi_deaths matches 56.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 56
+execute if score @s exi_deaths matches 57.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 57
+execute if score @s exi_deaths matches 58.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 58
+execute if score @s exi_deaths matches 59.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 59
+execute if score @s exi_deaths matches 60.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 60
+execute if score @s exi_deaths matches 61.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 61
+execute if score @s exi_deaths matches 62.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 62
+execute if score @s exi_deaths matches 63.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 63
+execute if score @s exi_deaths matches 64.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 64
+execute if score @s exi_deaths matches 65.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 65
+execute if score @s exi_deaths matches 66.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 66
+execute if score @s exi_deaths matches 67.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 67
+execute if score @s exi_deaths matches 68.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 68
+execute if score @s exi_deaths matches 69.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 69
+execute if score @s exi_deaths matches 70.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 70
+execute if score @s exi_deaths matches 71.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 71
+execute if score @s exi_deaths matches 72.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 72
+execute if score @s exi_deaths matches 73.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 73
+execute if score @s exi_deaths matches 74.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 74
+execute if score @s exi_deaths matches 75.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 75
+execute if score @s exi_deaths matches 76.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 76
+execute if score @s exi_deaths matches 77.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 77
+execute if score @s exi_deaths matches 78.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 78
+execute if score @s exi_deaths matches 79.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 79
+execute if score @s exi_deaths matches 80.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 80
+execute if score @s exi_deaths matches 81.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 81
+execute if score @s exi_deaths matches 82.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 82
+execute if score @s exi_deaths matches 83.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 83
+execute if score @s exi_deaths matches 84.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 84
+execute if score @s exi_deaths matches 85.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 85
+execute if score @s exi_deaths matches 86.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 86
+execute if score @s exi_deaths matches 87.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 87
+execute if score @s exi_deaths matches 88.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 88
+execute if score @s exi_deaths matches 89.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 89
+execute if score @s exi_deaths matches 90.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 90
+execute if score @s exi_deaths matches 91.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 91
+execute if score @s exi_deaths matches 92.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 92
+execute if score @s exi_deaths matches 93.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 93
+execute if score @s exi_deaths matches 94.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 94
+execute if score @s exi_deaths matches 95.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 95
+execute if score @s exi_deaths matches 96.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 96
+execute if score @s exi_deaths matches 97.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 97
+execute if score @s exi_deaths matches 98.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 98
+execute if score @s exi_deaths matches 99.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 99
+execute if score @s exi_deaths matches 100.. run advancement grant @s only existence_smp:stats/deaths/meet_ones_maker 100
 
 #Catastrophic
-advancement grant @s[scores={exi_deaths=51..}] only existence_smp:stats/deaths/catastrophic 51
-advancement grant @s[scores={exi_deaths=52..}] only existence_smp:stats/deaths/catastrophic 52
-advancement grant @s[scores={exi_deaths=53..}] only existence_smp:stats/deaths/catastrophic 53
-advancement grant @s[scores={exi_deaths=54..}] only existence_smp:stats/deaths/catastrophic 54
-advancement grant @s[scores={exi_deaths=55..}] only existence_smp:stats/deaths/catastrophic 55
-advancement grant @s[scores={exi_deaths=56..}] only existence_smp:stats/deaths/catastrophic 56
-advancement grant @s[scores={exi_deaths=57..}] only existence_smp:stats/deaths/catastrophic 57
-advancement grant @s[scores={exi_deaths=58..}] only existence_smp:stats/deaths/catastrophic 58
-advancement grant @s[scores={exi_deaths=59..}] only existence_smp:stats/deaths/catastrophic 59
-advancement grant @s[scores={exi_deaths=60..}] only existence_smp:stats/deaths/catastrophic 60
-advancement grant @s[scores={exi_deaths=61..}] only existence_smp:stats/deaths/catastrophic 61
-advancement grant @s[scores={exi_deaths=62..}] only existence_smp:stats/deaths/catastrophic 62
-advancement grant @s[scores={exi_deaths=63..}] only existence_smp:stats/deaths/catastrophic 63
-advancement grant @s[scores={exi_deaths=64..}] only existence_smp:stats/deaths/catastrophic 64
-advancement grant @s[scores={exi_deaths=65..}] only existence_smp:stats/deaths/catastrophic 65
-advancement grant @s[scores={exi_deaths=66..}] only existence_smp:stats/deaths/catastrophic 66
-advancement grant @s[scores={exi_deaths=67..}] only existence_smp:stats/deaths/catastrophic 67
-advancement grant @s[scores={exi_deaths=68..}] only existence_smp:stats/deaths/catastrophic 68
-advancement grant @s[scores={exi_deaths=69..}] only existence_smp:stats/deaths/catastrophic 69
-advancement grant @s[scores={exi_deaths=70..}] only existence_smp:stats/deaths/catastrophic 70
-advancement grant @s[scores={exi_deaths=71..}] only existence_smp:stats/deaths/catastrophic 71
-advancement grant @s[scores={exi_deaths=72..}] only existence_smp:stats/deaths/catastrophic 72
-advancement grant @s[scores={exi_deaths=73..}] only existence_smp:stats/deaths/catastrophic 73
-advancement grant @s[scores={exi_deaths=74..}] only existence_smp:stats/deaths/catastrophic 74
-advancement grant @s[scores={exi_deaths=75..}] only existence_smp:stats/deaths/catastrophic 75
-advancement grant @s[scores={exi_deaths=76..}] only existence_smp:stats/deaths/catastrophic 76
-advancement grant @s[scores={exi_deaths=77..}] only existence_smp:stats/deaths/catastrophic 77
-advancement grant @s[scores={exi_deaths=78..}] only existence_smp:stats/deaths/catastrophic 78
-advancement grant @s[scores={exi_deaths=79..}] only existence_smp:stats/deaths/catastrophic 79
-advancement grant @s[scores={exi_deaths=80..}] only existence_smp:stats/deaths/catastrophic 80
-advancement grant @s[scores={exi_deaths=81..}] only existence_smp:stats/deaths/catastrophic 81
-advancement grant @s[scores={exi_deaths=82..}] only existence_smp:stats/deaths/catastrophic 82
-advancement grant @s[scores={exi_deaths=83..}] only existence_smp:stats/deaths/catastrophic 83
-advancement grant @s[scores={exi_deaths=84..}] only existence_smp:stats/deaths/catastrophic 84
-advancement grant @s[scores={exi_deaths=85..}] only existence_smp:stats/deaths/catastrophic 85
-advancement grant @s[scores={exi_deaths=86..}] only existence_smp:stats/deaths/catastrophic 86
-advancement grant @s[scores={exi_deaths=87..}] only existence_smp:stats/deaths/catastrophic 87
-advancement grant @s[scores={exi_deaths=88..}] only existence_smp:stats/deaths/catastrophic 88
-advancement grant @s[scores={exi_deaths=89..}] only existence_smp:stats/deaths/catastrophic 89
-advancement grant @s[scores={exi_deaths=90..}] only existence_smp:stats/deaths/catastrophic 90
-advancement grant @s[scores={exi_deaths=91..}] only existence_smp:stats/deaths/catastrophic 91
-advancement grant @s[scores={exi_deaths=92..}] only existence_smp:stats/deaths/catastrophic 92
-advancement grant @s[scores={exi_deaths=93..}] only existence_smp:stats/deaths/catastrophic 93
-advancement grant @s[scores={exi_deaths=94..}] only existence_smp:stats/deaths/catastrophic 94
-advancement grant @s[scores={exi_deaths=95..}] only existence_smp:stats/deaths/catastrophic 95
-advancement grant @s[scores={exi_deaths=96..}] only existence_smp:stats/deaths/catastrophic 96
-advancement grant @s[scores={exi_deaths=97..}] only existence_smp:stats/deaths/catastrophic 97
-advancement grant @s[scores={exi_deaths=98..}] only existence_smp:stats/deaths/catastrophic 98
-advancement grant @s[scores={exi_deaths=99..}] only existence_smp:stats/deaths/catastrophic 99
-advancement grant @s[scores={exi_deaths=100..}] only existence_smp:stats/deaths/catastrophic 100
+execute if score @s exi_deaths matches 51.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 51
+execute if score @s exi_deaths matches 52.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 52
+execute if score @s exi_deaths matches 53.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 53
+execute if score @s exi_deaths matches 54.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 54
+execute if score @s exi_deaths matches 55.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 55
+execute if score @s exi_deaths matches 56.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 56
+execute if score @s exi_deaths matches 57.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 57
+execute if score @s exi_deaths matches 58.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 58
+execute if score @s exi_deaths matches 59.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 59
+execute if score @s exi_deaths matches 60.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 60
+execute if score @s exi_deaths matches 61.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 61
+execute if score @s exi_deaths matches 62.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 62
+execute if score @s exi_deaths matches 63.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 63
+execute if score @s exi_deaths matches 64.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 64
+execute if score @s exi_deaths matches 65.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 65
+execute if score @s exi_deaths matches 66.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 66
+execute if score @s exi_deaths matches 67.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 67
+execute if score @s exi_deaths matches 68.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 68
+execute if score @s exi_deaths matches 69.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 69
+execute if score @s exi_deaths matches 70.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 70
+execute if score @s exi_deaths matches 71.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 71
+execute if score @s exi_deaths matches 72.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 72
+execute if score @s exi_deaths matches 73.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 73
+execute if score @s exi_deaths matches 74.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 74
+execute if score @s exi_deaths matches 75.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 75
+execute if score @s exi_deaths matches 76.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 76
+execute if score @s exi_deaths matches 77.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 77
+execute if score @s exi_deaths matches 78.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 78
+execute if score @s exi_deaths matches 79.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 79
+execute if score @s exi_deaths matches 80.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 80
+execute if score @s exi_deaths matches 81.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 81
+execute if score @s exi_deaths matches 82.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 82
+execute if score @s exi_deaths matches 83.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 83
+execute if score @s exi_deaths matches 84.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 84
+execute if score @s exi_deaths matches 85.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 85
+execute if score @s exi_deaths matches 86.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 86
+execute if score @s exi_deaths matches 87.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 87
+execute if score @s exi_deaths matches 88.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 88
+execute if score @s exi_deaths matches 89.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 89
+execute if score @s exi_deaths matches 90.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 90
+execute if score @s exi_deaths matches 91.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 91
+execute if score @s exi_deaths matches 92.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 92
+execute if score @s exi_deaths matches 93.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 93
+execute if score @s exi_deaths matches 94.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 94
+execute if score @s exi_deaths matches 95.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 95
+execute if score @s exi_deaths matches 96.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 96
+execute if score @s exi_deaths matches 97.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 97
+execute if score @s exi_deaths matches 98.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 98
+execute if score @s exi_deaths matches 99.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 99
+execute if score @s exi_deaths matches 100.. run advancement grant @s only existence_smp:stats/deaths/catastrophic 100
 
 execute if score @s exi_deaths matches 100.. run function existence_smp:advancement_check/deaths/400
