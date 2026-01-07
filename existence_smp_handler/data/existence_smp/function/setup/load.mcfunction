@@ -2,7 +2,7 @@
 execute as @a run function existence_smp:advancement_check/advancement_check
 
 #CONFRIMATION
-execute if score setup exi_setup matches 1.. run tellraw @a[tag=Staff] ["",{"text":"Loaded ","color":"gray"},{"text":"Existence SMP Handler","italic":true,"color":"dark_red","clickEvent":{"action":"open_url","value":"https://existencesmp.com"},"hoverEvent":{"action":"show_text","contents":["",{"text":"existencesmp.com","color":"gray"}]}}]
+execute if score setup exi_setup matches 1.. run tellraw @a[tag=Support] ["",{"text":"Loaded ","color":"gray"},{"text":"Existence SMP Handler","italic":true,"color":"dark_red","clickEvent":{"action":"open_url","value":"https://existencesmp.com"},"hoverEvent":{"action":"show_text","contents":["",{"text":"existencesmp.com","color":"gray"}]}}]
 
 #SETUP CHECK
 scoreboard objectives add exi_setup dummy

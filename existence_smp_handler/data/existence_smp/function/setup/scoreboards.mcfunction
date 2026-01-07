@@ -227,4 +227,4 @@ scoreboard objectives modify patron_color displayname {"text":"Patron Name Color
 scoreboard objectives modify exi_uptime displayname {"text":"⌚ Server Uptime","color":"gray"}
 scoreboard objectives modify exi_entity_count displayname {"text":"Entity Counts","color":"gray"}
 
-tellraw @a[tag=Staff] ["",{"text":"Updated Scoreboards","color":"gray"}]
+tellraw @a[tag=Support] ["",{"text":"Updated Scoreboards","color":"gray"}]
