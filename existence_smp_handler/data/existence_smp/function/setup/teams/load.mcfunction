@@ -17,8 +17,8 @@ team modify Server color gray
 team modify ServerBackground color dark_gray
 
 #Prefix
-team modify Support prefix ["",{"text":"🗡 ","color":"dark_red"}]
-team modify SupportPatron prefix ["",{"text":"🗡 ","color":"red"}]
+team modify Support prefix ["",{"text":"⛏ ","color":"dark_red"}]
+team modify SupportPatron prefix ["",{"text":"⛏ ","color":"red"}]
 team modify Patron prefix ["",{"text":"☆ ","color":"red"}]
 team modify Spectator prefix ["",{"text":"👻 ","color":"dark_gray"}]
 team modify Trusted prefix ["",{"text":"","color":"dark_red"}]
@@ -110,22 +110,22 @@ team modify SupportPatron_light_purple color light_purple
 team modify SupportPatron_yellow color yellow
 team modify SupportPatron_white color white
 
-team modify SupportPatron_black prefix ["",{"text":"🗡 ","color":"black"}] 
-team modify SupportPatron_dark_blue prefix ["",{"text":"🗡 ","color":"dark_blue"}] 
-team modify SupportPatron_dark_green prefix ["",{"text":"🗡 ","color":"dark_green"}] 
-team modify SupportPatron_dark_aqua prefix ["",{"text":"🗡 ","color":"dark_aqua"}] 
-team modify SupportPatron_dark_red prefix ["",{"text":"🗡 ","color":"dark_red"}] 
-team modify SupportPatron_dark_purple prefix ["",{"text":"🗡 ","color":"dark_purple"}] 
-team modify SupportPatron_gold prefix ["",{"text":"🗡 ","color":"gold"}] 
-team modify SupportPatron_gray prefix ["",{"text":"🗡 ","color":"gray"}] 
-team modify SupportPatron_dark_gray prefix ["",{"text":"🗡 ","color":"dark_gray"}] 
-team modify SupportPatron_blue prefix ["",{"text":"🗡 ","color":"blue"}] 
-team modify SupportPatron_green prefix ["",{"text":"🗡 ","color":"green"}] 
-team modify SupportPatron_aqua prefix ["",{"text":"🗡 ","color":"aqua"}] 
-team modify SupportPatron_red prefix ["",{"text":"🗡 ","color":"red"}] 
-team modify SupportPatron_light_purple prefix ["",{"text":"🗡 ","color":"light_purple"}] 
-team modify SupportPatron_yellow prefix ["",{"text":"🗡 ","color":"yellow"}] 
-team modify SupportPatron_white prefix ["",{"text":"🗡 ","color":"white"}]
+team modify SupportPatron_black prefix ["",{"text":"⛏ ","color":"black"}] 
+team modify SupportPatron_dark_blue prefix ["",{"text":"⛏ ","color":"dark_blue"}] 
+team modify SupportPatron_dark_green prefix ["",{"text":"⛏ ","color":"dark_green"}] 
+team modify SupportPatron_dark_aqua prefix ["",{"text":"⛏ ","color":"dark_aqua"}] 
+team modify SupportPatron_dark_red prefix ["",{"text":"⛏ ","color":"dark_red"}] 
+team modify SupportPatron_dark_purple prefix ["",{"text":"⛏ ","color":"dark_purple"}] 
+team modify SupportPatron_gold prefix ["",{"text":"⛏ ","color":"gold"}] 
+team modify SupportPatron_gray prefix ["",{"text":"⛏ ","color":"gray"}] 
+team modify SupportPatron_dark_gray prefix ["",{"text":"⛏ ","color":"dark_gray"}] 
+team modify SupportPatron_blue prefix ["",{"text":"⛏ ","color":"blue"}] 
+team modify SupportPatron_green prefix ["",{"text":"⛏ ","color":"green"}] 
+team modify SupportPatron_aqua prefix ["",{"text":"⛏ ","color":"aqua"}] 
+team modify SupportPatron_red prefix ["",{"text":"⛏ ","color":"red"}] 
+team modify SupportPatron_light_purple prefix ["",{"text":"⛏ ","color":"light_purple"}] 
+team modify SupportPatron_yellow prefix ["",{"text":"⛏ ","color":"yellow"}] 
+team modify SupportPatron_white prefix ["",{"text":"⛏ ","color":"white"}]
 
 function existence_smp:setup/teams/clean
 

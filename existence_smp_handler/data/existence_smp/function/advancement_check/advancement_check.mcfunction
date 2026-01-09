@@ -19,6 +19,51 @@ execute unless score @s exi_pig_km matches 0.. run scoreboard players set @s exi
 execute unless score @s exi_strider_km matches 0.. run scoreboard players set @s exi_strider_km 0
 execute unless score @s exi_deaths matches 0.. run scoreboard players set @s exi_deaths 0
 
+execute as @a run scoreboard players display numberformat @s exi_playtime_h
+#execute as @a run scoreboard players display numberformat @s exi_playtime_h fixed [{type:"score",score:{name:"@s",objective:"exi_playtime_h"},color:"red"},{text:"h",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_elytra_km
+#execute as @a run scoreboard players display numberformat @s exi_elytra_km fixed [{type:"score",score:{name:"@s",objective:"exi_elytra_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_happy_ghast_km
+#execute as @a run scoreboard players display numberformat @s exi_happy_ghast_km fixed [{type:"score",score:{name:"@s",objective:"exi_happy_ghast_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_nautilus_km
+#execute as @a run scoreboard players display numberformat @s exi_nautilus_km fixed [{type:"score",score:{name:"@s",objective:"exi_nautilus_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_sprint_km
+#execute as @a run scoreboard players display numberformat @s exi_sprint_km fixed [{type:"score",score:{name:"@s",objective:"exi_sprint_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_walk_km
+#execute as @a run scoreboard players display numberformat @s exi_walk_km fixed [{type:"score",score:{name:"@s",objective:"exi_walk_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_swim_km
+#execute as @a run scoreboard players display numberformat @s exi_swim_km fixed [{type:"score",score:{name:"@s",objective:"exi_swim_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_climb_km
+#execute as @a run scoreboard players display numberformat @s exi_climb_km fixed [{type:"score",score:{name:"@s",objective:"exi_climb_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_crouch_km
+#execute as @a run scoreboard players display numberformat @s exi_crouch_km fixed [{type:"score",score:{name:"@s",objective:"exi_crouch_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_boat_km
+#execute as @a run scoreboard players display numberformat @s exi_boat_km fixed [{type:"score",score:{name:"@s",objective:"exi_boat_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_horse_km
+#execute as @a run scoreboard players display numberformat @s exi_horse_km fixed [{type:"score",score:{name:"@s",objective:"exi_horse_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_minecart_km
+#execute as @a run scoreboard players display numberformat @s exi_minecart_km fixed [{type:"score",score:{name:"@s",objective:"exi_minecart_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_pig_km
+#execute as @a run scoreboard players display numberformat @s exi_pig_km fixed [{type:"score",score:{name:"@s",objective:"exi_pig_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s exi_strider_km
+#execute as @a run scoreboard players display numberformat @s exi_strider_km fixed [{type:"score",score:{name:"@s",objective:"exi_strider_km"},color:"red"},{text:"km",color:"red"}]
+
+execute as @a run scoreboard players display numberformat @s mpp_afk_adv
+#execute as @a run scoreboard players display numberformat @s mpp_afk_adv fixed [{type:"score",score:{name:"@s",objective:"mpp_afk_adv"},color:"red"},{text:"h",color:"red"}]
+
 function existence_smp:advancement_check/playtime/100
 function existence_smp:advancement_check/elytra/500
 function existence_smp:advancement_check/happy_ghast/100

@@ -42,28 +42,6 @@ team remove SupportPatron_light_purple
 team remove SupportPatron_yellow
 team remove SupportPatron_white
 
-#Remove old Staff teams
-team remove StaffPatron
-
-team remove Staff
-
-team remove StaffPatron_black
-team remove StaffPatron_dark_blue
-team remove StaffPatron_dark_green
-team remove StaffPatron_dark_aqua
-team remove StaffPatron_dark_red
-team remove StaffPatron_dark_purple
-team remove StaffPatron_gold
-team remove StaffPatron_gray
-team remove StaffPatron_dark_gray
-team remove StaffPatron_blue
-team remove StaffPatron_green
-team remove StaffPatron_aqua
-team remove StaffPatron_red
-team remove StaffPatron_light_purple
-team remove StaffPatron_yellow
-team remove StaffPatron_white
-
 #Creation
 team add Support
 team add SupportPatron
@@ -111,7 +89,8 @@ team join Patron EvieRemi
 team join Patron Faeolin_WildElf
 team join Patron Flaxxyy
 team join Patron Ha2222
-team join SupportPatron igalaxy
+#team join SupportPatron igalaxy
+team join Patron igalaxy
 team join Patron KSores
 team join Patron marcoiscool
 team join Patron mcnugggzs
