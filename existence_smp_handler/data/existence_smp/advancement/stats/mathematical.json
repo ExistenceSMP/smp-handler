@@ -4,7 +4,7 @@
         "id": "book"
       },
       "title": "Mathematical!",
-      "description": "Discover the world of tracked statistics with /trigger ",
+      "description": "Discover the world of tracked statistics with /trigger stats",
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true,

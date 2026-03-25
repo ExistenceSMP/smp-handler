@@ -6,13 +6,13 @@ weather clear
 
 scoreboard players set gamerule uhc_day 0
 
-gamerule naturalRegeneration true
-gamerule keepInventory true
-gamerule doDaylightCycle false
-gamerule doWeatherCycle false
-gamerule doFireTick false
-gamerule doMobSpawning false
-gamerule mobGriefing false
+gamerule natural_health_regeneration true
+gamerule keep_inventory true
+gamerule advance_time false
+gamerule advance_weather false
+gamerule fire_spread_radius_around_player 0
+gamerule spawn_mobs false
+gamerule mob_griefing false
 
 worldborder center -650 335
 worldborder set 100

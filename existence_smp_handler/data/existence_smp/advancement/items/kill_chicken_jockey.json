@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:music_disc_lava_chicken"
+    },
+    "title": "Chicken Jockey!",
+    "description": "Kill a Chicken Jockey to drop the Lava Chicken Music Disc",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "existence_smp:crafting/music_disc_5",
+  "criteria": {
+    "kill_chicken_jockey": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:zombie",
+          "flags": {
+            "is_baby": true
+          },
+          "vehicle": {
+            "type": "minecraft:chicken"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {}
+}

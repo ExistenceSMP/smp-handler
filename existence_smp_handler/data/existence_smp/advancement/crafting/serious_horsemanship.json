@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:netherite_horse_armor"
+    },
+    "title": "Serious Horsemanship",
+    "description": "Use a Netherite Ingot to upgrade Horse Armor, and then reevaluate your horse choices",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "existence_smp:root",
+  "criteria": {
+    "craft_netherite_horse_armor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:netherite_horse_armor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [["craft_netherite_horse_armor"]],
+  "rewards": {
+    "experience": 100
+  }
+}

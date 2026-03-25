@@ -1,0 +1,1 @@
+scoreboard players set @s exi_spyglass_player 1

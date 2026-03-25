@@ -1,0 +1,37 @@
+{
+  "condition": "any_of",
+  "terms": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "minecraft:cat",
+        "location": {
+          "position": {
+            "y": {
+              "min": -128,
+              "max": -65
+            }
+          },
+          "dimension": "minecraft:overworld"
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "minecraft:cat",
+        "location": {
+          "position": {
+            "y": {
+              "min": -64,
+              "max": -1
+            }
+          },
+          "dimension": "minecraft:the_end"
+        }
+      }
+    }
+  ]
+}

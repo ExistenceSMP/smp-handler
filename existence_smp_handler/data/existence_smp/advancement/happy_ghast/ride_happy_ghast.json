@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:red_harness"
+    },
+    "title": "Up, Up and Away!",
+    "description": "Take a ride on a Happy Ghast!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "existence_smp:crafting/dried_ghast",
+  "criteria": {
+    "ride_happy_ghast": {
+      "trigger": "minecraft:started_riding",
+      "conditions": {
+        "player": {
+          "vehicle": {
+            "type": "minecraft:happy_ghast"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ride_happy_ghast"
+    ]
+  ]
+}

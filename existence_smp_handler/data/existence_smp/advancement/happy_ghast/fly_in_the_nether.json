@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:fire_charge"
+    },
+    "title": "Dehydration",
+    "description": "Ride a Happy Ghast in The Nether",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "existence_smp:happy_ghast/fly_in_the_end",
+  "criteria": {
+    "ride_happy_ghast": {
+      "trigger": "minecraft:started_riding",
+      "conditions": {
+        "player": {
+          "location": {
+            "dimension": "minecraft:the_nether"
+          },
+          "vehicle": {
+            "type": "minecraft:happy_ghast"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ride_happy_ghast"
+    ]
+  ]
+}

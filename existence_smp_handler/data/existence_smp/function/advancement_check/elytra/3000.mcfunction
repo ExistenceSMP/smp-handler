@@ -1,2001 +1,2001 @@
 #frequent_flyer_club
-advancement grant @s[scores={exi_elytra_km=1001..}] only existence_smp:stats/elytra/frequent_flyer_club 1001
-advancement grant @s[scores={exi_elytra_km=1002..}] only existence_smp:stats/elytra/frequent_flyer_club 1002
-advancement grant @s[scores={exi_elytra_km=1003..}] only existence_smp:stats/elytra/frequent_flyer_club 1003
-advancement grant @s[scores={exi_elytra_km=1004..}] only existence_smp:stats/elytra/frequent_flyer_club 1004
-advancement grant @s[scores={exi_elytra_km=1005..}] only existence_smp:stats/elytra/frequent_flyer_club 1005
-advancement grant @s[scores={exi_elytra_km=1006..}] only existence_smp:stats/elytra/frequent_flyer_club 1006
-advancement grant @s[scores={exi_elytra_km=1007..}] only existence_smp:stats/elytra/frequent_flyer_club 1007
-advancement grant @s[scores={exi_elytra_km=1008..}] only existence_smp:stats/elytra/frequent_flyer_club 1008
-advancement grant @s[scores={exi_elytra_km=1009..}] only existence_smp:stats/elytra/frequent_flyer_club 1009
-advancement grant @s[scores={exi_elytra_km=1010..}] only existence_smp:stats/elytra/frequent_flyer_club 1010
-advancement grant @s[scores={exi_elytra_km=1011..}] only existence_smp:stats/elytra/frequent_flyer_club 1011
-advancement grant @s[scores={exi_elytra_km=1012..}] only existence_smp:stats/elytra/frequent_flyer_club 1012
-advancement grant @s[scores={exi_elytra_km=1013..}] only existence_smp:stats/elytra/frequent_flyer_club 1013
-advancement grant @s[scores={exi_elytra_km=1014..}] only existence_smp:stats/elytra/frequent_flyer_club 1014
-advancement grant @s[scores={exi_elytra_km=1015..}] only existence_smp:stats/elytra/frequent_flyer_club 1015
-advancement grant @s[scores={exi_elytra_km=1016..}] only existence_smp:stats/elytra/frequent_flyer_club 1016
-advancement grant @s[scores={exi_elytra_km=1017..}] only existence_smp:stats/elytra/frequent_flyer_club 1017
-advancement grant @s[scores={exi_elytra_km=1018..}] only existence_smp:stats/elytra/frequent_flyer_club 1018
-advancement grant @s[scores={exi_elytra_km=1019..}] only existence_smp:stats/elytra/frequent_flyer_club 1019
-advancement grant @s[scores={exi_elytra_km=1020..}] only existence_smp:stats/elytra/frequent_flyer_club 1020
-advancement grant @s[scores={exi_elytra_km=1021..}] only existence_smp:stats/elytra/frequent_flyer_club 1021
-advancement grant @s[scores={exi_elytra_km=1022..}] only existence_smp:stats/elytra/frequent_flyer_club 1022
-advancement grant @s[scores={exi_elytra_km=1023..}] only existence_smp:stats/elytra/frequent_flyer_club 1023
-advancement grant @s[scores={exi_elytra_km=1024..}] only existence_smp:stats/elytra/frequent_flyer_club 1024
-advancement grant @s[scores={exi_elytra_km=1025..}] only existence_smp:stats/elytra/frequent_flyer_club 1025
-advancement grant @s[scores={exi_elytra_km=1026..}] only existence_smp:stats/elytra/frequent_flyer_club 1026
-advancement grant @s[scores={exi_elytra_km=1027..}] only existence_smp:stats/elytra/frequent_flyer_club 1027
-advancement grant @s[scores={exi_elytra_km=1028..}] only existence_smp:stats/elytra/frequent_flyer_club 1028
-advancement grant @s[scores={exi_elytra_km=1029..}] only existence_smp:stats/elytra/frequent_flyer_club 1029
-advancement grant @s[scores={exi_elytra_km=1030..}] only existence_smp:stats/elytra/frequent_flyer_club 1030
-advancement grant @s[scores={exi_elytra_km=1031..}] only existence_smp:stats/elytra/frequent_flyer_club 1031
-advancement grant @s[scores={exi_elytra_km=1032..}] only existence_smp:stats/elytra/frequent_flyer_club 1032
-advancement grant @s[scores={exi_elytra_km=1033..}] only existence_smp:stats/elytra/frequent_flyer_club 1033
-advancement grant @s[scores={exi_elytra_km=1034..}] only existence_smp:stats/elytra/frequent_flyer_club 1034
-advancement grant @s[scores={exi_elytra_km=1035..}] only existence_smp:stats/elytra/frequent_flyer_club 1035
-advancement grant @s[scores={exi_elytra_km=1036..}] only existence_smp:stats/elytra/frequent_flyer_club 1036
-advancement grant @s[scores={exi_elytra_km=1037..}] only existence_smp:stats/elytra/frequent_flyer_club 1037
-advancement grant @s[scores={exi_elytra_km=1038..}] only existence_smp:stats/elytra/frequent_flyer_club 1038
-advancement grant @s[scores={exi_elytra_km=1039..}] only existence_smp:stats/elytra/frequent_flyer_club 1039
-advancement grant @s[scores={exi_elytra_km=1040..}] only existence_smp:stats/elytra/frequent_flyer_club 1040
-advancement grant @s[scores={exi_elytra_km=1041..}] only existence_smp:stats/elytra/frequent_flyer_club 1041
-advancement grant @s[scores={exi_elytra_km=1042..}] only existence_smp:stats/elytra/frequent_flyer_club 1042
-advancement grant @s[scores={exi_elytra_km=1043..}] only existence_smp:stats/elytra/frequent_flyer_club 1043
-advancement grant @s[scores={exi_elytra_km=1044..}] only existence_smp:stats/elytra/frequent_flyer_club 1044
-advancement grant @s[scores={exi_elytra_km=1045..}] only existence_smp:stats/elytra/frequent_flyer_club 1045
-advancement grant @s[scores={exi_elytra_km=1046..}] only existence_smp:stats/elytra/frequent_flyer_club 1046
-advancement grant @s[scores={exi_elytra_km=1047..}] only existence_smp:stats/elytra/frequent_flyer_club 1047
-advancement grant @s[scores={exi_elytra_km=1048..}] only existence_smp:stats/elytra/frequent_flyer_club 1048
-advancement grant @s[scores={exi_elytra_km=1049..}] only existence_smp:stats/elytra/frequent_flyer_club 1049
-advancement grant @s[scores={exi_elytra_km=1050..}] only existence_smp:stats/elytra/frequent_flyer_club 1050
-advancement grant @s[scores={exi_elytra_km=1051..}] only existence_smp:stats/elytra/frequent_flyer_club 1051
-advancement grant @s[scores={exi_elytra_km=1052..}] only existence_smp:stats/elytra/frequent_flyer_club 1052
-advancement grant @s[scores={exi_elytra_km=1053..}] only existence_smp:stats/elytra/frequent_flyer_club 1053
-advancement grant @s[scores={exi_elytra_km=1054..}] only existence_smp:stats/elytra/frequent_flyer_club 1054
-advancement grant @s[scores={exi_elytra_km=1055..}] only existence_smp:stats/elytra/frequent_flyer_club 1055
-advancement grant @s[scores={exi_elytra_km=1056..}] only existence_smp:stats/elytra/frequent_flyer_club 1056
-advancement grant @s[scores={exi_elytra_km=1057..}] only existence_smp:stats/elytra/frequent_flyer_club 1057
-advancement grant @s[scores={exi_elytra_km=1058..}] only existence_smp:stats/elytra/frequent_flyer_club 1058
-advancement grant @s[scores={exi_elytra_km=1059..}] only existence_smp:stats/elytra/frequent_flyer_club 1059
-advancement grant @s[scores={exi_elytra_km=1060..}] only existence_smp:stats/elytra/frequent_flyer_club 1060
-advancement grant @s[scores={exi_elytra_km=1061..}] only existence_smp:stats/elytra/frequent_flyer_club 1061
-advancement grant @s[scores={exi_elytra_km=1062..}] only existence_smp:stats/elytra/frequent_flyer_club 1062
-advancement grant @s[scores={exi_elytra_km=1063..}] only existence_smp:stats/elytra/frequent_flyer_club 1063
-advancement grant @s[scores={exi_elytra_km=1064..}] only existence_smp:stats/elytra/frequent_flyer_club 1064
-advancement grant @s[scores={exi_elytra_km=1065..}] only existence_smp:stats/elytra/frequent_flyer_club 1065
-advancement grant @s[scores={exi_elytra_km=1066..}] only existence_smp:stats/elytra/frequent_flyer_club 1066
-advancement grant @s[scores={exi_elytra_km=1067..}] only existence_smp:stats/elytra/frequent_flyer_club 1067
-advancement grant @s[scores={exi_elytra_km=1068..}] only existence_smp:stats/elytra/frequent_flyer_club 1068
-advancement grant @s[scores={exi_elytra_km=1069..}] only existence_smp:stats/elytra/frequent_flyer_club 1069
-advancement grant @s[scores={exi_elytra_km=1070..}] only existence_smp:stats/elytra/frequent_flyer_club 1070
-advancement grant @s[scores={exi_elytra_km=1071..}] only existence_smp:stats/elytra/frequent_flyer_club 1071
-advancement grant @s[scores={exi_elytra_km=1072..}] only existence_smp:stats/elytra/frequent_flyer_club 1072
-advancement grant @s[scores={exi_elytra_km=1073..}] only existence_smp:stats/elytra/frequent_flyer_club 1073
-advancement grant @s[scores={exi_elytra_km=1074..}] only existence_smp:stats/elytra/frequent_flyer_club 1074
-advancement grant @s[scores={exi_elytra_km=1075..}] only existence_smp:stats/elytra/frequent_flyer_club 1075
-advancement grant @s[scores={exi_elytra_km=1076..}] only existence_smp:stats/elytra/frequent_flyer_club 1076
-advancement grant @s[scores={exi_elytra_km=1077..}] only existence_smp:stats/elytra/frequent_flyer_club 1077
-advancement grant @s[scores={exi_elytra_km=1078..}] only existence_smp:stats/elytra/frequent_flyer_club 1078
-advancement grant @s[scores={exi_elytra_km=1079..}] only existence_smp:stats/elytra/frequent_flyer_club 1079
-advancement grant @s[scores={exi_elytra_km=1080..}] only existence_smp:stats/elytra/frequent_flyer_club 1080
-advancement grant @s[scores={exi_elytra_km=1081..}] only existence_smp:stats/elytra/frequent_flyer_club 1081
-advancement grant @s[scores={exi_elytra_km=1082..}] only existence_smp:stats/elytra/frequent_flyer_club 1082
-advancement grant @s[scores={exi_elytra_km=1083..}] only existence_smp:stats/elytra/frequent_flyer_club 1083
-advancement grant @s[scores={exi_elytra_km=1084..}] only existence_smp:stats/elytra/frequent_flyer_club 1084
-advancement grant @s[scores={exi_elytra_km=1085..}] only existence_smp:stats/elytra/frequent_flyer_club 1085
-advancement grant @s[scores={exi_elytra_km=1086..}] only existence_smp:stats/elytra/frequent_flyer_club 1086
-advancement grant @s[scores={exi_elytra_km=1087..}] only existence_smp:stats/elytra/frequent_flyer_club 1087
-advancement grant @s[scores={exi_elytra_km=1088..}] only existence_smp:stats/elytra/frequent_flyer_club 1088
-advancement grant @s[scores={exi_elytra_km=1089..}] only existence_smp:stats/elytra/frequent_flyer_club 1089
-advancement grant @s[scores={exi_elytra_km=1090..}] only existence_smp:stats/elytra/frequent_flyer_club 1090
-advancement grant @s[scores={exi_elytra_km=1091..}] only existence_smp:stats/elytra/frequent_flyer_club 1091
-advancement grant @s[scores={exi_elytra_km=1092..}] only existence_smp:stats/elytra/frequent_flyer_club 1092
-advancement grant @s[scores={exi_elytra_km=1093..}] only existence_smp:stats/elytra/frequent_flyer_club 1093
-advancement grant @s[scores={exi_elytra_km=1094..}] only existence_smp:stats/elytra/frequent_flyer_club 1094
-advancement grant @s[scores={exi_elytra_km=1095..}] only existence_smp:stats/elytra/frequent_flyer_club 1095
-advancement grant @s[scores={exi_elytra_km=1096..}] only existence_smp:stats/elytra/frequent_flyer_club 1096
-advancement grant @s[scores={exi_elytra_km=1097..}] only existence_smp:stats/elytra/frequent_flyer_club 1097
-advancement grant @s[scores={exi_elytra_km=1098..}] only existence_smp:stats/elytra/frequent_flyer_club 1098
-advancement grant @s[scores={exi_elytra_km=1099..}] only existence_smp:stats/elytra/frequent_flyer_club 1099
-advancement grant @s[scores={exi_elytra_km=1100..}] only existence_smp:stats/elytra/frequent_flyer_club 1100
-advancement grant @s[scores={exi_elytra_km=1101..}] only existence_smp:stats/elytra/frequent_flyer_club 1101
-advancement grant @s[scores={exi_elytra_km=1102..}] only existence_smp:stats/elytra/frequent_flyer_club 1102
-advancement grant @s[scores={exi_elytra_km=1103..}] only existence_smp:stats/elytra/frequent_flyer_club 1103
-advancement grant @s[scores={exi_elytra_km=1104..}] only existence_smp:stats/elytra/frequent_flyer_club 1104
-advancement grant @s[scores={exi_elytra_km=1105..}] only existence_smp:stats/elytra/frequent_flyer_club 1105
-advancement grant @s[scores={exi_elytra_km=1106..}] only existence_smp:stats/elytra/frequent_flyer_club 1106
-advancement grant @s[scores={exi_elytra_km=1107..}] only existence_smp:stats/elytra/frequent_flyer_club 1107
-advancement grant @s[scores={exi_elytra_km=1108..}] only existence_smp:stats/elytra/frequent_flyer_club 1108
-advancement grant @s[scores={exi_elytra_km=1109..}] only existence_smp:stats/elytra/frequent_flyer_club 1109
-advancement grant @s[scores={exi_elytra_km=1110..}] only existence_smp:stats/elytra/frequent_flyer_club 1110
-advancement grant @s[scores={exi_elytra_km=1111..}] only existence_smp:stats/elytra/frequent_flyer_club 1111
-advancement grant @s[scores={exi_elytra_km=1112..}] only existence_smp:stats/elytra/frequent_flyer_club 1112
-advancement grant @s[scores={exi_elytra_km=1113..}] only existence_smp:stats/elytra/frequent_flyer_club 1113
-advancement grant @s[scores={exi_elytra_km=1114..}] only existence_smp:stats/elytra/frequent_flyer_club 1114
-advancement grant @s[scores={exi_elytra_km=1115..}] only existence_smp:stats/elytra/frequent_flyer_club 1115
-advancement grant @s[scores={exi_elytra_km=1116..}] only existence_smp:stats/elytra/frequent_flyer_club 1116
-advancement grant @s[scores={exi_elytra_km=1117..}] only existence_smp:stats/elytra/frequent_flyer_club 1117
-advancement grant @s[scores={exi_elytra_km=1118..}] only existence_smp:stats/elytra/frequent_flyer_club 1118
-advancement grant @s[scores={exi_elytra_km=1119..}] only existence_smp:stats/elytra/frequent_flyer_club 1119
-advancement grant @s[scores={exi_elytra_km=1120..}] only existence_smp:stats/elytra/frequent_flyer_club 1120
-advancement grant @s[scores={exi_elytra_km=1121..}] only existence_smp:stats/elytra/frequent_flyer_club 1121
-advancement grant @s[scores={exi_elytra_km=1122..}] only existence_smp:stats/elytra/frequent_flyer_club 1122
-advancement grant @s[scores={exi_elytra_km=1123..}] only existence_smp:stats/elytra/frequent_flyer_club 1123
-advancement grant @s[scores={exi_elytra_km=1124..}] only existence_smp:stats/elytra/frequent_flyer_club 1124
-advancement grant @s[scores={exi_elytra_km=1125..}] only existence_smp:stats/elytra/frequent_flyer_club 1125
-advancement grant @s[scores={exi_elytra_km=1126..}] only existence_smp:stats/elytra/frequent_flyer_club 1126
-advancement grant @s[scores={exi_elytra_km=1127..}] only existence_smp:stats/elytra/frequent_flyer_club 1127
-advancement grant @s[scores={exi_elytra_km=1128..}] only existence_smp:stats/elytra/frequent_flyer_club 1128
-advancement grant @s[scores={exi_elytra_km=1129..}] only existence_smp:stats/elytra/frequent_flyer_club 1129
-advancement grant @s[scores={exi_elytra_km=1130..}] only existence_smp:stats/elytra/frequent_flyer_club 1130
-advancement grant @s[scores={exi_elytra_km=1131..}] only existence_smp:stats/elytra/frequent_flyer_club 1131
-advancement grant @s[scores={exi_elytra_km=1132..}] only existence_smp:stats/elytra/frequent_flyer_club 1132
-advancement grant @s[scores={exi_elytra_km=1133..}] only existence_smp:stats/elytra/frequent_flyer_club 1133
-advancement grant @s[scores={exi_elytra_km=1134..}] only existence_smp:stats/elytra/frequent_flyer_club 1134
-advancement grant @s[scores={exi_elytra_km=1135..}] only existence_smp:stats/elytra/frequent_flyer_club 1135
-advancement grant @s[scores={exi_elytra_km=1136..}] only existence_smp:stats/elytra/frequent_flyer_club 1136
-advancement grant @s[scores={exi_elytra_km=1137..}] only existence_smp:stats/elytra/frequent_flyer_club 1137
-advancement grant @s[scores={exi_elytra_km=1138..}] only existence_smp:stats/elytra/frequent_flyer_club 1138
-advancement grant @s[scores={exi_elytra_km=1139..}] only existence_smp:stats/elytra/frequent_flyer_club 1139
-advancement grant @s[scores={exi_elytra_km=1140..}] only existence_smp:stats/elytra/frequent_flyer_club 1140
-advancement grant @s[scores={exi_elytra_km=1141..}] only existence_smp:stats/elytra/frequent_flyer_club 1141
-advancement grant @s[scores={exi_elytra_km=1142..}] only existence_smp:stats/elytra/frequent_flyer_club 1142
-advancement grant @s[scores={exi_elytra_km=1143..}] only existence_smp:stats/elytra/frequent_flyer_club 1143
-advancement grant @s[scores={exi_elytra_km=1144..}] only existence_smp:stats/elytra/frequent_flyer_club 1144
-advancement grant @s[scores={exi_elytra_km=1145..}] only existence_smp:stats/elytra/frequent_flyer_club 1145
-advancement grant @s[scores={exi_elytra_km=1146..}] only existence_smp:stats/elytra/frequent_flyer_club 1146
-advancement grant @s[scores={exi_elytra_km=1147..}] only existence_smp:stats/elytra/frequent_flyer_club 1147
-advancement grant @s[scores={exi_elytra_km=1148..}] only existence_smp:stats/elytra/frequent_flyer_club 1148
-advancement grant @s[scores={exi_elytra_km=1149..}] only existence_smp:stats/elytra/frequent_flyer_club 1149
-advancement grant @s[scores={exi_elytra_km=1150..}] only existence_smp:stats/elytra/frequent_flyer_club 1150
-advancement grant @s[scores={exi_elytra_km=1151..}] only existence_smp:stats/elytra/frequent_flyer_club 1151
-advancement grant @s[scores={exi_elytra_km=1152..}] only existence_smp:stats/elytra/frequent_flyer_club 1152
-advancement grant @s[scores={exi_elytra_km=1153..}] only existence_smp:stats/elytra/frequent_flyer_club 1153
-advancement grant @s[scores={exi_elytra_km=1154..}] only existence_smp:stats/elytra/frequent_flyer_club 1154
-advancement grant @s[scores={exi_elytra_km=1155..}] only existence_smp:stats/elytra/frequent_flyer_club 1155
-advancement grant @s[scores={exi_elytra_km=1156..}] only existence_smp:stats/elytra/frequent_flyer_club 1156
-advancement grant @s[scores={exi_elytra_km=1157..}] only existence_smp:stats/elytra/frequent_flyer_club 1157
-advancement grant @s[scores={exi_elytra_km=1158..}] only existence_smp:stats/elytra/frequent_flyer_club 1158
-advancement grant @s[scores={exi_elytra_km=1159..}] only existence_smp:stats/elytra/frequent_flyer_club 1159
-advancement grant @s[scores={exi_elytra_km=1160..}] only existence_smp:stats/elytra/frequent_flyer_club 1160
-advancement grant @s[scores={exi_elytra_km=1161..}] only existence_smp:stats/elytra/frequent_flyer_club 1161
-advancement grant @s[scores={exi_elytra_km=1162..}] only existence_smp:stats/elytra/frequent_flyer_club 1162
-advancement grant @s[scores={exi_elytra_km=1163..}] only existence_smp:stats/elytra/frequent_flyer_club 1163
-advancement grant @s[scores={exi_elytra_km=1164..}] only existence_smp:stats/elytra/frequent_flyer_club 1164
-advancement grant @s[scores={exi_elytra_km=1165..}] only existence_smp:stats/elytra/frequent_flyer_club 1165
-advancement grant @s[scores={exi_elytra_km=1166..}] only existence_smp:stats/elytra/frequent_flyer_club 1166
-advancement grant @s[scores={exi_elytra_km=1167..}] only existence_smp:stats/elytra/frequent_flyer_club 1167
-advancement grant @s[scores={exi_elytra_km=1168..}] only existence_smp:stats/elytra/frequent_flyer_club 1168
-advancement grant @s[scores={exi_elytra_km=1169..}] only existence_smp:stats/elytra/frequent_flyer_club 1169
-advancement grant @s[scores={exi_elytra_km=1170..}] only existence_smp:stats/elytra/frequent_flyer_club 1170
-advancement grant @s[scores={exi_elytra_km=1171..}] only existence_smp:stats/elytra/frequent_flyer_club 1171
-advancement grant @s[scores={exi_elytra_km=1172..}] only existence_smp:stats/elytra/frequent_flyer_club 1172
-advancement grant @s[scores={exi_elytra_km=1173..}] only existence_smp:stats/elytra/frequent_flyer_club 1173
-advancement grant @s[scores={exi_elytra_km=1174..}] only existence_smp:stats/elytra/frequent_flyer_club 1174
-advancement grant @s[scores={exi_elytra_km=1175..}] only existence_smp:stats/elytra/frequent_flyer_club 1175
-advancement grant @s[scores={exi_elytra_km=1176..}] only existence_smp:stats/elytra/frequent_flyer_club 1176
-advancement grant @s[scores={exi_elytra_km=1177..}] only existence_smp:stats/elytra/frequent_flyer_club 1177
-advancement grant @s[scores={exi_elytra_km=1178..}] only existence_smp:stats/elytra/frequent_flyer_club 1178
-advancement grant @s[scores={exi_elytra_km=1179..}] only existence_smp:stats/elytra/frequent_flyer_club 1179
-advancement grant @s[scores={exi_elytra_km=1180..}] only existence_smp:stats/elytra/frequent_flyer_club 1180
-advancement grant @s[scores={exi_elytra_km=1181..}] only existence_smp:stats/elytra/frequent_flyer_club 1181
-advancement grant @s[scores={exi_elytra_km=1182..}] only existence_smp:stats/elytra/frequent_flyer_club 1182
-advancement grant @s[scores={exi_elytra_km=1183..}] only existence_smp:stats/elytra/frequent_flyer_club 1183
-advancement grant @s[scores={exi_elytra_km=1184..}] only existence_smp:stats/elytra/frequent_flyer_club 1184
-advancement grant @s[scores={exi_elytra_km=1185..}] only existence_smp:stats/elytra/frequent_flyer_club 1185
-advancement grant @s[scores={exi_elytra_km=1186..}] only existence_smp:stats/elytra/frequent_flyer_club 1186
-advancement grant @s[scores={exi_elytra_km=1187..}] only existence_smp:stats/elytra/frequent_flyer_club 1187
-advancement grant @s[scores={exi_elytra_km=1188..}] only existence_smp:stats/elytra/frequent_flyer_club 1188
-advancement grant @s[scores={exi_elytra_km=1189..}] only existence_smp:stats/elytra/frequent_flyer_club 1189
-advancement grant @s[scores={exi_elytra_km=1190..}] only existence_smp:stats/elytra/frequent_flyer_club 1190
-advancement grant @s[scores={exi_elytra_km=1191..}] only existence_smp:stats/elytra/frequent_flyer_club 1191
-advancement grant @s[scores={exi_elytra_km=1192..}] only existence_smp:stats/elytra/frequent_flyer_club 1192
-advancement grant @s[scores={exi_elytra_km=1193..}] only existence_smp:stats/elytra/frequent_flyer_club 1193
-advancement grant @s[scores={exi_elytra_km=1194..}] only existence_smp:stats/elytra/frequent_flyer_club 1194
-advancement grant @s[scores={exi_elytra_km=1195..}] only existence_smp:stats/elytra/frequent_flyer_club 1195
-advancement grant @s[scores={exi_elytra_km=1196..}] only existence_smp:stats/elytra/frequent_flyer_club 1196
-advancement grant @s[scores={exi_elytra_km=1197..}] only existence_smp:stats/elytra/frequent_flyer_club 1197
-advancement grant @s[scores={exi_elytra_km=1198..}] only existence_smp:stats/elytra/frequent_flyer_club 1198
-advancement grant @s[scores={exi_elytra_km=1199..}] only existence_smp:stats/elytra/frequent_flyer_club 1199
-advancement grant @s[scores={exi_elytra_km=1200..}] only existence_smp:stats/elytra/frequent_flyer_club 1200
-advancement grant @s[scores={exi_elytra_km=1201..}] only existence_smp:stats/elytra/frequent_flyer_club 1201
-advancement grant @s[scores={exi_elytra_km=1202..}] only existence_smp:stats/elytra/frequent_flyer_club 1202
-advancement grant @s[scores={exi_elytra_km=1203..}] only existence_smp:stats/elytra/frequent_flyer_club 1203
-advancement grant @s[scores={exi_elytra_km=1204..}] only existence_smp:stats/elytra/frequent_flyer_club 1204
-advancement grant @s[scores={exi_elytra_km=1205..}] only existence_smp:stats/elytra/frequent_flyer_club 1205
-advancement grant @s[scores={exi_elytra_km=1206..}] only existence_smp:stats/elytra/frequent_flyer_club 1206
-advancement grant @s[scores={exi_elytra_km=1207..}] only existence_smp:stats/elytra/frequent_flyer_club 1207
-advancement grant @s[scores={exi_elytra_km=1208..}] only existence_smp:stats/elytra/frequent_flyer_club 1208
-advancement grant @s[scores={exi_elytra_km=1209..}] only existence_smp:stats/elytra/frequent_flyer_club 1209
-advancement grant @s[scores={exi_elytra_km=1210..}] only existence_smp:stats/elytra/frequent_flyer_club 1210
-advancement grant @s[scores={exi_elytra_km=1211..}] only existence_smp:stats/elytra/frequent_flyer_club 1211
-advancement grant @s[scores={exi_elytra_km=1212..}] only existence_smp:stats/elytra/frequent_flyer_club 1212
-advancement grant @s[scores={exi_elytra_km=1213..}] only existence_smp:stats/elytra/frequent_flyer_club 1213
-advancement grant @s[scores={exi_elytra_km=1214..}] only existence_smp:stats/elytra/frequent_flyer_club 1214
-advancement grant @s[scores={exi_elytra_km=1215..}] only existence_smp:stats/elytra/frequent_flyer_club 1215
-advancement grant @s[scores={exi_elytra_km=1216..}] only existence_smp:stats/elytra/frequent_flyer_club 1216
-advancement grant @s[scores={exi_elytra_km=1217..}] only existence_smp:stats/elytra/frequent_flyer_club 1217
-advancement grant @s[scores={exi_elytra_km=1218..}] only existence_smp:stats/elytra/frequent_flyer_club 1218
-advancement grant @s[scores={exi_elytra_km=1219..}] only existence_smp:stats/elytra/frequent_flyer_club 1219
-advancement grant @s[scores={exi_elytra_km=1220..}] only existence_smp:stats/elytra/frequent_flyer_club 1220
-advancement grant @s[scores={exi_elytra_km=1221..}] only existence_smp:stats/elytra/frequent_flyer_club 1221
-advancement grant @s[scores={exi_elytra_km=1222..}] only existence_smp:stats/elytra/frequent_flyer_club 1222
-advancement grant @s[scores={exi_elytra_km=1223..}] only existence_smp:stats/elytra/frequent_flyer_club 1223
-advancement grant @s[scores={exi_elytra_km=1224..}] only existence_smp:stats/elytra/frequent_flyer_club 1224
-advancement grant @s[scores={exi_elytra_km=1225..}] only existence_smp:stats/elytra/frequent_flyer_club 1225
-advancement grant @s[scores={exi_elytra_km=1226..}] only existence_smp:stats/elytra/frequent_flyer_club 1226
-advancement grant @s[scores={exi_elytra_km=1227..}] only existence_smp:stats/elytra/frequent_flyer_club 1227
-advancement grant @s[scores={exi_elytra_km=1228..}] only existence_smp:stats/elytra/frequent_flyer_club 1228
-advancement grant @s[scores={exi_elytra_km=1229..}] only existence_smp:stats/elytra/frequent_flyer_club 1229
-advancement grant @s[scores={exi_elytra_km=1230..}] only existence_smp:stats/elytra/frequent_flyer_club 1230
-advancement grant @s[scores={exi_elytra_km=1231..}] only existence_smp:stats/elytra/frequent_flyer_club 1231
-advancement grant @s[scores={exi_elytra_km=1232..}] only existence_smp:stats/elytra/frequent_flyer_club 1232
-advancement grant @s[scores={exi_elytra_km=1233..}] only existence_smp:stats/elytra/frequent_flyer_club 1233
-advancement grant @s[scores={exi_elytra_km=1234..}] only existence_smp:stats/elytra/frequent_flyer_club 1234
-advancement grant @s[scores={exi_elytra_km=1235..}] only existence_smp:stats/elytra/frequent_flyer_club 1235
-advancement grant @s[scores={exi_elytra_km=1236..}] only existence_smp:stats/elytra/frequent_flyer_club 1236
-advancement grant @s[scores={exi_elytra_km=1237..}] only existence_smp:stats/elytra/frequent_flyer_club 1237
-advancement grant @s[scores={exi_elytra_km=1238..}] only existence_smp:stats/elytra/frequent_flyer_club 1238
-advancement grant @s[scores={exi_elytra_km=1239..}] only existence_smp:stats/elytra/frequent_flyer_club 1239
-advancement grant @s[scores={exi_elytra_km=1240..}] only existence_smp:stats/elytra/frequent_flyer_club 1240
-advancement grant @s[scores={exi_elytra_km=1241..}] only existence_smp:stats/elytra/frequent_flyer_club 1241
-advancement grant @s[scores={exi_elytra_km=1242..}] only existence_smp:stats/elytra/frequent_flyer_club 1242
-advancement grant @s[scores={exi_elytra_km=1243..}] only existence_smp:stats/elytra/frequent_flyer_club 1243
-advancement grant @s[scores={exi_elytra_km=1244..}] only existence_smp:stats/elytra/frequent_flyer_club 1244
-advancement grant @s[scores={exi_elytra_km=1245..}] only existence_smp:stats/elytra/frequent_flyer_club 1245
-advancement grant @s[scores={exi_elytra_km=1246..}] only existence_smp:stats/elytra/frequent_flyer_club 1246
-advancement grant @s[scores={exi_elytra_km=1247..}] only existence_smp:stats/elytra/frequent_flyer_club 1247
-advancement grant @s[scores={exi_elytra_km=1248..}] only existence_smp:stats/elytra/frequent_flyer_club 1248
-advancement grant @s[scores={exi_elytra_km=1249..}] only existence_smp:stats/elytra/frequent_flyer_club 1249
-advancement grant @s[scores={exi_elytra_km=1250..}] only existence_smp:stats/elytra/frequent_flyer_club 1250
-advancement grant @s[scores={exi_elytra_km=1251..}] only existence_smp:stats/elytra/frequent_flyer_club 1251
-advancement grant @s[scores={exi_elytra_km=1252..}] only existence_smp:stats/elytra/frequent_flyer_club 1252
-advancement grant @s[scores={exi_elytra_km=1253..}] only existence_smp:stats/elytra/frequent_flyer_club 1253
-advancement grant @s[scores={exi_elytra_km=1254..}] only existence_smp:stats/elytra/frequent_flyer_club 1254
-advancement grant @s[scores={exi_elytra_km=1255..}] only existence_smp:stats/elytra/frequent_flyer_club 1255
-advancement grant @s[scores={exi_elytra_km=1256..}] only existence_smp:stats/elytra/frequent_flyer_club 1256
-advancement grant @s[scores={exi_elytra_km=1257..}] only existence_smp:stats/elytra/frequent_flyer_club 1257
-advancement grant @s[scores={exi_elytra_km=1258..}] only existence_smp:stats/elytra/frequent_flyer_club 1258
-advancement grant @s[scores={exi_elytra_km=1259..}] only existence_smp:stats/elytra/frequent_flyer_club 1259
-advancement grant @s[scores={exi_elytra_km=1260..}] only existence_smp:stats/elytra/frequent_flyer_club 1260
-advancement grant @s[scores={exi_elytra_km=1261..}] only existence_smp:stats/elytra/frequent_flyer_club 1261
-advancement grant @s[scores={exi_elytra_km=1262..}] only existence_smp:stats/elytra/frequent_flyer_club 1262
-advancement grant @s[scores={exi_elytra_km=1263..}] only existence_smp:stats/elytra/frequent_flyer_club 1263
-advancement grant @s[scores={exi_elytra_km=1264..}] only existence_smp:stats/elytra/frequent_flyer_club 1264
-advancement grant @s[scores={exi_elytra_km=1265..}] only existence_smp:stats/elytra/frequent_flyer_club 1265
-advancement grant @s[scores={exi_elytra_km=1266..}] only existence_smp:stats/elytra/frequent_flyer_club 1266
-advancement grant @s[scores={exi_elytra_km=1267..}] only existence_smp:stats/elytra/frequent_flyer_club 1267
-advancement grant @s[scores={exi_elytra_km=1268..}] only existence_smp:stats/elytra/frequent_flyer_club 1268
-advancement grant @s[scores={exi_elytra_km=1269..}] only existence_smp:stats/elytra/frequent_flyer_club 1269
-advancement grant @s[scores={exi_elytra_km=1270..}] only existence_smp:stats/elytra/frequent_flyer_club 1270
-advancement grant @s[scores={exi_elytra_km=1271..}] only existence_smp:stats/elytra/frequent_flyer_club 1271
-advancement grant @s[scores={exi_elytra_km=1272..}] only existence_smp:stats/elytra/frequent_flyer_club 1272
-advancement grant @s[scores={exi_elytra_km=1273..}] only existence_smp:stats/elytra/frequent_flyer_club 1273
-advancement grant @s[scores={exi_elytra_km=1274..}] only existence_smp:stats/elytra/frequent_flyer_club 1274
-advancement grant @s[scores={exi_elytra_km=1275..}] only existence_smp:stats/elytra/frequent_flyer_club 1275
-advancement grant @s[scores={exi_elytra_km=1276..}] only existence_smp:stats/elytra/frequent_flyer_club 1276
-advancement grant @s[scores={exi_elytra_km=1277..}] only existence_smp:stats/elytra/frequent_flyer_club 1277
-advancement grant @s[scores={exi_elytra_km=1278..}] only existence_smp:stats/elytra/frequent_flyer_club 1278
-advancement grant @s[scores={exi_elytra_km=1279..}] only existence_smp:stats/elytra/frequent_flyer_club 1279
-advancement grant @s[scores={exi_elytra_km=1280..}] only existence_smp:stats/elytra/frequent_flyer_club 1280
-advancement grant @s[scores={exi_elytra_km=1281..}] only existence_smp:stats/elytra/frequent_flyer_club 1281
-advancement grant @s[scores={exi_elytra_km=1282..}] only existence_smp:stats/elytra/frequent_flyer_club 1282
-advancement grant @s[scores={exi_elytra_km=1283..}] only existence_smp:stats/elytra/frequent_flyer_club 1283
-advancement grant @s[scores={exi_elytra_km=1284..}] only existence_smp:stats/elytra/frequent_flyer_club 1284
-advancement grant @s[scores={exi_elytra_km=1285..}] only existence_smp:stats/elytra/frequent_flyer_club 1285
-advancement grant @s[scores={exi_elytra_km=1286..}] only existence_smp:stats/elytra/frequent_flyer_club 1286
-advancement grant @s[scores={exi_elytra_km=1287..}] only existence_smp:stats/elytra/frequent_flyer_club 1287
-advancement grant @s[scores={exi_elytra_km=1288..}] only existence_smp:stats/elytra/frequent_flyer_club 1288
-advancement grant @s[scores={exi_elytra_km=1289..}] only existence_smp:stats/elytra/frequent_flyer_club 1289
-advancement grant @s[scores={exi_elytra_km=1290..}] only existence_smp:stats/elytra/frequent_flyer_club 1290
-advancement grant @s[scores={exi_elytra_km=1291..}] only existence_smp:stats/elytra/frequent_flyer_club 1291
-advancement grant @s[scores={exi_elytra_km=1292..}] only existence_smp:stats/elytra/frequent_flyer_club 1292
-advancement grant @s[scores={exi_elytra_km=1293..}] only existence_smp:stats/elytra/frequent_flyer_club 1293
-advancement grant @s[scores={exi_elytra_km=1294..}] only existence_smp:stats/elytra/frequent_flyer_club 1294
-advancement grant @s[scores={exi_elytra_km=1295..}] only existence_smp:stats/elytra/frequent_flyer_club 1295
-advancement grant @s[scores={exi_elytra_km=1296..}] only existence_smp:stats/elytra/frequent_flyer_club 1296
-advancement grant @s[scores={exi_elytra_km=1297..}] only existence_smp:stats/elytra/frequent_flyer_club 1297
-advancement grant @s[scores={exi_elytra_km=1298..}] only existence_smp:stats/elytra/frequent_flyer_club 1298
-advancement grant @s[scores={exi_elytra_km=1299..}] only existence_smp:stats/elytra/frequent_flyer_club 1299
-advancement grant @s[scores={exi_elytra_km=1300..}] only existence_smp:stats/elytra/frequent_flyer_club 1300
-advancement grant @s[scores={exi_elytra_km=1301..}] only existence_smp:stats/elytra/frequent_flyer_club 1301
-advancement grant @s[scores={exi_elytra_km=1302..}] only existence_smp:stats/elytra/frequent_flyer_club 1302
-advancement grant @s[scores={exi_elytra_km=1303..}] only existence_smp:stats/elytra/frequent_flyer_club 1303
-advancement grant @s[scores={exi_elytra_km=1304..}] only existence_smp:stats/elytra/frequent_flyer_club 1304
-advancement grant @s[scores={exi_elytra_km=1305..}] only existence_smp:stats/elytra/frequent_flyer_club 1305
-advancement grant @s[scores={exi_elytra_km=1306..}] only existence_smp:stats/elytra/frequent_flyer_club 1306
-advancement grant @s[scores={exi_elytra_km=1307..}] only existence_smp:stats/elytra/frequent_flyer_club 1307
-advancement grant @s[scores={exi_elytra_km=1308..}] only existence_smp:stats/elytra/frequent_flyer_club 1308
-advancement grant @s[scores={exi_elytra_km=1309..}] only existence_smp:stats/elytra/frequent_flyer_club 1309
-advancement grant @s[scores={exi_elytra_km=1310..}] only existence_smp:stats/elytra/frequent_flyer_club 1310
-advancement grant @s[scores={exi_elytra_km=1311..}] only existence_smp:stats/elytra/frequent_flyer_club 1311
-advancement grant @s[scores={exi_elytra_km=1312..}] only existence_smp:stats/elytra/frequent_flyer_club 1312
-advancement grant @s[scores={exi_elytra_km=1313..}] only existence_smp:stats/elytra/frequent_flyer_club 1313
-advancement grant @s[scores={exi_elytra_km=1314..}] only existence_smp:stats/elytra/frequent_flyer_club 1314
-advancement grant @s[scores={exi_elytra_km=1315..}] only existence_smp:stats/elytra/frequent_flyer_club 1315
-advancement grant @s[scores={exi_elytra_km=1316..}] only existence_smp:stats/elytra/frequent_flyer_club 1316
-advancement grant @s[scores={exi_elytra_km=1317..}] only existence_smp:stats/elytra/frequent_flyer_club 1317
-advancement grant @s[scores={exi_elytra_km=1318..}] only existence_smp:stats/elytra/frequent_flyer_club 1318
-advancement grant @s[scores={exi_elytra_km=1319..}] only existence_smp:stats/elytra/frequent_flyer_club 1319
-advancement grant @s[scores={exi_elytra_km=1320..}] only existence_smp:stats/elytra/frequent_flyer_club 1320
-advancement grant @s[scores={exi_elytra_km=1321..}] only existence_smp:stats/elytra/frequent_flyer_club 1321
-advancement grant @s[scores={exi_elytra_km=1322..}] only existence_smp:stats/elytra/frequent_flyer_club 1322
-advancement grant @s[scores={exi_elytra_km=1323..}] only existence_smp:stats/elytra/frequent_flyer_club 1323
-advancement grant @s[scores={exi_elytra_km=1324..}] only existence_smp:stats/elytra/frequent_flyer_club 1324
-advancement grant @s[scores={exi_elytra_km=1325..}] only existence_smp:stats/elytra/frequent_flyer_club 1325
-advancement grant @s[scores={exi_elytra_km=1326..}] only existence_smp:stats/elytra/frequent_flyer_club 1326
-advancement grant @s[scores={exi_elytra_km=1327..}] only existence_smp:stats/elytra/frequent_flyer_club 1327
-advancement grant @s[scores={exi_elytra_km=1328..}] only existence_smp:stats/elytra/frequent_flyer_club 1328
-advancement grant @s[scores={exi_elytra_km=1329..}] only existence_smp:stats/elytra/frequent_flyer_club 1329
-advancement grant @s[scores={exi_elytra_km=1330..}] only existence_smp:stats/elytra/frequent_flyer_club 1330
-advancement grant @s[scores={exi_elytra_km=1331..}] only existence_smp:stats/elytra/frequent_flyer_club 1331
-advancement grant @s[scores={exi_elytra_km=1332..}] only existence_smp:stats/elytra/frequent_flyer_club 1332
-advancement grant @s[scores={exi_elytra_km=1333..}] only existence_smp:stats/elytra/frequent_flyer_club 1333
-advancement grant @s[scores={exi_elytra_km=1334..}] only existence_smp:stats/elytra/frequent_flyer_club 1334
-advancement grant @s[scores={exi_elytra_km=1335..}] only existence_smp:stats/elytra/frequent_flyer_club 1335
-advancement grant @s[scores={exi_elytra_km=1336..}] only existence_smp:stats/elytra/frequent_flyer_club 1336
-advancement grant @s[scores={exi_elytra_km=1337..}] only existence_smp:stats/elytra/frequent_flyer_club 1337
-advancement grant @s[scores={exi_elytra_km=1338..}] only existence_smp:stats/elytra/frequent_flyer_club 1338
-advancement grant @s[scores={exi_elytra_km=1339..}] only existence_smp:stats/elytra/frequent_flyer_club 1339
-advancement grant @s[scores={exi_elytra_km=1340..}] only existence_smp:stats/elytra/frequent_flyer_club 1340
-advancement grant @s[scores={exi_elytra_km=1341..}] only existence_smp:stats/elytra/frequent_flyer_club 1341
-advancement grant @s[scores={exi_elytra_km=1342..}] only existence_smp:stats/elytra/frequent_flyer_club 1342
-advancement grant @s[scores={exi_elytra_km=1343..}] only existence_smp:stats/elytra/frequent_flyer_club 1343
-advancement grant @s[scores={exi_elytra_km=1344..}] only existence_smp:stats/elytra/frequent_flyer_club 1344
-advancement grant @s[scores={exi_elytra_km=1345..}] only existence_smp:stats/elytra/frequent_flyer_club 1345
-advancement grant @s[scores={exi_elytra_km=1346..}] only existence_smp:stats/elytra/frequent_flyer_club 1346
-advancement grant @s[scores={exi_elytra_km=1347..}] only existence_smp:stats/elytra/frequent_flyer_club 1347
-advancement grant @s[scores={exi_elytra_km=1348..}] only existence_smp:stats/elytra/frequent_flyer_club 1348
-advancement grant @s[scores={exi_elytra_km=1349..}] only existence_smp:stats/elytra/frequent_flyer_club 1349
-advancement grant @s[scores={exi_elytra_km=1350..}] only existence_smp:stats/elytra/frequent_flyer_club 1350
-advancement grant @s[scores={exi_elytra_km=1351..}] only existence_smp:stats/elytra/frequent_flyer_club 1351
-advancement grant @s[scores={exi_elytra_km=1352..}] only existence_smp:stats/elytra/frequent_flyer_club 1352
-advancement grant @s[scores={exi_elytra_km=1353..}] only existence_smp:stats/elytra/frequent_flyer_club 1353
-advancement grant @s[scores={exi_elytra_km=1354..}] only existence_smp:stats/elytra/frequent_flyer_club 1354
-advancement grant @s[scores={exi_elytra_km=1355..}] only existence_smp:stats/elytra/frequent_flyer_club 1355
-advancement grant @s[scores={exi_elytra_km=1356..}] only existence_smp:stats/elytra/frequent_flyer_club 1356
-advancement grant @s[scores={exi_elytra_km=1357..}] only existence_smp:stats/elytra/frequent_flyer_club 1357
-advancement grant @s[scores={exi_elytra_km=1358..}] only existence_smp:stats/elytra/frequent_flyer_club 1358
-advancement grant @s[scores={exi_elytra_km=1359..}] only existence_smp:stats/elytra/frequent_flyer_club 1359
-advancement grant @s[scores={exi_elytra_km=1360..}] only existence_smp:stats/elytra/frequent_flyer_club 1360
-advancement grant @s[scores={exi_elytra_km=1361..}] only existence_smp:stats/elytra/frequent_flyer_club 1361
-advancement grant @s[scores={exi_elytra_km=1362..}] only existence_smp:stats/elytra/frequent_flyer_club 1362
-advancement grant @s[scores={exi_elytra_km=1363..}] only existence_smp:stats/elytra/frequent_flyer_club 1363
-advancement grant @s[scores={exi_elytra_km=1364..}] only existence_smp:stats/elytra/frequent_flyer_club 1364
-advancement grant @s[scores={exi_elytra_km=1365..}] only existence_smp:stats/elytra/frequent_flyer_club 1365
-advancement grant @s[scores={exi_elytra_km=1366..}] only existence_smp:stats/elytra/frequent_flyer_club 1366
-advancement grant @s[scores={exi_elytra_km=1367..}] only existence_smp:stats/elytra/frequent_flyer_club 1367
-advancement grant @s[scores={exi_elytra_km=1368..}] only existence_smp:stats/elytra/frequent_flyer_club 1368
-advancement grant @s[scores={exi_elytra_km=1369..}] only existence_smp:stats/elytra/frequent_flyer_club 1369
-advancement grant @s[scores={exi_elytra_km=1370..}] only existence_smp:stats/elytra/frequent_flyer_club 1370
-advancement grant @s[scores={exi_elytra_km=1371..}] only existence_smp:stats/elytra/frequent_flyer_club 1371
-advancement grant @s[scores={exi_elytra_km=1372..}] only existence_smp:stats/elytra/frequent_flyer_club 1372
-advancement grant @s[scores={exi_elytra_km=1373..}] only existence_smp:stats/elytra/frequent_flyer_club 1373
-advancement grant @s[scores={exi_elytra_km=1374..}] only existence_smp:stats/elytra/frequent_flyer_club 1374
-advancement grant @s[scores={exi_elytra_km=1375..}] only existence_smp:stats/elytra/frequent_flyer_club 1375
-advancement grant @s[scores={exi_elytra_km=1376..}] only existence_smp:stats/elytra/frequent_flyer_club 1376
-advancement grant @s[scores={exi_elytra_km=1377..}] only existence_smp:stats/elytra/frequent_flyer_club 1377
-advancement grant @s[scores={exi_elytra_km=1378..}] only existence_smp:stats/elytra/frequent_flyer_club 1378
-advancement grant @s[scores={exi_elytra_km=1379..}] only existence_smp:stats/elytra/frequent_flyer_club 1379
-advancement grant @s[scores={exi_elytra_km=1380..}] only existence_smp:stats/elytra/frequent_flyer_club 1380
-advancement grant @s[scores={exi_elytra_km=1381..}] only existence_smp:stats/elytra/frequent_flyer_club 1381
-advancement grant @s[scores={exi_elytra_km=1382..}] only existence_smp:stats/elytra/frequent_flyer_club 1382
-advancement grant @s[scores={exi_elytra_km=1383..}] only existence_smp:stats/elytra/frequent_flyer_club 1383
-advancement grant @s[scores={exi_elytra_km=1384..}] only existence_smp:stats/elytra/frequent_flyer_club 1384
-advancement grant @s[scores={exi_elytra_km=1385..}] only existence_smp:stats/elytra/frequent_flyer_club 1385
-advancement grant @s[scores={exi_elytra_km=1386..}] only existence_smp:stats/elytra/frequent_flyer_club 1386
-advancement grant @s[scores={exi_elytra_km=1387..}] only existence_smp:stats/elytra/frequent_flyer_club 1387
-advancement grant @s[scores={exi_elytra_km=1388..}] only existence_smp:stats/elytra/frequent_flyer_club 1388
-advancement grant @s[scores={exi_elytra_km=1389..}] only existence_smp:stats/elytra/frequent_flyer_club 1389
-advancement grant @s[scores={exi_elytra_km=1390..}] only existence_smp:stats/elytra/frequent_flyer_club 1390
-advancement grant @s[scores={exi_elytra_km=1391..}] only existence_smp:stats/elytra/frequent_flyer_club 1391
-advancement grant @s[scores={exi_elytra_km=1392..}] only existence_smp:stats/elytra/frequent_flyer_club 1392
-advancement grant @s[scores={exi_elytra_km=1393..}] only existence_smp:stats/elytra/frequent_flyer_club 1393
-advancement grant @s[scores={exi_elytra_km=1394..}] only existence_smp:stats/elytra/frequent_flyer_club 1394
-advancement grant @s[scores={exi_elytra_km=1395..}] only existence_smp:stats/elytra/frequent_flyer_club 1395
-advancement grant @s[scores={exi_elytra_km=1396..}] only existence_smp:stats/elytra/frequent_flyer_club 1396
-advancement grant @s[scores={exi_elytra_km=1397..}] only existence_smp:stats/elytra/frequent_flyer_club 1397
-advancement grant @s[scores={exi_elytra_km=1398..}] only existence_smp:stats/elytra/frequent_flyer_club 1398
-advancement grant @s[scores={exi_elytra_km=1399..}] only existence_smp:stats/elytra/frequent_flyer_club 1399
-advancement grant @s[scores={exi_elytra_km=1400..}] only existence_smp:stats/elytra/frequent_flyer_club 1400
-advancement grant @s[scores={exi_elytra_km=1401..}] only existence_smp:stats/elytra/frequent_flyer_club 1401
-advancement grant @s[scores={exi_elytra_km=1402..}] only existence_smp:stats/elytra/frequent_flyer_club 1402
-advancement grant @s[scores={exi_elytra_km=1403..}] only existence_smp:stats/elytra/frequent_flyer_club 1403
-advancement grant @s[scores={exi_elytra_km=1404..}] only existence_smp:stats/elytra/frequent_flyer_club 1404
-advancement grant @s[scores={exi_elytra_km=1405..}] only existence_smp:stats/elytra/frequent_flyer_club 1405
-advancement grant @s[scores={exi_elytra_km=1406..}] only existence_smp:stats/elytra/frequent_flyer_club 1406
-advancement grant @s[scores={exi_elytra_km=1407..}] only existence_smp:stats/elytra/frequent_flyer_club 1407
-advancement grant @s[scores={exi_elytra_km=1408..}] only existence_smp:stats/elytra/frequent_flyer_club 1408
-advancement grant @s[scores={exi_elytra_km=1409..}] only existence_smp:stats/elytra/frequent_flyer_club 1409
-advancement grant @s[scores={exi_elytra_km=1410..}] only existence_smp:stats/elytra/frequent_flyer_club 1410
-advancement grant @s[scores={exi_elytra_km=1411..}] only existence_smp:stats/elytra/frequent_flyer_club 1411
-advancement grant @s[scores={exi_elytra_km=1412..}] only existence_smp:stats/elytra/frequent_flyer_club 1412
-advancement grant @s[scores={exi_elytra_km=1413..}] only existence_smp:stats/elytra/frequent_flyer_club 1413
-advancement grant @s[scores={exi_elytra_km=1414..}] only existence_smp:stats/elytra/frequent_flyer_club 1414
-advancement grant @s[scores={exi_elytra_km=1415..}] only existence_smp:stats/elytra/frequent_flyer_club 1415
-advancement grant @s[scores={exi_elytra_km=1416..}] only existence_smp:stats/elytra/frequent_flyer_club 1416
-advancement grant @s[scores={exi_elytra_km=1417..}] only existence_smp:stats/elytra/frequent_flyer_club 1417
-advancement grant @s[scores={exi_elytra_km=1418..}] only existence_smp:stats/elytra/frequent_flyer_club 1418
-advancement grant @s[scores={exi_elytra_km=1419..}] only existence_smp:stats/elytra/frequent_flyer_club 1419
-advancement grant @s[scores={exi_elytra_km=1420..}] only existence_smp:stats/elytra/frequent_flyer_club 1420
-advancement grant @s[scores={exi_elytra_km=1421..}] only existence_smp:stats/elytra/frequent_flyer_club 1421
-advancement grant @s[scores={exi_elytra_km=1422..}] only existence_smp:stats/elytra/frequent_flyer_club 1422
-advancement grant @s[scores={exi_elytra_km=1423..}] only existence_smp:stats/elytra/frequent_flyer_club 1423
-advancement grant @s[scores={exi_elytra_km=1424..}] only existence_smp:stats/elytra/frequent_flyer_club 1424
-advancement grant @s[scores={exi_elytra_km=1425..}] only existence_smp:stats/elytra/frequent_flyer_club 1425
-advancement grant @s[scores={exi_elytra_km=1426..}] only existence_smp:stats/elytra/frequent_flyer_club 1426
-advancement grant @s[scores={exi_elytra_km=1427..}] only existence_smp:stats/elytra/frequent_flyer_club 1427
-advancement grant @s[scores={exi_elytra_km=1428..}] only existence_smp:stats/elytra/frequent_flyer_club 1428
-advancement grant @s[scores={exi_elytra_km=1429..}] only existence_smp:stats/elytra/frequent_flyer_club 1429
-advancement grant @s[scores={exi_elytra_km=1430..}] only existence_smp:stats/elytra/frequent_flyer_club 1430
-advancement grant @s[scores={exi_elytra_km=1431..}] only existence_smp:stats/elytra/frequent_flyer_club 1431
-advancement grant @s[scores={exi_elytra_km=1432..}] only existence_smp:stats/elytra/frequent_flyer_club 1432
-advancement grant @s[scores={exi_elytra_km=1433..}] only existence_smp:stats/elytra/frequent_flyer_club 1433
-advancement grant @s[scores={exi_elytra_km=1434..}] only existence_smp:stats/elytra/frequent_flyer_club 1434
-advancement grant @s[scores={exi_elytra_km=1435..}] only existence_smp:stats/elytra/frequent_flyer_club 1435
-advancement grant @s[scores={exi_elytra_km=1436..}] only existence_smp:stats/elytra/frequent_flyer_club 1436
-advancement grant @s[scores={exi_elytra_km=1437..}] only existence_smp:stats/elytra/frequent_flyer_club 1437
-advancement grant @s[scores={exi_elytra_km=1438..}] only existence_smp:stats/elytra/frequent_flyer_club 1438
-advancement grant @s[scores={exi_elytra_km=1439..}] only existence_smp:stats/elytra/frequent_flyer_club 1439
-advancement grant @s[scores={exi_elytra_km=1440..}] only existence_smp:stats/elytra/frequent_flyer_club 1440
-advancement grant @s[scores={exi_elytra_km=1441..}] only existence_smp:stats/elytra/frequent_flyer_club 1441
-advancement grant @s[scores={exi_elytra_km=1442..}] only existence_smp:stats/elytra/frequent_flyer_club 1442
-advancement grant @s[scores={exi_elytra_km=1443..}] only existence_smp:stats/elytra/frequent_flyer_club 1443
-advancement grant @s[scores={exi_elytra_km=1444..}] only existence_smp:stats/elytra/frequent_flyer_club 1444
-advancement grant @s[scores={exi_elytra_km=1445..}] only existence_smp:stats/elytra/frequent_flyer_club 1445
-advancement grant @s[scores={exi_elytra_km=1446..}] only existence_smp:stats/elytra/frequent_flyer_club 1446
-advancement grant @s[scores={exi_elytra_km=1447..}] only existence_smp:stats/elytra/frequent_flyer_club 1447
-advancement grant @s[scores={exi_elytra_km=1448..}] only existence_smp:stats/elytra/frequent_flyer_club 1448
-advancement grant @s[scores={exi_elytra_km=1449..}] only existence_smp:stats/elytra/frequent_flyer_club 1449
-advancement grant @s[scores={exi_elytra_km=1450..}] only existence_smp:stats/elytra/frequent_flyer_club 1450
-advancement grant @s[scores={exi_elytra_km=1451..}] only existence_smp:stats/elytra/frequent_flyer_club 1451
-advancement grant @s[scores={exi_elytra_km=1452..}] only existence_smp:stats/elytra/frequent_flyer_club 1452
-advancement grant @s[scores={exi_elytra_km=1453..}] only existence_smp:stats/elytra/frequent_flyer_club 1453
-advancement grant @s[scores={exi_elytra_km=1454..}] only existence_smp:stats/elytra/frequent_flyer_club 1454
-advancement grant @s[scores={exi_elytra_km=1455..}] only existence_smp:stats/elytra/frequent_flyer_club 1455
-advancement grant @s[scores={exi_elytra_km=1456..}] only existence_smp:stats/elytra/frequent_flyer_club 1456
-advancement grant @s[scores={exi_elytra_km=1457..}] only existence_smp:stats/elytra/frequent_flyer_club 1457
-advancement grant @s[scores={exi_elytra_km=1458..}] only existence_smp:stats/elytra/frequent_flyer_club 1458
-advancement grant @s[scores={exi_elytra_km=1459..}] only existence_smp:stats/elytra/frequent_flyer_club 1459
-advancement grant @s[scores={exi_elytra_km=1460..}] only existence_smp:stats/elytra/frequent_flyer_club 1460
-advancement grant @s[scores={exi_elytra_km=1461..}] only existence_smp:stats/elytra/frequent_flyer_club 1461
-advancement grant @s[scores={exi_elytra_km=1462..}] only existence_smp:stats/elytra/frequent_flyer_club 1462
-advancement grant @s[scores={exi_elytra_km=1463..}] only existence_smp:stats/elytra/frequent_flyer_club 1463
-advancement grant @s[scores={exi_elytra_km=1464..}] only existence_smp:stats/elytra/frequent_flyer_club 1464
-advancement grant @s[scores={exi_elytra_km=1465..}] only existence_smp:stats/elytra/frequent_flyer_club 1465
-advancement grant @s[scores={exi_elytra_km=1466..}] only existence_smp:stats/elytra/frequent_flyer_club 1466
-advancement grant @s[scores={exi_elytra_km=1467..}] only existence_smp:stats/elytra/frequent_flyer_club 1467
-advancement grant @s[scores={exi_elytra_km=1468..}] only existence_smp:stats/elytra/frequent_flyer_club 1468
-advancement grant @s[scores={exi_elytra_km=1469..}] only existence_smp:stats/elytra/frequent_flyer_club 1469
-advancement grant @s[scores={exi_elytra_km=1470..}] only existence_smp:stats/elytra/frequent_flyer_club 1470
-advancement grant @s[scores={exi_elytra_km=1471..}] only existence_smp:stats/elytra/frequent_flyer_club 1471
-advancement grant @s[scores={exi_elytra_km=1472..}] only existence_smp:stats/elytra/frequent_flyer_club 1472
-advancement grant @s[scores={exi_elytra_km=1473..}] only existence_smp:stats/elytra/frequent_flyer_club 1473
-advancement grant @s[scores={exi_elytra_km=1474..}] only existence_smp:stats/elytra/frequent_flyer_club 1474
-advancement grant @s[scores={exi_elytra_km=1475..}] only existence_smp:stats/elytra/frequent_flyer_club 1475
-advancement grant @s[scores={exi_elytra_km=1476..}] only existence_smp:stats/elytra/frequent_flyer_club 1476
-advancement grant @s[scores={exi_elytra_km=1477..}] only existence_smp:stats/elytra/frequent_flyer_club 1477
-advancement grant @s[scores={exi_elytra_km=1478..}] only existence_smp:stats/elytra/frequent_flyer_club 1478
-advancement grant @s[scores={exi_elytra_km=1479..}] only existence_smp:stats/elytra/frequent_flyer_club 1479
-advancement grant @s[scores={exi_elytra_km=1480..}] only existence_smp:stats/elytra/frequent_flyer_club 1480
-advancement grant @s[scores={exi_elytra_km=1481..}] only existence_smp:stats/elytra/frequent_flyer_club 1481
-advancement grant @s[scores={exi_elytra_km=1482..}] only existence_smp:stats/elytra/frequent_flyer_club 1482
-advancement grant @s[scores={exi_elytra_km=1483..}] only existence_smp:stats/elytra/frequent_flyer_club 1483
-advancement grant @s[scores={exi_elytra_km=1484..}] only existence_smp:stats/elytra/frequent_flyer_club 1484
-advancement grant @s[scores={exi_elytra_km=1485..}] only existence_smp:stats/elytra/frequent_flyer_club 1485
-advancement grant @s[scores={exi_elytra_km=1486..}] only existence_smp:stats/elytra/frequent_flyer_club 1486
-advancement grant @s[scores={exi_elytra_km=1487..}] only existence_smp:stats/elytra/frequent_flyer_club 1487
-advancement grant @s[scores={exi_elytra_km=1488..}] only existence_smp:stats/elytra/frequent_flyer_club 1488
-advancement grant @s[scores={exi_elytra_km=1489..}] only existence_smp:stats/elytra/frequent_flyer_club 1489
-advancement grant @s[scores={exi_elytra_km=1490..}] only existence_smp:stats/elytra/frequent_flyer_club 1490
-advancement grant @s[scores={exi_elytra_km=1491..}] only existence_smp:stats/elytra/frequent_flyer_club 1491
-advancement grant @s[scores={exi_elytra_km=1492..}] only existence_smp:stats/elytra/frequent_flyer_club 1492
-advancement grant @s[scores={exi_elytra_km=1493..}] only existence_smp:stats/elytra/frequent_flyer_club 1493
-advancement grant @s[scores={exi_elytra_km=1494..}] only existence_smp:stats/elytra/frequent_flyer_club 1494
-advancement grant @s[scores={exi_elytra_km=1495..}] only existence_smp:stats/elytra/frequent_flyer_club 1495
-advancement grant @s[scores={exi_elytra_km=1496..}] only existence_smp:stats/elytra/frequent_flyer_club 1496
-advancement grant @s[scores={exi_elytra_km=1497..}] only existence_smp:stats/elytra/frequent_flyer_club 1497
-advancement grant @s[scores={exi_elytra_km=1498..}] only existence_smp:stats/elytra/frequent_flyer_club 1498
-advancement grant @s[scores={exi_elytra_km=1499..}] only existence_smp:stats/elytra/frequent_flyer_club 1499
-advancement grant @s[scores={exi_elytra_km=1500..}] only existence_smp:stats/elytra/frequent_flyer_club 1500
-advancement grant @s[scores={exi_elytra_km=1501..}] only existence_smp:stats/elytra/frequent_flyer_club 1501
-advancement grant @s[scores={exi_elytra_km=1502..}] only existence_smp:stats/elytra/frequent_flyer_club 1502
-advancement grant @s[scores={exi_elytra_km=1503..}] only existence_smp:stats/elytra/frequent_flyer_club 1503
-advancement grant @s[scores={exi_elytra_km=1504..}] only existence_smp:stats/elytra/frequent_flyer_club 1504
-advancement grant @s[scores={exi_elytra_km=1505..}] only existence_smp:stats/elytra/frequent_flyer_club 1505
-advancement grant @s[scores={exi_elytra_km=1506..}] only existence_smp:stats/elytra/frequent_flyer_club 1506
-advancement grant @s[scores={exi_elytra_km=1507..}] only existence_smp:stats/elytra/frequent_flyer_club 1507
-advancement grant @s[scores={exi_elytra_km=1508..}] only existence_smp:stats/elytra/frequent_flyer_club 1508
-advancement grant @s[scores={exi_elytra_km=1509..}] only existence_smp:stats/elytra/frequent_flyer_club 1509
-advancement grant @s[scores={exi_elytra_km=1510..}] only existence_smp:stats/elytra/frequent_flyer_club 1510
-advancement grant @s[scores={exi_elytra_km=1511..}] only existence_smp:stats/elytra/frequent_flyer_club 1511
-advancement grant @s[scores={exi_elytra_km=1512..}] only existence_smp:stats/elytra/frequent_flyer_club 1512
-advancement grant @s[scores={exi_elytra_km=1513..}] only existence_smp:stats/elytra/frequent_flyer_club 1513
-advancement grant @s[scores={exi_elytra_km=1514..}] only existence_smp:stats/elytra/frequent_flyer_club 1514
-advancement grant @s[scores={exi_elytra_km=1515..}] only existence_smp:stats/elytra/frequent_flyer_club 1515
-advancement grant @s[scores={exi_elytra_km=1516..}] only existence_smp:stats/elytra/frequent_flyer_club 1516
-advancement grant @s[scores={exi_elytra_km=1517..}] only existence_smp:stats/elytra/frequent_flyer_club 1517
-advancement grant @s[scores={exi_elytra_km=1518..}] only existence_smp:stats/elytra/frequent_flyer_club 1518
-advancement grant @s[scores={exi_elytra_km=1519..}] only existence_smp:stats/elytra/frequent_flyer_club 1519
-advancement grant @s[scores={exi_elytra_km=1520..}] only existence_smp:stats/elytra/frequent_flyer_club 1520
-advancement grant @s[scores={exi_elytra_km=1521..}] only existence_smp:stats/elytra/frequent_flyer_club 1521
-advancement grant @s[scores={exi_elytra_km=1522..}] only existence_smp:stats/elytra/frequent_flyer_club 1522
-advancement grant @s[scores={exi_elytra_km=1523..}] only existence_smp:stats/elytra/frequent_flyer_club 1523
-advancement grant @s[scores={exi_elytra_km=1524..}] only existence_smp:stats/elytra/frequent_flyer_club 1524
-advancement grant @s[scores={exi_elytra_km=1525..}] only existence_smp:stats/elytra/frequent_flyer_club 1525
-advancement grant @s[scores={exi_elytra_km=1526..}] only existence_smp:stats/elytra/frequent_flyer_club 1526
-advancement grant @s[scores={exi_elytra_km=1527..}] only existence_smp:stats/elytra/frequent_flyer_club 1527
-advancement grant @s[scores={exi_elytra_km=1528..}] only existence_smp:stats/elytra/frequent_flyer_club 1528
-advancement grant @s[scores={exi_elytra_km=1529..}] only existence_smp:stats/elytra/frequent_flyer_club 1529
-advancement grant @s[scores={exi_elytra_km=1530..}] only existence_smp:stats/elytra/frequent_flyer_club 1530
-advancement grant @s[scores={exi_elytra_km=1531..}] only existence_smp:stats/elytra/frequent_flyer_club 1531
-advancement grant @s[scores={exi_elytra_km=1532..}] only existence_smp:stats/elytra/frequent_flyer_club 1532
-advancement grant @s[scores={exi_elytra_km=1533..}] only existence_smp:stats/elytra/frequent_flyer_club 1533
-advancement grant @s[scores={exi_elytra_km=1534..}] only existence_smp:stats/elytra/frequent_flyer_club 1534
-advancement grant @s[scores={exi_elytra_km=1535..}] only existence_smp:stats/elytra/frequent_flyer_club 1535
-advancement grant @s[scores={exi_elytra_km=1536..}] only existence_smp:stats/elytra/frequent_flyer_club 1536
-advancement grant @s[scores={exi_elytra_km=1537..}] only existence_smp:stats/elytra/frequent_flyer_club 1537
-advancement grant @s[scores={exi_elytra_km=1538..}] only existence_smp:stats/elytra/frequent_flyer_club 1538
-advancement grant @s[scores={exi_elytra_km=1539..}] only existence_smp:stats/elytra/frequent_flyer_club 1539
-advancement grant @s[scores={exi_elytra_km=1540..}] only existence_smp:stats/elytra/frequent_flyer_club 1540
-advancement grant @s[scores={exi_elytra_km=1541..}] only existence_smp:stats/elytra/frequent_flyer_club 1541
-advancement grant @s[scores={exi_elytra_km=1542..}] only existence_smp:stats/elytra/frequent_flyer_club 1542
-advancement grant @s[scores={exi_elytra_km=1543..}] only existence_smp:stats/elytra/frequent_flyer_club 1543
-advancement grant @s[scores={exi_elytra_km=1544..}] only existence_smp:stats/elytra/frequent_flyer_club 1544
-advancement grant @s[scores={exi_elytra_km=1545..}] only existence_smp:stats/elytra/frequent_flyer_club 1545
-advancement grant @s[scores={exi_elytra_km=1546..}] only existence_smp:stats/elytra/frequent_flyer_club 1546
-advancement grant @s[scores={exi_elytra_km=1547..}] only existence_smp:stats/elytra/frequent_flyer_club 1547
-advancement grant @s[scores={exi_elytra_km=1548..}] only existence_smp:stats/elytra/frequent_flyer_club 1548
-advancement grant @s[scores={exi_elytra_km=1549..}] only existence_smp:stats/elytra/frequent_flyer_club 1549
-advancement grant @s[scores={exi_elytra_km=1550..}] only existence_smp:stats/elytra/frequent_flyer_club 1550
-advancement grant @s[scores={exi_elytra_km=1551..}] only existence_smp:stats/elytra/frequent_flyer_club 1551
-advancement grant @s[scores={exi_elytra_km=1552..}] only existence_smp:stats/elytra/frequent_flyer_club 1552
-advancement grant @s[scores={exi_elytra_km=1553..}] only existence_smp:stats/elytra/frequent_flyer_club 1553
-advancement grant @s[scores={exi_elytra_km=1554..}] only existence_smp:stats/elytra/frequent_flyer_club 1554
-advancement grant @s[scores={exi_elytra_km=1555..}] only existence_smp:stats/elytra/frequent_flyer_club 1555
-advancement grant @s[scores={exi_elytra_km=1556..}] only existence_smp:stats/elytra/frequent_flyer_club 1556
-advancement grant @s[scores={exi_elytra_km=1557..}] only existence_smp:stats/elytra/frequent_flyer_club 1557
-advancement grant @s[scores={exi_elytra_km=1558..}] only existence_smp:stats/elytra/frequent_flyer_club 1558
-advancement grant @s[scores={exi_elytra_km=1559..}] only existence_smp:stats/elytra/frequent_flyer_club 1559
-advancement grant @s[scores={exi_elytra_km=1560..}] only existence_smp:stats/elytra/frequent_flyer_club 1560
-advancement grant @s[scores={exi_elytra_km=1561..}] only existence_smp:stats/elytra/frequent_flyer_club 1561
-advancement grant @s[scores={exi_elytra_km=1562..}] only existence_smp:stats/elytra/frequent_flyer_club 1562
-advancement grant @s[scores={exi_elytra_km=1563..}] only existence_smp:stats/elytra/frequent_flyer_club 1563
-advancement grant @s[scores={exi_elytra_km=1564..}] only existence_smp:stats/elytra/frequent_flyer_club 1564
-advancement grant @s[scores={exi_elytra_km=1565..}] only existence_smp:stats/elytra/frequent_flyer_club 1565
-advancement grant @s[scores={exi_elytra_km=1566..}] only existence_smp:stats/elytra/frequent_flyer_club 1566
-advancement grant @s[scores={exi_elytra_km=1567..}] only existence_smp:stats/elytra/frequent_flyer_club 1567
-advancement grant @s[scores={exi_elytra_km=1568..}] only existence_smp:stats/elytra/frequent_flyer_club 1568
-advancement grant @s[scores={exi_elytra_km=1569..}] only existence_smp:stats/elytra/frequent_flyer_club 1569
-advancement grant @s[scores={exi_elytra_km=1570..}] only existence_smp:stats/elytra/frequent_flyer_club 1570
-advancement grant @s[scores={exi_elytra_km=1571..}] only existence_smp:stats/elytra/frequent_flyer_club 1571
-advancement grant @s[scores={exi_elytra_km=1572..}] only existence_smp:stats/elytra/frequent_flyer_club 1572
-advancement grant @s[scores={exi_elytra_km=1573..}] only existence_smp:stats/elytra/frequent_flyer_club 1573
-advancement grant @s[scores={exi_elytra_km=1574..}] only existence_smp:stats/elytra/frequent_flyer_club 1574
-advancement grant @s[scores={exi_elytra_km=1575..}] only existence_smp:stats/elytra/frequent_flyer_club 1575
-advancement grant @s[scores={exi_elytra_km=1576..}] only existence_smp:stats/elytra/frequent_flyer_club 1576
-advancement grant @s[scores={exi_elytra_km=1577..}] only existence_smp:stats/elytra/frequent_flyer_club 1577
-advancement grant @s[scores={exi_elytra_km=1578..}] only existence_smp:stats/elytra/frequent_flyer_club 1578
-advancement grant @s[scores={exi_elytra_km=1579..}] only existence_smp:stats/elytra/frequent_flyer_club 1579
-advancement grant @s[scores={exi_elytra_km=1580..}] only existence_smp:stats/elytra/frequent_flyer_club 1580
-advancement grant @s[scores={exi_elytra_km=1581..}] only existence_smp:stats/elytra/frequent_flyer_club 1581
-advancement grant @s[scores={exi_elytra_km=1582..}] only existence_smp:stats/elytra/frequent_flyer_club 1582
-advancement grant @s[scores={exi_elytra_km=1583..}] only existence_smp:stats/elytra/frequent_flyer_club 1583
-advancement grant @s[scores={exi_elytra_km=1584..}] only existence_smp:stats/elytra/frequent_flyer_club 1584
-advancement grant @s[scores={exi_elytra_km=1585..}] only existence_smp:stats/elytra/frequent_flyer_club 1585
-advancement grant @s[scores={exi_elytra_km=1586..}] only existence_smp:stats/elytra/frequent_flyer_club 1586
-advancement grant @s[scores={exi_elytra_km=1587..}] only existence_smp:stats/elytra/frequent_flyer_club 1587
-advancement grant @s[scores={exi_elytra_km=1588..}] only existence_smp:stats/elytra/frequent_flyer_club 1588
-advancement grant @s[scores={exi_elytra_km=1589..}] only existence_smp:stats/elytra/frequent_flyer_club 1589
-advancement grant @s[scores={exi_elytra_km=1590..}] only existence_smp:stats/elytra/frequent_flyer_club 1590
-advancement grant @s[scores={exi_elytra_km=1591..}] only existence_smp:stats/elytra/frequent_flyer_club 1591
-advancement grant @s[scores={exi_elytra_km=1592..}] only existence_smp:stats/elytra/frequent_flyer_club 1592
-advancement grant @s[scores={exi_elytra_km=1593..}] only existence_smp:stats/elytra/frequent_flyer_club 1593
-advancement grant @s[scores={exi_elytra_km=1594..}] only existence_smp:stats/elytra/frequent_flyer_club 1594
-advancement grant @s[scores={exi_elytra_km=1595..}] only existence_smp:stats/elytra/frequent_flyer_club 1595
-advancement grant @s[scores={exi_elytra_km=1596..}] only existence_smp:stats/elytra/frequent_flyer_club 1596
-advancement grant @s[scores={exi_elytra_km=1597..}] only existence_smp:stats/elytra/frequent_flyer_club 1597
-advancement grant @s[scores={exi_elytra_km=1598..}] only existence_smp:stats/elytra/frequent_flyer_club 1598
-advancement grant @s[scores={exi_elytra_km=1599..}] only existence_smp:stats/elytra/frequent_flyer_club 1599
-advancement grant @s[scores={exi_elytra_km=1600..}] only existence_smp:stats/elytra/frequent_flyer_club 1600
-advancement grant @s[scores={exi_elytra_km=1601..}] only existence_smp:stats/elytra/frequent_flyer_club 1601
-advancement grant @s[scores={exi_elytra_km=1602..}] only existence_smp:stats/elytra/frequent_flyer_club 1602
-advancement grant @s[scores={exi_elytra_km=1603..}] only existence_smp:stats/elytra/frequent_flyer_club 1603
-advancement grant @s[scores={exi_elytra_km=1604..}] only existence_smp:stats/elytra/frequent_flyer_club 1604
-advancement grant @s[scores={exi_elytra_km=1605..}] only existence_smp:stats/elytra/frequent_flyer_club 1605
-advancement grant @s[scores={exi_elytra_km=1606..}] only existence_smp:stats/elytra/frequent_flyer_club 1606
-advancement grant @s[scores={exi_elytra_km=1607..}] only existence_smp:stats/elytra/frequent_flyer_club 1607
-advancement grant @s[scores={exi_elytra_km=1608..}] only existence_smp:stats/elytra/frequent_flyer_club 1608
-advancement grant @s[scores={exi_elytra_km=1609..}] only existence_smp:stats/elytra/frequent_flyer_club 1609
-advancement grant @s[scores={exi_elytra_km=1610..}] only existence_smp:stats/elytra/frequent_flyer_club 1610
-advancement grant @s[scores={exi_elytra_km=1611..}] only existence_smp:stats/elytra/frequent_flyer_club 1611
-advancement grant @s[scores={exi_elytra_km=1612..}] only existence_smp:stats/elytra/frequent_flyer_club 1612
-advancement grant @s[scores={exi_elytra_km=1613..}] only existence_smp:stats/elytra/frequent_flyer_club 1613
-advancement grant @s[scores={exi_elytra_km=1614..}] only existence_smp:stats/elytra/frequent_flyer_club 1614
-advancement grant @s[scores={exi_elytra_km=1615..}] only existence_smp:stats/elytra/frequent_flyer_club 1615
-advancement grant @s[scores={exi_elytra_km=1616..}] only existence_smp:stats/elytra/frequent_flyer_club 1616
-advancement grant @s[scores={exi_elytra_km=1617..}] only existence_smp:stats/elytra/frequent_flyer_club 1617
-advancement grant @s[scores={exi_elytra_km=1618..}] only existence_smp:stats/elytra/frequent_flyer_club 1618
-advancement grant @s[scores={exi_elytra_km=1619..}] only existence_smp:stats/elytra/frequent_flyer_club 1619
-advancement grant @s[scores={exi_elytra_km=1620..}] only existence_smp:stats/elytra/frequent_flyer_club 1620
-advancement grant @s[scores={exi_elytra_km=1621..}] only existence_smp:stats/elytra/frequent_flyer_club 1621
-advancement grant @s[scores={exi_elytra_km=1622..}] only existence_smp:stats/elytra/frequent_flyer_club 1622
-advancement grant @s[scores={exi_elytra_km=1623..}] only existence_smp:stats/elytra/frequent_flyer_club 1623
-advancement grant @s[scores={exi_elytra_km=1624..}] only existence_smp:stats/elytra/frequent_flyer_club 1624
-advancement grant @s[scores={exi_elytra_km=1625..}] only existence_smp:stats/elytra/frequent_flyer_club 1625
-advancement grant @s[scores={exi_elytra_km=1626..}] only existence_smp:stats/elytra/frequent_flyer_club 1626
-advancement grant @s[scores={exi_elytra_km=1627..}] only existence_smp:stats/elytra/frequent_flyer_club 1627
-advancement grant @s[scores={exi_elytra_km=1628..}] only existence_smp:stats/elytra/frequent_flyer_club 1628
-advancement grant @s[scores={exi_elytra_km=1629..}] only existence_smp:stats/elytra/frequent_flyer_club 1629
-advancement grant @s[scores={exi_elytra_km=1630..}] only existence_smp:stats/elytra/frequent_flyer_club 1630
-advancement grant @s[scores={exi_elytra_km=1631..}] only existence_smp:stats/elytra/frequent_flyer_club 1631
-advancement grant @s[scores={exi_elytra_km=1632..}] only existence_smp:stats/elytra/frequent_flyer_club 1632
-advancement grant @s[scores={exi_elytra_km=1633..}] only existence_smp:stats/elytra/frequent_flyer_club 1633
-advancement grant @s[scores={exi_elytra_km=1634..}] only existence_smp:stats/elytra/frequent_flyer_club 1634
-advancement grant @s[scores={exi_elytra_km=1635..}] only existence_smp:stats/elytra/frequent_flyer_club 1635
-advancement grant @s[scores={exi_elytra_km=1636..}] only existence_smp:stats/elytra/frequent_flyer_club 1636
-advancement grant @s[scores={exi_elytra_km=1637..}] only existence_smp:stats/elytra/frequent_flyer_club 1637
-advancement grant @s[scores={exi_elytra_km=1638..}] only existence_smp:stats/elytra/frequent_flyer_club 1638
-advancement grant @s[scores={exi_elytra_km=1639..}] only existence_smp:stats/elytra/frequent_flyer_club 1639
-advancement grant @s[scores={exi_elytra_km=1640..}] only existence_smp:stats/elytra/frequent_flyer_club 1640
-advancement grant @s[scores={exi_elytra_km=1641..}] only existence_smp:stats/elytra/frequent_flyer_club 1641
-advancement grant @s[scores={exi_elytra_km=1642..}] only existence_smp:stats/elytra/frequent_flyer_club 1642
-advancement grant @s[scores={exi_elytra_km=1643..}] only existence_smp:stats/elytra/frequent_flyer_club 1643
-advancement grant @s[scores={exi_elytra_km=1644..}] only existence_smp:stats/elytra/frequent_flyer_club 1644
-advancement grant @s[scores={exi_elytra_km=1645..}] only existence_smp:stats/elytra/frequent_flyer_club 1645
-advancement grant @s[scores={exi_elytra_km=1646..}] only existence_smp:stats/elytra/frequent_flyer_club 1646
-advancement grant @s[scores={exi_elytra_km=1647..}] only existence_smp:stats/elytra/frequent_flyer_club 1647
-advancement grant @s[scores={exi_elytra_km=1648..}] only existence_smp:stats/elytra/frequent_flyer_club 1648
-advancement grant @s[scores={exi_elytra_km=1649..}] only existence_smp:stats/elytra/frequent_flyer_club 1649
-advancement grant @s[scores={exi_elytra_km=1650..}] only existence_smp:stats/elytra/frequent_flyer_club 1650
-advancement grant @s[scores={exi_elytra_km=1651..}] only existence_smp:stats/elytra/frequent_flyer_club 1651
-advancement grant @s[scores={exi_elytra_km=1652..}] only existence_smp:stats/elytra/frequent_flyer_club 1652
-advancement grant @s[scores={exi_elytra_km=1653..}] only existence_smp:stats/elytra/frequent_flyer_club 1653
-advancement grant @s[scores={exi_elytra_km=1654..}] only existence_smp:stats/elytra/frequent_flyer_club 1654
-advancement grant @s[scores={exi_elytra_km=1655..}] only existence_smp:stats/elytra/frequent_flyer_club 1655
-advancement grant @s[scores={exi_elytra_km=1656..}] only existence_smp:stats/elytra/frequent_flyer_club 1656
-advancement grant @s[scores={exi_elytra_km=1657..}] only existence_smp:stats/elytra/frequent_flyer_club 1657
-advancement grant @s[scores={exi_elytra_km=1658..}] only existence_smp:stats/elytra/frequent_flyer_club 1658
-advancement grant @s[scores={exi_elytra_km=1659..}] only existence_smp:stats/elytra/frequent_flyer_club 1659
-advancement grant @s[scores={exi_elytra_km=1660..}] only existence_smp:stats/elytra/frequent_flyer_club 1660
-advancement grant @s[scores={exi_elytra_km=1661..}] only existence_smp:stats/elytra/frequent_flyer_club 1661
-advancement grant @s[scores={exi_elytra_km=1662..}] only existence_smp:stats/elytra/frequent_flyer_club 1662
-advancement grant @s[scores={exi_elytra_km=1663..}] only existence_smp:stats/elytra/frequent_flyer_club 1663
-advancement grant @s[scores={exi_elytra_km=1664..}] only existence_smp:stats/elytra/frequent_flyer_club 1664
-advancement grant @s[scores={exi_elytra_km=1665..}] only existence_smp:stats/elytra/frequent_flyer_club 1665
-advancement grant @s[scores={exi_elytra_km=1666..}] only existence_smp:stats/elytra/frequent_flyer_club 1666
-advancement grant @s[scores={exi_elytra_km=1667..}] only existence_smp:stats/elytra/frequent_flyer_club 1667
-advancement grant @s[scores={exi_elytra_km=1668..}] only existence_smp:stats/elytra/frequent_flyer_club 1668
-advancement grant @s[scores={exi_elytra_km=1669..}] only existence_smp:stats/elytra/frequent_flyer_club 1669
-advancement grant @s[scores={exi_elytra_km=1670..}] only existence_smp:stats/elytra/frequent_flyer_club 1670
-advancement grant @s[scores={exi_elytra_km=1671..}] only existence_smp:stats/elytra/frequent_flyer_club 1671
-advancement grant @s[scores={exi_elytra_km=1672..}] only existence_smp:stats/elytra/frequent_flyer_club 1672
-advancement grant @s[scores={exi_elytra_km=1673..}] only existence_smp:stats/elytra/frequent_flyer_club 1673
-advancement grant @s[scores={exi_elytra_km=1674..}] only existence_smp:stats/elytra/frequent_flyer_club 1674
-advancement grant @s[scores={exi_elytra_km=1675..}] only existence_smp:stats/elytra/frequent_flyer_club 1675
-advancement grant @s[scores={exi_elytra_km=1676..}] only existence_smp:stats/elytra/frequent_flyer_club 1676
-advancement grant @s[scores={exi_elytra_km=1677..}] only existence_smp:stats/elytra/frequent_flyer_club 1677
-advancement grant @s[scores={exi_elytra_km=1678..}] only existence_smp:stats/elytra/frequent_flyer_club 1678
-advancement grant @s[scores={exi_elytra_km=1679..}] only existence_smp:stats/elytra/frequent_flyer_club 1679
-advancement grant @s[scores={exi_elytra_km=1680..}] only existence_smp:stats/elytra/frequent_flyer_club 1680
-advancement grant @s[scores={exi_elytra_km=1681..}] only existence_smp:stats/elytra/frequent_flyer_club 1681
-advancement grant @s[scores={exi_elytra_km=1682..}] only existence_smp:stats/elytra/frequent_flyer_club 1682
-advancement grant @s[scores={exi_elytra_km=1683..}] only existence_smp:stats/elytra/frequent_flyer_club 1683
-advancement grant @s[scores={exi_elytra_km=1684..}] only existence_smp:stats/elytra/frequent_flyer_club 1684
-advancement grant @s[scores={exi_elytra_km=1685..}] only existence_smp:stats/elytra/frequent_flyer_club 1685
-advancement grant @s[scores={exi_elytra_km=1686..}] only existence_smp:stats/elytra/frequent_flyer_club 1686
-advancement grant @s[scores={exi_elytra_km=1687..}] only existence_smp:stats/elytra/frequent_flyer_club 1687
-advancement grant @s[scores={exi_elytra_km=1688..}] only existence_smp:stats/elytra/frequent_flyer_club 1688
-advancement grant @s[scores={exi_elytra_km=1689..}] only existence_smp:stats/elytra/frequent_flyer_club 1689
-advancement grant @s[scores={exi_elytra_km=1690..}] only existence_smp:stats/elytra/frequent_flyer_club 1690
-advancement grant @s[scores={exi_elytra_km=1691..}] only existence_smp:stats/elytra/frequent_flyer_club 1691
-advancement grant @s[scores={exi_elytra_km=1692..}] only existence_smp:stats/elytra/frequent_flyer_club 1692
-advancement grant @s[scores={exi_elytra_km=1693..}] only existence_smp:stats/elytra/frequent_flyer_club 1693
-advancement grant @s[scores={exi_elytra_km=1694..}] only existence_smp:stats/elytra/frequent_flyer_club 1694
-advancement grant @s[scores={exi_elytra_km=1695..}] only existence_smp:stats/elytra/frequent_flyer_club 1695
-advancement grant @s[scores={exi_elytra_km=1696..}] only existence_smp:stats/elytra/frequent_flyer_club 1696
-advancement grant @s[scores={exi_elytra_km=1697..}] only existence_smp:stats/elytra/frequent_flyer_club 1697
-advancement grant @s[scores={exi_elytra_km=1698..}] only existence_smp:stats/elytra/frequent_flyer_club 1698
-advancement grant @s[scores={exi_elytra_km=1699..}] only existence_smp:stats/elytra/frequent_flyer_club 1699
-advancement grant @s[scores={exi_elytra_km=1700..}] only existence_smp:stats/elytra/frequent_flyer_club 1700
-advancement grant @s[scores={exi_elytra_km=1701..}] only existence_smp:stats/elytra/frequent_flyer_club 1701
-advancement grant @s[scores={exi_elytra_km=1702..}] only existence_smp:stats/elytra/frequent_flyer_club 1702
-advancement grant @s[scores={exi_elytra_km=1703..}] only existence_smp:stats/elytra/frequent_flyer_club 1703
-advancement grant @s[scores={exi_elytra_km=1704..}] only existence_smp:stats/elytra/frequent_flyer_club 1704
-advancement grant @s[scores={exi_elytra_km=1705..}] only existence_smp:stats/elytra/frequent_flyer_club 1705
-advancement grant @s[scores={exi_elytra_km=1706..}] only existence_smp:stats/elytra/frequent_flyer_club 1706
-advancement grant @s[scores={exi_elytra_km=1707..}] only existence_smp:stats/elytra/frequent_flyer_club 1707
-advancement grant @s[scores={exi_elytra_km=1708..}] only existence_smp:stats/elytra/frequent_flyer_club 1708
-advancement grant @s[scores={exi_elytra_km=1709..}] only existence_smp:stats/elytra/frequent_flyer_club 1709
-advancement grant @s[scores={exi_elytra_km=1710..}] only existence_smp:stats/elytra/frequent_flyer_club 1710
-advancement grant @s[scores={exi_elytra_km=1711..}] only existence_smp:stats/elytra/frequent_flyer_club 1711
-advancement grant @s[scores={exi_elytra_km=1712..}] only existence_smp:stats/elytra/frequent_flyer_club 1712
-advancement grant @s[scores={exi_elytra_km=1713..}] only existence_smp:stats/elytra/frequent_flyer_club 1713
-advancement grant @s[scores={exi_elytra_km=1714..}] only existence_smp:stats/elytra/frequent_flyer_club 1714
-advancement grant @s[scores={exi_elytra_km=1715..}] only existence_smp:stats/elytra/frequent_flyer_club 1715
-advancement grant @s[scores={exi_elytra_km=1716..}] only existence_smp:stats/elytra/frequent_flyer_club 1716
-advancement grant @s[scores={exi_elytra_km=1717..}] only existence_smp:stats/elytra/frequent_flyer_club 1717
-advancement grant @s[scores={exi_elytra_km=1718..}] only existence_smp:stats/elytra/frequent_flyer_club 1718
-advancement grant @s[scores={exi_elytra_km=1719..}] only existence_smp:stats/elytra/frequent_flyer_club 1719
-advancement grant @s[scores={exi_elytra_km=1720..}] only existence_smp:stats/elytra/frequent_flyer_club 1720
-advancement grant @s[scores={exi_elytra_km=1721..}] only existence_smp:stats/elytra/frequent_flyer_club 1721
-advancement grant @s[scores={exi_elytra_km=1722..}] only existence_smp:stats/elytra/frequent_flyer_club 1722
-advancement grant @s[scores={exi_elytra_km=1723..}] only existence_smp:stats/elytra/frequent_flyer_club 1723
-advancement grant @s[scores={exi_elytra_km=1724..}] only existence_smp:stats/elytra/frequent_flyer_club 1724
-advancement grant @s[scores={exi_elytra_km=1725..}] only existence_smp:stats/elytra/frequent_flyer_club 1725
-advancement grant @s[scores={exi_elytra_km=1726..}] only existence_smp:stats/elytra/frequent_flyer_club 1726
-advancement grant @s[scores={exi_elytra_km=1727..}] only existence_smp:stats/elytra/frequent_flyer_club 1727
-advancement grant @s[scores={exi_elytra_km=1728..}] only existence_smp:stats/elytra/frequent_flyer_club 1728
-advancement grant @s[scores={exi_elytra_km=1729..}] only existence_smp:stats/elytra/frequent_flyer_club 1729
-advancement grant @s[scores={exi_elytra_km=1730..}] only existence_smp:stats/elytra/frequent_flyer_club 1730
-advancement grant @s[scores={exi_elytra_km=1731..}] only existence_smp:stats/elytra/frequent_flyer_club 1731
-advancement grant @s[scores={exi_elytra_km=1732..}] only existence_smp:stats/elytra/frequent_flyer_club 1732
-advancement grant @s[scores={exi_elytra_km=1733..}] only existence_smp:stats/elytra/frequent_flyer_club 1733
-advancement grant @s[scores={exi_elytra_km=1734..}] only existence_smp:stats/elytra/frequent_flyer_club 1734
-advancement grant @s[scores={exi_elytra_km=1735..}] only existence_smp:stats/elytra/frequent_flyer_club 1735
-advancement grant @s[scores={exi_elytra_km=1736..}] only existence_smp:stats/elytra/frequent_flyer_club 1736
-advancement grant @s[scores={exi_elytra_km=1737..}] only existence_smp:stats/elytra/frequent_flyer_club 1737
-advancement grant @s[scores={exi_elytra_km=1738..}] only existence_smp:stats/elytra/frequent_flyer_club 1738
-advancement grant @s[scores={exi_elytra_km=1739..}] only existence_smp:stats/elytra/frequent_flyer_club 1739
-advancement grant @s[scores={exi_elytra_km=1740..}] only existence_smp:stats/elytra/frequent_flyer_club 1740
-advancement grant @s[scores={exi_elytra_km=1741..}] only existence_smp:stats/elytra/frequent_flyer_club 1741
-advancement grant @s[scores={exi_elytra_km=1742..}] only existence_smp:stats/elytra/frequent_flyer_club 1742
-advancement grant @s[scores={exi_elytra_km=1743..}] only existence_smp:stats/elytra/frequent_flyer_club 1743
-advancement grant @s[scores={exi_elytra_km=1744..}] only existence_smp:stats/elytra/frequent_flyer_club 1744
-advancement grant @s[scores={exi_elytra_km=1745..}] only existence_smp:stats/elytra/frequent_flyer_club 1745
-advancement grant @s[scores={exi_elytra_km=1746..}] only existence_smp:stats/elytra/frequent_flyer_club 1746
-advancement grant @s[scores={exi_elytra_km=1747..}] only existence_smp:stats/elytra/frequent_flyer_club 1747
-advancement grant @s[scores={exi_elytra_km=1748..}] only existence_smp:stats/elytra/frequent_flyer_club 1748
-advancement grant @s[scores={exi_elytra_km=1749..}] only existence_smp:stats/elytra/frequent_flyer_club 1749
-advancement grant @s[scores={exi_elytra_km=1750..}] only existence_smp:stats/elytra/frequent_flyer_club 1750
-advancement grant @s[scores={exi_elytra_km=1751..}] only existence_smp:stats/elytra/frequent_flyer_club 1751
-advancement grant @s[scores={exi_elytra_km=1752..}] only existence_smp:stats/elytra/frequent_flyer_club 1752
-advancement grant @s[scores={exi_elytra_km=1753..}] only existence_smp:stats/elytra/frequent_flyer_club 1753
-advancement grant @s[scores={exi_elytra_km=1754..}] only existence_smp:stats/elytra/frequent_flyer_club 1754
-advancement grant @s[scores={exi_elytra_km=1755..}] only existence_smp:stats/elytra/frequent_flyer_club 1755
-advancement grant @s[scores={exi_elytra_km=1756..}] only existence_smp:stats/elytra/frequent_flyer_club 1756
-advancement grant @s[scores={exi_elytra_km=1757..}] only existence_smp:stats/elytra/frequent_flyer_club 1757
-advancement grant @s[scores={exi_elytra_km=1758..}] only existence_smp:stats/elytra/frequent_flyer_club 1758
-advancement grant @s[scores={exi_elytra_km=1759..}] only existence_smp:stats/elytra/frequent_flyer_club 1759
-advancement grant @s[scores={exi_elytra_km=1760..}] only existence_smp:stats/elytra/frequent_flyer_club 1760
-advancement grant @s[scores={exi_elytra_km=1761..}] only existence_smp:stats/elytra/frequent_flyer_club 1761
-advancement grant @s[scores={exi_elytra_km=1762..}] only existence_smp:stats/elytra/frequent_flyer_club 1762
-advancement grant @s[scores={exi_elytra_km=1763..}] only existence_smp:stats/elytra/frequent_flyer_club 1763
-advancement grant @s[scores={exi_elytra_km=1764..}] only existence_smp:stats/elytra/frequent_flyer_club 1764
-advancement grant @s[scores={exi_elytra_km=1765..}] only existence_smp:stats/elytra/frequent_flyer_club 1765
-advancement grant @s[scores={exi_elytra_km=1766..}] only existence_smp:stats/elytra/frequent_flyer_club 1766
-advancement grant @s[scores={exi_elytra_km=1767..}] only existence_smp:stats/elytra/frequent_flyer_club 1767
-advancement grant @s[scores={exi_elytra_km=1768..}] only existence_smp:stats/elytra/frequent_flyer_club 1768
-advancement grant @s[scores={exi_elytra_km=1769..}] only existence_smp:stats/elytra/frequent_flyer_club 1769
-advancement grant @s[scores={exi_elytra_km=1770..}] only existence_smp:stats/elytra/frequent_flyer_club 1770
-advancement grant @s[scores={exi_elytra_km=1771..}] only existence_smp:stats/elytra/frequent_flyer_club 1771
-advancement grant @s[scores={exi_elytra_km=1772..}] only existence_smp:stats/elytra/frequent_flyer_club 1772
-advancement grant @s[scores={exi_elytra_km=1773..}] only existence_smp:stats/elytra/frequent_flyer_club 1773
-advancement grant @s[scores={exi_elytra_km=1774..}] only existence_smp:stats/elytra/frequent_flyer_club 1774
-advancement grant @s[scores={exi_elytra_km=1775..}] only existence_smp:stats/elytra/frequent_flyer_club 1775
-advancement grant @s[scores={exi_elytra_km=1776..}] only existence_smp:stats/elytra/frequent_flyer_club 1776
-advancement grant @s[scores={exi_elytra_km=1777..}] only existence_smp:stats/elytra/frequent_flyer_club 1777
-advancement grant @s[scores={exi_elytra_km=1778..}] only existence_smp:stats/elytra/frequent_flyer_club 1778
-advancement grant @s[scores={exi_elytra_km=1779..}] only existence_smp:stats/elytra/frequent_flyer_club 1779
-advancement grant @s[scores={exi_elytra_km=1780..}] only existence_smp:stats/elytra/frequent_flyer_club 1780
-advancement grant @s[scores={exi_elytra_km=1781..}] only existence_smp:stats/elytra/frequent_flyer_club 1781
-advancement grant @s[scores={exi_elytra_km=1782..}] only existence_smp:stats/elytra/frequent_flyer_club 1782
-advancement grant @s[scores={exi_elytra_km=1783..}] only existence_smp:stats/elytra/frequent_flyer_club 1783
-advancement grant @s[scores={exi_elytra_km=1784..}] only existence_smp:stats/elytra/frequent_flyer_club 1784
-advancement grant @s[scores={exi_elytra_km=1785..}] only existence_smp:stats/elytra/frequent_flyer_club 1785
-advancement grant @s[scores={exi_elytra_km=1786..}] only existence_smp:stats/elytra/frequent_flyer_club 1786
-advancement grant @s[scores={exi_elytra_km=1787..}] only existence_smp:stats/elytra/frequent_flyer_club 1787
-advancement grant @s[scores={exi_elytra_km=1788..}] only existence_smp:stats/elytra/frequent_flyer_club 1788
-advancement grant @s[scores={exi_elytra_km=1789..}] only existence_smp:stats/elytra/frequent_flyer_club 1789
-advancement grant @s[scores={exi_elytra_km=1790..}] only existence_smp:stats/elytra/frequent_flyer_club 1790
-advancement grant @s[scores={exi_elytra_km=1791..}] only existence_smp:stats/elytra/frequent_flyer_club 1791
-advancement grant @s[scores={exi_elytra_km=1792..}] only existence_smp:stats/elytra/frequent_flyer_club 1792
-advancement grant @s[scores={exi_elytra_km=1793..}] only existence_smp:stats/elytra/frequent_flyer_club 1793
-advancement grant @s[scores={exi_elytra_km=1794..}] only existence_smp:stats/elytra/frequent_flyer_club 1794
-advancement grant @s[scores={exi_elytra_km=1795..}] only existence_smp:stats/elytra/frequent_flyer_club 1795
-advancement grant @s[scores={exi_elytra_km=1796..}] only existence_smp:stats/elytra/frequent_flyer_club 1796
-advancement grant @s[scores={exi_elytra_km=1797..}] only existence_smp:stats/elytra/frequent_flyer_club 1797
-advancement grant @s[scores={exi_elytra_km=1798..}] only existence_smp:stats/elytra/frequent_flyer_club 1798
-advancement grant @s[scores={exi_elytra_km=1799..}] only existence_smp:stats/elytra/frequent_flyer_club 1799
-advancement grant @s[scores={exi_elytra_km=1800..}] only existence_smp:stats/elytra/frequent_flyer_club 1800
-advancement grant @s[scores={exi_elytra_km=1801..}] only existence_smp:stats/elytra/frequent_flyer_club 1801
-advancement grant @s[scores={exi_elytra_km=1802..}] only existence_smp:stats/elytra/frequent_flyer_club 1802
-advancement grant @s[scores={exi_elytra_km=1803..}] only existence_smp:stats/elytra/frequent_flyer_club 1803
-advancement grant @s[scores={exi_elytra_km=1804..}] only existence_smp:stats/elytra/frequent_flyer_club 1804
-advancement grant @s[scores={exi_elytra_km=1805..}] only existence_smp:stats/elytra/frequent_flyer_club 1805
-advancement grant @s[scores={exi_elytra_km=1806..}] only existence_smp:stats/elytra/frequent_flyer_club 1806
-advancement grant @s[scores={exi_elytra_km=1807..}] only existence_smp:stats/elytra/frequent_flyer_club 1807
-advancement grant @s[scores={exi_elytra_km=1808..}] only existence_smp:stats/elytra/frequent_flyer_club 1808
-advancement grant @s[scores={exi_elytra_km=1809..}] only existence_smp:stats/elytra/frequent_flyer_club 1809
-advancement grant @s[scores={exi_elytra_km=1810..}] only existence_smp:stats/elytra/frequent_flyer_club 1810
-advancement grant @s[scores={exi_elytra_km=1811..}] only existence_smp:stats/elytra/frequent_flyer_club 1811
-advancement grant @s[scores={exi_elytra_km=1812..}] only existence_smp:stats/elytra/frequent_flyer_club 1812
-advancement grant @s[scores={exi_elytra_km=1813..}] only existence_smp:stats/elytra/frequent_flyer_club 1813
-advancement grant @s[scores={exi_elytra_km=1814..}] only existence_smp:stats/elytra/frequent_flyer_club 1814
-advancement grant @s[scores={exi_elytra_km=1815..}] only existence_smp:stats/elytra/frequent_flyer_club 1815
-advancement grant @s[scores={exi_elytra_km=1816..}] only existence_smp:stats/elytra/frequent_flyer_club 1816
-advancement grant @s[scores={exi_elytra_km=1817..}] only existence_smp:stats/elytra/frequent_flyer_club 1817
-advancement grant @s[scores={exi_elytra_km=1818..}] only existence_smp:stats/elytra/frequent_flyer_club 1818
-advancement grant @s[scores={exi_elytra_km=1819..}] only existence_smp:stats/elytra/frequent_flyer_club 1819
-advancement grant @s[scores={exi_elytra_km=1820..}] only existence_smp:stats/elytra/frequent_flyer_club 1820
-advancement grant @s[scores={exi_elytra_km=1821..}] only existence_smp:stats/elytra/frequent_flyer_club 1821
-advancement grant @s[scores={exi_elytra_km=1822..}] only existence_smp:stats/elytra/frequent_flyer_club 1822
-advancement grant @s[scores={exi_elytra_km=1823..}] only existence_smp:stats/elytra/frequent_flyer_club 1823
-advancement grant @s[scores={exi_elytra_km=1824..}] only existence_smp:stats/elytra/frequent_flyer_club 1824
-advancement grant @s[scores={exi_elytra_km=1825..}] only existence_smp:stats/elytra/frequent_flyer_club 1825
-advancement grant @s[scores={exi_elytra_km=1826..}] only existence_smp:stats/elytra/frequent_flyer_club 1826
-advancement grant @s[scores={exi_elytra_km=1827..}] only existence_smp:stats/elytra/frequent_flyer_club 1827
-advancement grant @s[scores={exi_elytra_km=1828..}] only existence_smp:stats/elytra/frequent_flyer_club 1828
-advancement grant @s[scores={exi_elytra_km=1829..}] only existence_smp:stats/elytra/frequent_flyer_club 1829
-advancement grant @s[scores={exi_elytra_km=1830..}] only existence_smp:stats/elytra/frequent_flyer_club 1830
-advancement grant @s[scores={exi_elytra_km=1831..}] only existence_smp:stats/elytra/frequent_flyer_club 1831
-advancement grant @s[scores={exi_elytra_km=1832..}] only existence_smp:stats/elytra/frequent_flyer_club 1832
-advancement grant @s[scores={exi_elytra_km=1833..}] only existence_smp:stats/elytra/frequent_flyer_club 1833
-advancement grant @s[scores={exi_elytra_km=1834..}] only existence_smp:stats/elytra/frequent_flyer_club 1834
-advancement grant @s[scores={exi_elytra_km=1835..}] only existence_smp:stats/elytra/frequent_flyer_club 1835
-advancement grant @s[scores={exi_elytra_km=1836..}] only existence_smp:stats/elytra/frequent_flyer_club 1836
-advancement grant @s[scores={exi_elytra_km=1837..}] only existence_smp:stats/elytra/frequent_flyer_club 1837
-advancement grant @s[scores={exi_elytra_km=1838..}] only existence_smp:stats/elytra/frequent_flyer_club 1838
-advancement grant @s[scores={exi_elytra_km=1839..}] only existence_smp:stats/elytra/frequent_flyer_club 1839
-advancement grant @s[scores={exi_elytra_km=1840..}] only existence_smp:stats/elytra/frequent_flyer_club 1840
-advancement grant @s[scores={exi_elytra_km=1841..}] only existence_smp:stats/elytra/frequent_flyer_club 1841
-advancement grant @s[scores={exi_elytra_km=1842..}] only existence_smp:stats/elytra/frequent_flyer_club 1842
-advancement grant @s[scores={exi_elytra_km=1843..}] only existence_smp:stats/elytra/frequent_flyer_club 1843
-advancement grant @s[scores={exi_elytra_km=1844..}] only existence_smp:stats/elytra/frequent_flyer_club 1844
-advancement grant @s[scores={exi_elytra_km=1845..}] only existence_smp:stats/elytra/frequent_flyer_club 1845
-advancement grant @s[scores={exi_elytra_km=1846..}] only existence_smp:stats/elytra/frequent_flyer_club 1846
-advancement grant @s[scores={exi_elytra_km=1847..}] only existence_smp:stats/elytra/frequent_flyer_club 1847
-advancement grant @s[scores={exi_elytra_km=1848..}] only existence_smp:stats/elytra/frequent_flyer_club 1848
-advancement grant @s[scores={exi_elytra_km=1849..}] only existence_smp:stats/elytra/frequent_flyer_club 1849
-advancement grant @s[scores={exi_elytra_km=1850..}] only existence_smp:stats/elytra/frequent_flyer_club 1850
-advancement grant @s[scores={exi_elytra_km=1851..}] only existence_smp:stats/elytra/frequent_flyer_club 1851
-advancement grant @s[scores={exi_elytra_km=1852..}] only existence_smp:stats/elytra/frequent_flyer_club 1852
-advancement grant @s[scores={exi_elytra_km=1853..}] only existence_smp:stats/elytra/frequent_flyer_club 1853
-advancement grant @s[scores={exi_elytra_km=1854..}] only existence_smp:stats/elytra/frequent_flyer_club 1854
-advancement grant @s[scores={exi_elytra_km=1855..}] only existence_smp:stats/elytra/frequent_flyer_club 1855
-advancement grant @s[scores={exi_elytra_km=1856..}] only existence_smp:stats/elytra/frequent_flyer_club 1856
-advancement grant @s[scores={exi_elytra_km=1857..}] only existence_smp:stats/elytra/frequent_flyer_club 1857
-advancement grant @s[scores={exi_elytra_km=1858..}] only existence_smp:stats/elytra/frequent_flyer_club 1858
-advancement grant @s[scores={exi_elytra_km=1859..}] only existence_smp:stats/elytra/frequent_flyer_club 1859
-advancement grant @s[scores={exi_elytra_km=1860..}] only existence_smp:stats/elytra/frequent_flyer_club 1860
-advancement grant @s[scores={exi_elytra_km=1861..}] only existence_smp:stats/elytra/frequent_flyer_club 1861
-advancement grant @s[scores={exi_elytra_km=1862..}] only existence_smp:stats/elytra/frequent_flyer_club 1862
-advancement grant @s[scores={exi_elytra_km=1863..}] only existence_smp:stats/elytra/frequent_flyer_club 1863
-advancement grant @s[scores={exi_elytra_km=1864..}] only existence_smp:stats/elytra/frequent_flyer_club 1864
-advancement grant @s[scores={exi_elytra_km=1865..}] only existence_smp:stats/elytra/frequent_flyer_club 1865
-advancement grant @s[scores={exi_elytra_km=1866..}] only existence_smp:stats/elytra/frequent_flyer_club 1866
-advancement grant @s[scores={exi_elytra_km=1867..}] only existence_smp:stats/elytra/frequent_flyer_club 1867
-advancement grant @s[scores={exi_elytra_km=1868..}] only existence_smp:stats/elytra/frequent_flyer_club 1868
-advancement grant @s[scores={exi_elytra_km=1869..}] only existence_smp:stats/elytra/frequent_flyer_club 1869
-advancement grant @s[scores={exi_elytra_km=1870..}] only existence_smp:stats/elytra/frequent_flyer_club 1870
-advancement grant @s[scores={exi_elytra_km=1871..}] only existence_smp:stats/elytra/frequent_flyer_club 1871
-advancement grant @s[scores={exi_elytra_km=1872..}] only existence_smp:stats/elytra/frequent_flyer_club 1872
-advancement grant @s[scores={exi_elytra_km=1873..}] only existence_smp:stats/elytra/frequent_flyer_club 1873
-advancement grant @s[scores={exi_elytra_km=1874..}] only existence_smp:stats/elytra/frequent_flyer_club 1874
-advancement grant @s[scores={exi_elytra_km=1875..}] only existence_smp:stats/elytra/frequent_flyer_club 1875
-advancement grant @s[scores={exi_elytra_km=1876..}] only existence_smp:stats/elytra/frequent_flyer_club 1876
-advancement grant @s[scores={exi_elytra_km=1877..}] only existence_smp:stats/elytra/frequent_flyer_club 1877
-advancement grant @s[scores={exi_elytra_km=1878..}] only existence_smp:stats/elytra/frequent_flyer_club 1878
-advancement grant @s[scores={exi_elytra_km=1879..}] only existence_smp:stats/elytra/frequent_flyer_club 1879
-advancement grant @s[scores={exi_elytra_km=1880..}] only existence_smp:stats/elytra/frequent_flyer_club 1880
-advancement grant @s[scores={exi_elytra_km=1881..}] only existence_smp:stats/elytra/frequent_flyer_club 1881
-advancement grant @s[scores={exi_elytra_km=1882..}] only existence_smp:stats/elytra/frequent_flyer_club 1882
-advancement grant @s[scores={exi_elytra_km=1883..}] only existence_smp:stats/elytra/frequent_flyer_club 1883
-advancement grant @s[scores={exi_elytra_km=1884..}] only existence_smp:stats/elytra/frequent_flyer_club 1884
-advancement grant @s[scores={exi_elytra_km=1885..}] only existence_smp:stats/elytra/frequent_flyer_club 1885
-advancement grant @s[scores={exi_elytra_km=1886..}] only existence_smp:stats/elytra/frequent_flyer_club 1886
-advancement grant @s[scores={exi_elytra_km=1887..}] only existence_smp:stats/elytra/frequent_flyer_club 1887
-advancement grant @s[scores={exi_elytra_km=1888..}] only existence_smp:stats/elytra/frequent_flyer_club 1888
-advancement grant @s[scores={exi_elytra_km=1889..}] only existence_smp:stats/elytra/frequent_flyer_club 1889
-advancement grant @s[scores={exi_elytra_km=1890..}] only existence_smp:stats/elytra/frequent_flyer_club 1890
-advancement grant @s[scores={exi_elytra_km=1891..}] only existence_smp:stats/elytra/frequent_flyer_club 1891
-advancement grant @s[scores={exi_elytra_km=1892..}] only existence_smp:stats/elytra/frequent_flyer_club 1892
-advancement grant @s[scores={exi_elytra_km=1893..}] only existence_smp:stats/elytra/frequent_flyer_club 1893
-advancement grant @s[scores={exi_elytra_km=1894..}] only existence_smp:stats/elytra/frequent_flyer_club 1894
-advancement grant @s[scores={exi_elytra_km=1895..}] only existence_smp:stats/elytra/frequent_flyer_club 1895
-advancement grant @s[scores={exi_elytra_km=1896..}] only existence_smp:stats/elytra/frequent_flyer_club 1896
-advancement grant @s[scores={exi_elytra_km=1897..}] only existence_smp:stats/elytra/frequent_flyer_club 1897
-advancement grant @s[scores={exi_elytra_km=1898..}] only existence_smp:stats/elytra/frequent_flyer_club 1898
-advancement grant @s[scores={exi_elytra_km=1899..}] only existence_smp:stats/elytra/frequent_flyer_club 1899
-advancement grant @s[scores={exi_elytra_km=1900..}] only existence_smp:stats/elytra/frequent_flyer_club 1900
-advancement grant @s[scores={exi_elytra_km=1901..}] only existence_smp:stats/elytra/frequent_flyer_club 1901
-advancement grant @s[scores={exi_elytra_km=1902..}] only existence_smp:stats/elytra/frequent_flyer_club 1902
-advancement grant @s[scores={exi_elytra_km=1903..}] only existence_smp:stats/elytra/frequent_flyer_club 1903
-advancement grant @s[scores={exi_elytra_km=1904..}] only existence_smp:stats/elytra/frequent_flyer_club 1904
-advancement grant @s[scores={exi_elytra_km=1905..}] only existence_smp:stats/elytra/frequent_flyer_club 1905
-advancement grant @s[scores={exi_elytra_km=1906..}] only existence_smp:stats/elytra/frequent_flyer_club 1906
-advancement grant @s[scores={exi_elytra_km=1907..}] only existence_smp:stats/elytra/frequent_flyer_club 1907
-advancement grant @s[scores={exi_elytra_km=1908..}] only existence_smp:stats/elytra/frequent_flyer_club 1908
-advancement grant @s[scores={exi_elytra_km=1909..}] only existence_smp:stats/elytra/frequent_flyer_club 1909
-advancement grant @s[scores={exi_elytra_km=1910..}] only existence_smp:stats/elytra/frequent_flyer_club 1910
-advancement grant @s[scores={exi_elytra_km=1911..}] only existence_smp:stats/elytra/frequent_flyer_club 1911
-advancement grant @s[scores={exi_elytra_km=1912..}] only existence_smp:stats/elytra/frequent_flyer_club 1912
-advancement grant @s[scores={exi_elytra_km=1913..}] only existence_smp:stats/elytra/frequent_flyer_club 1913
-advancement grant @s[scores={exi_elytra_km=1914..}] only existence_smp:stats/elytra/frequent_flyer_club 1914
-advancement grant @s[scores={exi_elytra_km=1915..}] only existence_smp:stats/elytra/frequent_flyer_club 1915
-advancement grant @s[scores={exi_elytra_km=1916..}] only existence_smp:stats/elytra/frequent_flyer_club 1916
-advancement grant @s[scores={exi_elytra_km=1917..}] only existence_smp:stats/elytra/frequent_flyer_club 1917
-advancement grant @s[scores={exi_elytra_km=1918..}] only existence_smp:stats/elytra/frequent_flyer_club 1918
-advancement grant @s[scores={exi_elytra_km=1919..}] only existence_smp:stats/elytra/frequent_flyer_club 1919
-advancement grant @s[scores={exi_elytra_km=1920..}] only existence_smp:stats/elytra/frequent_flyer_club 1920
-advancement grant @s[scores={exi_elytra_km=1921..}] only existence_smp:stats/elytra/frequent_flyer_club 1921
-advancement grant @s[scores={exi_elytra_km=1922..}] only existence_smp:stats/elytra/frequent_flyer_club 1922
-advancement grant @s[scores={exi_elytra_km=1923..}] only existence_smp:stats/elytra/frequent_flyer_club 1923
-advancement grant @s[scores={exi_elytra_km=1924..}] only existence_smp:stats/elytra/frequent_flyer_club 1924
-advancement grant @s[scores={exi_elytra_km=1925..}] only existence_smp:stats/elytra/frequent_flyer_club 1925
-advancement grant @s[scores={exi_elytra_km=1926..}] only existence_smp:stats/elytra/frequent_flyer_club 1926
-advancement grant @s[scores={exi_elytra_km=1927..}] only existence_smp:stats/elytra/frequent_flyer_club 1927
-advancement grant @s[scores={exi_elytra_km=1928..}] only existence_smp:stats/elytra/frequent_flyer_club 1928
-advancement grant @s[scores={exi_elytra_km=1929..}] only existence_smp:stats/elytra/frequent_flyer_club 1929
-advancement grant @s[scores={exi_elytra_km=1930..}] only existence_smp:stats/elytra/frequent_flyer_club 1930
-advancement grant @s[scores={exi_elytra_km=1931..}] only existence_smp:stats/elytra/frequent_flyer_club 1931
-advancement grant @s[scores={exi_elytra_km=1932..}] only existence_smp:stats/elytra/frequent_flyer_club 1932
-advancement grant @s[scores={exi_elytra_km=1933..}] only existence_smp:stats/elytra/frequent_flyer_club 1933
-advancement grant @s[scores={exi_elytra_km=1934..}] only existence_smp:stats/elytra/frequent_flyer_club 1934
-advancement grant @s[scores={exi_elytra_km=1935..}] only existence_smp:stats/elytra/frequent_flyer_club 1935
-advancement grant @s[scores={exi_elytra_km=1936..}] only existence_smp:stats/elytra/frequent_flyer_club 1936
-advancement grant @s[scores={exi_elytra_km=1937..}] only existence_smp:stats/elytra/frequent_flyer_club 1937
-advancement grant @s[scores={exi_elytra_km=1938..}] only existence_smp:stats/elytra/frequent_flyer_club 1938
-advancement grant @s[scores={exi_elytra_km=1939..}] only existence_smp:stats/elytra/frequent_flyer_club 1939
-advancement grant @s[scores={exi_elytra_km=1940..}] only existence_smp:stats/elytra/frequent_flyer_club 1940
-advancement grant @s[scores={exi_elytra_km=1941..}] only existence_smp:stats/elytra/frequent_flyer_club 1941
-advancement grant @s[scores={exi_elytra_km=1942..}] only existence_smp:stats/elytra/frequent_flyer_club 1942
-advancement grant @s[scores={exi_elytra_km=1943..}] only existence_smp:stats/elytra/frequent_flyer_club 1943
-advancement grant @s[scores={exi_elytra_km=1944..}] only existence_smp:stats/elytra/frequent_flyer_club 1944
-advancement grant @s[scores={exi_elytra_km=1945..}] only existence_smp:stats/elytra/frequent_flyer_club 1945
-advancement grant @s[scores={exi_elytra_km=1946..}] only existence_smp:stats/elytra/frequent_flyer_club 1946
-advancement grant @s[scores={exi_elytra_km=1947..}] only existence_smp:stats/elytra/frequent_flyer_club 1947
-advancement grant @s[scores={exi_elytra_km=1948..}] only existence_smp:stats/elytra/frequent_flyer_club 1948
-advancement grant @s[scores={exi_elytra_km=1949..}] only existence_smp:stats/elytra/frequent_flyer_club 1949
-advancement grant @s[scores={exi_elytra_km=1950..}] only existence_smp:stats/elytra/frequent_flyer_club 1950
-advancement grant @s[scores={exi_elytra_km=1951..}] only existence_smp:stats/elytra/frequent_flyer_club 1951
-advancement grant @s[scores={exi_elytra_km=1952..}] only existence_smp:stats/elytra/frequent_flyer_club 1952
-advancement grant @s[scores={exi_elytra_km=1953..}] only existence_smp:stats/elytra/frequent_flyer_club 1953
-advancement grant @s[scores={exi_elytra_km=1954..}] only existence_smp:stats/elytra/frequent_flyer_club 1954
-advancement grant @s[scores={exi_elytra_km=1955..}] only existence_smp:stats/elytra/frequent_flyer_club 1955
-advancement grant @s[scores={exi_elytra_km=1956..}] only existence_smp:stats/elytra/frequent_flyer_club 1956
-advancement grant @s[scores={exi_elytra_km=1957..}] only existence_smp:stats/elytra/frequent_flyer_club 1957
-advancement grant @s[scores={exi_elytra_km=1958..}] only existence_smp:stats/elytra/frequent_flyer_club 1958
-advancement grant @s[scores={exi_elytra_km=1959..}] only existence_smp:stats/elytra/frequent_flyer_club 1959
-advancement grant @s[scores={exi_elytra_km=1960..}] only existence_smp:stats/elytra/frequent_flyer_club 1960
-advancement grant @s[scores={exi_elytra_km=1961..}] only existence_smp:stats/elytra/frequent_flyer_club 1961
-advancement grant @s[scores={exi_elytra_km=1962..}] only existence_smp:stats/elytra/frequent_flyer_club 1962
-advancement grant @s[scores={exi_elytra_km=1963..}] only existence_smp:stats/elytra/frequent_flyer_club 1963
-advancement grant @s[scores={exi_elytra_km=1964..}] only existence_smp:stats/elytra/frequent_flyer_club 1964
-advancement grant @s[scores={exi_elytra_km=1965..}] only existence_smp:stats/elytra/frequent_flyer_club 1965
-advancement grant @s[scores={exi_elytra_km=1966..}] only existence_smp:stats/elytra/frequent_flyer_club 1966
-advancement grant @s[scores={exi_elytra_km=1967..}] only existence_smp:stats/elytra/frequent_flyer_club 1967
-advancement grant @s[scores={exi_elytra_km=1968..}] only existence_smp:stats/elytra/frequent_flyer_club 1968
-advancement grant @s[scores={exi_elytra_km=1969..}] only existence_smp:stats/elytra/frequent_flyer_club 1969
-advancement grant @s[scores={exi_elytra_km=1970..}] only existence_smp:stats/elytra/frequent_flyer_club 1970
-advancement grant @s[scores={exi_elytra_km=1971..}] only existence_smp:stats/elytra/frequent_flyer_club 1971
-advancement grant @s[scores={exi_elytra_km=1972..}] only existence_smp:stats/elytra/frequent_flyer_club 1972
-advancement grant @s[scores={exi_elytra_km=1973..}] only existence_smp:stats/elytra/frequent_flyer_club 1973
-advancement grant @s[scores={exi_elytra_km=1974..}] only existence_smp:stats/elytra/frequent_flyer_club 1974
-advancement grant @s[scores={exi_elytra_km=1975..}] only existence_smp:stats/elytra/frequent_flyer_club 1975
-advancement grant @s[scores={exi_elytra_km=1976..}] only existence_smp:stats/elytra/frequent_flyer_club 1976
-advancement grant @s[scores={exi_elytra_km=1977..}] only existence_smp:stats/elytra/frequent_flyer_club 1977
-advancement grant @s[scores={exi_elytra_km=1978..}] only existence_smp:stats/elytra/frequent_flyer_club 1978
-advancement grant @s[scores={exi_elytra_km=1979..}] only existence_smp:stats/elytra/frequent_flyer_club 1979
-advancement grant @s[scores={exi_elytra_km=1980..}] only existence_smp:stats/elytra/frequent_flyer_club 1980
-advancement grant @s[scores={exi_elytra_km=1981..}] only existence_smp:stats/elytra/frequent_flyer_club 1981
-advancement grant @s[scores={exi_elytra_km=1982..}] only existence_smp:stats/elytra/frequent_flyer_club 1982
-advancement grant @s[scores={exi_elytra_km=1983..}] only existence_smp:stats/elytra/frequent_flyer_club 1983
-advancement grant @s[scores={exi_elytra_km=1984..}] only existence_smp:stats/elytra/frequent_flyer_club 1984
-advancement grant @s[scores={exi_elytra_km=1985..}] only existence_smp:stats/elytra/frequent_flyer_club 1985
-advancement grant @s[scores={exi_elytra_km=1986..}] only existence_smp:stats/elytra/frequent_flyer_club 1986
-advancement grant @s[scores={exi_elytra_km=1987..}] only existence_smp:stats/elytra/frequent_flyer_club 1987
-advancement grant @s[scores={exi_elytra_km=1988..}] only existence_smp:stats/elytra/frequent_flyer_club 1988
-advancement grant @s[scores={exi_elytra_km=1989..}] only existence_smp:stats/elytra/frequent_flyer_club 1989
-advancement grant @s[scores={exi_elytra_km=1990..}] only existence_smp:stats/elytra/frequent_flyer_club 1990
-advancement grant @s[scores={exi_elytra_km=1991..}] only existence_smp:stats/elytra/frequent_flyer_club 1991
-advancement grant @s[scores={exi_elytra_km=1992..}] only existence_smp:stats/elytra/frequent_flyer_club 1992
-advancement grant @s[scores={exi_elytra_km=1993..}] only existence_smp:stats/elytra/frequent_flyer_club 1993
-advancement grant @s[scores={exi_elytra_km=1994..}] only existence_smp:stats/elytra/frequent_flyer_club 1994
-advancement grant @s[scores={exi_elytra_km=1995..}] only existence_smp:stats/elytra/frequent_flyer_club 1995
-advancement grant @s[scores={exi_elytra_km=1996..}] only existence_smp:stats/elytra/frequent_flyer_club 1996
-advancement grant @s[scores={exi_elytra_km=1997..}] only existence_smp:stats/elytra/frequent_flyer_club 1997
-advancement grant @s[scores={exi_elytra_km=1998..}] only existence_smp:stats/elytra/frequent_flyer_club 1998
-advancement grant @s[scores={exi_elytra_km=1999..}] only existence_smp:stats/elytra/frequent_flyer_club 1999
-advancement grant @s[scores={exi_elytra_km=2000..}] only existence_smp:stats/elytra/frequent_flyer_club 2000
-advancement grant @s[scores={exi_elytra_km=2001..}] only existence_smp:stats/elytra/frequent_flyer_club 2001
-advancement grant @s[scores={exi_elytra_km=2002..}] only existence_smp:stats/elytra/frequent_flyer_club 2002
-advancement grant @s[scores={exi_elytra_km=2003..}] only existence_smp:stats/elytra/frequent_flyer_club 2003
-advancement grant @s[scores={exi_elytra_km=2004..}] only existence_smp:stats/elytra/frequent_flyer_club 2004
-advancement grant @s[scores={exi_elytra_km=2005..}] only existence_smp:stats/elytra/frequent_flyer_club 2005
-advancement grant @s[scores={exi_elytra_km=2006..}] only existence_smp:stats/elytra/frequent_flyer_club 2006
-advancement grant @s[scores={exi_elytra_km=2007..}] only existence_smp:stats/elytra/frequent_flyer_club 2007
-advancement grant @s[scores={exi_elytra_km=2008..}] only existence_smp:stats/elytra/frequent_flyer_club 2008
-advancement grant @s[scores={exi_elytra_km=2009..}] only existence_smp:stats/elytra/frequent_flyer_club 2009
-advancement grant @s[scores={exi_elytra_km=2010..}] only existence_smp:stats/elytra/frequent_flyer_club 2010
-advancement grant @s[scores={exi_elytra_km=2011..}] only existence_smp:stats/elytra/frequent_flyer_club 2011
-advancement grant @s[scores={exi_elytra_km=2012..}] only existence_smp:stats/elytra/frequent_flyer_club 2012
-advancement grant @s[scores={exi_elytra_km=2013..}] only existence_smp:stats/elytra/frequent_flyer_club 2013
-advancement grant @s[scores={exi_elytra_km=2014..}] only existence_smp:stats/elytra/frequent_flyer_club 2014
-advancement grant @s[scores={exi_elytra_km=2015..}] only existence_smp:stats/elytra/frequent_flyer_club 2015
-advancement grant @s[scores={exi_elytra_km=2016..}] only existence_smp:stats/elytra/frequent_flyer_club 2016
-advancement grant @s[scores={exi_elytra_km=2017..}] only existence_smp:stats/elytra/frequent_flyer_club 2017
-advancement grant @s[scores={exi_elytra_km=2018..}] only existence_smp:stats/elytra/frequent_flyer_club 2018
-advancement grant @s[scores={exi_elytra_km=2019..}] only existence_smp:stats/elytra/frequent_flyer_club 2019
-advancement grant @s[scores={exi_elytra_km=2020..}] only existence_smp:stats/elytra/frequent_flyer_club 2020
-advancement grant @s[scores={exi_elytra_km=2021..}] only existence_smp:stats/elytra/frequent_flyer_club 2021
-advancement grant @s[scores={exi_elytra_km=2022..}] only existence_smp:stats/elytra/frequent_flyer_club 2022
-advancement grant @s[scores={exi_elytra_km=2023..}] only existence_smp:stats/elytra/frequent_flyer_club 2023
-advancement grant @s[scores={exi_elytra_km=2024..}] only existence_smp:stats/elytra/frequent_flyer_club 2024
-advancement grant @s[scores={exi_elytra_km=2025..}] only existence_smp:stats/elytra/frequent_flyer_club 2025
-advancement grant @s[scores={exi_elytra_km=2026..}] only existence_smp:stats/elytra/frequent_flyer_club 2026
-advancement grant @s[scores={exi_elytra_km=2027..}] only existence_smp:stats/elytra/frequent_flyer_club 2027
-advancement grant @s[scores={exi_elytra_km=2028..}] only existence_smp:stats/elytra/frequent_flyer_club 2028
-advancement grant @s[scores={exi_elytra_km=2029..}] only existence_smp:stats/elytra/frequent_flyer_club 2029
-advancement grant @s[scores={exi_elytra_km=2030..}] only existence_smp:stats/elytra/frequent_flyer_club 2030
-advancement grant @s[scores={exi_elytra_km=2031..}] only existence_smp:stats/elytra/frequent_flyer_club 2031
-advancement grant @s[scores={exi_elytra_km=2032..}] only existence_smp:stats/elytra/frequent_flyer_club 2032
-advancement grant @s[scores={exi_elytra_km=2033..}] only existence_smp:stats/elytra/frequent_flyer_club 2033
-advancement grant @s[scores={exi_elytra_km=2034..}] only existence_smp:stats/elytra/frequent_flyer_club 2034
-advancement grant @s[scores={exi_elytra_km=2035..}] only existence_smp:stats/elytra/frequent_flyer_club 2035
-advancement grant @s[scores={exi_elytra_km=2036..}] only existence_smp:stats/elytra/frequent_flyer_club 2036
-advancement grant @s[scores={exi_elytra_km=2037..}] only existence_smp:stats/elytra/frequent_flyer_club 2037
-advancement grant @s[scores={exi_elytra_km=2038..}] only existence_smp:stats/elytra/frequent_flyer_club 2038
-advancement grant @s[scores={exi_elytra_km=2039..}] only existence_smp:stats/elytra/frequent_flyer_club 2039
-advancement grant @s[scores={exi_elytra_km=2040..}] only existence_smp:stats/elytra/frequent_flyer_club 2040
-advancement grant @s[scores={exi_elytra_km=2041..}] only existence_smp:stats/elytra/frequent_flyer_club 2041
-advancement grant @s[scores={exi_elytra_km=2042..}] only existence_smp:stats/elytra/frequent_flyer_club 2042
-advancement grant @s[scores={exi_elytra_km=2043..}] only existence_smp:stats/elytra/frequent_flyer_club 2043
-advancement grant @s[scores={exi_elytra_km=2044..}] only existence_smp:stats/elytra/frequent_flyer_club 2044
-advancement grant @s[scores={exi_elytra_km=2045..}] only existence_smp:stats/elytra/frequent_flyer_club 2045
-advancement grant @s[scores={exi_elytra_km=2046..}] only existence_smp:stats/elytra/frequent_flyer_club 2046
-advancement grant @s[scores={exi_elytra_km=2047..}] only existence_smp:stats/elytra/frequent_flyer_club 2047
-advancement grant @s[scores={exi_elytra_km=2048..}] only existence_smp:stats/elytra/frequent_flyer_club 2048
-advancement grant @s[scores={exi_elytra_km=2049..}] only existence_smp:stats/elytra/frequent_flyer_club 2049
-advancement grant @s[scores={exi_elytra_km=2050..}] only existence_smp:stats/elytra/frequent_flyer_club 2050
-advancement grant @s[scores={exi_elytra_km=2051..}] only existence_smp:stats/elytra/frequent_flyer_club 2051
-advancement grant @s[scores={exi_elytra_km=2052..}] only existence_smp:stats/elytra/frequent_flyer_club 2052
-advancement grant @s[scores={exi_elytra_km=2053..}] only existence_smp:stats/elytra/frequent_flyer_club 2053
-advancement grant @s[scores={exi_elytra_km=2054..}] only existence_smp:stats/elytra/frequent_flyer_club 2054
-advancement grant @s[scores={exi_elytra_km=2055..}] only existence_smp:stats/elytra/frequent_flyer_club 2055
-advancement grant @s[scores={exi_elytra_km=2056..}] only existence_smp:stats/elytra/frequent_flyer_club 2056
-advancement grant @s[scores={exi_elytra_km=2057..}] only existence_smp:stats/elytra/frequent_flyer_club 2057
-advancement grant @s[scores={exi_elytra_km=2058..}] only existence_smp:stats/elytra/frequent_flyer_club 2058
-advancement grant @s[scores={exi_elytra_km=2059..}] only existence_smp:stats/elytra/frequent_flyer_club 2059
-advancement grant @s[scores={exi_elytra_km=2060..}] only existence_smp:stats/elytra/frequent_flyer_club 2060
-advancement grant @s[scores={exi_elytra_km=2061..}] only existence_smp:stats/elytra/frequent_flyer_club 2061
-advancement grant @s[scores={exi_elytra_km=2062..}] only existence_smp:stats/elytra/frequent_flyer_club 2062
-advancement grant @s[scores={exi_elytra_km=2063..}] only existence_smp:stats/elytra/frequent_flyer_club 2063
-advancement grant @s[scores={exi_elytra_km=2064..}] only existence_smp:stats/elytra/frequent_flyer_club 2064
-advancement grant @s[scores={exi_elytra_km=2065..}] only existence_smp:stats/elytra/frequent_flyer_club 2065
-advancement grant @s[scores={exi_elytra_km=2066..}] only existence_smp:stats/elytra/frequent_flyer_club 2066
-advancement grant @s[scores={exi_elytra_km=2067..}] only existence_smp:stats/elytra/frequent_flyer_club 2067
-advancement grant @s[scores={exi_elytra_km=2068..}] only existence_smp:stats/elytra/frequent_flyer_club 2068
-advancement grant @s[scores={exi_elytra_km=2069..}] only existence_smp:stats/elytra/frequent_flyer_club 2069
-advancement grant @s[scores={exi_elytra_km=2070..}] only existence_smp:stats/elytra/frequent_flyer_club 2070
-advancement grant @s[scores={exi_elytra_km=2071..}] only existence_smp:stats/elytra/frequent_flyer_club 2071
-advancement grant @s[scores={exi_elytra_km=2072..}] only existence_smp:stats/elytra/frequent_flyer_club 2072
-advancement grant @s[scores={exi_elytra_km=2073..}] only existence_smp:stats/elytra/frequent_flyer_club 2073
-advancement grant @s[scores={exi_elytra_km=2074..}] only existence_smp:stats/elytra/frequent_flyer_club 2074
-advancement grant @s[scores={exi_elytra_km=2075..}] only existence_smp:stats/elytra/frequent_flyer_club 2075
-advancement grant @s[scores={exi_elytra_km=2076..}] only existence_smp:stats/elytra/frequent_flyer_club 2076
-advancement grant @s[scores={exi_elytra_km=2077..}] only existence_smp:stats/elytra/frequent_flyer_club 2077
-advancement grant @s[scores={exi_elytra_km=2078..}] only existence_smp:stats/elytra/frequent_flyer_club 2078
-advancement grant @s[scores={exi_elytra_km=2079..}] only existence_smp:stats/elytra/frequent_flyer_club 2079
-advancement grant @s[scores={exi_elytra_km=2080..}] only existence_smp:stats/elytra/frequent_flyer_club 2080
-advancement grant @s[scores={exi_elytra_km=2081..}] only existence_smp:stats/elytra/frequent_flyer_club 2081
-advancement grant @s[scores={exi_elytra_km=2082..}] only existence_smp:stats/elytra/frequent_flyer_club 2082
-advancement grant @s[scores={exi_elytra_km=2083..}] only existence_smp:stats/elytra/frequent_flyer_club 2083
-advancement grant @s[scores={exi_elytra_km=2084..}] only existence_smp:stats/elytra/frequent_flyer_club 2084
-advancement grant @s[scores={exi_elytra_km=2085..}] only existence_smp:stats/elytra/frequent_flyer_club 2085
-advancement grant @s[scores={exi_elytra_km=2086..}] only existence_smp:stats/elytra/frequent_flyer_club 2086
-advancement grant @s[scores={exi_elytra_km=2087..}] only existence_smp:stats/elytra/frequent_flyer_club 2087
-advancement grant @s[scores={exi_elytra_km=2088..}] only existence_smp:stats/elytra/frequent_flyer_club 2088
-advancement grant @s[scores={exi_elytra_km=2089..}] only existence_smp:stats/elytra/frequent_flyer_club 2089
-advancement grant @s[scores={exi_elytra_km=2090..}] only existence_smp:stats/elytra/frequent_flyer_club 2090
-advancement grant @s[scores={exi_elytra_km=2091..}] only existence_smp:stats/elytra/frequent_flyer_club 2091
-advancement grant @s[scores={exi_elytra_km=2092..}] only existence_smp:stats/elytra/frequent_flyer_club 2092
-advancement grant @s[scores={exi_elytra_km=2093..}] only existence_smp:stats/elytra/frequent_flyer_club 2093
-advancement grant @s[scores={exi_elytra_km=2094..}] only existence_smp:stats/elytra/frequent_flyer_club 2094
-advancement grant @s[scores={exi_elytra_km=2095..}] only existence_smp:stats/elytra/frequent_flyer_club 2095
-advancement grant @s[scores={exi_elytra_km=2096..}] only existence_smp:stats/elytra/frequent_flyer_club 2096
-advancement grant @s[scores={exi_elytra_km=2097..}] only existence_smp:stats/elytra/frequent_flyer_club 2097
-advancement grant @s[scores={exi_elytra_km=2098..}] only existence_smp:stats/elytra/frequent_flyer_club 2098
-advancement grant @s[scores={exi_elytra_km=2099..}] only existence_smp:stats/elytra/frequent_flyer_club 2099
-advancement grant @s[scores={exi_elytra_km=2100..}] only existence_smp:stats/elytra/frequent_flyer_club 2100
-advancement grant @s[scores={exi_elytra_km=2101..}] only existence_smp:stats/elytra/frequent_flyer_club 2101
-advancement grant @s[scores={exi_elytra_km=2102..}] only existence_smp:stats/elytra/frequent_flyer_club 2102
-advancement grant @s[scores={exi_elytra_km=2103..}] only existence_smp:stats/elytra/frequent_flyer_club 2103
-advancement grant @s[scores={exi_elytra_km=2104..}] only existence_smp:stats/elytra/frequent_flyer_club 2104
-advancement grant @s[scores={exi_elytra_km=2105..}] only existence_smp:stats/elytra/frequent_flyer_club 2105
-advancement grant @s[scores={exi_elytra_km=2106..}] only existence_smp:stats/elytra/frequent_flyer_club 2106
-advancement grant @s[scores={exi_elytra_km=2107..}] only existence_smp:stats/elytra/frequent_flyer_club 2107
-advancement grant @s[scores={exi_elytra_km=2108..}] only existence_smp:stats/elytra/frequent_flyer_club 2108
-advancement grant @s[scores={exi_elytra_km=2109..}] only existence_smp:stats/elytra/frequent_flyer_club 2109
-advancement grant @s[scores={exi_elytra_km=2110..}] only existence_smp:stats/elytra/frequent_flyer_club 2110
-advancement grant @s[scores={exi_elytra_km=2111..}] only existence_smp:stats/elytra/frequent_flyer_club 2111
-advancement grant @s[scores={exi_elytra_km=2112..}] only existence_smp:stats/elytra/frequent_flyer_club 2112
-advancement grant @s[scores={exi_elytra_km=2113..}] only existence_smp:stats/elytra/frequent_flyer_club 2113
-advancement grant @s[scores={exi_elytra_km=2114..}] only existence_smp:stats/elytra/frequent_flyer_club 2114
-advancement grant @s[scores={exi_elytra_km=2115..}] only existence_smp:stats/elytra/frequent_flyer_club 2115
-advancement grant @s[scores={exi_elytra_km=2116..}] only existence_smp:stats/elytra/frequent_flyer_club 2116
-advancement grant @s[scores={exi_elytra_km=2117..}] only existence_smp:stats/elytra/frequent_flyer_club 2117
-advancement grant @s[scores={exi_elytra_km=2118..}] only existence_smp:stats/elytra/frequent_flyer_club 2118
-advancement grant @s[scores={exi_elytra_km=2119..}] only existence_smp:stats/elytra/frequent_flyer_club 2119
-advancement grant @s[scores={exi_elytra_km=2120..}] only existence_smp:stats/elytra/frequent_flyer_club 2120
-advancement grant @s[scores={exi_elytra_km=2121..}] only existence_smp:stats/elytra/frequent_flyer_club 2121
-advancement grant @s[scores={exi_elytra_km=2122..}] only existence_smp:stats/elytra/frequent_flyer_club 2122
-advancement grant @s[scores={exi_elytra_km=2123..}] only existence_smp:stats/elytra/frequent_flyer_club 2123
-advancement grant @s[scores={exi_elytra_km=2124..}] only existence_smp:stats/elytra/frequent_flyer_club 2124
-advancement grant @s[scores={exi_elytra_km=2125..}] only existence_smp:stats/elytra/frequent_flyer_club 2125
-advancement grant @s[scores={exi_elytra_km=2126..}] only existence_smp:stats/elytra/frequent_flyer_club 2126
-advancement grant @s[scores={exi_elytra_km=2127..}] only existence_smp:stats/elytra/frequent_flyer_club 2127
-advancement grant @s[scores={exi_elytra_km=2128..}] only existence_smp:stats/elytra/frequent_flyer_club 2128
-advancement grant @s[scores={exi_elytra_km=2129..}] only existence_smp:stats/elytra/frequent_flyer_club 2129
-advancement grant @s[scores={exi_elytra_km=2130..}] only existence_smp:stats/elytra/frequent_flyer_club 2130
-advancement grant @s[scores={exi_elytra_km=2131..}] only existence_smp:stats/elytra/frequent_flyer_club 2131
-advancement grant @s[scores={exi_elytra_km=2132..}] only existence_smp:stats/elytra/frequent_flyer_club 2132
-advancement grant @s[scores={exi_elytra_km=2133..}] only existence_smp:stats/elytra/frequent_flyer_club 2133
-advancement grant @s[scores={exi_elytra_km=2134..}] only existence_smp:stats/elytra/frequent_flyer_club 2134
-advancement grant @s[scores={exi_elytra_km=2135..}] only existence_smp:stats/elytra/frequent_flyer_club 2135
-advancement grant @s[scores={exi_elytra_km=2136..}] only existence_smp:stats/elytra/frequent_flyer_club 2136
-advancement grant @s[scores={exi_elytra_km=2137..}] only existence_smp:stats/elytra/frequent_flyer_club 2137
-advancement grant @s[scores={exi_elytra_km=2138..}] only existence_smp:stats/elytra/frequent_flyer_club 2138
-advancement grant @s[scores={exi_elytra_km=2139..}] only existence_smp:stats/elytra/frequent_flyer_club 2139
-advancement grant @s[scores={exi_elytra_km=2140..}] only existence_smp:stats/elytra/frequent_flyer_club 2140
-advancement grant @s[scores={exi_elytra_km=2141..}] only existence_smp:stats/elytra/frequent_flyer_club 2141
-advancement grant @s[scores={exi_elytra_km=2142..}] only existence_smp:stats/elytra/frequent_flyer_club 2142
-advancement grant @s[scores={exi_elytra_km=2143..}] only existence_smp:stats/elytra/frequent_flyer_club 2143
-advancement grant @s[scores={exi_elytra_km=2144..}] only existence_smp:stats/elytra/frequent_flyer_club 2144
-advancement grant @s[scores={exi_elytra_km=2145..}] only existence_smp:stats/elytra/frequent_flyer_club 2145
-advancement grant @s[scores={exi_elytra_km=2146..}] only existence_smp:stats/elytra/frequent_flyer_club 2146
-advancement grant @s[scores={exi_elytra_km=2147..}] only existence_smp:stats/elytra/frequent_flyer_club 2147
-advancement grant @s[scores={exi_elytra_km=2148..}] only existence_smp:stats/elytra/frequent_flyer_club 2148
-advancement grant @s[scores={exi_elytra_km=2149..}] only existence_smp:stats/elytra/frequent_flyer_club 2149
-advancement grant @s[scores={exi_elytra_km=2150..}] only existence_smp:stats/elytra/frequent_flyer_club 2150
-advancement grant @s[scores={exi_elytra_km=2151..}] only existence_smp:stats/elytra/frequent_flyer_club 2151
-advancement grant @s[scores={exi_elytra_km=2152..}] only existence_smp:stats/elytra/frequent_flyer_club 2152
-advancement grant @s[scores={exi_elytra_km=2153..}] only existence_smp:stats/elytra/frequent_flyer_club 2153
-advancement grant @s[scores={exi_elytra_km=2154..}] only existence_smp:stats/elytra/frequent_flyer_club 2154
-advancement grant @s[scores={exi_elytra_km=2155..}] only existence_smp:stats/elytra/frequent_flyer_club 2155
-advancement grant @s[scores={exi_elytra_km=2156..}] only existence_smp:stats/elytra/frequent_flyer_club 2156
-advancement grant @s[scores={exi_elytra_km=2157..}] only existence_smp:stats/elytra/frequent_flyer_club 2157
-advancement grant @s[scores={exi_elytra_km=2158..}] only existence_smp:stats/elytra/frequent_flyer_club 2158
-advancement grant @s[scores={exi_elytra_km=2159..}] only existence_smp:stats/elytra/frequent_flyer_club 2159
-advancement grant @s[scores={exi_elytra_km=2160..}] only existence_smp:stats/elytra/frequent_flyer_club 2160
-advancement grant @s[scores={exi_elytra_km=2161..}] only existence_smp:stats/elytra/frequent_flyer_club 2161
-advancement grant @s[scores={exi_elytra_km=2162..}] only existence_smp:stats/elytra/frequent_flyer_club 2162
-advancement grant @s[scores={exi_elytra_km=2163..}] only existence_smp:stats/elytra/frequent_flyer_club 2163
-advancement grant @s[scores={exi_elytra_km=2164..}] only existence_smp:stats/elytra/frequent_flyer_club 2164
-advancement grant @s[scores={exi_elytra_km=2165..}] only existence_smp:stats/elytra/frequent_flyer_club 2165
-advancement grant @s[scores={exi_elytra_km=2166..}] only existence_smp:stats/elytra/frequent_flyer_club 2166
-advancement grant @s[scores={exi_elytra_km=2167..}] only existence_smp:stats/elytra/frequent_flyer_club 2167
-advancement grant @s[scores={exi_elytra_km=2168..}] only existence_smp:stats/elytra/frequent_flyer_club 2168
-advancement grant @s[scores={exi_elytra_km=2169..}] only existence_smp:stats/elytra/frequent_flyer_club 2169
-advancement grant @s[scores={exi_elytra_km=2170..}] only existence_smp:stats/elytra/frequent_flyer_club 2170
-advancement grant @s[scores={exi_elytra_km=2171..}] only existence_smp:stats/elytra/frequent_flyer_club 2171
-advancement grant @s[scores={exi_elytra_km=2172..}] only existence_smp:stats/elytra/frequent_flyer_club 2172
-advancement grant @s[scores={exi_elytra_km=2173..}] only existence_smp:stats/elytra/frequent_flyer_club 2173
-advancement grant @s[scores={exi_elytra_km=2174..}] only existence_smp:stats/elytra/frequent_flyer_club 2174
-advancement grant @s[scores={exi_elytra_km=2175..}] only existence_smp:stats/elytra/frequent_flyer_club 2175
-advancement grant @s[scores={exi_elytra_km=2176..}] only existence_smp:stats/elytra/frequent_flyer_club 2176
-advancement grant @s[scores={exi_elytra_km=2177..}] only existence_smp:stats/elytra/frequent_flyer_club 2177
-advancement grant @s[scores={exi_elytra_km=2178..}] only existence_smp:stats/elytra/frequent_flyer_club 2178
-advancement grant @s[scores={exi_elytra_km=2179..}] only existence_smp:stats/elytra/frequent_flyer_club 2179
-advancement grant @s[scores={exi_elytra_km=2180..}] only existence_smp:stats/elytra/frequent_flyer_club 2180
-advancement grant @s[scores={exi_elytra_km=2181..}] only existence_smp:stats/elytra/frequent_flyer_club 2181
-advancement grant @s[scores={exi_elytra_km=2182..}] only existence_smp:stats/elytra/frequent_flyer_club 2182
-advancement grant @s[scores={exi_elytra_km=2183..}] only existence_smp:stats/elytra/frequent_flyer_club 2183
-advancement grant @s[scores={exi_elytra_km=2184..}] only existence_smp:stats/elytra/frequent_flyer_club 2184
-advancement grant @s[scores={exi_elytra_km=2185..}] only existence_smp:stats/elytra/frequent_flyer_club 2185
-advancement grant @s[scores={exi_elytra_km=2186..}] only existence_smp:stats/elytra/frequent_flyer_club 2186
-advancement grant @s[scores={exi_elytra_km=2187..}] only existence_smp:stats/elytra/frequent_flyer_club 2187
-advancement grant @s[scores={exi_elytra_km=2188..}] only existence_smp:stats/elytra/frequent_flyer_club 2188
-advancement grant @s[scores={exi_elytra_km=2189..}] only existence_smp:stats/elytra/frequent_flyer_club 2189
-advancement grant @s[scores={exi_elytra_km=2190..}] only existence_smp:stats/elytra/frequent_flyer_club 2190
-advancement grant @s[scores={exi_elytra_km=2191..}] only existence_smp:stats/elytra/frequent_flyer_club 2191
-advancement grant @s[scores={exi_elytra_km=2192..}] only existence_smp:stats/elytra/frequent_flyer_club 2192
-advancement grant @s[scores={exi_elytra_km=2193..}] only existence_smp:stats/elytra/frequent_flyer_club 2193
-advancement grant @s[scores={exi_elytra_km=2194..}] only existence_smp:stats/elytra/frequent_flyer_club 2194
-advancement grant @s[scores={exi_elytra_km=2195..}] only existence_smp:stats/elytra/frequent_flyer_club 2195
-advancement grant @s[scores={exi_elytra_km=2196..}] only existence_smp:stats/elytra/frequent_flyer_club 2196
-advancement grant @s[scores={exi_elytra_km=2197..}] only existence_smp:stats/elytra/frequent_flyer_club 2197
-advancement grant @s[scores={exi_elytra_km=2198..}] only existence_smp:stats/elytra/frequent_flyer_club 2198
-advancement grant @s[scores={exi_elytra_km=2199..}] only existence_smp:stats/elytra/frequent_flyer_club 2199
-advancement grant @s[scores={exi_elytra_km=2200..}] only existence_smp:stats/elytra/frequent_flyer_club 2200
-advancement grant @s[scores={exi_elytra_km=2201..}] only existence_smp:stats/elytra/frequent_flyer_club 2201
-advancement grant @s[scores={exi_elytra_km=2202..}] only existence_smp:stats/elytra/frequent_flyer_club 2202
-advancement grant @s[scores={exi_elytra_km=2203..}] only existence_smp:stats/elytra/frequent_flyer_club 2203
-advancement grant @s[scores={exi_elytra_km=2204..}] only existence_smp:stats/elytra/frequent_flyer_club 2204
-advancement grant @s[scores={exi_elytra_km=2205..}] only existence_smp:stats/elytra/frequent_flyer_club 2205
-advancement grant @s[scores={exi_elytra_km=2206..}] only existence_smp:stats/elytra/frequent_flyer_club 2206
-advancement grant @s[scores={exi_elytra_km=2207..}] only existence_smp:stats/elytra/frequent_flyer_club 2207
-advancement grant @s[scores={exi_elytra_km=2208..}] only existence_smp:stats/elytra/frequent_flyer_club 2208
-advancement grant @s[scores={exi_elytra_km=2209..}] only existence_smp:stats/elytra/frequent_flyer_club 2209
-advancement grant @s[scores={exi_elytra_km=2210..}] only existence_smp:stats/elytra/frequent_flyer_club 2210
-advancement grant @s[scores={exi_elytra_km=2211..}] only existence_smp:stats/elytra/frequent_flyer_club 2211
-advancement grant @s[scores={exi_elytra_km=2212..}] only existence_smp:stats/elytra/frequent_flyer_club 2212
-advancement grant @s[scores={exi_elytra_km=2213..}] only existence_smp:stats/elytra/frequent_flyer_club 2213
-advancement grant @s[scores={exi_elytra_km=2214..}] only existence_smp:stats/elytra/frequent_flyer_club 2214
-advancement grant @s[scores={exi_elytra_km=2215..}] only existence_smp:stats/elytra/frequent_flyer_club 2215
-advancement grant @s[scores={exi_elytra_km=2216..}] only existence_smp:stats/elytra/frequent_flyer_club 2216
-advancement grant @s[scores={exi_elytra_km=2217..}] only existence_smp:stats/elytra/frequent_flyer_club 2217
-advancement grant @s[scores={exi_elytra_km=2218..}] only existence_smp:stats/elytra/frequent_flyer_club 2218
-advancement grant @s[scores={exi_elytra_km=2219..}] only existence_smp:stats/elytra/frequent_flyer_club 2219
-advancement grant @s[scores={exi_elytra_km=2220..}] only existence_smp:stats/elytra/frequent_flyer_club 2220
-advancement grant @s[scores={exi_elytra_km=2221..}] only existence_smp:stats/elytra/frequent_flyer_club 2221
-advancement grant @s[scores={exi_elytra_km=2222..}] only existence_smp:stats/elytra/frequent_flyer_club 2222
-advancement grant @s[scores={exi_elytra_km=2223..}] only existence_smp:stats/elytra/frequent_flyer_club 2223
-advancement grant @s[scores={exi_elytra_km=2224..}] only existence_smp:stats/elytra/frequent_flyer_club 2224
-advancement grant @s[scores={exi_elytra_km=2225..}] only existence_smp:stats/elytra/frequent_flyer_club 2225
-advancement grant @s[scores={exi_elytra_km=2226..}] only existence_smp:stats/elytra/frequent_flyer_club 2226
-advancement grant @s[scores={exi_elytra_km=2227..}] only existence_smp:stats/elytra/frequent_flyer_club 2227
-advancement grant @s[scores={exi_elytra_km=2228..}] only existence_smp:stats/elytra/frequent_flyer_club 2228
-advancement grant @s[scores={exi_elytra_km=2229..}] only existence_smp:stats/elytra/frequent_flyer_club 2229
-advancement grant @s[scores={exi_elytra_km=2230..}] only existence_smp:stats/elytra/frequent_flyer_club 2230
-advancement grant @s[scores={exi_elytra_km=2231..}] only existence_smp:stats/elytra/frequent_flyer_club 2231
-advancement grant @s[scores={exi_elytra_km=2232..}] only existence_smp:stats/elytra/frequent_flyer_club 2232
-advancement grant @s[scores={exi_elytra_km=2233..}] only existence_smp:stats/elytra/frequent_flyer_club 2233
-advancement grant @s[scores={exi_elytra_km=2234..}] only existence_smp:stats/elytra/frequent_flyer_club 2234
-advancement grant @s[scores={exi_elytra_km=2235..}] only existence_smp:stats/elytra/frequent_flyer_club 2235
-advancement grant @s[scores={exi_elytra_km=2236..}] only existence_smp:stats/elytra/frequent_flyer_club 2236
-advancement grant @s[scores={exi_elytra_km=2237..}] only existence_smp:stats/elytra/frequent_flyer_club 2237
-advancement grant @s[scores={exi_elytra_km=2238..}] only existence_smp:stats/elytra/frequent_flyer_club 2238
-advancement grant @s[scores={exi_elytra_km=2239..}] only existence_smp:stats/elytra/frequent_flyer_club 2239
-advancement grant @s[scores={exi_elytra_km=2240..}] only existence_smp:stats/elytra/frequent_flyer_club 2240
-advancement grant @s[scores={exi_elytra_km=2241..}] only existence_smp:stats/elytra/frequent_flyer_club 2241
-advancement grant @s[scores={exi_elytra_km=2242..}] only existence_smp:stats/elytra/frequent_flyer_club 2242
-advancement grant @s[scores={exi_elytra_km=2243..}] only existence_smp:stats/elytra/frequent_flyer_club 2243
-advancement grant @s[scores={exi_elytra_km=2244..}] only existence_smp:stats/elytra/frequent_flyer_club 2244
-advancement grant @s[scores={exi_elytra_km=2245..}] only existence_smp:stats/elytra/frequent_flyer_club 2245
-advancement grant @s[scores={exi_elytra_km=2246..}] only existence_smp:stats/elytra/frequent_flyer_club 2246
-advancement grant @s[scores={exi_elytra_km=2247..}] only existence_smp:stats/elytra/frequent_flyer_club 2247
-advancement grant @s[scores={exi_elytra_km=2248..}] only existence_smp:stats/elytra/frequent_flyer_club 2248
-advancement grant @s[scores={exi_elytra_km=2249..}] only existence_smp:stats/elytra/frequent_flyer_club 2249
-advancement grant @s[scores={exi_elytra_km=2250..}] only existence_smp:stats/elytra/frequent_flyer_club 2250
-advancement grant @s[scores={exi_elytra_km=2251..}] only existence_smp:stats/elytra/frequent_flyer_club 2251
-advancement grant @s[scores={exi_elytra_km=2252..}] only existence_smp:stats/elytra/frequent_flyer_club 2252
-advancement grant @s[scores={exi_elytra_km=2253..}] only existence_smp:stats/elytra/frequent_flyer_club 2253
-advancement grant @s[scores={exi_elytra_km=2254..}] only existence_smp:stats/elytra/frequent_flyer_club 2254
-advancement grant @s[scores={exi_elytra_km=2255..}] only existence_smp:stats/elytra/frequent_flyer_club 2255
-advancement grant @s[scores={exi_elytra_km=2256..}] only existence_smp:stats/elytra/frequent_flyer_club 2256
-advancement grant @s[scores={exi_elytra_km=2257..}] only existence_smp:stats/elytra/frequent_flyer_club 2257
-advancement grant @s[scores={exi_elytra_km=2258..}] only existence_smp:stats/elytra/frequent_flyer_club 2258
-advancement grant @s[scores={exi_elytra_km=2259..}] only existence_smp:stats/elytra/frequent_flyer_club 2259
-advancement grant @s[scores={exi_elytra_km=2260..}] only existence_smp:stats/elytra/frequent_flyer_club 2260
-advancement grant @s[scores={exi_elytra_km=2261..}] only existence_smp:stats/elytra/frequent_flyer_club 2261
-advancement grant @s[scores={exi_elytra_km=2262..}] only existence_smp:stats/elytra/frequent_flyer_club 2262
-advancement grant @s[scores={exi_elytra_km=2263..}] only existence_smp:stats/elytra/frequent_flyer_club 2263
-advancement grant @s[scores={exi_elytra_km=2264..}] only existence_smp:stats/elytra/frequent_flyer_club 2264
-advancement grant @s[scores={exi_elytra_km=2265..}] only existence_smp:stats/elytra/frequent_flyer_club 2265
-advancement grant @s[scores={exi_elytra_km=2266..}] only existence_smp:stats/elytra/frequent_flyer_club 2266
-advancement grant @s[scores={exi_elytra_km=2267..}] only existence_smp:stats/elytra/frequent_flyer_club 2267
-advancement grant @s[scores={exi_elytra_km=2268..}] only existence_smp:stats/elytra/frequent_flyer_club 2268
-advancement grant @s[scores={exi_elytra_km=2269..}] only existence_smp:stats/elytra/frequent_flyer_club 2269
-advancement grant @s[scores={exi_elytra_km=2270..}] only existence_smp:stats/elytra/frequent_flyer_club 2270
-advancement grant @s[scores={exi_elytra_km=2271..}] only existence_smp:stats/elytra/frequent_flyer_club 2271
-advancement grant @s[scores={exi_elytra_km=2272..}] only existence_smp:stats/elytra/frequent_flyer_club 2272
-advancement grant @s[scores={exi_elytra_km=2273..}] only existence_smp:stats/elytra/frequent_flyer_club 2273
-advancement grant @s[scores={exi_elytra_km=2274..}] only existence_smp:stats/elytra/frequent_flyer_club 2274
-advancement grant @s[scores={exi_elytra_km=2275..}] only existence_smp:stats/elytra/frequent_flyer_club 2275
-advancement grant @s[scores={exi_elytra_km=2276..}] only existence_smp:stats/elytra/frequent_flyer_club 2276
-advancement grant @s[scores={exi_elytra_km=2277..}] only existence_smp:stats/elytra/frequent_flyer_club 2277
-advancement grant @s[scores={exi_elytra_km=2278..}] only existence_smp:stats/elytra/frequent_flyer_club 2278
-advancement grant @s[scores={exi_elytra_km=2279..}] only existence_smp:stats/elytra/frequent_flyer_club 2279
-advancement grant @s[scores={exi_elytra_km=2280..}] only existence_smp:stats/elytra/frequent_flyer_club 2280
-advancement grant @s[scores={exi_elytra_km=2281..}] only existence_smp:stats/elytra/frequent_flyer_club 2281
-advancement grant @s[scores={exi_elytra_km=2282..}] only existence_smp:stats/elytra/frequent_flyer_club 2282
-advancement grant @s[scores={exi_elytra_km=2283..}] only existence_smp:stats/elytra/frequent_flyer_club 2283
-advancement grant @s[scores={exi_elytra_km=2284..}] only existence_smp:stats/elytra/frequent_flyer_club 2284
-advancement grant @s[scores={exi_elytra_km=2285..}] only existence_smp:stats/elytra/frequent_flyer_club 2285
-advancement grant @s[scores={exi_elytra_km=2286..}] only existence_smp:stats/elytra/frequent_flyer_club 2286
-advancement grant @s[scores={exi_elytra_km=2287..}] only existence_smp:stats/elytra/frequent_flyer_club 2287
-advancement grant @s[scores={exi_elytra_km=2288..}] only existence_smp:stats/elytra/frequent_flyer_club 2288
-advancement grant @s[scores={exi_elytra_km=2289..}] only existence_smp:stats/elytra/frequent_flyer_club 2289
-advancement grant @s[scores={exi_elytra_km=2290..}] only existence_smp:stats/elytra/frequent_flyer_club 2290
-advancement grant @s[scores={exi_elytra_km=2291..}] only existence_smp:stats/elytra/frequent_flyer_club 2291
-advancement grant @s[scores={exi_elytra_km=2292..}] only existence_smp:stats/elytra/frequent_flyer_club 2292
-advancement grant @s[scores={exi_elytra_km=2293..}] only existence_smp:stats/elytra/frequent_flyer_club 2293
-advancement grant @s[scores={exi_elytra_km=2294..}] only existence_smp:stats/elytra/frequent_flyer_club 2294
-advancement grant @s[scores={exi_elytra_km=2295..}] only existence_smp:stats/elytra/frequent_flyer_club 2295
-advancement grant @s[scores={exi_elytra_km=2296..}] only existence_smp:stats/elytra/frequent_flyer_club 2296
-advancement grant @s[scores={exi_elytra_km=2297..}] only existence_smp:stats/elytra/frequent_flyer_club 2297
-advancement grant @s[scores={exi_elytra_km=2298..}] only existence_smp:stats/elytra/frequent_flyer_club 2298
-advancement grant @s[scores={exi_elytra_km=2299..}] only existence_smp:stats/elytra/frequent_flyer_club 2299
-advancement grant @s[scores={exi_elytra_km=2300..}] only existence_smp:stats/elytra/frequent_flyer_club 2300
-advancement grant @s[scores={exi_elytra_km=2301..}] only existence_smp:stats/elytra/frequent_flyer_club 2301
-advancement grant @s[scores={exi_elytra_km=2302..}] only existence_smp:stats/elytra/frequent_flyer_club 2302
-advancement grant @s[scores={exi_elytra_km=2303..}] only existence_smp:stats/elytra/frequent_flyer_club 2303
-advancement grant @s[scores={exi_elytra_km=2304..}] only existence_smp:stats/elytra/frequent_flyer_club 2304
-advancement grant @s[scores={exi_elytra_km=2305..}] only existence_smp:stats/elytra/frequent_flyer_club 2305
-advancement grant @s[scores={exi_elytra_km=2306..}] only existence_smp:stats/elytra/frequent_flyer_club 2306
-advancement grant @s[scores={exi_elytra_km=2307..}] only existence_smp:stats/elytra/frequent_flyer_club 2307
-advancement grant @s[scores={exi_elytra_km=2308..}] only existence_smp:stats/elytra/frequent_flyer_club 2308
-advancement grant @s[scores={exi_elytra_km=2309..}] only existence_smp:stats/elytra/frequent_flyer_club 2309
-advancement grant @s[scores={exi_elytra_km=2310..}] only existence_smp:stats/elytra/frequent_flyer_club 2310
-advancement grant @s[scores={exi_elytra_km=2311..}] only existence_smp:stats/elytra/frequent_flyer_club 2311
-advancement grant @s[scores={exi_elytra_km=2312..}] only existence_smp:stats/elytra/frequent_flyer_club 2312
-advancement grant @s[scores={exi_elytra_km=2313..}] only existence_smp:stats/elytra/frequent_flyer_club 2313
-advancement grant @s[scores={exi_elytra_km=2314..}] only existence_smp:stats/elytra/frequent_flyer_club 2314
-advancement grant @s[scores={exi_elytra_km=2315..}] only existence_smp:stats/elytra/frequent_flyer_club 2315
-advancement grant @s[scores={exi_elytra_km=2316..}] only existence_smp:stats/elytra/frequent_flyer_club 2316
-advancement grant @s[scores={exi_elytra_km=2317..}] only existence_smp:stats/elytra/frequent_flyer_club 2317
-advancement grant @s[scores={exi_elytra_km=2318..}] only existence_smp:stats/elytra/frequent_flyer_club 2318
-advancement grant @s[scores={exi_elytra_km=2319..}] only existence_smp:stats/elytra/frequent_flyer_club 2319
-advancement grant @s[scores={exi_elytra_km=2320..}] only existence_smp:stats/elytra/frequent_flyer_club 2320
-advancement grant @s[scores={exi_elytra_km=2321..}] only existence_smp:stats/elytra/frequent_flyer_club 2321
-advancement grant @s[scores={exi_elytra_km=2322..}] only existence_smp:stats/elytra/frequent_flyer_club 2322
-advancement grant @s[scores={exi_elytra_km=2323..}] only existence_smp:stats/elytra/frequent_flyer_club 2323
-advancement grant @s[scores={exi_elytra_km=2324..}] only existence_smp:stats/elytra/frequent_flyer_club 2324
-advancement grant @s[scores={exi_elytra_km=2325..}] only existence_smp:stats/elytra/frequent_flyer_club 2325
-advancement grant @s[scores={exi_elytra_km=2326..}] only existence_smp:stats/elytra/frequent_flyer_club 2326
-advancement grant @s[scores={exi_elytra_km=2327..}] only existence_smp:stats/elytra/frequent_flyer_club 2327
-advancement grant @s[scores={exi_elytra_km=2328..}] only existence_smp:stats/elytra/frequent_flyer_club 2328
-advancement grant @s[scores={exi_elytra_km=2329..}] only existence_smp:stats/elytra/frequent_flyer_club 2329
-advancement grant @s[scores={exi_elytra_km=2330..}] only existence_smp:stats/elytra/frequent_flyer_club 2330
-advancement grant @s[scores={exi_elytra_km=2331..}] only existence_smp:stats/elytra/frequent_flyer_club 2331
-advancement grant @s[scores={exi_elytra_km=2332..}] only existence_smp:stats/elytra/frequent_flyer_club 2332
-advancement grant @s[scores={exi_elytra_km=2333..}] only existence_smp:stats/elytra/frequent_flyer_club 2333
-advancement grant @s[scores={exi_elytra_km=2334..}] only existence_smp:stats/elytra/frequent_flyer_club 2334
-advancement grant @s[scores={exi_elytra_km=2335..}] only existence_smp:stats/elytra/frequent_flyer_club 2335
-advancement grant @s[scores={exi_elytra_km=2336..}] only existence_smp:stats/elytra/frequent_flyer_club 2336
-advancement grant @s[scores={exi_elytra_km=2337..}] only existence_smp:stats/elytra/frequent_flyer_club 2337
-advancement grant @s[scores={exi_elytra_km=2338..}] only existence_smp:stats/elytra/frequent_flyer_club 2338
-advancement grant @s[scores={exi_elytra_km=2339..}] only existence_smp:stats/elytra/frequent_flyer_club 2339
-advancement grant @s[scores={exi_elytra_km=2340..}] only existence_smp:stats/elytra/frequent_flyer_club 2340
-advancement grant @s[scores={exi_elytra_km=2341..}] only existence_smp:stats/elytra/frequent_flyer_club 2341
-advancement grant @s[scores={exi_elytra_km=2342..}] only existence_smp:stats/elytra/frequent_flyer_club 2342
-advancement grant @s[scores={exi_elytra_km=2343..}] only existence_smp:stats/elytra/frequent_flyer_club 2343
-advancement grant @s[scores={exi_elytra_km=2344..}] only existence_smp:stats/elytra/frequent_flyer_club 2344
-advancement grant @s[scores={exi_elytra_km=2345..}] only existence_smp:stats/elytra/frequent_flyer_club 2345
-advancement grant @s[scores={exi_elytra_km=2346..}] only existence_smp:stats/elytra/frequent_flyer_club 2346
-advancement grant @s[scores={exi_elytra_km=2347..}] only existence_smp:stats/elytra/frequent_flyer_club 2347
-advancement grant @s[scores={exi_elytra_km=2348..}] only existence_smp:stats/elytra/frequent_flyer_club 2348
-advancement grant @s[scores={exi_elytra_km=2349..}] only existence_smp:stats/elytra/frequent_flyer_club 2349
-advancement grant @s[scores={exi_elytra_km=2350..}] only existence_smp:stats/elytra/frequent_flyer_club 2350
-advancement grant @s[scores={exi_elytra_km=2351..}] only existence_smp:stats/elytra/frequent_flyer_club 2351
-advancement grant @s[scores={exi_elytra_km=2352..}] only existence_smp:stats/elytra/frequent_flyer_club 2352
-advancement grant @s[scores={exi_elytra_km=2353..}] only existence_smp:stats/elytra/frequent_flyer_club 2353
-advancement grant @s[scores={exi_elytra_km=2354..}] only existence_smp:stats/elytra/frequent_flyer_club 2354
-advancement grant @s[scores={exi_elytra_km=2355..}] only existence_smp:stats/elytra/frequent_flyer_club 2355
-advancement grant @s[scores={exi_elytra_km=2356..}] only existence_smp:stats/elytra/frequent_flyer_club 2356
-advancement grant @s[scores={exi_elytra_km=2357..}] only existence_smp:stats/elytra/frequent_flyer_club 2357
-advancement grant @s[scores={exi_elytra_km=2358..}] only existence_smp:stats/elytra/frequent_flyer_club 2358
-advancement grant @s[scores={exi_elytra_km=2359..}] only existence_smp:stats/elytra/frequent_flyer_club 2359
-advancement grant @s[scores={exi_elytra_km=2360..}] only existence_smp:stats/elytra/frequent_flyer_club 2360
-advancement grant @s[scores={exi_elytra_km=2361..}] only existence_smp:stats/elytra/frequent_flyer_club 2361
-advancement grant @s[scores={exi_elytra_km=2362..}] only existence_smp:stats/elytra/frequent_flyer_club 2362
-advancement grant @s[scores={exi_elytra_km=2363..}] only existence_smp:stats/elytra/frequent_flyer_club 2363
-advancement grant @s[scores={exi_elytra_km=2364..}] only existence_smp:stats/elytra/frequent_flyer_club 2364
-advancement grant @s[scores={exi_elytra_km=2365..}] only existence_smp:stats/elytra/frequent_flyer_club 2365
-advancement grant @s[scores={exi_elytra_km=2366..}] only existence_smp:stats/elytra/frequent_flyer_club 2366
-advancement grant @s[scores={exi_elytra_km=2367..}] only existence_smp:stats/elytra/frequent_flyer_club 2367
-advancement grant @s[scores={exi_elytra_km=2368..}] only existence_smp:stats/elytra/frequent_flyer_club 2368
-advancement grant @s[scores={exi_elytra_km=2369..}] only existence_smp:stats/elytra/frequent_flyer_club 2369
-advancement grant @s[scores={exi_elytra_km=2370..}] only existence_smp:stats/elytra/frequent_flyer_club 2370
-advancement grant @s[scores={exi_elytra_km=2371..}] only existence_smp:stats/elytra/frequent_flyer_club 2371
-advancement grant @s[scores={exi_elytra_km=2372..}] only existence_smp:stats/elytra/frequent_flyer_club 2372
-advancement grant @s[scores={exi_elytra_km=2373..}] only existence_smp:stats/elytra/frequent_flyer_club 2373
-advancement grant @s[scores={exi_elytra_km=2374..}] only existence_smp:stats/elytra/frequent_flyer_club 2374
-advancement grant @s[scores={exi_elytra_km=2375..}] only existence_smp:stats/elytra/frequent_flyer_club 2375
-advancement grant @s[scores={exi_elytra_km=2376..}] only existence_smp:stats/elytra/frequent_flyer_club 2376
-advancement grant @s[scores={exi_elytra_km=2377..}] only existence_smp:stats/elytra/frequent_flyer_club 2377
-advancement grant @s[scores={exi_elytra_km=2378..}] only existence_smp:stats/elytra/frequent_flyer_club 2378
-advancement grant @s[scores={exi_elytra_km=2379..}] only existence_smp:stats/elytra/frequent_flyer_club 2379
-advancement grant @s[scores={exi_elytra_km=2380..}] only existence_smp:stats/elytra/frequent_flyer_club 2380
-advancement grant @s[scores={exi_elytra_km=2381..}] only existence_smp:stats/elytra/frequent_flyer_club 2381
-advancement grant @s[scores={exi_elytra_km=2382..}] only existence_smp:stats/elytra/frequent_flyer_club 2382
-advancement grant @s[scores={exi_elytra_km=2383..}] only existence_smp:stats/elytra/frequent_flyer_club 2383
-advancement grant @s[scores={exi_elytra_km=2384..}] only existence_smp:stats/elytra/frequent_flyer_club 2384
-advancement grant @s[scores={exi_elytra_km=2385..}] only existence_smp:stats/elytra/frequent_flyer_club 2385
-advancement grant @s[scores={exi_elytra_km=2386..}] only existence_smp:stats/elytra/frequent_flyer_club 2386
-advancement grant @s[scores={exi_elytra_km=2387..}] only existence_smp:stats/elytra/frequent_flyer_club 2387
-advancement grant @s[scores={exi_elytra_km=2388..}] only existence_smp:stats/elytra/frequent_flyer_club 2388
-advancement grant @s[scores={exi_elytra_km=2389..}] only existence_smp:stats/elytra/frequent_flyer_club 2389
-advancement grant @s[scores={exi_elytra_km=2390..}] only existence_smp:stats/elytra/frequent_flyer_club 2390
-advancement grant @s[scores={exi_elytra_km=2391..}] only existence_smp:stats/elytra/frequent_flyer_club 2391
-advancement grant @s[scores={exi_elytra_km=2392..}] only existence_smp:stats/elytra/frequent_flyer_club 2392
-advancement grant @s[scores={exi_elytra_km=2393..}] only existence_smp:stats/elytra/frequent_flyer_club 2393
-advancement grant @s[scores={exi_elytra_km=2394..}] only existence_smp:stats/elytra/frequent_flyer_club 2394
-advancement grant @s[scores={exi_elytra_km=2395..}] only existence_smp:stats/elytra/frequent_flyer_club 2395
-advancement grant @s[scores={exi_elytra_km=2396..}] only existence_smp:stats/elytra/frequent_flyer_club 2396
-advancement grant @s[scores={exi_elytra_km=2397..}] only existence_smp:stats/elytra/frequent_flyer_club 2397
-advancement grant @s[scores={exi_elytra_km=2398..}] only existence_smp:stats/elytra/frequent_flyer_club 2398
-advancement grant @s[scores={exi_elytra_km=2399..}] only existence_smp:stats/elytra/frequent_flyer_club 2399
-advancement grant @s[scores={exi_elytra_km=2400..}] only existence_smp:stats/elytra/frequent_flyer_club 2400
-advancement grant @s[scores={exi_elytra_km=2401..}] only existence_smp:stats/elytra/frequent_flyer_club 2401
-advancement grant @s[scores={exi_elytra_km=2402..}] only existence_smp:stats/elytra/frequent_flyer_club 2402
-advancement grant @s[scores={exi_elytra_km=2403..}] only existence_smp:stats/elytra/frequent_flyer_club 2403
-advancement grant @s[scores={exi_elytra_km=2404..}] only existence_smp:stats/elytra/frequent_flyer_club 2404
-advancement grant @s[scores={exi_elytra_km=2405..}] only existence_smp:stats/elytra/frequent_flyer_club 2405
-advancement grant @s[scores={exi_elytra_km=2406..}] only existence_smp:stats/elytra/frequent_flyer_club 2406
-advancement grant @s[scores={exi_elytra_km=2407..}] only existence_smp:stats/elytra/frequent_flyer_club 2407
-advancement grant @s[scores={exi_elytra_km=2408..}] only existence_smp:stats/elytra/frequent_flyer_club 2408
-advancement grant @s[scores={exi_elytra_km=2409..}] only existence_smp:stats/elytra/frequent_flyer_club 2409
-advancement grant @s[scores={exi_elytra_km=2410..}] only existence_smp:stats/elytra/frequent_flyer_club 2410
-advancement grant @s[scores={exi_elytra_km=2411..}] only existence_smp:stats/elytra/frequent_flyer_club 2411
-advancement grant @s[scores={exi_elytra_km=2412..}] only existence_smp:stats/elytra/frequent_flyer_club 2412
-advancement grant @s[scores={exi_elytra_km=2413..}] only existence_smp:stats/elytra/frequent_flyer_club 2413
-advancement grant @s[scores={exi_elytra_km=2414..}] only existence_smp:stats/elytra/frequent_flyer_club 2414
-advancement grant @s[scores={exi_elytra_km=2415..}] only existence_smp:stats/elytra/frequent_flyer_club 2415
-advancement grant @s[scores={exi_elytra_km=2416..}] only existence_smp:stats/elytra/frequent_flyer_club 2416
-advancement grant @s[scores={exi_elytra_km=2417..}] only existence_smp:stats/elytra/frequent_flyer_club 2417
-advancement grant @s[scores={exi_elytra_km=2418..}] only existence_smp:stats/elytra/frequent_flyer_club 2418
-advancement grant @s[scores={exi_elytra_km=2419..}] only existence_smp:stats/elytra/frequent_flyer_club 2419
-advancement grant @s[scores={exi_elytra_km=2420..}] only existence_smp:stats/elytra/frequent_flyer_club 2420
-advancement grant @s[scores={exi_elytra_km=2421..}] only existence_smp:stats/elytra/frequent_flyer_club 2421
-advancement grant @s[scores={exi_elytra_km=2422..}] only existence_smp:stats/elytra/frequent_flyer_club 2422
-advancement grant @s[scores={exi_elytra_km=2423..}] only existence_smp:stats/elytra/frequent_flyer_club 2423
-advancement grant @s[scores={exi_elytra_km=2424..}] only existence_smp:stats/elytra/frequent_flyer_club 2424
-advancement grant @s[scores={exi_elytra_km=2425..}] only existence_smp:stats/elytra/frequent_flyer_club 2425
-advancement grant @s[scores={exi_elytra_km=2426..}] only existence_smp:stats/elytra/frequent_flyer_club 2426
-advancement grant @s[scores={exi_elytra_km=2427..}] only existence_smp:stats/elytra/frequent_flyer_club 2427
-advancement grant @s[scores={exi_elytra_km=2428..}] only existence_smp:stats/elytra/frequent_flyer_club 2428
-advancement grant @s[scores={exi_elytra_km=2429..}] only existence_smp:stats/elytra/frequent_flyer_club 2429
-advancement grant @s[scores={exi_elytra_km=2430..}] only existence_smp:stats/elytra/frequent_flyer_club 2430
-advancement grant @s[scores={exi_elytra_km=2431..}] only existence_smp:stats/elytra/frequent_flyer_club 2431
-advancement grant @s[scores={exi_elytra_km=2432..}] only existence_smp:stats/elytra/frequent_flyer_club 2432
-advancement grant @s[scores={exi_elytra_km=2433..}] only existence_smp:stats/elytra/frequent_flyer_club 2433
-advancement grant @s[scores={exi_elytra_km=2434..}] only existence_smp:stats/elytra/frequent_flyer_club 2434
-advancement grant @s[scores={exi_elytra_km=2435..}] only existence_smp:stats/elytra/frequent_flyer_club 2435
-advancement grant @s[scores={exi_elytra_km=2436..}] only existence_smp:stats/elytra/frequent_flyer_club 2436
-advancement grant @s[scores={exi_elytra_km=2437..}] only existence_smp:stats/elytra/frequent_flyer_club 2437
-advancement grant @s[scores={exi_elytra_km=2438..}] only existence_smp:stats/elytra/frequent_flyer_club 2438
-advancement grant @s[scores={exi_elytra_km=2439..}] only existence_smp:stats/elytra/frequent_flyer_club 2439
-advancement grant @s[scores={exi_elytra_km=2440..}] only existence_smp:stats/elytra/frequent_flyer_club 2440
-advancement grant @s[scores={exi_elytra_km=2441..}] only existence_smp:stats/elytra/frequent_flyer_club 2441
-advancement grant @s[scores={exi_elytra_km=2442..}] only existence_smp:stats/elytra/frequent_flyer_club 2442
-advancement grant @s[scores={exi_elytra_km=2443..}] only existence_smp:stats/elytra/frequent_flyer_club 2443
-advancement grant @s[scores={exi_elytra_km=2444..}] only existence_smp:stats/elytra/frequent_flyer_club 2444
-advancement grant @s[scores={exi_elytra_km=2445..}] only existence_smp:stats/elytra/frequent_flyer_club 2445
-advancement grant @s[scores={exi_elytra_km=2446..}] only existence_smp:stats/elytra/frequent_flyer_club 2446
-advancement grant @s[scores={exi_elytra_km=2447..}] only existence_smp:stats/elytra/frequent_flyer_club 2447
-advancement grant @s[scores={exi_elytra_km=2448..}] only existence_smp:stats/elytra/frequent_flyer_club 2448
-advancement grant @s[scores={exi_elytra_km=2449..}] only existence_smp:stats/elytra/frequent_flyer_club 2449
-advancement grant @s[scores={exi_elytra_km=2450..}] only existence_smp:stats/elytra/frequent_flyer_club 2450
-advancement grant @s[scores={exi_elytra_km=2451..}] only existence_smp:stats/elytra/frequent_flyer_club 2451
-advancement grant @s[scores={exi_elytra_km=2452..}] only existence_smp:stats/elytra/frequent_flyer_club 2452
-advancement grant @s[scores={exi_elytra_km=2453..}] only existence_smp:stats/elytra/frequent_flyer_club 2453
-advancement grant @s[scores={exi_elytra_km=2454..}] only existence_smp:stats/elytra/frequent_flyer_club 2454
-advancement grant @s[scores={exi_elytra_km=2455..}] only existence_smp:stats/elytra/frequent_flyer_club 2455
-advancement grant @s[scores={exi_elytra_km=2456..}] only existence_smp:stats/elytra/frequent_flyer_club 2456
-advancement grant @s[scores={exi_elytra_km=2457..}] only existence_smp:stats/elytra/frequent_flyer_club 2457
-advancement grant @s[scores={exi_elytra_km=2458..}] only existence_smp:stats/elytra/frequent_flyer_club 2458
-advancement grant @s[scores={exi_elytra_km=2459..}] only existence_smp:stats/elytra/frequent_flyer_club 2459
-advancement grant @s[scores={exi_elytra_km=2460..}] only existence_smp:stats/elytra/frequent_flyer_club 2460
-advancement grant @s[scores={exi_elytra_km=2461..}] only existence_smp:stats/elytra/frequent_flyer_club 2461
-advancement grant @s[scores={exi_elytra_km=2462..}] only existence_smp:stats/elytra/frequent_flyer_club 2462
-advancement grant @s[scores={exi_elytra_km=2463..}] only existence_smp:stats/elytra/frequent_flyer_club 2463
-advancement grant @s[scores={exi_elytra_km=2464..}] only existence_smp:stats/elytra/frequent_flyer_club 2464
-advancement grant @s[scores={exi_elytra_km=2465..}] only existence_smp:stats/elytra/frequent_flyer_club 2465
-advancement grant @s[scores={exi_elytra_km=2466..}] only existence_smp:stats/elytra/frequent_flyer_club 2466
-advancement grant @s[scores={exi_elytra_km=2467..}] only existence_smp:stats/elytra/frequent_flyer_club 2467
-advancement grant @s[scores={exi_elytra_km=2468..}] only existence_smp:stats/elytra/frequent_flyer_club 2468
-advancement grant @s[scores={exi_elytra_km=2469..}] only existence_smp:stats/elytra/frequent_flyer_club 2469
-advancement grant @s[scores={exi_elytra_km=2470..}] only existence_smp:stats/elytra/frequent_flyer_club 2470
-advancement grant @s[scores={exi_elytra_km=2471..}] only existence_smp:stats/elytra/frequent_flyer_club 2471
-advancement grant @s[scores={exi_elytra_km=2472..}] only existence_smp:stats/elytra/frequent_flyer_club 2472
-advancement grant @s[scores={exi_elytra_km=2473..}] only existence_smp:stats/elytra/frequent_flyer_club 2473
-advancement grant @s[scores={exi_elytra_km=2474..}] only existence_smp:stats/elytra/frequent_flyer_club 2474
-advancement grant @s[scores={exi_elytra_km=2475..}] only existence_smp:stats/elytra/frequent_flyer_club 2475
-advancement grant @s[scores={exi_elytra_km=2476..}] only existence_smp:stats/elytra/frequent_flyer_club 2476
-advancement grant @s[scores={exi_elytra_km=2477..}] only existence_smp:stats/elytra/frequent_flyer_club 2477
-advancement grant @s[scores={exi_elytra_km=2478..}] only existence_smp:stats/elytra/frequent_flyer_club 2478
-advancement grant @s[scores={exi_elytra_km=2479..}] only existence_smp:stats/elytra/frequent_flyer_club 2479
-advancement grant @s[scores={exi_elytra_km=2480..}] only existence_smp:stats/elytra/frequent_flyer_club 2480
-advancement grant @s[scores={exi_elytra_km=2481..}] only existence_smp:stats/elytra/frequent_flyer_club 2481
-advancement grant @s[scores={exi_elytra_km=2482..}] only existence_smp:stats/elytra/frequent_flyer_club 2482
-advancement grant @s[scores={exi_elytra_km=2483..}] only existence_smp:stats/elytra/frequent_flyer_club 2483
-advancement grant @s[scores={exi_elytra_km=2484..}] only existence_smp:stats/elytra/frequent_flyer_club 2484
-advancement grant @s[scores={exi_elytra_km=2485..}] only existence_smp:stats/elytra/frequent_flyer_club 2485
-advancement grant @s[scores={exi_elytra_km=2486..}] only existence_smp:stats/elytra/frequent_flyer_club 2486
-advancement grant @s[scores={exi_elytra_km=2487..}] only existence_smp:stats/elytra/frequent_flyer_club 2487
-advancement grant @s[scores={exi_elytra_km=2488..}] only existence_smp:stats/elytra/frequent_flyer_club 2488
-advancement grant @s[scores={exi_elytra_km=2489..}] only existence_smp:stats/elytra/frequent_flyer_club 2489
-advancement grant @s[scores={exi_elytra_km=2490..}] only existence_smp:stats/elytra/frequent_flyer_club 2490
-advancement grant @s[scores={exi_elytra_km=2491..}] only existence_smp:stats/elytra/frequent_flyer_club 2491
-advancement grant @s[scores={exi_elytra_km=2492..}] only existence_smp:stats/elytra/frequent_flyer_club 2492
-advancement grant @s[scores={exi_elytra_km=2493..}] only existence_smp:stats/elytra/frequent_flyer_club 2493
-advancement grant @s[scores={exi_elytra_km=2494..}] only existence_smp:stats/elytra/frequent_flyer_club 2494
-advancement grant @s[scores={exi_elytra_km=2495..}] only existence_smp:stats/elytra/frequent_flyer_club 2495
-advancement grant @s[scores={exi_elytra_km=2496..}] only existence_smp:stats/elytra/frequent_flyer_club 2496
-advancement grant @s[scores={exi_elytra_km=2497..}] only existence_smp:stats/elytra/frequent_flyer_club 2497
-advancement grant @s[scores={exi_elytra_km=2498..}] only existence_smp:stats/elytra/frequent_flyer_club 2498
-advancement grant @s[scores={exi_elytra_km=2499..}] only existence_smp:stats/elytra/frequent_flyer_club 2499
-advancement grant @s[scores={exi_elytra_km=2500..}] only existence_smp:stats/elytra/frequent_flyer_club 2500
-advancement grant @s[scores={exi_elytra_km=2501..}] only existence_smp:stats/elytra/frequent_flyer_club 2501
-advancement grant @s[scores={exi_elytra_km=2502..}] only existence_smp:stats/elytra/frequent_flyer_club 2502
-advancement grant @s[scores={exi_elytra_km=2503..}] only existence_smp:stats/elytra/frequent_flyer_club 2503
-advancement grant @s[scores={exi_elytra_km=2504..}] only existence_smp:stats/elytra/frequent_flyer_club 2504
-advancement grant @s[scores={exi_elytra_km=2505..}] only existence_smp:stats/elytra/frequent_flyer_club 2505
-advancement grant @s[scores={exi_elytra_km=2506..}] only existence_smp:stats/elytra/frequent_flyer_club 2506
-advancement grant @s[scores={exi_elytra_km=2507..}] only existence_smp:stats/elytra/frequent_flyer_club 2507
-advancement grant @s[scores={exi_elytra_km=2508..}] only existence_smp:stats/elytra/frequent_flyer_club 2508
-advancement grant @s[scores={exi_elytra_km=2509..}] only existence_smp:stats/elytra/frequent_flyer_club 2509
-advancement grant @s[scores={exi_elytra_km=2510..}] only existence_smp:stats/elytra/frequent_flyer_club 2510
-advancement grant @s[scores={exi_elytra_km=2511..}] only existence_smp:stats/elytra/frequent_flyer_club 2511
-advancement grant @s[scores={exi_elytra_km=2512..}] only existence_smp:stats/elytra/frequent_flyer_club 2512
-advancement grant @s[scores={exi_elytra_km=2513..}] only existence_smp:stats/elytra/frequent_flyer_club 2513
-advancement grant @s[scores={exi_elytra_km=2514..}] only existence_smp:stats/elytra/frequent_flyer_club 2514
-advancement grant @s[scores={exi_elytra_km=2515..}] only existence_smp:stats/elytra/frequent_flyer_club 2515
-advancement grant @s[scores={exi_elytra_km=2516..}] only existence_smp:stats/elytra/frequent_flyer_club 2516
-advancement grant @s[scores={exi_elytra_km=2517..}] only existence_smp:stats/elytra/frequent_flyer_club 2517
-advancement grant @s[scores={exi_elytra_km=2518..}] only existence_smp:stats/elytra/frequent_flyer_club 2518
-advancement grant @s[scores={exi_elytra_km=2519..}] only existence_smp:stats/elytra/frequent_flyer_club 2519
-advancement grant @s[scores={exi_elytra_km=2520..}] only existence_smp:stats/elytra/frequent_flyer_club 2520
-advancement grant @s[scores={exi_elytra_km=2521..}] only existence_smp:stats/elytra/frequent_flyer_club 2521
-advancement grant @s[scores={exi_elytra_km=2522..}] only existence_smp:stats/elytra/frequent_flyer_club 2522
-advancement grant @s[scores={exi_elytra_km=2523..}] only existence_smp:stats/elytra/frequent_flyer_club 2523
-advancement grant @s[scores={exi_elytra_km=2524..}] only existence_smp:stats/elytra/frequent_flyer_club 2524
-advancement grant @s[scores={exi_elytra_km=2525..}] only existence_smp:stats/elytra/frequent_flyer_club 2525
-advancement grant @s[scores={exi_elytra_km=2526..}] only existence_smp:stats/elytra/frequent_flyer_club 2526
-advancement grant @s[scores={exi_elytra_km=2527..}] only existence_smp:stats/elytra/frequent_flyer_club 2527
-advancement grant @s[scores={exi_elytra_km=2528..}] only existence_smp:stats/elytra/frequent_flyer_club 2528
-advancement grant @s[scores={exi_elytra_km=2529..}] only existence_smp:stats/elytra/frequent_flyer_club 2529
-advancement grant @s[scores={exi_elytra_km=2530..}] only existence_smp:stats/elytra/frequent_flyer_club 2530
-advancement grant @s[scores={exi_elytra_km=2531..}] only existence_smp:stats/elytra/frequent_flyer_club 2531
-advancement grant @s[scores={exi_elytra_km=2532..}] only existence_smp:stats/elytra/frequent_flyer_club 2532
-advancement grant @s[scores={exi_elytra_km=2533..}] only existence_smp:stats/elytra/frequent_flyer_club 2533
-advancement grant @s[scores={exi_elytra_km=2534..}] only existence_smp:stats/elytra/frequent_flyer_club 2534
-advancement grant @s[scores={exi_elytra_km=2535..}] only existence_smp:stats/elytra/frequent_flyer_club 2535
-advancement grant @s[scores={exi_elytra_km=2536..}] only existence_smp:stats/elytra/frequent_flyer_club 2536
-advancement grant @s[scores={exi_elytra_km=2537..}] only existence_smp:stats/elytra/frequent_flyer_club 2537
-advancement grant @s[scores={exi_elytra_km=2538..}] only existence_smp:stats/elytra/frequent_flyer_club 2538
-advancement grant @s[scores={exi_elytra_km=2539..}] only existence_smp:stats/elytra/frequent_flyer_club 2539
-advancement grant @s[scores={exi_elytra_km=2540..}] only existence_smp:stats/elytra/frequent_flyer_club 2540
-advancement grant @s[scores={exi_elytra_km=2541..}] only existence_smp:stats/elytra/frequent_flyer_club 2541
-advancement grant @s[scores={exi_elytra_km=2542..}] only existence_smp:stats/elytra/frequent_flyer_club 2542
-advancement grant @s[scores={exi_elytra_km=2543..}] only existence_smp:stats/elytra/frequent_flyer_club 2543
-advancement grant @s[scores={exi_elytra_km=2544..}] only existence_smp:stats/elytra/frequent_flyer_club 2544
-advancement grant @s[scores={exi_elytra_km=2545..}] only existence_smp:stats/elytra/frequent_flyer_club 2545
-advancement grant @s[scores={exi_elytra_km=2546..}] only existence_smp:stats/elytra/frequent_flyer_club 2546
-advancement grant @s[scores={exi_elytra_km=2547..}] only existence_smp:stats/elytra/frequent_flyer_club 2547
-advancement grant @s[scores={exi_elytra_km=2548..}] only existence_smp:stats/elytra/frequent_flyer_club 2548
-advancement grant @s[scores={exi_elytra_km=2549..}] only existence_smp:stats/elytra/frequent_flyer_club 2549
-advancement grant @s[scores={exi_elytra_km=2550..}] only existence_smp:stats/elytra/frequent_flyer_club 2550
-advancement grant @s[scores={exi_elytra_km=2551..}] only existence_smp:stats/elytra/frequent_flyer_club 2551
-advancement grant @s[scores={exi_elytra_km=2552..}] only existence_smp:stats/elytra/frequent_flyer_club 2552
-advancement grant @s[scores={exi_elytra_km=2553..}] only existence_smp:stats/elytra/frequent_flyer_club 2553
-advancement grant @s[scores={exi_elytra_km=2554..}] only existence_smp:stats/elytra/frequent_flyer_club 2554
-advancement grant @s[scores={exi_elytra_km=2555..}] only existence_smp:stats/elytra/frequent_flyer_club 2555
-advancement grant @s[scores={exi_elytra_km=2556..}] only existence_smp:stats/elytra/frequent_flyer_club 2556
-advancement grant @s[scores={exi_elytra_km=2557..}] only existence_smp:stats/elytra/frequent_flyer_club 2557
-advancement grant @s[scores={exi_elytra_km=2558..}] only existence_smp:stats/elytra/frequent_flyer_club 2558
-advancement grant @s[scores={exi_elytra_km=2559..}] only existence_smp:stats/elytra/frequent_flyer_club 2559
-advancement grant @s[scores={exi_elytra_km=2560..}] only existence_smp:stats/elytra/frequent_flyer_club 2560
-advancement grant @s[scores={exi_elytra_km=2561..}] only existence_smp:stats/elytra/frequent_flyer_club 2561
-advancement grant @s[scores={exi_elytra_km=2562..}] only existence_smp:stats/elytra/frequent_flyer_club 2562
-advancement grant @s[scores={exi_elytra_km=2563..}] only existence_smp:stats/elytra/frequent_flyer_club 2563
-advancement grant @s[scores={exi_elytra_km=2564..}] only existence_smp:stats/elytra/frequent_flyer_club 2564
-advancement grant @s[scores={exi_elytra_km=2565..}] only existence_smp:stats/elytra/frequent_flyer_club 2565
-advancement grant @s[scores={exi_elytra_km=2566..}] only existence_smp:stats/elytra/frequent_flyer_club 2566
-advancement grant @s[scores={exi_elytra_km=2567..}] only existence_smp:stats/elytra/frequent_flyer_club 2567
-advancement grant @s[scores={exi_elytra_km=2568..}] only existence_smp:stats/elytra/frequent_flyer_club 2568
-advancement grant @s[scores={exi_elytra_km=2569..}] only existence_smp:stats/elytra/frequent_flyer_club 2569
-advancement grant @s[scores={exi_elytra_km=2570..}] only existence_smp:stats/elytra/frequent_flyer_club 2570
-advancement grant @s[scores={exi_elytra_km=2571..}] only existence_smp:stats/elytra/frequent_flyer_club 2571
-advancement grant @s[scores={exi_elytra_km=2572..}] only existence_smp:stats/elytra/frequent_flyer_club 2572
-advancement grant @s[scores={exi_elytra_km=2573..}] only existence_smp:stats/elytra/frequent_flyer_club 2573
-advancement grant @s[scores={exi_elytra_km=2574..}] only existence_smp:stats/elytra/frequent_flyer_club 2574
-advancement grant @s[scores={exi_elytra_km=2575..}] only existence_smp:stats/elytra/frequent_flyer_club 2575
-advancement grant @s[scores={exi_elytra_km=2576..}] only existence_smp:stats/elytra/frequent_flyer_club 2576
-advancement grant @s[scores={exi_elytra_km=2577..}] only existence_smp:stats/elytra/frequent_flyer_club 2577
-advancement grant @s[scores={exi_elytra_km=2578..}] only existence_smp:stats/elytra/frequent_flyer_club 2578
-advancement grant @s[scores={exi_elytra_km=2579..}] only existence_smp:stats/elytra/frequent_flyer_club 2579
-advancement grant @s[scores={exi_elytra_km=2580..}] only existence_smp:stats/elytra/frequent_flyer_club 2580
-advancement grant @s[scores={exi_elytra_km=2581..}] only existence_smp:stats/elytra/frequent_flyer_club 2581
-advancement grant @s[scores={exi_elytra_km=2582..}] only existence_smp:stats/elytra/frequent_flyer_club 2582
-advancement grant @s[scores={exi_elytra_km=2583..}] only existence_smp:stats/elytra/frequent_flyer_club 2583
-advancement grant @s[scores={exi_elytra_km=2584..}] only existence_smp:stats/elytra/frequent_flyer_club 2584
-advancement grant @s[scores={exi_elytra_km=2585..}] only existence_smp:stats/elytra/frequent_flyer_club 2585
-advancement grant @s[scores={exi_elytra_km=2586..}] only existence_smp:stats/elytra/frequent_flyer_club 2586
-advancement grant @s[scores={exi_elytra_km=2587..}] only existence_smp:stats/elytra/frequent_flyer_club 2587
-advancement grant @s[scores={exi_elytra_km=2588..}] only existence_smp:stats/elytra/frequent_flyer_club 2588
-advancement grant @s[scores={exi_elytra_km=2589..}] only existence_smp:stats/elytra/frequent_flyer_club 2589
-advancement grant @s[scores={exi_elytra_km=2590..}] only existence_smp:stats/elytra/frequent_flyer_club 2590
-advancement grant @s[scores={exi_elytra_km=2591..}] only existence_smp:stats/elytra/frequent_flyer_club 2591
-advancement grant @s[scores={exi_elytra_km=2592..}] only existence_smp:stats/elytra/frequent_flyer_club 2592
-advancement grant @s[scores={exi_elytra_km=2593..}] only existence_smp:stats/elytra/frequent_flyer_club 2593
-advancement grant @s[scores={exi_elytra_km=2594..}] only existence_smp:stats/elytra/frequent_flyer_club 2594
-advancement grant @s[scores={exi_elytra_km=2595..}] only existence_smp:stats/elytra/frequent_flyer_club 2595
-advancement grant @s[scores={exi_elytra_km=2596..}] only existence_smp:stats/elytra/frequent_flyer_club 2596
-advancement grant @s[scores={exi_elytra_km=2597..}] only existence_smp:stats/elytra/frequent_flyer_club 2597
-advancement grant @s[scores={exi_elytra_km=2598..}] only existence_smp:stats/elytra/frequent_flyer_club 2598
-advancement grant @s[scores={exi_elytra_km=2599..}] only existence_smp:stats/elytra/frequent_flyer_club 2599
-advancement grant @s[scores={exi_elytra_km=2600..}] only existence_smp:stats/elytra/frequent_flyer_club 2600
-advancement grant @s[scores={exi_elytra_km=2601..}] only existence_smp:stats/elytra/frequent_flyer_club 2601
-advancement grant @s[scores={exi_elytra_km=2602..}] only existence_smp:stats/elytra/frequent_flyer_club 2602
-advancement grant @s[scores={exi_elytra_km=2603..}] only existence_smp:stats/elytra/frequent_flyer_club 2603
-advancement grant @s[scores={exi_elytra_km=2604..}] only existence_smp:stats/elytra/frequent_flyer_club 2604
-advancement grant @s[scores={exi_elytra_km=2605..}] only existence_smp:stats/elytra/frequent_flyer_club 2605
-advancement grant @s[scores={exi_elytra_km=2606..}] only existence_smp:stats/elytra/frequent_flyer_club 2606
-advancement grant @s[scores={exi_elytra_km=2607..}] only existence_smp:stats/elytra/frequent_flyer_club 2607
-advancement grant @s[scores={exi_elytra_km=2608..}] only existence_smp:stats/elytra/frequent_flyer_club 2608
-advancement grant @s[scores={exi_elytra_km=2609..}] only existence_smp:stats/elytra/frequent_flyer_club 2609
-advancement grant @s[scores={exi_elytra_km=2610..}] only existence_smp:stats/elytra/frequent_flyer_club 2610
-advancement grant @s[scores={exi_elytra_km=2611..}] only existence_smp:stats/elytra/frequent_flyer_club 2611
-advancement grant @s[scores={exi_elytra_km=2612..}] only existence_smp:stats/elytra/frequent_flyer_club 2612
-advancement grant @s[scores={exi_elytra_km=2613..}] only existence_smp:stats/elytra/frequent_flyer_club 2613
-advancement grant @s[scores={exi_elytra_km=2614..}] only existence_smp:stats/elytra/frequent_flyer_club 2614
-advancement grant @s[scores={exi_elytra_km=2615..}] only existence_smp:stats/elytra/frequent_flyer_club 2615
-advancement grant @s[scores={exi_elytra_km=2616..}] only existence_smp:stats/elytra/frequent_flyer_club 2616
-advancement grant @s[scores={exi_elytra_km=2617..}] only existence_smp:stats/elytra/frequent_flyer_club 2617
-advancement grant @s[scores={exi_elytra_km=2618..}] only existence_smp:stats/elytra/frequent_flyer_club 2618
-advancement grant @s[scores={exi_elytra_km=2619..}] only existence_smp:stats/elytra/frequent_flyer_club 2619
-advancement grant @s[scores={exi_elytra_km=2620..}] only existence_smp:stats/elytra/frequent_flyer_club 2620
-advancement grant @s[scores={exi_elytra_km=2621..}] only existence_smp:stats/elytra/frequent_flyer_club 2621
-advancement grant @s[scores={exi_elytra_km=2622..}] only existence_smp:stats/elytra/frequent_flyer_club 2622
-advancement grant @s[scores={exi_elytra_km=2623..}] only existence_smp:stats/elytra/frequent_flyer_club 2623
-advancement grant @s[scores={exi_elytra_km=2624..}] only existence_smp:stats/elytra/frequent_flyer_club 2624
-advancement grant @s[scores={exi_elytra_km=2625..}] only existence_smp:stats/elytra/frequent_flyer_club 2625
-advancement grant @s[scores={exi_elytra_km=2626..}] only existence_smp:stats/elytra/frequent_flyer_club 2626
-advancement grant @s[scores={exi_elytra_km=2627..}] only existence_smp:stats/elytra/frequent_flyer_club 2627
-advancement grant @s[scores={exi_elytra_km=2628..}] only existence_smp:stats/elytra/frequent_flyer_club 2628
-advancement grant @s[scores={exi_elytra_km=2629..}] only existence_smp:stats/elytra/frequent_flyer_club 2629
-advancement grant @s[scores={exi_elytra_km=2630..}] only existence_smp:stats/elytra/frequent_flyer_club 2630
-advancement grant @s[scores={exi_elytra_km=2631..}] only existence_smp:stats/elytra/frequent_flyer_club 2631
-advancement grant @s[scores={exi_elytra_km=2632..}] only existence_smp:stats/elytra/frequent_flyer_club 2632
-advancement grant @s[scores={exi_elytra_km=2633..}] only existence_smp:stats/elytra/frequent_flyer_club 2633
-advancement grant @s[scores={exi_elytra_km=2634..}] only existence_smp:stats/elytra/frequent_flyer_club 2634
-advancement grant @s[scores={exi_elytra_km=2635..}] only existence_smp:stats/elytra/frequent_flyer_club 2635
-advancement grant @s[scores={exi_elytra_km=2636..}] only existence_smp:stats/elytra/frequent_flyer_club 2636
-advancement grant @s[scores={exi_elytra_km=2637..}] only existence_smp:stats/elytra/frequent_flyer_club 2637
-advancement grant @s[scores={exi_elytra_km=2638..}] only existence_smp:stats/elytra/frequent_flyer_club 2638
-advancement grant @s[scores={exi_elytra_km=2639..}] only existence_smp:stats/elytra/frequent_flyer_club 2639
-advancement grant @s[scores={exi_elytra_km=2640..}] only existence_smp:stats/elytra/frequent_flyer_club 2640
-advancement grant @s[scores={exi_elytra_km=2641..}] only existence_smp:stats/elytra/frequent_flyer_club 2641
-advancement grant @s[scores={exi_elytra_km=2642..}] only existence_smp:stats/elytra/frequent_flyer_club 2642
-advancement grant @s[scores={exi_elytra_km=2643..}] only existence_smp:stats/elytra/frequent_flyer_club 2643
-advancement grant @s[scores={exi_elytra_km=2644..}] only existence_smp:stats/elytra/frequent_flyer_club 2644
-advancement grant @s[scores={exi_elytra_km=2645..}] only existence_smp:stats/elytra/frequent_flyer_club 2645
-advancement grant @s[scores={exi_elytra_km=2646..}] only existence_smp:stats/elytra/frequent_flyer_club 2646
-advancement grant @s[scores={exi_elytra_km=2647..}] only existence_smp:stats/elytra/frequent_flyer_club 2647
-advancement grant @s[scores={exi_elytra_km=2648..}] only existence_smp:stats/elytra/frequent_flyer_club 2648
-advancement grant @s[scores={exi_elytra_km=2649..}] only existence_smp:stats/elytra/frequent_flyer_club 2649
-advancement grant @s[scores={exi_elytra_km=2650..}] only existence_smp:stats/elytra/frequent_flyer_club 2650
-advancement grant @s[scores={exi_elytra_km=2651..}] only existence_smp:stats/elytra/frequent_flyer_club 2651
-advancement grant @s[scores={exi_elytra_km=2652..}] only existence_smp:stats/elytra/frequent_flyer_club 2652
-advancement grant @s[scores={exi_elytra_km=2653..}] only existence_smp:stats/elytra/frequent_flyer_club 2653
-advancement grant @s[scores={exi_elytra_km=2654..}] only existence_smp:stats/elytra/frequent_flyer_club 2654
-advancement grant @s[scores={exi_elytra_km=2655..}] only existence_smp:stats/elytra/frequent_flyer_club 2655
-advancement grant @s[scores={exi_elytra_km=2656..}] only existence_smp:stats/elytra/frequent_flyer_club 2656
-advancement grant @s[scores={exi_elytra_km=2657..}] only existence_smp:stats/elytra/frequent_flyer_club 2657
-advancement grant @s[scores={exi_elytra_km=2658..}] only existence_smp:stats/elytra/frequent_flyer_club 2658
-advancement grant @s[scores={exi_elytra_km=2659..}] only existence_smp:stats/elytra/frequent_flyer_club 2659
-advancement grant @s[scores={exi_elytra_km=2660..}] only existence_smp:stats/elytra/frequent_flyer_club 2660
-advancement grant @s[scores={exi_elytra_km=2661..}] only existence_smp:stats/elytra/frequent_flyer_club 2661
-advancement grant @s[scores={exi_elytra_km=2662..}] only existence_smp:stats/elytra/frequent_flyer_club 2662
-advancement grant @s[scores={exi_elytra_km=2663..}] only existence_smp:stats/elytra/frequent_flyer_club 2663
-advancement grant @s[scores={exi_elytra_km=2664..}] only existence_smp:stats/elytra/frequent_flyer_club 2664
-advancement grant @s[scores={exi_elytra_km=2665..}] only existence_smp:stats/elytra/frequent_flyer_club 2665
-advancement grant @s[scores={exi_elytra_km=2666..}] only existence_smp:stats/elytra/frequent_flyer_club 2666
-advancement grant @s[scores={exi_elytra_km=2667..}] only existence_smp:stats/elytra/frequent_flyer_club 2667
-advancement grant @s[scores={exi_elytra_km=2668..}] only existence_smp:stats/elytra/frequent_flyer_club 2668
-advancement grant @s[scores={exi_elytra_km=2669..}] only existence_smp:stats/elytra/frequent_flyer_club 2669
-advancement grant @s[scores={exi_elytra_km=2670..}] only existence_smp:stats/elytra/frequent_flyer_club 2670
-advancement grant @s[scores={exi_elytra_km=2671..}] only existence_smp:stats/elytra/frequent_flyer_club 2671
-advancement grant @s[scores={exi_elytra_km=2672..}] only existence_smp:stats/elytra/frequent_flyer_club 2672
-advancement grant @s[scores={exi_elytra_km=2673..}] only existence_smp:stats/elytra/frequent_flyer_club 2673
-advancement grant @s[scores={exi_elytra_km=2674..}] only existence_smp:stats/elytra/frequent_flyer_club 2674
-advancement grant @s[scores={exi_elytra_km=2675..}] only existence_smp:stats/elytra/frequent_flyer_club 2675
-advancement grant @s[scores={exi_elytra_km=2676..}] only existence_smp:stats/elytra/frequent_flyer_club 2676
-advancement grant @s[scores={exi_elytra_km=2677..}] only existence_smp:stats/elytra/frequent_flyer_club 2677
-advancement grant @s[scores={exi_elytra_km=2678..}] only existence_smp:stats/elytra/frequent_flyer_club 2678
-advancement grant @s[scores={exi_elytra_km=2679..}] only existence_smp:stats/elytra/frequent_flyer_club 2679
-advancement grant @s[scores={exi_elytra_km=2680..}] only existence_smp:stats/elytra/frequent_flyer_club 2680
-advancement grant @s[scores={exi_elytra_km=2681..}] only existence_smp:stats/elytra/frequent_flyer_club 2681
-advancement grant @s[scores={exi_elytra_km=2682..}] only existence_smp:stats/elytra/frequent_flyer_club 2682
-advancement grant @s[scores={exi_elytra_km=2683..}] only existence_smp:stats/elytra/frequent_flyer_club 2683
-advancement grant @s[scores={exi_elytra_km=2684..}] only existence_smp:stats/elytra/frequent_flyer_club 2684
-advancement grant @s[scores={exi_elytra_km=2685..}] only existence_smp:stats/elytra/frequent_flyer_club 2685
-advancement grant @s[scores={exi_elytra_km=2686..}] only existence_smp:stats/elytra/frequent_flyer_club 2686
-advancement grant @s[scores={exi_elytra_km=2687..}] only existence_smp:stats/elytra/frequent_flyer_club 2687
-advancement grant @s[scores={exi_elytra_km=2688..}] only existence_smp:stats/elytra/frequent_flyer_club 2688
-advancement grant @s[scores={exi_elytra_km=2689..}] only existence_smp:stats/elytra/frequent_flyer_club 2689
-advancement grant @s[scores={exi_elytra_km=2690..}] only existence_smp:stats/elytra/frequent_flyer_club 2690
-advancement grant @s[scores={exi_elytra_km=2691..}] only existence_smp:stats/elytra/frequent_flyer_club 2691
-advancement grant @s[scores={exi_elytra_km=2692..}] only existence_smp:stats/elytra/frequent_flyer_club 2692
-advancement grant @s[scores={exi_elytra_km=2693..}] only existence_smp:stats/elytra/frequent_flyer_club 2693
-advancement grant @s[scores={exi_elytra_km=2694..}] only existence_smp:stats/elytra/frequent_flyer_club 2694
-advancement grant @s[scores={exi_elytra_km=2695..}] only existence_smp:stats/elytra/frequent_flyer_club 2695
-advancement grant @s[scores={exi_elytra_km=2696..}] only existence_smp:stats/elytra/frequent_flyer_club 2696
-advancement grant @s[scores={exi_elytra_km=2697..}] only existence_smp:stats/elytra/frequent_flyer_club 2697
-advancement grant @s[scores={exi_elytra_km=2698..}] only existence_smp:stats/elytra/frequent_flyer_club 2698
-advancement grant @s[scores={exi_elytra_km=2699..}] only existence_smp:stats/elytra/frequent_flyer_club 2699
-advancement grant @s[scores={exi_elytra_km=2700..}] only existence_smp:stats/elytra/frequent_flyer_club 2700
-advancement grant @s[scores={exi_elytra_km=2701..}] only existence_smp:stats/elytra/frequent_flyer_club 2701
-advancement grant @s[scores={exi_elytra_km=2702..}] only existence_smp:stats/elytra/frequent_flyer_club 2702
-advancement grant @s[scores={exi_elytra_km=2703..}] only existence_smp:stats/elytra/frequent_flyer_club 2703
-advancement grant @s[scores={exi_elytra_km=2704..}] only existence_smp:stats/elytra/frequent_flyer_club 2704
-advancement grant @s[scores={exi_elytra_km=2705..}] only existence_smp:stats/elytra/frequent_flyer_club 2705
-advancement grant @s[scores={exi_elytra_km=2706..}] only existence_smp:stats/elytra/frequent_flyer_club 2706
-advancement grant @s[scores={exi_elytra_km=2707..}] only existence_smp:stats/elytra/frequent_flyer_club 2707
-advancement grant @s[scores={exi_elytra_km=2708..}] only existence_smp:stats/elytra/frequent_flyer_club 2708
-advancement grant @s[scores={exi_elytra_km=2709..}] only existence_smp:stats/elytra/frequent_flyer_club 2709
-advancement grant @s[scores={exi_elytra_km=2710..}] only existence_smp:stats/elytra/frequent_flyer_club 2710
-advancement grant @s[scores={exi_elytra_km=2711..}] only existence_smp:stats/elytra/frequent_flyer_club 2711
-advancement grant @s[scores={exi_elytra_km=2712..}] only existence_smp:stats/elytra/frequent_flyer_club 2712
-advancement grant @s[scores={exi_elytra_km=2713..}] only existence_smp:stats/elytra/frequent_flyer_club 2713
-advancement grant @s[scores={exi_elytra_km=2714..}] only existence_smp:stats/elytra/frequent_flyer_club 2714
-advancement grant @s[scores={exi_elytra_km=2715..}] only existence_smp:stats/elytra/frequent_flyer_club 2715
-advancement grant @s[scores={exi_elytra_km=2716..}] only existence_smp:stats/elytra/frequent_flyer_club 2716
-advancement grant @s[scores={exi_elytra_km=2717..}] only existence_smp:stats/elytra/frequent_flyer_club 2717
-advancement grant @s[scores={exi_elytra_km=2718..}] only existence_smp:stats/elytra/frequent_flyer_club 2718
-advancement grant @s[scores={exi_elytra_km=2719..}] only existence_smp:stats/elytra/frequent_flyer_club 2719
-advancement grant @s[scores={exi_elytra_km=2720..}] only existence_smp:stats/elytra/frequent_flyer_club 2720
-advancement grant @s[scores={exi_elytra_km=2721..}] only existence_smp:stats/elytra/frequent_flyer_club 2721
-advancement grant @s[scores={exi_elytra_km=2722..}] only existence_smp:stats/elytra/frequent_flyer_club 2722
-advancement grant @s[scores={exi_elytra_km=2723..}] only existence_smp:stats/elytra/frequent_flyer_club 2723
-advancement grant @s[scores={exi_elytra_km=2724..}] only existence_smp:stats/elytra/frequent_flyer_club 2724
-advancement grant @s[scores={exi_elytra_km=2725..}] only existence_smp:stats/elytra/frequent_flyer_club 2725
-advancement grant @s[scores={exi_elytra_km=2726..}] only existence_smp:stats/elytra/frequent_flyer_club 2726
-advancement grant @s[scores={exi_elytra_km=2727..}] only existence_smp:stats/elytra/frequent_flyer_club 2727
-advancement grant @s[scores={exi_elytra_km=2728..}] only existence_smp:stats/elytra/frequent_flyer_club 2728
-advancement grant @s[scores={exi_elytra_km=2729..}] only existence_smp:stats/elytra/frequent_flyer_club 2729
-advancement grant @s[scores={exi_elytra_km=2730..}] only existence_smp:stats/elytra/frequent_flyer_club 2730
-advancement grant @s[scores={exi_elytra_km=2731..}] only existence_smp:stats/elytra/frequent_flyer_club 2731
-advancement grant @s[scores={exi_elytra_km=2732..}] only existence_smp:stats/elytra/frequent_flyer_club 2732
-advancement grant @s[scores={exi_elytra_km=2733..}] only existence_smp:stats/elytra/frequent_flyer_club 2733
-advancement grant @s[scores={exi_elytra_km=2734..}] only existence_smp:stats/elytra/frequent_flyer_club 2734
-advancement grant @s[scores={exi_elytra_km=2735..}] only existence_smp:stats/elytra/frequent_flyer_club 2735
-advancement grant @s[scores={exi_elytra_km=2736..}] only existence_smp:stats/elytra/frequent_flyer_club 2736
-advancement grant @s[scores={exi_elytra_km=2737..}] only existence_smp:stats/elytra/frequent_flyer_club 2737
-advancement grant @s[scores={exi_elytra_km=2738..}] only existence_smp:stats/elytra/frequent_flyer_club 2738
-advancement grant @s[scores={exi_elytra_km=2739..}] only existence_smp:stats/elytra/frequent_flyer_club 2739
-advancement grant @s[scores={exi_elytra_km=2740..}] only existence_smp:stats/elytra/frequent_flyer_club 2740
-advancement grant @s[scores={exi_elytra_km=2741..}] only existence_smp:stats/elytra/frequent_flyer_club 2741
-advancement grant @s[scores={exi_elytra_km=2742..}] only existence_smp:stats/elytra/frequent_flyer_club 2742
-advancement grant @s[scores={exi_elytra_km=2743..}] only existence_smp:stats/elytra/frequent_flyer_club 2743
-advancement grant @s[scores={exi_elytra_km=2744..}] only existence_smp:stats/elytra/frequent_flyer_club 2744
-advancement grant @s[scores={exi_elytra_km=2745..}] only existence_smp:stats/elytra/frequent_flyer_club 2745
-advancement grant @s[scores={exi_elytra_km=2746..}] only existence_smp:stats/elytra/frequent_flyer_club 2746
-advancement grant @s[scores={exi_elytra_km=2747..}] only existence_smp:stats/elytra/frequent_flyer_club 2747
-advancement grant @s[scores={exi_elytra_km=2748..}] only existence_smp:stats/elytra/frequent_flyer_club 2748
-advancement grant @s[scores={exi_elytra_km=2749..}] only existence_smp:stats/elytra/frequent_flyer_club 2749
-advancement grant @s[scores={exi_elytra_km=2750..}] only existence_smp:stats/elytra/frequent_flyer_club 2750
-advancement grant @s[scores={exi_elytra_km=2751..}] only existence_smp:stats/elytra/frequent_flyer_club 2751
-advancement grant @s[scores={exi_elytra_km=2752..}] only existence_smp:stats/elytra/frequent_flyer_club 2752
-advancement grant @s[scores={exi_elytra_km=2753..}] only existence_smp:stats/elytra/frequent_flyer_club 2753
-advancement grant @s[scores={exi_elytra_km=2754..}] only existence_smp:stats/elytra/frequent_flyer_club 2754
-advancement grant @s[scores={exi_elytra_km=2755..}] only existence_smp:stats/elytra/frequent_flyer_club 2755
-advancement grant @s[scores={exi_elytra_km=2756..}] only existence_smp:stats/elytra/frequent_flyer_club 2756
-advancement grant @s[scores={exi_elytra_km=2757..}] only existence_smp:stats/elytra/frequent_flyer_club 2757
-advancement grant @s[scores={exi_elytra_km=2758..}] only existence_smp:stats/elytra/frequent_flyer_club 2758
-advancement grant @s[scores={exi_elytra_km=2759..}] only existence_smp:stats/elytra/frequent_flyer_club 2759
-advancement grant @s[scores={exi_elytra_km=2760..}] only existence_smp:stats/elytra/frequent_flyer_club 2760
-advancement grant @s[scores={exi_elytra_km=2761..}] only existence_smp:stats/elytra/frequent_flyer_club 2761
-advancement grant @s[scores={exi_elytra_km=2762..}] only existence_smp:stats/elytra/frequent_flyer_club 2762
-advancement grant @s[scores={exi_elytra_km=2763..}] only existence_smp:stats/elytra/frequent_flyer_club 2763
-advancement grant @s[scores={exi_elytra_km=2764..}] only existence_smp:stats/elytra/frequent_flyer_club 2764
-advancement grant @s[scores={exi_elytra_km=2765..}] only existence_smp:stats/elytra/frequent_flyer_club 2765
-advancement grant @s[scores={exi_elytra_km=2766..}] only existence_smp:stats/elytra/frequent_flyer_club 2766
-advancement grant @s[scores={exi_elytra_km=2767..}] only existence_smp:stats/elytra/frequent_flyer_club 2767
-advancement grant @s[scores={exi_elytra_km=2768..}] only existence_smp:stats/elytra/frequent_flyer_club 2768
-advancement grant @s[scores={exi_elytra_km=2769..}] only existence_smp:stats/elytra/frequent_flyer_club 2769
-advancement grant @s[scores={exi_elytra_km=2770..}] only existence_smp:stats/elytra/frequent_flyer_club 2770
-advancement grant @s[scores={exi_elytra_km=2771..}] only existence_smp:stats/elytra/frequent_flyer_club 2771
-advancement grant @s[scores={exi_elytra_km=2772..}] only existence_smp:stats/elytra/frequent_flyer_club 2772
-advancement grant @s[scores={exi_elytra_km=2773..}] only existence_smp:stats/elytra/frequent_flyer_club 2773
-advancement grant @s[scores={exi_elytra_km=2774..}] only existence_smp:stats/elytra/frequent_flyer_club 2774
-advancement grant @s[scores={exi_elytra_km=2775..}] only existence_smp:stats/elytra/frequent_flyer_club 2775
-advancement grant @s[scores={exi_elytra_km=2776..}] only existence_smp:stats/elytra/frequent_flyer_club 2776
-advancement grant @s[scores={exi_elytra_km=2777..}] only existence_smp:stats/elytra/frequent_flyer_club 2777
-advancement grant @s[scores={exi_elytra_km=2778..}] only existence_smp:stats/elytra/frequent_flyer_club 2778
-advancement grant @s[scores={exi_elytra_km=2779..}] only existence_smp:stats/elytra/frequent_flyer_club 2779
-advancement grant @s[scores={exi_elytra_km=2780..}] only existence_smp:stats/elytra/frequent_flyer_club 2780
-advancement grant @s[scores={exi_elytra_km=2781..}] only existence_smp:stats/elytra/frequent_flyer_club 2781
-advancement grant @s[scores={exi_elytra_km=2782..}] only existence_smp:stats/elytra/frequent_flyer_club 2782
-advancement grant @s[scores={exi_elytra_km=2783..}] only existence_smp:stats/elytra/frequent_flyer_club 2783
-advancement grant @s[scores={exi_elytra_km=2784..}] only existence_smp:stats/elytra/frequent_flyer_club 2784
-advancement grant @s[scores={exi_elytra_km=2785..}] only existence_smp:stats/elytra/frequent_flyer_club 2785
-advancement grant @s[scores={exi_elytra_km=2786..}] only existence_smp:stats/elytra/frequent_flyer_club 2786
-advancement grant @s[scores={exi_elytra_km=2787..}] only existence_smp:stats/elytra/frequent_flyer_club 2787
-advancement grant @s[scores={exi_elytra_km=2788..}] only existence_smp:stats/elytra/frequent_flyer_club 2788
-advancement grant @s[scores={exi_elytra_km=2789..}] only existence_smp:stats/elytra/frequent_flyer_club 2789
-advancement grant @s[scores={exi_elytra_km=2790..}] only existence_smp:stats/elytra/frequent_flyer_club 2790
-advancement grant @s[scores={exi_elytra_km=2791..}] only existence_smp:stats/elytra/frequent_flyer_club 2791
-advancement grant @s[scores={exi_elytra_km=2792..}] only existence_smp:stats/elytra/frequent_flyer_club 2792
-advancement grant @s[scores={exi_elytra_km=2793..}] only existence_smp:stats/elytra/frequent_flyer_club 2793
-advancement grant @s[scores={exi_elytra_km=2794..}] only existence_smp:stats/elytra/frequent_flyer_club 2794
-advancement grant @s[scores={exi_elytra_km=2795..}] only existence_smp:stats/elytra/frequent_flyer_club 2795
-advancement grant @s[scores={exi_elytra_km=2796..}] only existence_smp:stats/elytra/frequent_flyer_club 2796
-advancement grant @s[scores={exi_elytra_km=2797..}] only existence_smp:stats/elytra/frequent_flyer_club 2797
-advancement grant @s[scores={exi_elytra_km=2798..}] only existence_smp:stats/elytra/frequent_flyer_club 2798
-advancement grant @s[scores={exi_elytra_km=2799..}] only existence_smp:stats/elytra/frequent_flyer_club 2799
-advancement grant @s[scores={exi_elytra_km=2800..}] only existence_smp:stats/elytra/frequent_flyer_club 2800
-advancement grant @s[scores={exi_elytra_km=2801..}] only existence_smp:stats/elytra/frequent_flyer_club 2801
-advancement grant @s[scores={exi_elytra_km=2802..}] only existence_smp:stats/elytra/frequent_flyer_club 2802
-advancement grant @s[scores={exi_elytra_km=2803..}] only existence_smp:stats/elytra/frequent_flyer_club 2803
-advancement grant @s[scores={exi_elytra_km=2804..}] only existence_smp:stats/elytra/frequent_flyer_club 2804
-advancement grant @s[scores={exi_elytra_km=2805..}] only existence_smp:stats/elytra/frequent_flyer_club 2805
-advancement grant @s[scores={exi_elytra_km=2806..}] only existence_smp:stats/elytra/frequent_flyer_club 2806
-advancement grant @s[scores={exi_elytra_km=2807..}] only existence_smp:stats/elytra/frequent_flyer_club 2807
-advancement grant @s[scores={exi_elytra_km=2808..}] only existence_smp:stats/elytra/frequent_flyer_club 2808
-advancement grant @s[scores={exi_elytra_km=2809..}] only existence_smp:stats/elytra/frequent_flyer_club 2809
-advancement grant @s[scores={exi_elytra_km=2810..}] only existence_smp:stats/elytra/frequent_flyer_club 2810
-advancement grant @s[scores={exi_elytra_km=2811..}] only existence_smp:stats/elytra/frequent_flyer_club 2811
-advancement grant @s[scores={exi_elytra_km=2812..}] only existence_smp:stats/elytra/frequent_flyer_club 2812
-advancement grant @s[scores={exi_elytra_km=2813..}] only existence_smp:stats/elytra/frequent_flyer_club 2813
-advancement grant @s[scores={exi_elytra_km=2814..}] only existence_smp:stats/elytra/frequent_flyer_club 2814
-advancement grant @s[scores={exi_elytra_km=2815..}] only existence_smp:stats/elytra/frequent_flyer_club 2815
-advancement grant @s[scores={exi_elytra_km=2816..}] only existence_smp:stats/elytra/frequent_flyer_club 2816
-advancement grant @s[scores={exi_elytra_km=2817..}] only existence_smp:stats/elytra/frequent_flyer_club 2817
-advancement grant @s[scores={exi_elytra_km=2818..}] only existence_smp:stats/elytra/frequent_flyer_club 2818
-advancement grant @s[scores={exi_elytra_km=2819..}] only existence_smp:stats/elytra/frequent_flyer_club 2819
-advancement grant @s[scores={exi_elytra_km=2820..}] only existence_smp:stats/elytra/frequent_flyer_club 2820
-advancement grant @s[scores={exi_elytra_km=2821..}] only existence_smp:stats/elytra/frequent_flyer_club 2821
-advancement grant @s[scores={exi_elytra_km=2822..}] only existence_smp:stats/elytra/frequent_flyer_club 2822
-advancement grant @s[scores={exi_elytra_km=2823..}] only existence_smp:stats/elytra/frequent_flyer_club 2823
-advancement grant @s[scores={exi_elytra_km=2824..}] only existence_smp:stats/elytra/frequent_flyer_club 2824
-advancement grant @s[scores={exi_elytra_km=2825..}] only existence_smp:stats/elytra/frequent_flyer_club 2825
-advancement grant @s[scores={exi_elytra_km=2826..}] only existence_smp:stats/elytra/frequent_flyer_club 2826
-advancement grant @s[scores={exi_elytra_km=2827..}] only existence_smp:stats/elytra/frequent_flyer_club 2827
-advancement grant @s[scores={exi_elytra_km=2828..}] only existence_smp:stats/elytra/frequent_flyer_club 2828
-advancement grant @s[scores={exi_elytra_km=2829..}] only existence_smp:stats/elytra/frequent_flyer_club 2829
-advancement grant @s[scores={exi_elytra_km=2830..}] only existence_smp:stats/elytra/frequent_flyer_club 2830
-advancement grant @s[scores={exi_elytra_km=2831..}] only existence_smp:stats/elytra/frequent_flyer_club 2831
-advancement grant @s[scores={exi_elytra_km=2832..}] only existence_smp:stats/elytra/frequent_flyer_club 2832
-advancement grant @s[scores={exi_elytra_km=2833..}] only existence_smp:stats/elytra/frequent_flyer_club 2833
-advancement grant @s[scores={exi_elytra_km=2834..}] only existence_smp:stats/elytra/frequent_flyer_club 2834
-advancement grant @s[scores={exi_elytra_km=2835..}] only existence_smp:stats/elytra/frequent_flyer_club 2835
-advancement grant @s[scores={exi_elytra_km=2836..}] only existence_smp:stats/elytra/frequent_flyer_club 2836
-advancement grant @s[scores={exi_elytra_km=2837..}] only existence_smp:stats/elytra/frequent_flyer_club 2837
-advancement grant @s[scores={exi_elytra_km=2838..}] only existence_smp:stats/elytra/frequent_flyer_club 2838
-advancement grant @s[scores={exi_elytra_km=2839..}] only existence_smp:stats/elytra/frequent_flyer_club 2839
-advancement grant @s[scores={exi_elytra_km=2840..}] only existence_smp:stats/elytra/frequent_flyer_club 2840
-advancement grant @s[scores={exi_elytra_km=2841..}] only existence_smp:stats/elytra/frequent_flyer_club 2841
-advancement grant @s[scores={exi_elytra_km=2842..}] only existence_smp:stats/elytra/frequent_flyer_club 2842
-advancement grant @s[scores={exi_elytra_km=2843..}] only existence_smp:stats/elytra/frequent_flyer_club 2843
-advancement grant @s[scores={exi_elytra_km=2844..}] only existence_smp:stats/elytra/frequent_flyer_club 2844
-advancement grant @s[scores={exi_elytra_km=2845..}] only existence_smp:stats/elytra/frequent_flyer_club 2845
-advancement grant @s[scores={exi_elytra_km=2846..}] only existence_smp:stats/elytra/frequent_flyer_club 2846
-advancement grant @s[scores={exi_elytra_km=2847..}] only existence_smp:stats/elytra/frequent_flyer_club 2847
-advancement grant @s[scores={exi_elytra_km=2848..}] only existence_smp:stats/elytra/frequent_flyer_club 2848
-advancement grant @s[scores={exi_elytra_km=2849..}] only existence_smp:stats/elytra/frequent_flyer_club 2849
-advancement grant @s[scores={exi_elytra_km=2850..}] only existence_smp:stats/elytra/frequent_flyer_club 2850
-advancement grant @s[scores={exi_elytra_km=2851..}] only existence_smp:stats/elytra/frequent_flyer_club 2851
-advancement grant @s[scores={exi_elytra_km=2852..}] only existence_smp:stats/elytra/frequent_flyer_club 2852
-advancement grant @s[scores={exi_elytra_km=2853..}] only existence_smp:stats/elytra/frequent_flyer_club 2853
-advancement grant @s[scores={exi_elytra_km=2854..}] only existence_smp:stats/elytra/frequent_flyer_club 2854
-advancement grant @s[scores={exi_elytra_km=2855..}] only existence_smp:stats/elytra/frequent_flyer_club 2855
-advancement grant @s[scores={exi_elytra_km=2856..}] only existence_smp:stats/elytra/frequent_flyer_club 2856
-advancement grant @s[scores={exi_elytra_km=2857..}] only existence_smp:stats/elytra/frequent_flyer_club 2857
-advancement grant @s[scores={exi_elytra_km=2858..}] only existence_smp:stats/elytra/frequent_flyer_club 2858
-advancement grant @s[scores={exi_elytra_km=2859..}] only existence_smp:stats/elytra/frequent_flyer_club 2859
-advancement grant @s[scores={exi_elytra_km=2860..}] only existence_smp:stats/elytra/frequent_flyer_club 2860
-advancement grant @s[scores={exi_elytra_km=2861..}] only existence_smp:stats/elytra/frequent_flyer_club 2861
-advancement grant @s[scores={exi_elytra_km=2862..}] only existence_smp:stats/elytra/frequent_flyer_club 2862
-advancement grant @s[scores={exi_elytra_km=2863..}] only existence_smp:stats/elytra/frequent_flyer_club 2863
-advancement grant @s[scores={exi_elytra_km=2864..}] only existence_smp:stats/elytra/frequent_flyer_club 2864
-advancement grant @s[scores={exi_elytra_km=2865..}] only existence_smp:stats/elytra/frequent_flyer_club 2865
-advancement grant @s[scores={exi_elytra_km=2866..}] only existence_smp:stats/elytra/frequent_flyer_club 2866
-advancement grant @s[scores={exi_elytra_km=2867..}] only existence_smp:stats/elytra/frequent_flyer_club 2867
-advancement grant @s[scores={exi_elytra_km=2868..}] only existence_smp:stats/elytra/frequent_flyer_club 2868
-advancement grant @s[scores={exi_elytra_km=2869..}] only existence_smp:stats/elytra/frequent_flyer_club 2869
-advancement grant @s[scores={exi_elytra_km=2870..}] only existence_smp:stats/elytra/frequent_flyer_club 2870
-advancement grant @s[scores={exi_elytra_km=2871..}] only existence_smp:stats/elytra/frequent_flyer_club 2871
-advancement grant @s[scores={exi_elytra_km=2872..}] only existence_smp:stats/elytra/frequent_flyer_club 2872
-advancement grant @s[scores={exi_elytra_km=2873..}] only existence_smp:stats/elytra/frequent_flyer_club 2873
-advancement grant @s[scores={exi_elytra_km=2874..}] only existence_smp:stats/elytra/frequent_flyer_club 2874
-advancement grant @s[scores={exi_elytra_km=2875..}] only existence_smp:stats/elytra/frequent_flyer_club 2875
-advancement grant @s[scores={exi_elytra_km=2876..}] only existence_smp:stats/elytra/frequent_flyer_club 2876
-advancement grant @s[scores={exi_elytra_km=2877..}] only existence_smp:stats/elytra/frequent_flyer_club 2877
-advancement grant @s[scores={exi_elytra_km=2878..}] only existence_smp:stats/elytra/frequent_flyer_club 2878
-advancement grant @s[scores={exi_elytra_km=2879..}] only existence_smp:stats/elytra/frequent_flyer_club 2879
-advancement grant @s[scores={exi_elytra_km=2880..}] only existence_smp:stats/elytra/frequent_flyer_club 2880
-advancement grant @s[scores={exi_elytra_km=2881..}] only existence_smp:stats/elytra/frequent_flyer_club 2881
-advancement grant @s[scores={exi_elytra_km=2882..}] only existence_smp:stats/elytra/frequent_flyer_club 2882
-advancement grant @s[scores={exi_elytra_km=2883..}] only existence_smp:stats/elytra/frequent_flyer_club 2883
-advancement grant @s[scores={exi_elytra_km=2884..}] only existence_smp:stats/elytra/frequent_flyer_club 2884
-advancement grant @s[scores={exi_elytra_km=2885..}] only existence_smp:stats/elytra/frequent_flyer_club 2885
-advancement grant @s[scores={exi_elytra_km=2886..}] only existence_smp:stats/elytra/frequent_flyer_club 2886
-advancement grant @s[scores={exi_elytra_km=2887..}] only existence_smp:stats/elytra/frequent_flyer_club 2887
-advancement grant @s[scores={exi_elytra_km=2888..}] only existence_smp:stats/elytra/frequent_flyer_club 2888
-advancement grant @s[scores={exi_elytra_km=2889..}] only existence_smp:stats/elytra/frequent_flyer_club 2889
-advancement grant @s[scores={exi_elytra_km=2890..}] only existence_smp:stats/elytra/frequent_flyer_club 2890
-advancement grant @s[scores={exi_elytra_km=2891..}] only existence_smp:stats/elytra/frequent_flyer_club 2891
-advancement grant @s[scores={exi_elytra_km=2892..}] only existence_smp:stats/elytra/frequent_flyer_club 2892
-advancement grant @s[scores={exi_elytra_km=2893..}] only existence_smp:stats/elytra/frequent_flyer_club 2893
-advancement grant @s[scores={exi_elytra_km=2894..}] only existence_smp:stats/elytra/frequent_flyer_club 2894
-advancement grant @s[scores={exi_elytra_km=2895..}] only existence_smp:stats/elytra/frequent_flyer_club 2895
-advancement grant @s[scores={exi_elytra_km=2896..}] only existence_smp:stats/elytra/frequent_flyer_club 2896
-advancement grant @s[scores={exi_elytra_km=2897..}] only existence_smp:stats/elytra/frequent_flyer_club 2897
-advancement grant @s[scores={exi_elytra_km=2898..}] only existence_smp:stats/elytra/frequent_flyer_club 2898
-advancement grant @s[scores={exi_elytra_km=2899..}] only existence_smp:stats/elytra/frequent_flyer_club 2899
-advancement grant @s[scores={exi_elytra_km=2900..}] only existence_smp:stats/elytra/frequent_flyer_club 2900
-advancement grant @s[scores={exi_elytra_km=2901..}] only existence_smp:stats/elytra/frequent_flyer_club 2901
-advancement grant @s[scores={exi_elytra_km=2902..}] only existence_smp:stats/elytra/frequent_flyer_club 2902
-advancement grant @s[scores={exi_elytra_km=2903..}] only existence_smp:stats/elytra/frequent_flyer_club 2903
-advancement grant @s[scores={exi_elytra_km=2904..}] only existence_smp:stats/elytra/frequent_flyer_club 2904
-advancement grant @s[scores={exi_elytra_km=2905..}] only existence_smp:stats/elytra/frequent_flyer_club 2905
-advancement grant @s[scores={exi_elytra_km=2906..}] only existence_smp:stats/elytra/frequent_flyer_club 2906
-advancement grant @s[scores={exi_elytra_km=2907..}] only existence_smp:stats/elytra/frequent_flyer_club 2907
-advancement grant @s[scores={exi_elytra_km=2908..}] only existence_smp:stats/elytra/frequent_flyer_club 2908
-advancement grant @s[scores={exi_elytra_km=2909..}] only existence_smp:stats/elytra/frequent_flyer_club 2909
-advancement grant @s[scores={exi_elytra_km=2910..}] only existence_smp:stats/elytra/frequent_flyer_club 2910
-advancement grant @s[scores={exi_elytra_km=2911..}] only existence_smp:stats/elytra/frequent_flyer_club 2911
-advancement grant @s[scores={exi_elytra_km=2912..}] only existence_smp:stats/elytra/frequent_flyer_club 2912
-advancement grant @s[scores={exi_elytra_km=2913..}] only existence_smp:stats/elytra/frequent_flyer_club 2913
-advancement grant @s[scores={exi_elytra_km=2914..}] only existence_smp:stats/elytra/frequent_flyer_club 2914
-advancement grant @s[scores={exi_elytra_km=2915..}] only existence_smp:stats/elytra/frequent_flyer_club 2915
-advancement grant @s[scores={exi_elytra_km=2916..}] only existence_smp:stats/elytra/frequent_flyer_club 2916
-advancement grant @s[scores={exi_elytra_km=2917..}] only existence_smp:stats/elytra/frequent_flyer_club 2917
-advancement grant @s[scores={exi_elytra_km=2918..}] only existence_smp:stats/elytra/frequent_flyer_club 2918
-advancement grant @s[scores={exi_elytra_km=2919..}] only existence_smp:stats/elytra/frequent_flyer_club 2919
-advancement grant @s[scores={exi_elytra_km=2920..}] only existence_smp:stats/elytra/frequent_flyer_club 2920
-advancement grant @s[scores={exi_elytra_km=2921..}] only existence_smp:stats/elytra/frequent_flyer_club 2921
-advancement grant @s[scores={exi_elytra_km=2922..}] only existence_smp:stats/elytra/frequent_flyer_club 2922
-advancement grant @s[scores={exi_elytra_km=2923..}] only existence_smp:stats/elytra/frequent_flyer_club 2923
-advancement grant @s[scores={exi_elytra_km=2924..}] only existence_smp:stats/elytra/frequent_flyer_club 2924
-advancement grant @s[scores={exi_elytra_km=2925..}] only existence_smp:stats/elytra/frequent_flyer_club 2925
-advancement grant @s[scores={exi_elytra_km=2926..}] only existence_smp:stats/elytra/frequent_flyer_club 2926
-advancement grant @s[scores={exi_elytra_km=2927..}] only existence_smp:stats/elytra/frequent_flyer_club 2927
-advancement grant @s[scores={exi_elytra_km=2928..}] only existence_smp:stats/elytra/frequent_flyer_club 2928
-advancement grant @s[scores={exi_elytra_km=2929..}] only existence_smp:stats/elytra/frequent_flyer_club 2929
-advancement grant @s[scores={exi_elytra_km=2930..}] only existence_smp:stats/elytra/frequent_flyer_club 2930
-advancement grant @s[scores={exi_elytra_km=2931..}] only existence_smp:stats/elytra/frequent_flyer_club 2931
-advancement grant @s[scores={exi_elytra_km=2932..}] only existence_smp:stats/elytra/frequent_flyer_club 2932
-advancement grant @s[scores={exi_elytra_km=2933..}] only existence_smp:stats/elytra/frequent_flyer_club 2933
-advancement grant @s[scores={exi_elytra_km=2934..}] only existence_smp:stats/elytra/frequent_flyer_club 2934
-advancement grant @s[scores={exi_elytra_km=2935..}] only existence_smp:stats/elytra/frequent_flyer_club 2935
-advancement grant @s[scores={exi_elytra_km=2936..}] only existence_smp:stats/elytra/frequent_flyer_club 2936
-advancement grant @s[scores={exi_elytra_km=2937..}] only existence_smp:stats/elytra/frequent_flyer_club 2937
-advancement grant @s[scores={exi_elytra_km=2938..}] only existence_smp:stats/elytra/frequent_flyer_club 2938
-advancement grant @s[scores={exi_elytra_km=2939..}] only existence_smp:stats/elytra/frequent_flyer_club 2939
-advancement grant @s[scores={exi_elytra_km=2940..}] only existence_smp:stats/elytra/frequent_flyer_club 2940
-advancement grant @s[scores={exi_elytra_km=2941..}] only existence_smp:stats/elytra/frequent_flyer_club 2941
-advancement grant @s[scores={exi_elytra_km=2942..}] only existence_smp:stats/elytra/frequent_flyer_club 2942
-advancement grant @s[scores={exi_elytra_km=2943..}] only existence_smp:stats/elytra/frequent_flyer_club 2943
-advancement grant @s[scores={exi_elytra_km=2944..}] only existence_smp:stats/elytra/frequent_flyer_club 2944
-advancement grant @s[scores={exi_elytra_km=2945..}] only existence_smp:stats/elytra/frequent_flyer_club 2945
-advancement grant @s[scores={exi_elytra_km=2946..}] only existence_smp:stats/elytra/frequent_flyer_club 2946
-advancement grant @s[scores={exi_elytra_km=2947..}] only existence_smp:stats/elytra/frequent_flyer_club 2947
-advancement grant @s[scores={exi_elytra_km=2948..}] only existence_smp:stats/elytra/frequent_flyer_club 2948
-advancement grant @s[scores={exi_elytra_km=2949..}] only existence_smp:stats/elytra/frequent_flyer_club 2949
-advancement grant @s[scores={exi_elytra_km=2950..}] only existence_smp:stats/elytra/frequent_flyer_club 2950
-advancement grant @s[scores={exi_elytra_km=2951..}] only existence_smp:stats/elytra/frequent_flyer_club 2951
-advancement grant @s[scores={exi_elytra_km=2952..}] only existence_smp:stats/elytra/frequent_flyer_club 2952
-advancement grant @s[scores={exi_elytra_km=2953..}] only existence_smp:stats/elytra/frequent_flyer_club 2953
-advancement grant @s[scores={exi_elytra_km=2954..}] only existence_smp:stats/elytra/frequent_flyer_club 2954
-advancement grant @s[scores={exi_elytra_km=2955..}] only existence_smp:stats/elytra/frequent_flyer_club 2955
-advancement grant @s[scores={exi_elytra_km=2956..}] only existence_smp:stats/elytra/frequent_flyer_club 2956
-advancement grant @s[scores={exi_elytra_km=2957..}] only existence_smp:stats/elytra/frequent_flyer_club 2957
-advancement grant @s[scores={exi_elytra_km=2958..}] only existence_smp:stats/elytra/frequent_flyer_club 2958
-advancement grant @s[scores={exi_elytra_km=2959..}] only existence_smp:stats/elytra/frequent_flyer_club 2959
-advancement grant @s[scores={exi_elytra_km=2960..}] only existence_smp:stats/elytra/frequent_flyer_club 2960
-advancement grant @s[scores={exi_elytra_km=2961..}] only existence_smp:stats/elytra/frequent_flyer_club 2961
-advancement grant @s[scores={exi_elytra_km=2962..}] only existence_smp:stats/elytra/frequent_flyer_club 2962
-advancement grant @s[scores={exi_elytra_km=2963..}] only existence_smp:stats/elytra/frequent_flyer_club 2963
-advancement grant @s[scores={exi_elytra_km=2964..}] only existence_smp:stats/elytra/frequent_flyer_club 2964
-advancement grant @s[scores={exi_elytra_km=2965..}] only existence_smp:stats/elytra/frequent_flyer_club 2965
-advancement grant @s[scores={exi_elytra_km=2966..}] only existence_smp:stats/elytra/frequent_flyer_club 2966
-advancement grant @s[scores={exi_elytra_km=2967..}] only existence_smp:stats/elytra/frequent_flyer_club 2967
-advancement grant @s[scores={exi_elytra_km=2968..}] only existence_smp:stats/elytra/frequent_flyer_club 2968
-advancement grant @s[scores={exi_elytra_km=2969..}] only existence_smp:stats/elytra/frequent_flyer_club 2969
-advancement grant @s[scores={exi_elytra_km=2970..}] only existence_smp:stats/elytra/frequent_flyer_club 2970
-advancement grant @s[scores={exi_elytra_km=2971..}] only existence_smp:stats/elytra/frequent_flyer_club 2971
-advancement grant @s[scores={exi_elytra_km=2972..}] only existence_smp:stats/elytra/frequent_flyer_club 2972
-advancement grant @s[scores={exi_elytra_km=2973..}] only existence_smp:stats/elytra/frequent_flyer_club 2973
-advancement grant @s[scores={exi_elytra_km=2974..}] only existence_smp:stats/elytra/frequent_flyer_club 2974
-advancement grant @s[scores={exi_elytra_km=2975..}] only existence_smp:stats/elytra/frequent_flyer_club 2975
-advancement grant @s[scores={exi_elytra_km=2976..}] only existence_smp:stats/elytra/frequent_flyer_club 2976
-advancement grant @s[scores={exi_elytra_km=2977..}] only existence_smp:stats/elytra/frequent_flyer_club 2977
-advancement grant @s[scores={exi_elytra_km=2978..}] only existence_smp:stats/elytra/frequent_flyer_club 2978
-advancement grant @s[scores={exi_elytra_km=2979..}] only existence_smp:stats/elytra/frequent_flyer_club 2979
-advancement grant @s[scores={exi_elytra_km=2980..}] only existence_smp:stats/elytra/frequent_flyer_club 2980
-advancement grant @s[scores={exi_elytra_km=2981..}] only existence_smp:stats/elytra/frequent_flyer_club 2981
-advancement grant @s[scores={exi_elytra_km=2982..}] only existence_smp:stats/elytra/frequent_flyer_club 2982
-advancement grant @s[scores={exi_elytra_km=2983..}] only existence_smp:stats/elytra/frequent_flyer_club 2983
-advancement grant @s[scores={exi_elytra_km=2984..}] only existence_smp:stats/elytra/frequent_flyer_club 2984
-advancement grant @s[scores={exi_elytra_km=2985..}] only existence_smp:stats/elytra/frequent_flyer_club 2985
-advancement grant @s[scores={exi_elytra_km=2986..}] only existence_smp:stats/elytra/frequent_flyer_club 2986
-advancement grant @s[scores={exi_elytra_km=2987..}] only existence_smp:stats/elytra/frequent_flyer_club 2987
-advancement grant @s[scores={exi_elytra_km=2988..}] only existence_smp:stats/elytra/frequent_flyer_club 2988
-advancement grant @s[scores={exi_elytra_km=2989..}] only existence_smp:stats/elytra/frequent_flyer_club 2989
-advancement grant @s[scores={exi_elytra_km=2990..}] only existence_smp:stats/elytra/frequent_flyer_club 2990
-advancement grant @s[scores={exi_elytra_km=2991..}] only existence_smp:stats/elytra/frequent_flyer_club 2991
-advancement grant @s[scores={exi_elytra_km=2992..}] only existence_smp:stats/elytra/frequent_flyer_club 2992
-advancement grant @s[scores={exi_elytra_km=2993..}] only existence_smp:stats/elytra/frequent_flyer_club 2993
-advancement grant @s[scores={exi_elytra_km=2994..}] only existence_smp:stats/elytra/frequent_flyer_club 2994
-advancement grant @s[scores={exi_elytra_km=2995..}] only existence_smp:stats/elytra/frequent_flyer_club 2995
-advancement grant @s[scores={exi_elytra_km=2996..}] only existence_smp:stats/elytra/frequent_flyer_club 2996
-advancement grant @s[scores={exi_elytra_km=2997..}] only existence_smp:stats/elytra/frequent_flyer_club 2997
-advancement grant @s[scores={exi_elytra_km=2998..}] only existence_smp:stats/elytra/frequent_flyer_club 2998
-advancement grant @s[scores={exi_elytra_km=2999..}] only existence_smp:stats/elytra/frequent_flyer_club 2999
-advancement grant @s[scores={exi_elytra_km=3000..}] only existence_smp:stats/elytra/frequent_flyer_club 3000
+execute if score @s exi_elytra_km matches 1001.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1001
+execute if score @s exi_elytra_km matches 1002.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1002
+execute if score @s exi_elytra_km matches 1003.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1003
+execute if score @s exi_elytra_km matches 1004.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1004
+execute if score @s exi_elytra_km matches 1005.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1005
+execute if score @s exi_elytra_km matches 1006.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1006
+execute if score @s exi_elytra_km matches 1007.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1007
+execute if score @s exi_elytra_km matches 1008.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1008
+execute if score @s exi_elytra_km matches 1009.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1009
+execute if score @s exi_elytra_km matches 1010.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1010
+execute if score @s exi_elytra_km matches 1011.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1011
+execute if score @s exi_elytra_km matches 1012.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1012
+execute if score @s exi_elytra_km matches 1013.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1013
+execute if score @s exi_elytra_km matches 1014.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1014
+execute if score @s exi_elytra_km matches 1015.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1015
+execute if score @s exi_elytra_km matches 1016.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1016
+execute if score @s exi_elytra_km matches 1017.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1017
+execute if score @s exi_elytra_km matches 1018.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1018
+execute if score @s exi_elytra_km matches 1019.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1019
+execute if score @s exi_elytra_km matches 1020.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1020
+execute if score @s exi_elytra_km matches 1021.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1021
+execute if score @s exi_elytra_km matches 1022.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1022
+execute if score @s exi_elytra_km matches 1023.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1023
+execute if score @s exi_elytra_km matches 1024.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1024
+execute if score @s exi_elytra_km matches 1025.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1025
+execute if score @s exi_elytra_km matches 1026.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1026
+execute if score @s exi_elytra_km matches 1027.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1027
+execute if score @s exi_elytra_km matches 1028.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1028
+execute if score @s exi_elytra_km matches 1029.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1029
+execute if score @s exi_elytra_km matches 1030.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1030
+execute if score @s exi_elytra_km matches 1031.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1031
+execute if score @s exi_elytra_km matches 1032.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1032
+execute if score @s exi_elytra_km matches 1033.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1033
+execute if score @s exi_elytra_km matches 1034.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1034
+execute if score @s exi_elytra_km matches 1035.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1035
+execute if score @s exi_elytra_km matches 1036.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1036
+execute if score @s exi_elytra_km matches 1037.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1037
+execute if score @s exi_elytra_km matches 1038.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1038
+execute if score @s exi_elytra_km matches 1039.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1039
+execute if score @s exi_elytra_km matches 1040.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1040
+execute if score @s exi_elytra_km matches 1041.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1041
+execute if score @s exi_elytra_km matches 1042.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1042
+execute if score @s exi_elytra_km matches 1043.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1043
+execute if score @s exi_elytra_km matches 1044.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1044
+execute if score @s exi_elytra_km matches 1045.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1045
+execute if score @s exi_elytra_km matches 1046.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1046
+execute if score @s exi_elytra_km matches 1047.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1047
+execute if score @s exi_elytra_km matches 1048.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1048
+execute if score @s exi_elytra_km matches 1049.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1049
+execute if score @s exi_elytra_km matches 1050.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1050
+execute if score @s exi_elytra_km matches 1051.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1051
+execute if score @s exi_elytra_km matches 1052.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1052
+execute if score @s exi_elytra_km matches 1053.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1053
+execute if score @s exi_elytra_km matches 1054.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1054
+execute if score @s exi_elytra_km matches 1055.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1055
+execute if score @s exi_elytra_km matches 1056.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1056
+execute if score @s exi_elytra_km matches 1057.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1057
+execute if score @s exi_elytra_km matches 1058.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1058
+execute if score @s exi_elytra_km matches 1059.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1059
+execute if score @s exi_elytra_km matches 1060.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1060
+execute if score @s exi_elytra_km matches 1061.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1061
+execute if score @s exi_elytra_km matches 1062.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1062
+execute if score @s exi_elytra_km matches 1063.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1063
+execute if score @s exi_elytra_km matches 1064.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1064
+execute if score @s exi_elytra_km matches 1065.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1065
+execute if score @s exi_elytra_km matches 1066.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1066
+execute if score @s exi_elytra_km matches 1067.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1067
+execute if score @s exi_elytra_km matches 1068.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1068
+execute if score @s exi_elytra_km matches 1069.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1069
+execute if score @s exi_elytra_km matches 1070.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1070
+execute if score @s exi_elytra_km matches 1071.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1071
+execute if score @s exi_elytra_km matches 1072.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1072
+execute if score @s exi_elytra_km matches 1073.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1073
+execute if score @s exi_elytra_km matches 1074.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1074
+execute if score @s exi_elytra_km matches 1075.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1075
+execute if score @s exi_elytra_km matches 1076.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1076
+execute if score @s exi_elytra_km matches 1077.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1077
+execute if score @s exi_elytra_km matches 1078.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1078
+execute if score @s exi_elytra_km matches 1079.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1079
+execute if score @s exi_elytra_km matches 1080.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1080
+execute if score @s exi_elytra_km matches 1081.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1081
+execute if score @s exi_elytra_km matches 1082.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1082
+execute if score @s exi_elytra_km matches 1083.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1083
+execute if score @s exi_elytra_km matches 1084.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1084
+execute if score @s exi_elytra_km matches 1085.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1085
+execute if score @s exi_elytra_km matches 1086.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1086
+execute if score @s exi_elytra_km matches 1087.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1087
+execute if score @s exi_elytra_km matches 1088.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1088
+execute if score @s exi_elytra_km matches 1089.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1089
+execute if score @s exi_elytra_km matches 1090.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1090
+execute if score @s exi_elytra_km matches 1091.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1091
+execute if score @s exi_elytra_km matches 1092.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1092
+execute if score @s exi_elytra_km matches 1093.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1093
+execute if score @s exi_elytra_km matches 1094.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1094
+execute if score @s exi_elytra_km matches 1095.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1095
+execute if score @s exi_elytra_km matches 1096.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1096
+execute if score @s exi_elytra_km matches 1097.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1097
+execute if score @s exi_elytra_km matches 1098.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1098
+execute if score @s exi_elytra_km matches 1099.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1099
+execute if score @s exi_elytra_km matches 1100.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1100
+execute if score @s exi_elytra_km matches 1101.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1101
+execute if score @s exi_elytra_km matches 1102.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1102
+execute if score @s exi_elytra_km matches 1103.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1103
+execute if score @s exi_elytra_km matches 1104.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1104
+execute if score @s exi_elytra_km matches 1105.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1105
+execute if score @s exi_elytra_km matches 1106.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1106
+execute if score @s exi_elytra_km matches 1107.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1107
+execute if score @s exi_elytra_km matches 1108.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1108
+execute if score @s exi_elytra_km matches 1109.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1109
+execute if score @s exi_elytra_km matches 1110.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1110
+execute if score @s exi_elytra_km matches 1111.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1111
+execute if score @s exi_elytra_km matches 1112.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1112
+execute if score @s exi_elytra_km matches 1113.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1113
+execute if score @s exi_elytra_km matches 1114.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1114
+execute if score @s exi_elytra_km matches 1115.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1115
+execute if score @s exi_elytra_km matches 1116.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1116
+execute if score @s exi_elytra_km matches 1117.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1117
+execute if score @s exi_elytra_km matches 1118.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1118
+execute if score @s exi_elytra_km matches 1119.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1119
+execute if score @s exi_elytra_km matches 1120.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1120
+execute if score @s exi_elytra_km matches 1121.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1121
+execute if score @s exi_elytra_km matches 1122.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1122
+execute if score @s exi_elytra_km matches 1123.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1123
+execute if score @s exi_elytra_km matches 1124.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1124
+execute if score @s exi_elytra_km matches 1125.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1125
+execute if score @s exi_elytra_km matches 1126.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1126
+execute if score @s exi_elytra_km matches 1127.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1127
+execute if score @s exi_elytra_km matches 1128.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1128
+execute if score @s exi_elytra_km matches 1129.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1129
+execute if score @s exi_elytra_km matches 1130.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1130
+execute if score @s exi_elytra_km matches 1131.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1131
+execute if score @s exi_elytra_km matches 1132.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1132
+execute if score @s exi_elytra_km matches 1133.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1133
+execute if score @s exi_elytra_km matches 1134.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1134
+execute if score @s exi_elytra_km matches 1135.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1135
+execute if score @s exi_elytra_km matches 1136.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1136
+execute if score @s exi_elytra_km matches 1137.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1137
+execute if score @s exi_elytra_km matches 1138.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1138
+execute if score @s exi_elytra_km matches 1139.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1139
+execute if score @s exi_elytra_km matches 1140.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1140
+execute if score @s exi_elytra_km matches 1141.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1141
+execute if score @s exi_elytra_km matches 1142.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1142
+execute if score @s exi_elytra_km matches 1143.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1143
+execute if score @s exi_elytra_km matches 1144.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1144
+execute if score @s exi_elytra_km matches 1145.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1145
+execute if score @s exi_elytra_km matches 1146.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1146
+execute if score @s exi_elytra_km matches 1147.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1147
+execute if score @s exi_elytra_km matches 1148.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1148
+execute if score @s exi_elytra_km matches 1149.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1149
+execute if score @s exi_elytra_km matches 1150.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1150
+execute if score @s exi_elytra_km matches 1151.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1151
+execute if score @s exi_elytra_km matches 1152.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1152
+execute if score @s exi_elytra_km matches 1153.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1153
+execute if score @s exi_elytra_km matches 1154.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1154
+execute if score @s exi_elytra_km matches 1155.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1155
+execute if score @s exi_elytra_km matches 1156.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1156
+execute if score @s exi_elytra_km matches 1157.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1157
+execute if score @s exi_elytra_km matches 1158.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1158
+execute if score @s exi_elytra_km matches 1159.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1159
+execute if score @s exi_elytra_km matches 1160.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1160
+execute if score @s exi_elytra_km matches 1161.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1161
+execute if score @s exi_elytra_km matches 1162.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1162
+execute if score @s exi_elytra_km matches 1163.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1163
+execute if score @s exi_elytra_km matches 1164.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1164
+execute if score @s exi_elytra_km matches 1165.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1165
+execute if score @s exi_elytra_km matches 1166.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1166
+execute if score @s exi_elytra_km matches 1167.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1167
+execute if score @s exi_elytra_km matches 1168.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1168
+execute if score @s exi_elytra_km matches 1169.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1169
+execute if score @s exi_elytra_km matches 1170.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1170
+execute if score @s exi_elytra_km matches 1171.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1171
+execute if score @s exi_elytra_km matches 1172.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1172
+execute if score @s exi_elytra_km matches 1173.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1173
+execute if score @s exi_elytra_km matches 1174.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1174
+execute if score @s exi_elytra_km matches 1175.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1175
+execute if score @s exi_elytra_km matches 1176.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1176
+execute if score @s exi_elytra_km matches 1177.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1177
+execute if score @s exi_elytra_km matches 1178.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1178
+execute if score @s exi_elytra_km matches 1179.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1179
+execute if score @s exi_elytra_km matches 1180.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1180
+execute if score @s exi_elytra_km matches 1181.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1181
+execute if score @s exi_elytra_km matches 1182.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1182
+execute if score @s exi_elytra_km matches 1183.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1183
+execute if score @s exi_elytra_km matches 1184.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1184
+execute if score @s exi_elytra_km matches 1185.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1185
+execute if score @s exi_elytra_km matches 1186.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1186
+execute if score @s exi_elytra_km matches 1187.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1187
+execute if score @s exi_elytra_km matches 1188.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1188
+execute if score @s exi_elytra_km matches 1189.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1189
+execute if score @s exi_elytra_km matches 1190.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1190
+execute if score @s exi_elytra_km matches 1191.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1191
+execute if score @s exi_elytra_km matches 1192.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1192
+execute if score @s exi_elytra_km matches 1193.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1193
+execute if score @s exi_elytra_km matches 1194.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1194
+execute if score @s exi_elytra_km matches 1195.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1195
+execute if score @s exi_elytra_km matches 1196.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1196
+execute if score @s exi_elytra_km matches 1197.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1197
+execute if score @s exi_elytra_km matches 1198.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1198
+execute if score @s exi_elytra_km matches 1199.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1199
+execute if score @s exi_elytra_km matches 1200.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1200
+execute if score @s exi_elytra_km matches 1201.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1201
+execute if score @s exi_elytra_km matches 1202.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1202
+execute if score @s exi_elytra_km matches 1203.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1203
+execute if score @s exi_elytra_km matches 1204.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1204
+execute if score @s exi_elytra_km matches 1205.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1205
+execute if score @s exi_elytra_km matches 1206.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1206
+execute if score @s exi_elytra_km matches 1207.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1207
+execute if score @s exi_elytra_km matches 1208.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1208
+execute if score @s exi_elytra_km matches 1209.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1209
+execute if score @s exi_elytra_km matches 1210.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1210
+execute if score @s exi_elytra_km matches 1211.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1211
+execute if score @s exi_elytra_km matches 1212.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1212
+execute if score @s exi_elytra_km matches 1213.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1213
+execute if score @s exi_elytra_km matches 1214.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1214
+execute if score @s exi_elytra_km matches 1215.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1215
+execute if score @s exi_elytra_km matches 1216.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1216
+execute if score @s exi_elytra_km matches 1217.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1217
+execute if score @s exi_elytra_km matches 1218.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1218
+execute if score @s exi_elytra_km matches 1219.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1219
+execute if score @s exi_elytra_km matches 1220.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1220
+execute if score @s exi_elytra_km matches 1221.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1221
+execute if score @s exi_elytra_km matches 1222.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1222
+execute if score @s exi_elytra_km matches 1223.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1223
+execute if score @s exi_elytra_km matches 1224.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1224
+execute if score @s exi_elytra_km matches 1225.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1225
+execute if score @s exi_elytra_km matches 1226.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1226
+execute if score @s exi_elytra_km matches 1227.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1227
+execute if score @s exi_elytra_km matches 1228.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1228
+execute if score @s exi_elytra_km matches 1229.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1229
+execute if score @s exi_elytra_km matches 1230.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1230
+execute if score @s exi_elytra_km matches 1231.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1231
+execute if score @s exi_elytra_km matches 1232.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1232
+execute if score @s exi_elytra_km matches 1233.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1233
+execute if score @s exi_elytra_km matches 1234.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1234
+execute if score @s exi_elytra_km matches 1235.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1235
+execute if score @s exi_elytra_km matches 1236.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1236
+execute if score @s exi_elytra_km matches 1237.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1237
+execute if score @s exi_elytra_km matches 1238.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1238
+execute if score @s exi_elytra_km matches 1239.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1239
+execute if score @s exi_elytra_km matches 1240.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1240
+execute if score @s exi_elytra_km matches 1241.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1241
+execute if score @s exi_elytra_km matches 1242.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1242
+execute if score @s exi_elytra_km matches 1243.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1243
+execute if score @s exi_elytra_km matches 1244.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1244
+execute if score @s exi_elytra_km matches 1245.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1245
+execute if score @s exi_elytra_km matches 1246.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1246
+execute if score @s exi_elytra_km matches 1247.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1247
+execute if score @s exi_elytra_km matches 1248.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1248
+execute if score @s exi_elytra_km matches 1249.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1249
+execute if score @s exi_elytra_km matches 1250.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1250
+execute if score @s exi_elytra_km matches 1251.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1251
+execute if score @s exi_elytra_km matches 1252.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1252
+execute if score @s exi_elytra_km matches 1253.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1253
+execute if score @s exi_elytra_km matches 1254.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1254
+execute if score @s exi_elytra_km matches 1255.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1255
+execute if score @s exi_elytra_km matches 1256.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1256
+execute if score @s exi_elytra_km matches 1257.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1257
+execute if score @s exi_elytra_km matches 1258.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1258
+execute if score @s exi_elytra_km matches 1259.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1259
+execute if score @s exi_elytra_km matches 1260.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1260
+execute if score @s exi_elytra_km matches 1261.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1261
+execute if score @s exi_elytra_km matches 1262.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1262
+execute if score @s exi_elytra_km matches 1263.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1263
+execute if score @s exi_elytra_km matches 1264.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1264
+execute if score @s exi_elytra_km matches 1265.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1265
+execute if score @s exi_elytra_km matches 1266.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1266
+execute if score @s exi_elytra_km matches 1267.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1267
+execute if score @s exi_elytra_km matches 1268.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1268
+execute if score @s exi_elytra_km matches 1269.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1269
+execute if score @s exi_elytra_km matches 1270.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1270
+execute if score @s exi_elytra_km matches 1271.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1271
+execute if score @s exi_elytra_km matches 1272.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1272
+execute if score @s exi_elytra_km matches 1273.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1273
+execute if score @s exi_elytra_km matches 1274.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1274
+execute if score @s exi_elytra_km matches 1275.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1275
+execute if score @s exi_elytra_km matches 1276.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1276
+execute if score @s exi_elytra_km matches 1277.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1277
+execute if score @s exi_elytra_km matches 1278.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1278
+execute if score @s exi_elytra_km matches 1279.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1279
+execute if score @s exi_elytra_km matches 1280.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1280
+execute if score @s exi_elytra_km matches 1281.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1281
+execute if score @s exi_elytra_km matches 1282.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1282
+execute if score @s exi_elytra_km matches 1283.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1283
+execute if score @s exi_elytra_km matches 1284.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1284
+execute if score @s exi_elytra_km matches 1285.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1285
+execute if score @s exi_elytra_km matches 1286.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1286
+execute if score @s exi_elytra_km matches 1287.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1287
+execute if score @s exi_elytra_km matches 1288.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1288
+execute if score @s exi_elytra_km matches 1289.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1289
+execute if score @s exi_elytra_km matches 1290.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1290
+execute if score @s exi_elytra_km matches 1291.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1291
+execute if score @s exi_elytra_km matches 1292.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1292
+execute if score @s exi_elytra_km matches 1293.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1293
+execute if score @s exi_elytra_km matches 1294.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1294
+execute if score @s exi_elytra_km matches 1295.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1295
+execute if score @s exi_elytra_km matches 1296.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1296
+execute if score @s exi_elytra_km matches 1297.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1297
+execute if score @s exi_elytra_km matches 1298.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1298
+execute if score @s exi_elytra_km matches 1299.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1299
+execute if score @s exi_elytra_km matches 1300.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1300
+execute if score @s exi_elytra_km matches 1301.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1301
+execute if score @s exi_elytra_km matches 1302.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1302
+execute if score @s exi_elytra_km matches 1303.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1303
+execute if score @s exi_elytra_km matches 1304.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1304
+execute if score @s exi_elytra_km matches 1305.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1305
+execute if score @s exi_elytra_km matches 1306.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1306
+execute if score @s exi_elytra_km matches 1307.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1307
+execute if score @s exi_elytra_km matches 1308.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1308
+execute if score @s exi_elytra_km matches 1309.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1309
+execute if score @s exi_elytra_km matches 1310.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1310
+execute if score @s exi_elytra_km matches 1311.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1311
+execute if score @s exi_elytra_km matches 1312.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1312
+execute if score @s exi_elytra_km matches 1313.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1313
+execute if score @s exi_elytra_km matches 1314.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1314
+execute if score @s exi_elytra_km matches 1315.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1315
+execute if score @s exi_elytra_km matches 1316.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1316
+execute if score @s exi_elytra_km matches 1317.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1317
+execute if score @s exi_elytra_km matches 1318.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1318
+execute if score @s exi_elytra_km matches 1319.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1319
+execute if score @s exi_elytra_km matches 1320.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1320
+execute if score @s exi_elytra_km matches 1321.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1321
+execute if score @s exi_elytra_km matches 1322.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1322
+execute if score @s exi_elytra_km matches 1323.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1323
+execute if score @s exi_elytra_km matches 1324.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1324
+execute if score @s exi_elytra_km matches 1325.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1325
+execute if score @s exi_elytra_km matches 1326.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1326
+execute if score @s exi_elytra_km matches 1327.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1327
+execute if score @s exi_elytra_km matches 1328.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1328
+execute if score @s exi_elytra_km matches 1329.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1329
+execute if score @s exi_elytra_km matches 1330.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1330
+execute if score @s exi_elytra_km matches 1331.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1331
+execute if score @s exi_elytra_km matches 1332.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1332
+execute if score @s exi_elytra_km matches 1333.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1333
+execute if score @s exi_elytra_km matches 1334.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1334
+execute if score @s exi_elytra_km matches 1335.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1335
+execute if score @s exi_elytra_km matches 1336.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1336
+execute if score @s exi_elytra_km matches 1337.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1337
+execute if score @s exi_elytra_km matches 1338.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1338
+execute if score @s exi_elytra_km matches 1339.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1339
+execute if score @s exi_elytra_km matches 1340.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1340
+execute if score @s exi_elytra_km matches 1341.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1341
+execute if score @s exi_elytra_km matches 1342.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1342
+execute if score @s exi_elytra_km matches 1343.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1343
+execute if score @s exi_elytra_km matches 1344.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1344
+execute if score @s exi_elytra_km matches 1345.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1345
+execute if score @s exi_elytra_km matches 1346.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1346
+execute if score @s exi_elytra_km matches 1347.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1347
+execute if score @s exi_elytra_km matches 1348.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1348
+execute if score @s exi_elytra_km matches 1349.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1349
+execute if score @s exi_elytra_km matches 1350.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1350
+execute if score @s exi_elytra_km matches 1351.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1351
+execute if score @s exi_elytra_km matches 1352.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1352
+execute if score @s exi_elytra_km matches 1353.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1353
+execute if score @s exi_elytra_km matches 1354.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1354
+execute if score @s exi_elytra_km matches 1355.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1355
+execute if score @s exi_elytra_km matches 1356.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1356
+execute if score @s exi_elytra_km matches 1357.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1357
+execute if score @s exi_elytra_km matches 1358.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1358
+execute if score @s exi_elytra_km matches 1359.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1359
+execute if score @s exi_elytra_km matches 1360.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1360
+execute if score @s exi_elytra_km matches 1361.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1361
+execute if score @s exi_elytra_km matches 1362.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1362
+execute if score @s exi_elytra_km matches 1363.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1363
+execute if score @s exi_elytra_km matches 1364.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1364
+execute if score @s exi_elytra_km matches 1365.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1365
+execute if score @s exi_elytra_km matches 1366.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1366
+execute if score @s exi_elytra_km matches 1367.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1367
+execute if score @s exi_elytra_km matches 1368.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1368
+execute if score @s exi_elytra_km matches 1369.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1369
+execute if score @s exi_elytra_km matches 1370.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1370
+execute if score @s exi_elytra_km matches 1371.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1371
+execute if score @s exi_elytra_km matches 1372.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1372
+execute if score @s exi_elytra_km matches 1373.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1373
+execute if score @s exi_elytra_km matches 1374.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1374
+execute if score @s exi_elytra_km matches 1375.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1375
+execute if score @s exi_elytra_km matches 1376.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1376
+execute if score @s exi_elytra_km matches 1377.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1377
+execute if score @s exi_elytra_km matches 1378.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1378
+execute if score @s exi_elytra_km matches 1379.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1379
+execute if score @s exi_elytra_km matches 1380.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1380
+execute if score @s exi_elytra_km matches 1381.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1381
+execute if score @s exi_elytra_km matches 1382.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1382
+execute if score @s exi_elytra_km matches 1383.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1383
+execute if score @s exi_elytra_km matches 1384.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1384
+execute if score @s exi_elytra_km matches 1385.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1385
+execute if score @s exi_elytra_km matches 1386.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1386
+execute if score @s exi_elytra_km matches 1387.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1387
+execute if score @s exi_elytra_km matches 1388.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1388
+execute if score @s exi_elytra_km matches 1389.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1389
+execute if score @s exi_elytra_km matches 1390.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1390
+execute if score @s exi_elytra_km matches 1391.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1391
+execute if score @s exi_elytra_km matches 1392.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1392
+execute if score @s exi_elytra_km matches 1393.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1393
+execute if score @s exi_elytra_km matches 1394.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1394
+execute if score @s exi_elytra_km matches 1395.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1395
+execute if score @s exi_elytra_km matches 1396.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1396
+execute if score @s exi_elytra_km matches 1397.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1397
+execute if score @s exi_elytra_km matches 1398.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1398
+execute if score @s exi_elytra_km matches 1399.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1399
+execute if score @s exi_elytra_km matches 1400.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1400
+execute if score @s exi_elytra_km matches 1401.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1401
+execute if score @s exi_elytra_km matches 1402.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1402
+execute if score @s exi_elytra_km matches 1403.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1403
+execute if score @s exi_elytra_km matches 1404.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1404
+execute if score @s exi_elytra_km matches 1405.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1405
+execute if score @s exi_elytra_km matches 1406.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1406
+execute if score @s exi_elytra_km matches 1407.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1407
+execute if score @s exi_elytra_km matches 1408.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1408
+execute if score @s exi_elytra_km matches 1409.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1409
+execute if score @s exi_elytra_km matches 1410.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1410
+execute if score @s exi_elytra_km matches 1411.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1411
+execute if score @s exi_elytra_km matches 1412.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1412
+execute if score @s exi_elytra_km matches 1413.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1413
+execute if score @s exi_elytra_km matches 1414.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1414
+execute if score @s exi_elytra_km matches 1415.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1415
+execute if score @s exi_elytra_km matches 1416.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1416
+execute if score @s exi_elytra_km matches 1417.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1417
+execute if score @s exi_elytra_km matches 1418.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1418
+execute if score @s exi_elytra_km matches 1419.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1419
+execute if score @s exi_elytra_km matches 1420.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1420
+execute if score @s exi_elytra_km matches 1421.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1421
+execute if score @s exi_elytra_km matches 1422.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1422
+execute if score @s exi_elytra_km matches 1423.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1423
+execute if score @s exi_elytra_km matches 1424.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1424
+execute if score @s exi_elytra_km matches 1425.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1425
+execute if score @s exi_elytra_km matches 1426.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1426
+execute if score @s exi_elytra_km matches 1427.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1427
+execute if score @s exi_elytra_km matches 1428.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1428
+execute if score @s exi_elytra_km matches 1429.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1429
+execute if score @s exi_elytra_km matches 1430.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1430
+execute if score @s exi_elytra_km matches 1431.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1431
+execute if score @s exi_elytra_km matches 1432.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1432
+execute if score @s exi_elytra_km matches 1433.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1433
+execute if score @s exi_elytra_km matches 1434.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1434
+execute if score @s exi_elytra_km matches 1435.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1435
+execute if score @s exi_elytra_km matches 1436.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1436
+execute if score @s exi_elytra_km matches 1437.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1437
+execute if score @s exi_elytra_km matches 1438.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1438
+execute if score @s exi_elytra_km matches 1439.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1439
+execute if score @s exi_elytra_km matches 1440.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1440
+execute if score @s exi_elytra_km matches 1441.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1441
+execute if score @s exi_elytra_km matches 1442.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1442
+execute if score @s exi_elytra_km matches 1443.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1443
+execute if score @s exi_elytra_km matches 1444.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1444
+execute if score @s exi_elytra_km matches 1445.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1445
+execute if score @s exi_elytra_km matches 1446.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1446
+execute if score @s exi_elytra_km matches 1447.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1447
+execute if score @s exi_elytra_km matches 1448.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1448
+execute if score @s exi_elytra_km matches 1449.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1449
+execute if score @s exi_elytra_km matches 1450.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1450
+execute if score @s exi_elytra_km matches 1451.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1451
+execute if score @s exi_elytra_km matches 1452.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1452
+execute if score @s exi_elytra_km matches 1453.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1453
+execute if score @s exi_elytra_km matches 1454.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1454
+execute if score @s exi_elytra_km matches 1455.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1455
+execute if score @s exi_elytra_km matches 1456.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1456
+execute if score @s exi_elytra_km matches 1457.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1457
+execute if score @s exi_elytra_km matches 1458.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1458
+execute if score @s exi_elytra_km matches 1459.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1459
+execute if score @s exi_elytra_km matches 1460.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1460
+execute if score @s exi_elytra_km matches 1461.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1461
+execute if score @s exi_elytra_km matches 1462.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1462
+execute if score @s exi_elytra_km matches 1463.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1463
+execute if score @s exi_elytra_km matches 1464.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1464
+execute if score @s exi_elytra_km matches 1465.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1465
+execute if score @s exi_elytra_km matches 1466.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1466
+execute if score @s exi_elytra_km matches 1467.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1467
+execute if score @s exi_elytra_km matches 1468.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1468
+execute if score @s exi_elytra_km matches 1469.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1469
+execute if score @s exi_elytra_km matches 1470.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1470
+execute if score @s exi_elytra_km matches 1471.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1471
+execute if score @s exi_elytra_km matches 1472.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1472
+execute if score @s exi_elytra_km matches 1473.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1473
+execute if score @s exi_elytra_km matches 1474.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1474
+execute if score @s exi_elytra_km matches 1475.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1475
+execute if score @s exi_elytra_km matches 1476.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1476
+execute if score @s exi_elytra_km matches 1477.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1477
+execute if score @s exi_elytra_km matches 1478.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1478
+execute if score @s exi_elytra_km matches 1479.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1479
+execute if score @s exi_elytra_km matches 1480.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1480
+execute if score @s exi_elytra_km matches 1481.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1481
+execute if score @s exi_elytra_km matches 1482.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1482
+execute if score @s exi_elytra_km matches 1483.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1483
+execute if score @s exi_elytra_km matches 1484.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1484
+execute if score @s exi_elytra_km matches 1485.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1485
+execute if score @s exi_elytra_km matches 1486.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1486
+execute if score @s exi_elytra_km matches 1487.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1487
+execute if score @s exi_elytra_km matches 1488.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1488
+execute if score @s exi_elytra_km matches 1489.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1489
+execute if score @s exi_elytra_km matches 1490.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1490
+execute if score @s exi_elytra_km matches 1491.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1491
+execute if score @s exi_elytra_km matches 1492.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1492
+execute if score @s exi_elytra_km matches 1493.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1493
+execute if score @s exi_elytra_km matches 1494.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1494
+execute if score @s exi_elytra_km matches 1495.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1495
+execute if score @s exi_elytra_km matches 1496.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1496
+execute if score @s exi_elytra_km matches 1497.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1497
+execute if score @s exi_elytra_km matches 1498.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1498
+execute if score @s exi_elytra_km matches 1499.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1499
+execute if score @s exi_elytra_km matches 1500.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1500
+execute if score @s exi_elytra_km matches 1501.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1501
+execute if score @s exi_elytra_km matches 1502.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1502
+execute if score @s exi_elytra_km matches 1503.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1503
+execute if score @s exi_elytra_km matches 1504.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1504
+execute if score @s exi_elytra_km matches 1505.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1505
+execute if score @s exi_elytra_km matches 1506.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1506
+execute if score @s exi_elytra_km matches 1507.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1507
+execute if score @s exi_elytra_km matches 1508.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1508
+execute if score @s exi_elytra_km matches 1509.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1509
+execute if score @s exi_elytra_km matches 1510.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1510
+execute if score @s exi_elytra_km matches 1511.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1511
+execute if score @s exi_elytra_km matches 1512.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1512
+execute if score @s exi_elytra_km matches 1513.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1513
+execute if score @s exi_elytra_km matches 1514.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1514
+execute if score @s exi_elytra_km matches 1515.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1515
+execute if score @s exi_elytra_km matches 1516.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1516
+execute if score @s exi_elytra_km matches 1517.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1517
+execute if score @s exi_elytra_km matches 1518.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1518
+execute if score @s exi_elytra_km matches 1519.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1519
+execute if score @s exi_elytra_km matches 1520.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1520
+execute if score @s exi_elytra_km matches 1521.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1521
+execute if score @s exi_elytra_km matches 1522.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1522
+execute if score @s exi_elytra_km matches 1523.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1523
+execute if score @s exi_elytra_km matches 1524.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1524
+execute if score @s exi_elytra_km matches 1525.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1525
+execute if score @s exi_elytra_km matches 1526.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1526
+execute if score @s exi_elytra_km matches 1527.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1527
+execute if score @s exi_elytra_km matches 1528.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1528
+execute if score @s exi_elytra_km matches 1529.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1529
+execute if score @s exi_elytra_km matches 1530.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1530
+execute if score @s exi_elytra_km matches 1531.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1531
+execute if score @s exi_elytra_km matches 1532.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1532
+execute if score @s exi_elytra_km matches 1533.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1533
+execute if score @s exi_elytra_km matches 1534.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1534
+execute if score @s exi_elytra_km matches 1535.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1535
+execute if score @s exi_elytra_km matches 1536.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1536
+execute if score @s exi_elytra_km matches 1537.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1537
+execute if score @s exi_elytra_km matches 1538.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1538
+execute if score @s exi_elytra_km matches 1539.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1539
+execute if score @s exi_elytra_km matches 1540.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1540
+execute if score @s exi_elytra_km matches 1541.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1541
+execute if score @s exi_elytra_km matches 1542.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1542
+execute if score @s exi_elytra_km matches 1543.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1543
+execute if score @s exi_elytra_km matches 1544.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1544
+execute if score @s exi_elytra_km matches 1545.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1545
+execute if score @s exi_elytra_km matches 1546.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1546
+execute if score @s exi_elytra_km matches 1547.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1547
+execute if score @s exi_elytra_km matches 1548.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1548
+execute if score @s exi_elytra_km matches 1549.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1549
+execute if score @s exi_elytra_km matches 1550.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1550
+execute if score @s exi_elytra_km matches 1551.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1551
+execute if score @s exi_elytra_km matches 1552.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1552
+execute if score @s exi_elytra_km matches 1553.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1553
+execute if score @s exi_elytra_km matches 1554.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1554
+execute if score @s exi_elytra_km matches 1555.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1555
+execute if score @s exi_elytra_km matches 1556.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1556
+execute if score @s exi_elytra_km matches 1557.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1557
+execute if score @s exi_elytra_km matches 1558.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1558
+execute if score @s exi_elytra_km matches 1559.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1559
+execute if score @s exi_elytra_km matches 1560.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1560
+execute if score @s exi_elytra_km matches 1561.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1561
+execute if score @s exi_elytra_km matches 1562.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1562
+execute if score @s exi_elytra_km matches 1563.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1563
+execute if score @s exi_elytra_km matches 1564.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1564
+execute if score @s exi_elytra_km matches 1565.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1565
+execute if score @s exi_elytra_km matches 1566.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1566
+execute if score @s exi_elytra_km matches 1567.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1567
+execute if score @s exi_elytra_km matches 1568.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1568
+execute if score @s exi_elytra_km matches 1569.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1569
+execute if score @s exi_elytra_km matches 1570.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1570
+execute if score @s exi_elytra_km matches 1571.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1571
+execute if score @s exi_elytra_km matches 1572.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1572
+execute if score @s exi_elytra_km matches 1573.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1573
+execute if score @s exi_elytra_km matches 1574.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1574
+execute if score @s exi_elytra_km matches 1575.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1575
+execute if score @s exi_elytra_km matches 1576.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1576
+execute if score @s exi_elytra_km matches 1577.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1577
+execute if score @s exi_elytra_km matches 1578.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1578
+execute if score @s exi_elytra_km matches 1579.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1579
+execute if score @s exi_elytra_km matches 1580.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1580
+execute if score @s exi_elytra_km matches 1581.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1581
+execute if score @s exi_elytra_km matches 1582.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1582
+execute if score @s exi_elytra_km matches 1583.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1583
+execute if score @s exi_elytra_km matches 1584.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1584
+execute if score @s exi_elytra_km matches 1585.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1585
+execute if score @s exi_elytra_km matches 1586.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1586
+execute if score @s exi_elytra_km matches 1587.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1587
+execute if score @s exi_elytra_km matches 1588.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1588
+execute if score @s exi_elytra_km matches 1589.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1589
+execute if score @s exi_elytra_km matches 1590.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1590
+execute if score @s exi_elytra_km matches 1591.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1591
+execute if score @s exi_elytra_km matches 1592.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1592
+execute if score @s exi_elytra_km matches 1593.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1593
+execute if score @s exi_elytra_km matches 1594.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1594
+execute if score @s exi_elytra_km matches 1595.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1595
+execute if score @s exi_elytra_km matches 1596.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1596
+execute if score @s exi_elytra_km matches 1597.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1597
+execute if score @s exi_elytra_km matches 1598.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1598
+execute if score @s exi_elytra_km matches 1599.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1599
+execute if score @s exi_elytra_km matches 1600.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1600
+execute if score @s exi_elytra_km matches 1601.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1601
+execute if score @s exi_elytra_km matches 1602.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1602
+execute if score @s exi_elytra_km matches 1603.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1603
+execute if score @s exi_elytra_km matches 1604.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1604
+execute if score @s exi_elytra_km matches 1605.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1605
+execute if score @s exi_elytra_km matches 1606.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1606
+execute if score @s exi_elytra_km matches 1607.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1607
+execute if score @s exi_elytra_km matches 1608.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1608
+execute if score @s exi_elytra_km matches 1609.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1609
+execute if score @s exi_elytra_km matches 1610.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1610
+execute if score @s exi_elytra_km matches 1611.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1611
+execute if score @s exi_elytra_km matches 1612.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1612
+execute if score @s exi_elytra_km matches 1613.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1613
+execute if score @s exi_elytra_km matches 1614.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1614
+execute if score @s exi_elytra_km matches 1615.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1615
+execute if score @s exi_elytra_km matches 1616.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1616
+execute if score @s exi_elytra_km matches 1617.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1617
+execute if score @s exi_elytra_km matches 1618.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1618
+execute if score @s exi_elytra_km matches 1619.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1619
+execute if score @s exi_elytra_km matches 1620.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1620
+execute if score @s exi_elytra_km matches 1621.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1621
+execute if score @s exi_elytra_km matches 1622.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1622
+execute if score @s exi_elytra_km matches 1623.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1623
+execute if score @s exi_elytra_km matches 1624.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1624
+execute if score @s exi_elytra_km matches 1625.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1625
+execute if score @s exi_elytra_km matches 1626.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1626
+execute if score @s exi_elytra_km matches 1627.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1627
+execute if score @s exi_elytra_km matches 1628.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1628
+execute if score @s exi_elytra_km matches 1629.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1629
+execute if score @s exi_elytra_km matches 1630.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1630
+execute if score @s exi_elytra_km matches 1631.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1631
+execute if score @s exi_elytra_km matches 1632.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1632
+execute if score @s exi_elytra_km matches 1633.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1633
+execute if score @s exi_elytra_km matches 1634.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1634
+execute if score @s exi_elytra_km matches 1635.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1635
+execute if score @s exi_elytra_km matches 1636.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1636
+execute if score @s exi_elytra_km matches 1637.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1637
+execute if score @s exi_elytra_km matches 1638.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1638
+execute if score @s exi_elytra_km matches 1639.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1639
+execute if score @s exi_elytra_km matches 1640.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1640
+execute if score @s exi_elytra_km matches 1641.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1641
+execute if score @s exi_elytra_km matches 1642.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1642
+execute if score @s exi_elytra_km matches 1643.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1643
+execute if score @s exi_elytra_km matches 1644.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1644
+execute if score @s exi_elytra_km matches 1645.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1645
+execute if score @s exi_elytra_km matches 1646.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1646
+execute if score @s exi_elytra_km matches 1647.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1647
+execute if score @s exi_elytra_km matches 1648.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1648
+execute if score @s exi_elytra_km matches 1649.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1649
+execute if score @s exi_elytra_km matches 1650.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1650
+execute if score @s exi_elytra_km matches 1651.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1651
+execute if score @s exi_elytra_km matches 1652.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1652
+execute if score @s exi_elytra_km matches 1653.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1653
+execute if score @s exi_elytra_km matches 1654.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1654
+execute if score @s exi_elytra_km matches 1655.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1655
+execute if score @s exi_elytra_km matches 1656.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1656
+execute if score @s exi_elytra_km matches 1657.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1657
+execute if score @s exi_elytra_km matches 1658.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1658
+execute if score @s exi_elytra_km matches 1659.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1659
+execute if score @s exi_elytra_km matches 1660.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1660
+execute if score @s exi_elytra_km matches 1661.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1661
+execute if score @s exi_elytra_km matches 1662.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1662
+execute if score @s exi_elytra_km matches 1663.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1663
+execute if score @s exi_elytra_km matches 1664.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1664
+execute if score @s exi_elytra_km matches 1665.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1665
+execute if score @s exi_elytra_km matches 1666.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1666
+execute if score @s exi_elytra_km matches 1667.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1667
+execute if score @s exi_elytra_km matches 1668.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1668
+execute if score @s exi_elytra_km matches 1669.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1669
+execute if score @s exi_elytra_km matches 1670.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1670
+execute if score @s exi_elytra_km matches 1671.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1671
+execute if score @s exi_elytra_km matches 1672.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1672
+execute if score @s exi_elytra_km matches 1673.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1673
+execute if score @s exi_elytra_km matches 1674.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1674
+execute if score @s exi_elytra_km matches 1675.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1675
+execute if score @s exi_elytra_km matches 1676.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1676
+execute if score @s exi_elytra_km matches 1677.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1677
+execute if score @s exi_elytra_km matches 1678.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1678
+execute if score @s exi_elytra_km matches 1679.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1679
+execute if score @s exi_elytra_km matches 1680.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1680
+execute if score @s exi_elytra_km matches 1681.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1681
+execute if score @s exi_elytra_km matches 1682.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1682
+execute if score @s exi_elytra_km matches 1683.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1683
+execute if score @s exi_elytra_km matches 1684.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1684
+execute if score @s exi_elytra_km matches 1685.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1685
+execute if score @s exi_elytra_km matches 1686.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1686
+execute if score @s exi_elytra_km matches 1687.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1687
+execute if score @s exi_elytra_km matches 1688.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1688
+execute if score @s exi_elytra_km matches 1689.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1689
+execute if score @s exi_elytra_km matches 1690.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1690
+execute if score @s exi_elytra_km matches 1691.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1691
+execute if score @s exi_elytra_km matches 1692.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1692
+execute if score @s exi_elytra_km matches 1693.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1693
+execute if score @s exi_elytra_km matches 1694.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1694
+execute if score @s exi_elytra_km matches 1695.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1695
+execute if score @s exi_elytra_km matches 1696.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1696
+execute if score @s exi_elytra_km matches 1697.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1697
+execute if score @s exi_elytra_km matches 1698.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1698
+execute if score @s exi_elytra_km matches 1699.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1699
+execute if score @s exi_elytra_km matches 1700.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1700
+execute if score @s exi_elytra_km matches 1701.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1701
+execute if score @s exi_elytra_km matches 1702.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1702
+execute if score @s exi_elytra_km matches 1703.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1703
+execute if score @s exi_elytra_km matches 1704.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1704
+execute if score @s exi_elytra_km matches 1705.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1705
+execute if score @s exi_elytra_km matches 1706.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1706
+execute if score @s exi_elytra_km matches 1707.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1707
+execute if score @s exi_elytra_km matches 1708.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1708
+execute if score @s exi_elytra_km matches 1709.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1709
+execute if score @s exi_elytra_km matches 1710.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1710
+execute if score @s exi_elytra_km matches 1711.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1711
+execute if score @s exi_elytra_km matches 1712.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1712
+execute if score @s exi_elytra_km matches 1713.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1713
+execute if score @s exi_elytra_km matches 1714.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1714
+execute if score @s exi_elytra_km matches 1715.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1715
+execute if score @s exi_elytra_km matches 1716.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1716
+execute if score @s exi_elytra_km matches 1717.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1717
+execute if score @s exi_elytra_km matches 1718.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1718
+execute if score @s exi_elytra_km matches 1719.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1719
+execute if score @s exi_elytra_km matches 1720.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1720
+execute if score @s exi_elytra_km matches 1721.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1721
+execute if score @s exi_elytra_km matches 1722.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1722
+execute if score @s exi_elytra_km matches 1723.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1723
+execute if score @s exi_elytra_km matches 1724.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1724
+execute if score @s exi_elytra_km matches 1725.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1725
+execute if score @s exi_elytra_km matches 1726.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1726
+execute if score @s exi_elytra_km matches 1727.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1727
+execute if score @s exi_elytra_km matches 1728.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1728
+execute if score @s exi_elytra_km matches 1729.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1729
+execute if score @s exi_elytra_km matches 1730.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1730
+execute if score @s exi_elytra_km matches 1731.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1731
+execute if score @s exi_elytra_km matches 1732.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1732
+execute if score @s exi_elytra_km matches 1733.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1733
+execute if score @s exi_elytra_km matches 1734.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1734
+execute if score @s exi_elytra_km matches 1735.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1735
+execute if score @s exi_elytra_km matches 1736.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1736
+execute if score @s exi_elytra_km matches 1737.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1737
+execute if score @s exi_elytra_km matches 1738.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1738
+execute if score @s exi_elytra_km matches 1739.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1739
+execute if score @s exi_elytra_km matches 1740.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1740
+execute if score @s exi_elytra_km matches 1741.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1741
+execute if score @s exi_elytra_km matches 1742.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1742
+execute if score @s exi_elytra_km matches 1743.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1743
+execute if score @s exi_elytra_km matches 1744.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1744
+execute if score @s exi_elytra_km matches 1745.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1745
+execute if score @s exi_elytra_km matches 1746.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1746
+execute if score @s exi_elytra_km matches 1747.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1747
+execute if score @s exi_elytra_km matches 1748.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1748
+execute if score @s exi_elytra_km matches 1749.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1749
+execute if score @s exi_elytra_km matches 1750.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1750
+execute if score @s exi_elytra_km matches 1751.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1751
+execute if score @s exi_elytra_km matches 1752.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1752
+execute if score @s exi_elytra_km matches 1753.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1753
+execute if score @s exi_elytra_km matches 1754.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1754
+execute if score @s exi_elytra_km matches 1755.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1755
+execute if score @s exi_elytra_km matches 1756.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1756
+execute if score @s exi_elytra_km matches 1757.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1757
+execute if score @s exi_elytra_km matches 1758.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1758
+execute if score @s exi_elytra_km matches 1759.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1759
+execute if score @s exi_elytra_km matches 1760.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1760
+execute if score @s exi_elytra_km matches 1761.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1761
+execute if score @s exi_elytra_km matches 1762.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1762
+execute if score @s exi_elytra_km matches 1763.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1763
+execute if score @s exi_elytra_km matches 1764.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1764
+execute if score @s exi_elytra_km matches 1765.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1765
+execute if score @s exi_elytra_km matches 1766.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1766
+execute if score @s exi_elytra_km matches 1767.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1767
+execute if score @s exi_elytra_km matches 1768.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1768
+execute if score @s exi_elytra_km matches 1769.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1769
+execute if score @s exi_elytra_km matches 1770.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1770
+execute if score @s exi_elytra_km matches 1771.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1771
+execute if score @s exi_elytra_km matches 1772.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1772
+execute if score @s exi_elytra_km matches 1773.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1773
+execute if score @s exi_elytra_km matches 1774.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1774
+execute if score @s exi_elytra_km matches 1775.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1775
+execute if score @s exi_elytra_km matches 1776.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1776
+execute if score @s exi_elytra_km matches 1777.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1777
+execute if score @s exi_elytra_km matches 1778.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1778
+execute if score @s exi_elytra_km matches 1779.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1779
+execute if score @s exi_elytra_km matches 1780.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1780
+execute if score @s exi_elytra_km matches 1781.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1781
+execute if score @s exi_elytra_km matches 1782.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1782
+execute if score @s exi_elytra_km matches 1783.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1783
+execute if score @s exi_elytra_km matches 1784.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1784
+execute if score @s exi_elytra_km matches 1785.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1785
+execute if score @s exi_elytra_km matches 1786.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1786
+execute if score @s exi_elytra_km matches 1787.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1787
+execute if score @s exi_elytra_km matches 1788.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1788
+execute if score @s exi_elytra_km matches 1789.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1789
+execute if score @s exi_elytra_km matches 1790.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1790
+execute if score @s exi_elytra_km matches 1791.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1791
+execute if score @s exi_elytra_km matches 1792.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1792
+execute if score @s exi_elytra_km matches 1793.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1793
+execute if score @s exi_elytra_km matches 1794.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1794
+execute if score @s exi_elytra_km matches 1795.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1795
+execute if score @s exi_elytra_km matches 1796.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1796
+execute if score @s exi_elytra_km matches 1797.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1797
+execute if score @s exi_elytra_km matches 1798.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1798
+execute if score @s exi_elytra_km matches 1799.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1799
+execute if score @s exi_elytra_km matches 1800.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1800
+execute if score @s exi_elytra_km matches 1801.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1801
+execute if score @s exi_elytra_km matches 1802.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1802
+execute if score @s exi_elytra_km matches 1803.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1803
+execute if score @s exi_elytra_km matches 1804.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1804
+execute if score @s exi_elytra_km matches 1805.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1805
+execute if score @s exi_elytra_km matches 1806.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1806
+execute if score @s exi_elytra_km matches 1807.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1807
+execute if score @s exi_elytra_km matches 1808.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1808
+execute if score @s exi_elytra_km matches 1809.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1809
+execute if score @s exi_elytra_km matches 1810.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1810
+execute if score @s exi_elytra_km matches 1811.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1811
+execute if score @s exi_elytra_km matches 1812.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1812
+execute if score @s exi_elytra_km matches 1813.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1813
+execute if score @s exi_elytra_km matches 1814.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1814
+execute if score @s exi_elytra_km matches 1815.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1815
+execute if score @s exi_elytra_km matches 1816.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1816
+execute if score @s exi_elytra_km matches 1817.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1817
+execute if score @s exi_elytra_km matches 1818.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1818
+execute if score @s exi_elytra_km matches 1819.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1819
+execute if score @s exi_elytra_km matches 1820.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1820
+execute if score @s exi_elytra_km matches 1821.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1821
+execute if score @s exi_elytra_km matches 1822.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1822
+execute if score @s exi_elytra_km matches 1823.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1823
+execute if score @s exi_elytra_km matches 1824.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1824
+execute if score @s exi_elytra_km matches 1825.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1825
+execute if score @s exi_elytra_km matches 1826.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1826
+execute if score @s exi_elytra_km matches 1827.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1827
+execute if score @s exi_elytra_km matches 1828.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1828
+execute if score @s exi_elytra_km matches 1829.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1829
+execute if score @s exi_elytra_km matches 1830.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1830
+execute if score @s exi_elytra_km matches 1831.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1831
+execute if score @s exi_elytra_km matches 1832.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1832
+execute if score @s exi_elytra_km matches 1833.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1833
+execute if score @s exi_elytra_km matches 1834.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1834
+execute if score @s exi_elytra_km matches 1835.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1835
+execute if score @s exi_elytra_km matches 1836.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1836
+execute if score @s exi_elytra_km matches 1837.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1837
+execute if score @s exi_elytra_km matches 1838.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1838
+execute if score @s exi_elytra_km matches 1839.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1839
+execute if score @s exi_elytra_km matches 1840.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1840
+execute if score @s exi_elytra_km matches 1841.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1841
+execute if score @s exi_elytra_km matches 1842.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1842
+execute if score @s exi_elytra_km matches 1843.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1843
+execute if score @s exi_elytra_km matches 1844.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1844
+execute if score @s exi_elytra_km matches 1845.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1845
+execute if score @s exi_elytra_km matches 1846.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1846
+execute if score @s exi_elytra_km matches 1847.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1847
+execute if score @s exi_elytra_km matches 1848.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1848
+execute if score @s exi_elytra_km matches 1849.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1849
+execute if score @s exi_elytra_km matches 1850.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1850
+execute if score @s exi_elytra_km matches 1851.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1851
+execute if score @s exi_elytra_km matches 1852.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1852
+execute if score @s exi_elytra_km matches 1853.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1853
+execute if score @s exi_elytra_km matches 1854.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1854
+execute if score @s exi_elytra_km matches 1855.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1855
+execute if score @s exi_elytra_km matches 1856.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1856
+execute if score @s exi_elytra_km matches 1857.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1857
+execute if score @s exi_elytra_km matches 1858.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1858
+execute if score @s exi_elytra_km matches 1859.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1859
+execute if score @s exi_elytra_km matches 1860.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1860
+execute if score @s exi_elytra_km matches 1861.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1861
+execute if score @s exi_elytra_km matches 1862.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1862
+execute if score @s exi_elytra_km matches 1863.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1863
+execute if score @s exi_elytra_km matches 1864.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1864
+execute if score @s exi_elytra_km matches 1865.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1865
+execute if score @s exi_elytra_km matches 1866.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1866
+execute if score @s exi_elytra_km matches 1867.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1867
+execute if score @s exi_elytra_km matches 1868.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1868
+execute if score @s exi_elytra_km matches 1869.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1869
+execute if score @s exi_elytra_km matches 1870.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1870
+execute if score @s exi_elytra_km matches 1871.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1871
+execute if score @s exi_elytra_km matches 1872.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1872
+execute if score @s exi_elytra_km matches 1873.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1873
+execute if score @s exi_elytra_km matches 1874.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1874
+execute if score @s exi_elytra_km matches 1875.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1875
+execute if score @s exi_elytra_km matches 1876.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1876
+execute if score @s exi_elytra_km matches 1877.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1877
+execute if score @s exi_elytra_km matches 1878.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1878
+execute if score @s exi_elytra_km matches 1879.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1879
+execute if score @s exi_elytra_km matches 1880.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1880
+execute if score @s exi_elytra_km matches 1881.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1881
+execute if score @s exi_elytra_km matches 1882.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1882
+execute if score @s exi_elytra_km matches 1883.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1883
+execute if score @s exi_elytra_km matches 1884.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1884
+execute if score @s exi_elytra_km matches 1885.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1885
+execute if score @s exi_elytra_km matches 1886.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1886
+execute if score @s exi_elytra_km matches 1887.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1887
+execute if score @s exi_elytra_km matches 1888.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1888
+execute if score @s exi_elytra_km matches 1889.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1889
+execute if score @s exi_elytra_km matches 1890.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1890
+execute if score @s exi_elytra_km matches 1891.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1891
+execute if score @s exi_elytra_km matches 1892.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1892
+execute if score @s exi_elytra_km matches 1893.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1893
+execute if score @s exi_elytra_km matches 1894.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1894
+execute if score @s exi_elytra_km matches 1895.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1895
+execute if score @s exi_elytra_km matches 1896.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1896
+execute if score @s exi_elytra_km matches 1897.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1897
+execute if score @s exi_elytra_km matches 1898.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1898
+execute if score @s exi_elytra_km matches 1899.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1899
+execute if score @s exi_elytra_km matches 1900.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1900
+execute if score @s exi_elytra_km matches 1901.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1901
+execute if score @s exi_elytra_km matches 1902.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1902
+execute if score @s exi_elytra_km matches 1903.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1903
+execute if score @s exi_elytra_km matches 1904.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1904
+execute if score @s exi_elytra_km matches 1905.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1905
+execute if score @s exi_elytra_km matches 1906.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1906
+execute if score @s exi_elytra_km matches 1907.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1907
+execute if score @s exi_elytra_km matches 1908.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1908
+execute if score @s exi_elytra_km matches 1909.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1909
+execute if score @s exi_elytra_km matches 1910.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1910
+execute if score @s exi_elytra_km matches 1911.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1911
+execute if score @s exi_elytra_km matches 1912.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1912
+execute if score @s exi_elytra_km matches 1913.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1913
+execute if score @s exi_elytra_km matches 1914.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1914
+execute if score @s exi_elytra_km matches 1915.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1915
+execute if score @s exi_elytra_km matches 1916.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1916
+execute if score @s exi_elytra_km matches 1917.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1917
+execute if score @s exi_elytra_km matches 1918.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1918
+execute if score @s exi_elytra_km matches 1919.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1919
+execute if score @s exi_elytra_km matches 1920.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1920
+execute if score @s exi_elytra_km matches 1921.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1921
+execute if score @s exi_elytra_km matches 1922.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1922
+execute if score @s exi_elytra_km matches 1923.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1923
+execute if score @s exi_elytra_km matches 1924.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1924
+execute if score @s exi_elytra_km matches 1925.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1925
+execute if score @s exi_elytra_km matches 1926.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1926
+execute if score @s exi_elytra_km matches 1927.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1927
+execute if score @s exi_elytra_km matches 1928.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1928
+execute if score @s exi_elytra_km matches 1929.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1929
+execute if score @s exi_elytra_km matches 1930.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1930
+execute if score @s exi_elytra_km matches 1931.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1931
+execute if score @s exi_elytra_km matches 1932.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1932
+execute if score @s exi_elytra_km matches 1933.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1933
+execute if score @s exi_elytra_km matches 1934.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1934
+execute if score @s exi_elytra_km matches 1935.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1935
+execute if score @s exi_elytra_km matches 1936.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1936
+execute if score @s exi_elytra_km matches 1937.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1937
+execute if score @s exi_elytra_km matches 1938.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1938
+execute if score @s exi_elytra_km matches 1939.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1939
+execute if score @s exi_elytra_km matches 1940.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1940
+execute if score @s exi_elytra_km matches 1941.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1941
+execute if score @s exi_elytra_km matches 1942.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1942
+execute if score @s exi_elytra_km matches 1943.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1943
+execute if score @s exi_elytra_km matches 1944.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1944
+execute if score @s exi_elytra_km matches 1945.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1945
+execute if score @s exi_elytra_km matches 1946.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1946
+execute if score @s exi_elytra_km matches 1947.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1947
+execute if score @s exi_elytra_km matches 1948.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1948
+execute if score @s exi_elytra_km matches 1949.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1949
+execute if score @s exi_elytra_km matches 1950.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1950
+execute if score @s exi_elytra_km matches 1951.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1951
+execute if score @s exi_elytra_km matches 1952.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1952
+execute if score @s exi_elytra_km matches 1953.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1953
+execute if score @s exi_elytra_km matches 1954.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1954
+execute if score @s exi_elytra_km matches 1955.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1955
+execute if score @s exi_elytra_km matches 1956.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1956
+execute if score @s exi_elytra_km matches 1957.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1957
+execute if score @s exi_elytra_km matches 1958.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1958
+execute if score @s exi_elytra_km matches 1959.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1959
+execute if score @s exi_elytra_km matches 1960.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1960
+execute if score @s exi_elytra_km matches 1961.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1961
+execute if score @s exi_elytra_km matches 1962.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1962
+execute if score @s exi_elytra_km matches 1963.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1963
+execute if score @s exi_elytra_km matches 1964.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1964
+execute if score @s exi_elytra_km matches 1965.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1965
+execute if score @s exi_elytra_km matches 1966.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1966
+execute if score @s exi_elytra_km matches 1967.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1967
+execute if score @s exi_elytra_km matches 1968.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1968
+execute if score @s exi_elytra_km matches 1969.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1969
+execute if score @s exi_elytra_km matches 1970.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1970
+execute if score @s exi_elytra_km matches 1971.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1971
+execute if score @s exi_elytra_km matches 1972.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1972
+execute if score @s exi_elytra_km matches 1973.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1973
+execute if score @s exi_elytra_km matches 1974.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1974
+execute if score @s exi_elytra_km matches 1975.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1975
+execute if score @s exi_elytra_km matches 1976.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1976
+execute if score @s exi_elytra_km matches 1977.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1977
+execute if score @s exi_elytra_km matches 1978.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1978
+execute if score @s exi_elytra_km matches 1979.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1979
+execute if score @s exi_elytra_km matches 1980.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1980
+execute if score @s exi_elytra_km matches 1981.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1981
+execute if score @s exi_elytra_km matches 1982.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1982
+execute if score @s exi_elytra_km matches 1983.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1983
+execute if score @s exi_elytra_km matches 1984.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1984
+execute if score @s exi_elytra_km matches 1985.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1985
+execute if score @s exi_elytra_km matches 1986.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1986
+execute if score @s exi_elytra_km matches 1987.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1987
+execute if score @s exi_elytra_km matches 1988.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1988
+execute if score @s exi_elytra_km matches 1989.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1989
+execute if score @s exi_elytra_km matches 1990.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1990
+execute if score @s exi_elytra_km matches 1991.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1991
+execute if score @s exi_elytra_km matches 1992.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1992
+execute if score @s exi_elytra_km matches 1993.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1993
+execute if score @s exi_elytra_km matches 1994.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1994
+execute if score @s exi_elytra_km matches 1995.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1995
+execute if score @s exi_elytra_km matches 1996.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1996
+execute if score @s exi_elytra_km matches 1997.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1997
+execute if score @s exi_elytra_km matches 1998.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1998
+execute if score @s exi_elytra_km matches 1999.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 1999
+execute if score @s exi_elytra_km matches 2000.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2000
+execute if score @s exi_elytra_km matches 2001.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2001
+execute if score @s exi_elytra_km matches 2002.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2002
+execute if score @s exi_elytra_km matches 2003.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2003
+execute if score @s exi_elytra_km matches 2004.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2004
+execute if score @s exi_elytra_km matches 2005.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2005
+execute if score @s exi_elytra_km matches 2006.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2006
+execute if score @s exi_elytra_km matches 2007.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2007
+execute if score @s exi_elytra_km matches 2008.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2008
+execute if score @s exi_elytra_km matches 2009.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2009
+execute if score @s exi_elytra_km matches 2010.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2010
+execute if score @s exi_elytra_km matches 2011.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2011
+execute if score @s exi_elytra_km matches 2012.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2012
+execute if score @s exi_elytra_km matches 2013.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2013
+execute if score @s exi_elytra_km matches 2014.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2014
+execute if score @s exi_elytra_km matches 2015.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2015
+execute if score @s exi_elytra_km matches 2016.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2016
+execute if score @s exi_elytra_km matches 2017.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2017
+execute if score @s exi_elytra_km matches 2018.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2018
+execute if score @s exi_elytra_km matches 2019.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2019
+execute if score @s exi_elytra_km matches 2020.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2020
+execute if score @s exi_elytra_km matches 2021.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2021
+execute if score @s exi_elytra_km matches 2022.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2022
+execute if score @s exi_elytra_km matches 2023.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2023
+execute if score @s exi_elytra_km matches 2024.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2024
+execute if score @s exi_elytra_km matches 2025.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2025
+execute if score @s exi_elytra_km matches 2026.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2026
+execute if score @s exi_elytra_km matches 2027.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2027
+execute if score @s exi_elytra_km matches 2028.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2028
+execute if score @s exi_elytra_km matches 2029.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2029
+execute if score @s exi_elytra_km matches 2030.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2030
+execute if score @s exi_elytra_km matches 2031.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2031
+execute if score @s exi_elytra_km matches 2032.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2032
+execute if score @s exi_elytra_km matches 2033.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2033
+execute if score @s exi_elytra_km matches 2034.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2034
+execute if score @s exi_elytra_km matches 2035.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2035
+execute if score @s exi_elytra_km matches 2036.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2036
+execute if score @s exi_elytra_km matches 2037.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2037
+execute if score @s exi_elytra_km matches 2038.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2038
+execute if score @s exi_elytra_km matches 2039.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2039
+execute if score @s exi_elytra_km matches 2040.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2040
+execute if score @s exi_elytra_km matches 2041.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2041
+execute if score @s exi_elytra_km matches 2042.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2042
+execute if score @s exi_elytra_km matches 2043.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2043
+execute if score @s exi_elytra_km matches 2044.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2044
+execute if score @s exi_elytra_km matches 2045.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2045
+execute if score @s exi_elytra_km matches 2046.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2046
+execute if score @s exi_elytra_km matches 2047.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2047
+execute if score @s exi_elytra_km matches 2048.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2048
+execute if score @s exi_elytra_km matches 2049.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2049
+execute if score @s exi_elytra_km matches 2050.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2050
+execute if score @s exi_elytra_km matches 2051.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2051
+execute if score @s exi_elytra_km matches 2052.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2052
+execute if score @s exi_elytra_km matches 2053.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2053
+execute if score @s exi_elytra_km matches 2054.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2054
+execute if score @s exi_elytra_km matches 2055.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2055
+execute if score @s exi_elytra_km matches 2056.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2056
+execute if score @s exi_elytra_km matches 2057.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2057
+execute if score @s exi_elytra_km matches 2058.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2058
+execute if score @s exi_elytra_km matches 2059.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2059
+execute if score @s exi_elytra_km matches 2060.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2060
+execute if score @s exi_elytra_km matches 2061.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2061
+execute if score @s exi_elytra_km matches 2062.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2062
+execute if score @s exi_elytra_km matches 2063.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2063
+execute if score @s exi_elytra_km matches 2064.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2064
+execute if score @s exi_elytra_km matches 2065.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2065
+execute if score @s exi_elytra_km matches 2066.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2066
+execute if score @s exi_elytra_km matches 2067.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2067
+execute if score @s exi_elytra_km matches 2068.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2068
+execute if score @s exi_elytra_km matches 2069.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2069
+execute if score @s exi_elytra_km matches 2070.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2070
+execute if score @s exi_elytra_km matches 2071.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2071
+execute if score @s exi_elytra_km matches 2072.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2072
+execute if score @s exi_elytra_km matches 2073.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2073
+execute if score @s exi_elytra_km matches 2074.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2074
+execute if score @s exi_elytra_km matches 2075.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2075
+execute if score @s exi_elytra_km matches 2076.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2076
+execute if score @s exi_elytra_km matches 2077.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2077
+execute if score @s exi_elytra_km matches 2078.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2078
+execute if score @s exi_elytra_km matches 2079.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2079
+execute if score @s exi_elytra_km matches 2080.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2080
+execute if score @s exi_elytra_km matches 2081.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2081
+execute if score @s exi_elytra_km matches 2082.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2082
+execute if score @s exi_elytra_km matches 2083.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2083
+execute if score @s exi_elytra_km matches 2084.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2084
+execute if score @s exi_elytra_km matches 2085.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2085
+execute if score @s exi_elytra_km matches 2086.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2086
+execute if score @s exi_elytra_km matches 2087.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2087
+execute if score @s exi_elytra_km matches 2088.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2088
+execute if score @s exi_elytra_km matches 2089.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2089
+execute if score @s exi_elytra_km matches 2090.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2090
+execute if score @s exi_elytra_km matches 2091.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2091
+execute if score @s exi_elytra_km matches 2092.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2092
+execute if score @s exi_elytra_km matches 2093.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2093
+execute if score @s exi_elytra_km matches 2094.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2094
+execute if score @s exi_elytra_km matches 2095.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2095
+execute if score @s exi_elytra_km matches 2096.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2096
+execute if score @s exi_elytra_km matches 2097.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2097
+execute if score @s exi_elytra_km matches 2098.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2098
+execute if score @s exi_elytra_km matches 2099.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2099
+execute if score @s exi_elytra_km matches 2100.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2100
+execute if score @s exi_elytra_km matches 2101.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2101
+execute if score @s exi_elytra_km matches 2102.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2102
+execute if score @s exi_elytra_km matches 2103.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2103
+execute if score @s exi_elytra_km matches 2104.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2104
+execute if score @s exi_elytra_km matches 2105.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2105
+execute if score @s exi_elytra_km matches 2106.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2106
+execute if score @s exi_elytra_km matches 2107.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2107
+execute if score @s exi_elytra_km matches 2108.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2108
+execute if score @s exi_elytra_km matches 2109.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2109
+execute if score @s exi_elytra_km matches 2110.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2110
+execute if score @s exi_elytra_km matches 2111.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2111
+execute if score @s exi_elytra_km matches 2112.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2112
+execute if score @s exi_elytra_km matches 2113.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2113
+execute if score @s exi_elytra_km matches 2114.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2114
+execute if score @s exi_elytra_km matches 2115.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2115
+execute if score @s exi_elytra_km matches 2116.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2116
+execute if score @s exi_elytra_km matches 2117.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2117
+execute if score @s exi_elytra_km matches 2118.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2118
+execute if score @s exi_elytra_km matches 2119.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2119
+execute if score @s exi_elytra_km matches 2120.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2120
+execute if score @s exi_elytra_km matches 2121.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2121
+execute if score @s exi_elytra_km matches 2122.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2122
+execute if score @s exi_elytra_km matches 2123.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2123
+execute if score @s exi_elytra_km matches 2124.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2124
+execute if score @s exi_elytra_km matches 2125.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2125
+execute if score @s exi_elytra_km matches 2126.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2126
+execute if score @s exi_elytra_km matches 2127.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2127
+execute if score @s exi_elytra_km matches 2128.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2128
+execute if score @s exi_elytra_km matches 2129.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2129
+execute if score @s exi_elytra_km matches 2130.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2130
+execute if score @s exi_elytra_km matches 2131.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2131
+execute if score @s exi_elytra_km matches 2132.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2132
+execute if score @s exi_elytra_km matches 2133.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2133
+execute if score @s exi_elytra_km matches 2134.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2134
+execute if score @s exi_elytra_km matches 2135.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2135
+execute if score @s exi_elytra_km matches 2136.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2136
+execute if score @s exi_elytra_km matches 2137.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2137
+execute if score @s exi_elytra_km matches 2138.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2138
+execute if score @s exi_elytra_km matches 2139.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2139
+execute if score @s exi_elytra_km matches 2140.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2140
+execute if score @s exi_elytra_km matches 2141.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2141
+execute if score @s exi_elytra_km matches 2142.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2142
+execute if score @s exi_elytra_km matches 2143.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2143
+execute if score @s exi_elytra_km matches 2144.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2144
+execute if score @s exi_elytra_km matches 2145.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2145
+execute if score @s exi_elytra_km matches 2146.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2146
+execute if score @s exi_elytra_km matches 2147.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2147
+execute if score @s exi_elytra_km matches 2148.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2148
+execute if score @s exi_elytra_km matches 2149.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2149
+execute if score @s exi_elytra_km matches 2150.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2150
+execute if score @s exi_elytra_km matches 2151.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2151
+execute if score @s exi_elytra_km matches 2152.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2152
+execute if score @s exi_elytra_km matches 2153.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2153
+execute if score @s exi_elytra_km matches 2154.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2154
+execute if score @s exi_elytra_km matches 2155.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2155
+execute if score @s exi_elytra_km matches 2156.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2156
+execute if score @s exi_elytra_km matches 2157.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2157
+execute if score @s exi_elytra_km matches 2158.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2158
+execute if score @s exi_elytra_km matches 2159.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2159
+execute if score @s exi_elytra_km matches 2160.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2160
+execute if score @s exi_elytra_km matches 2161.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2161
+execute if score @s exi_elytra_km matches 2162.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2162
+execute if score @s exi_elytra_km matches 2163.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2163
+execute if score @s exi_elytra_km matches 2164.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2164
+execute if score @s exi_elytra_km matches 2165.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2165
+execute if score @s exi_elytra_km matches 2166.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2166
+execute if score @s exi_elytra_km matches 2167.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2167
+execute if score @s exi_elytra_km matches 2168.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2168
+execute if score @s exi_elytra_km matches 2169.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2169
+execute if score @s exi_elytra_km matches 2170.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2170
+execute if score @s exi_elytra_km matches 2171.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2171
+execute if score @s exi_elytra_km matches 2172.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2172
+execute if score @s exi_elytra_km matches 2173.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2173
+execute if score @s exi_elytra_km matches 2174.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2174
+execute if score @s exi_elytra_km matches 2175.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2175
+execute if score @s exi_elytra_km matches 2176.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2176
+execute if score @s exi_elytra_km matches 2177.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2177
+execute if score @s exi_elytra_km matches 2178.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2178
+execute if score @s exi_elytra_km matches 2179.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2179
+execute if score @s exi_elytra_km matches 2180.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2180
+execute if score @s exi_elytra_km matches 2181.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2181
+execute if score @s exi_elytra_km matches 2182.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2182
+execute if score @s exi_elytra_km matches 2183.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2183
+execute if score @s exi_elytra_km matches 2184.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2184
+execute if score @s exi_elytra_km matches 2185.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2185
+execute if score @s exi_elytra_km matches 2186.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2186
+execute if score @s exi_elytra_km matches 2187.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2187
+execute if score @s exi_elytra_km matches 2188.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2188
+execute if score @s exi_elytra_km matches 2189.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2189
+execute if score @s exi_elytra_km matches 2190.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2190
+execute if score @s exi_elytra_km matches 2191.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2191
+execute if score @s exi_elytra_km matches 2192.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2192
+execute if score @s exi_elytra_km matches 2193.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2193
+execute if score @s exi_elytra_km matches 2194.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2194
+execute if score @s exi_elytra_km matches 2195.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2195
+execute if score @s exi_elytra_km matches 2196.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2196
+execute if score @s exi_elytra_km matches 2197.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2197
+execute if score @s exi_elytra_km matches 2198.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2198
+execute if score @s exi_elytra_km matches 2199.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2199
+execute if score @s exi_elytra_km matches 2200.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2200
+execute if score @s exi_elytra_km matches 2201.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2201
+execute if score @s exi_elytra_km matches 2202.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2202
+execute if score @s exi_elytra_km matches 2203.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2203
+execute if score @s exi_elytra_km matches 2204.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2204
+execute if score @s exi_elytra_km matches 2205.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2205
+execute if score @s exi_elytra_km matches 2206.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2206
+execute if score @s exi_elytra_km matches 2207.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2207
+execute if score @s exi_elytra_km matches 2208.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2208
+execute if score @s exi_elytra_km matches 2209.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2209
+execute if score @s exi_elytra_km matches 2210.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2210
+execute if score @s exi_elytra_km matches 2211.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2211
+execute if score @s exi_elytra_km matches 2212.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2212
+execute if score @s exi_elytra_km matches 2213.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2213
+execute if score @s exi_elytra_km matches 2214.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2214
+execute if score @s exi_elytra_km matches 2215.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2215
+execute if score @s exi_elytra_km matches 2216.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2216
+execute if score @s exi_elytra_km matches 2217.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2217
+execute if score @s exi_elytra_km matches 2218.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2218
+execute if score @s exi_elytra_km matches 2219.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2219
+execute if score @s exi_elytra_km matches 2220.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2220
+execute if score @s exi_elytra_km matches 2221.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2221
+execute if score @s exi_elytra_km matches 2222.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2222
+execute if score @s exi_elytra_km matches 2223.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2223
+execute if score @s exi_elytra_km matches 2224.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2224
+execute if score @s exi_elytra_km matches 2225.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2225
+execute if score @s exi_elytra_km matches 2226.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2226
+execute if score @s exi_elytra_km matches 2227.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2227
+execute if score @s exi_elytra_km matches 2228.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2228
+execute if score @s exi_elytra_km matches 2229.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2229
+execute if score @s exi_elytra_km matches 2230.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2230
+execute if score @s exi_elytra_km matches 2231.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2231
+execute if score @s exi_elytra_km matches 2232.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2232
+execute if score @s exi_elytra_km matches 2233.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2233
+execute if score @s exi_elytra_km matches 2234.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2234
+execute if score @s exi_elytra_km matches 2235.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2235
+execute if score @s exi_elytra_km matches 2236.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2236
+execute if score @s exi_elytra_km matches 2237.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2237
+execute if score @s exi_elytra_km matches 2238.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2238
+execute if score @s exi_elytra_km matches 2239.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2239
+execute if score @s exi_elytra_km matches 2240.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2240
+execute if score @s exi_elytra_km matches 2241.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2241
+execute if score @s exi_elytra_km matches 2242.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2242
+execute if score @s exi_elytra_km matches 2243.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2243
+execute if score @s exi_elytra_km matches 2244.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2244
+execute if score @s exi_elytra_km matches 2245.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2245
+execute if score @s exi_elytra_km matches 2246.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2246
+execute if score @s exi_elytra_km matches 2247.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2247
+execute if score @s exi_elytra_km matches 2248.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2248
+execute if score @s exi_elytra_km matches 2249.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2249
+execute if score @s exi_elytra_km matches 2250.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2250
+execute if score @s exi_elytra_km matches 2251.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2251
+execute if score @s exi_elytra_km matches 2252.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2252
+execute if score @s exi_elytra_km matches 2253.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2253
+execute if score @s exi_elytra_km matches 2254.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2254
+execute if score @s exi_elytra_km matches 2255.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2255
+execute if score @s exi_elytra_km matches 2256.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2256
+execute if score @s exi_elytra_km matches 2257.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2257
+execute if score @s exi_elytra_km matches 2258.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2258
+execute if score @s exi_elytra_km matches 2259.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2259
+execute if score @s exi_elytra_km matches 2260.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2260
+execute if score @s exi_elytra_km matches 2261.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2261
+execute if score @s exi_elytra_km matches 2262.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2262
+execute if score @s exi_elytra_km matches 2263.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2263
+execute if score @s exi_elytra_km matches 2264.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2264
+execute if score @s exi_elytra_km matches 2265.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2265
+execute if score @s exi_elytra_km matches 2266.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2266
+execute if score @s exi_elytra_km matches 2267.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2267
+execute if score @s exi_elytra_km matches 2268.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2268
+execute if score @s exi_elytra_km matches 2269.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2269
+execute if score @s exi_elytra_km matches 2270.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2270
+execute if score @s exi_elytra_km matches 2271.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2271
+execute if score @s exi_elytra_km matches 2272.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2272
+execute if score @s exi_elytra_km matches 2273.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2273
+execute if score @s exi_elytra_km matches 2274.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2274
+execute if score @s exi_elytra_km matches 2275.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2275
+execute if score @s exi_elytra_km matches 2276.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2276
+execute if score @s exi_elytra_km matches 2277.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2277
+execute if score @s exi_elytra_km matches 2278.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2278
+execute if score @s exi_elytra_km matches 2279.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2279
+execute if score @s exi_elytra_km matches 2280.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2280
+execute if score @s exi_elytra_km matches 2281.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2281
+execute if score @s exi_elytra_km matches 2282.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2282
+execute if score @s exi_elytra_km matches 2283.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2283
+execute if score @s exi_elytra_km matches 2284.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2284
+execute if score @s exi_elytra_km matches 2285.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2285
+execute if score @s exi_elytra_km matches 2286.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2286
+execute if score @s exi_elytra_km matches 2287.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2287
+execute if score @s exi_elytra_km matches 2288.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2288
+execute if score @s exi_elytra_km matches 2289.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2289
+execute if score @s exi_elytra_km matches 2290.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2290
+execute if score @s exi_elytra_km matches 2291.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2291
+execute if score @s exi_elytra_km matches 2292.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2292
+execute if score @s exi_elytra_km matches 2293.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2293
+execute if score @s exi_elytra_km matches 2294.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2294
+execute if score @s exi_elytra_km matches 2295.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2295
+execute if score @s exi_elytra_km matches 2296.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2296
+execute if score @s exi_elytra_km matches 2297.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2297
+execute if score @s exi_elytra_km matches 2298.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2298
+execute if score @s exi_elytra_km matches 2299.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2299
+execute if score @s exi_elytra_km matches 2300.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2300
+execute if score @s exi_elytra_km matches 2301.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2301
+execute if score @s exi_elytra_km matches 2302.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2302
+execute if score @s exi_elytra_km matches 2303.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2303
+execute if score @s exi_elytra_km matches 2304.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2304
+execute if score @s exi_elytra_km matches 2305.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2305
+execute if score @s exi_elytra_km matches 2306.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2306
+execute if score @s exi_elytra_km matches 2307.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2307
+execute if score @s exi_elytra_km matches 2308.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2308
+execute if score @s exi_elytra_km matches 2309.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2309
+execute if score @s exi_elytra_km matches 2310.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2310
+execute if score @s exi_elytra_km matches 2311.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2311
+execute if score @s exi_elytra_km matches 2312.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2312
+execute if score @s exi_elytra_km matches 2313.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2313
+execute if score @s exi_elytra_km matches 2314.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2314
+execute if score @s exi_elytra_km matches 2315.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2315
+execute if score @s exi_elytra_km matches 2316.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2316
+execute if score @s exi_elytra_km matches 2317.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2317
+execute if score @s exi_elytra_km matches 2318.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2318
+execute if score @s exi_elytra_km matches 2319.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2319
+execute if score @s exi_elytra_km matches 2320.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2320
+execute if score @s exi_elytra_km matches 2321.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2321
+execute if score @s exi_elytra_km matches 2322.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2322
+execute if score @s exi_elytra_km matches 2323.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2323
+execute if score @s exi_elytra_km matches 2324.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2324
+execute if score @s exi_elytra_km matches 2325.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2325
+execute if score @s exi_elytra_km matches 2326.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2326
+execute if score @s exi_elytra_km matches 2327.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2327
+execute if score @s exi_elytra_km matches 2328.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2328
+execute if score @s exi_elytra_km matches 2329.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2329
+execute if score @s exi_elytra_km matches 2330.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2330
+execute if score @s exi_elytra_km matches 2331.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2331
+execute if score @s exi_elytra_km matches 2332.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2332
+execute if score @s exi_elytra_km matches 2333.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2333
+execute if score @s exi_elytra_km matches 2334.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2334
+execute if score @s exi_elytra_km matches 2335.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2335
+execute if score @s exi_elytra_km matches 2336.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2336
+execute if score @s exi_elytra_km matches 2337.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2337
+execute if score @s exi_elytra_km matches 2338.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2338
+execute if score @s exi_elytra_km matches 2339.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2339
+execute if score @s exi_elytra_km matches 2340.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2340
+execute if score @s exi_elytra_km matches 2341.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2341
+execute if score @s exi_elytra_km matches 2342.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2342
+execute if score @s exi_elytra_km matches 2343.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2343
+execute if score @s exi_elytra_km matches 2344.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2344
+execute if score @s exi_elytra_km matches 2345.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2345
+execute if score @s exi_elytra_km matches 2346.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2346
+execute if score @s exi_elytra_km matches 2347.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2347
+execute if score @s exi_elytra_km matches 2348.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2348
+execute if score @s exi_elytra_km matches 2349.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2349
+execute if score @s exi_elytra_km matches 2350.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2350
+execute if score @s exi_elytra_km matches 2351.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2351
+execute if score @s exi_elytra_km matches 2352.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2352
+execute if score @s exi_elytra_km matches 2353.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2353
+execute if score @s exi_elytra_km matches 2354.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2354
+execute if score @s exi_elytra_km matches 2355.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2355
+execute if score @s exi_elytra_km matches 2356.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2356
+execute if score @s exi_elytra_km matches 2357.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2357
+execute if score @s exi_elytra_km matches 2358.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2358
+execute if score @s exi_elytra_km matches 2359.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2359
+execute if score @s exi_elytra_km matches 2360.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2360
+execute if score @s exi_elytra_km matches 2361.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2361
+execute if score @s exi_elytra_km matches 2362.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2362
+execute if score @s exi_elytra_km matches 2363.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2363
+execute if score @s exi_elytra_km matches 2364.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2364
+execute if score @s exi_elytra_km matches 2365.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2365
+execute if score @s exi_elytra_km matches 2366.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2366
+execute if score @s exi_elytra_km matches 2367.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2367
+execute if score @s exi_elytra_km matches 2368.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2368
+execute if score @s exi_elytra_km matches 2369.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2369
+execute if score @s exi_elytra_km matches 2370.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2370
+execute if score @s exi_elytra_km matches 2371.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2371
+execute if score @s exi_elytra_km matches 2372.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2372
+execute if score @s exi_elytra_km matches 2373.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2373
+execute if score @s exi_elytra_km matches 2374.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2374
+execute if score @s exi_elytra_km matches 2375.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2375
+execute if score @s exi_elytra_km matches 2376.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2376
+execute if score @s exi_elytra_km matches 2377.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2377
+execute if score @s exi_elytra_km matches 2378.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2378
+execute if score @s exi_elytra_km matches 2379.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2379
+execute if score @s exi_elytra_km matches 2380.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2380
+execute if score @s exi_elytra_km matches 2381.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2381
+execute if score @s exi_elytra_km matches 2382.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2382
+execute if score @s exi_elytra_km matches 2383.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2383
+execute if score @s exi_elytra_km matches 2384.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2384
+execute if score @s exi_elytra_km matches 2385.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2385
+execute if score @s exi_elytra_km matches 2386.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2386
+execute if score @s exi_elytra_km matches 2387.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2387
+execute if score @s exi_elytra_km matches 2388.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2388
+execute if score @s exi_elytra_km matches 2389.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2389
+execute if score @s exi_elytra_km matches 2390.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2390
+execute if score @s exi_elytra_km matches 2391.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2391
+execute if score @s exi_elytra_km matches 2392.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2392
+execute if score @s exi_elytra_km matches 2393.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2393
+execute if score @s exi_elytra_km matches 2394.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2394
+execute if score @s exi_elytra_km matches 2395.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2395
+execute if score @s exi_elytra_km matches 2396.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2396
+execute if score @s exi_elytra_km matches 2397.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2397
+execute if score @s exi_elytra_km matches 2398.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2398
+execute if score @s exi_elytra_km matches 2399.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2399
+execute if score @s exi_elytra_km matches 2400.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2400
+execute if score @s exi_elytra_km matches 2401.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2401
+execute if score @s exi_elytra_km matches 2402.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2402
+execute if score @s exi_elytra_km matches 2403.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2403
+execute if score @s exi_elytra_km matches 2404.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2404
+execute if score @s exi_elytra_km matches 2405.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2405
+execute if score @s exi_elytra_km matches 2406.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2406
+execute if score @s exi_elytra_km matches 2407.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2407
+execute if score @s exi_elytra_km matches 2408.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2408
+execute if score @s exi_elytra_km matches 2409.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2409
+execute if score @s exi_elytra_km matches 2410.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2410
+execute if score @s exi_elytra_km matches 2411.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2411
+execute if score @s exi_elytra_km matches 2412.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2412
+execute if score @s exi_elytra_km matches 2413.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2413
+execute if score @s exi_elytra_km matches 2414.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2414
+execute if score @s exi_elytra_km matches 2415.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2415
+execute if score @s exi_elytra_km matches 2416.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2416
+execute if score @s exi_elytra_km matches 2417.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2417
+execute if score @s exi_elytra_km matches 2418.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2418
+execute if score @s exi_elytra_km matches 2419.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2419
+execute if score @s exi_elytra_km matches 2420.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2420
+execute if score @s exi_elytra_km matches 2421.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2421
+execute if score @s exi_elytra_km matches 2422.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2422
+execute if score @s exi_elytra_km matches 2423.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2423
+execute if score @s exi_elytra_km matches 2424.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2424
+execute if score @s exi_elytra_km matches 2425.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2425
+execute if score @s exi_elytra_km matches 2426.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2426
+execute if score @s exi_elytra_km matches 2427.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2427
+execute if score @s exi_elytra_km matches 2428.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2428
+execute if score @s exi_elytra_km matches 2429.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2429
+execute if score @s exi_elytra_km matches 2430.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2430
+execute if score @s exi_elytra_km matches 2431.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2431
+execute if score @s exi_elytra_km matches 2432.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2432
+execute if score @s exi_elytra_km matches 2433.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2433
+execute if score @s exi_elytra_km matches 2434.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2434
+execute if score @s exi_elytra_km matches 2435.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2435
+execute if score @s exi_elytra_km matches 2436.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2436
+execute if score @s exi_elytra_km matches 2437.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2437
+execute if score @s exi_elytra_km matches 2438.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2438
+execute if score @s exi_elytra_km matches 2439.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2439
+execute if score @s exi_elytra_km matches 2440.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2440
+execute if score @s exi_elytra_km matches 2441.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2441
+execute if score @s exi_elytra_km matches 2442.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2442
+execute if score @s exi_elytra_km matches 2443.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2443
+execute if score @s exi_elytra_km matches 2444.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2444
+execute if score @s exi_elytra_km matches 2445.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2445
+execute if score @s exi_elytra_km matches 2446.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2446
+execute if score @s exi_elytra_km matches 2447.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2447
+execute if score @s exi_elytra_km matches 2448.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2448
+execute if score @s exi_elytra_km matches 2449.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2449
+execute if score @s exi_elytra_km matches 2450.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2450
+execute if score @s exi_elytra_km matches 2451.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2451
+execute if score @s exi_elytra_km matches 2452.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2452
+execute if score @s exi_elytra_km matches 2453.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2453
+execute if score @s exi_elytra_km matches 2454.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2454
+execute if score @s exi_elytra_km matches 2455.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2455
+execute if score @s exi_elytra_km matches 2456.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2456
+execute if score @s exi_elytra_km matches 2457.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2457
+execute if score @s exi_elytra_km matches 2458.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2458
+execute if score @s exi_elytra_km matches 2459.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2459
+execute if score @s exi_elytra_km matches 2460.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2460
+execute if score @s exi_elytra_km matches 2461.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2461
+execute if score @s exi_elytra_km matches 2462.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2462
+execute if score @s exi_elytra_km matches 2463.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2463
+execute if score @s exi_elytra_km matches 2464.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2464
+execute if score @s exi_elytra_km matches 2465.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2465
+execute if score @s exi_elytra_km matches 2466.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2466
+execute if score @s exi_elytra_km matches 2467.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2467
+execute if score @s exi_elytra_km matches 2468.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2468
+execute if score @s exi_elytra_km matches 2469.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2469
+execute if score @s exi_elytra_km matches 2470.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2470
+execute if score @s exi_elytra_km matches 2471.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2471
+execute if score @s exi_elytra_km matches 2472.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2472
+execute if score @s exi_elytra_km matches 2473.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2473
+execute if score @s exi_elytra_km matches 2474.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2474
+execute if score @s exi_elytra_km matches 2475.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2475
+execute if score @s exi_elytra_km matches 2476.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2476
+execute if score @s exi_elytra_km matches 2477.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2477
+execute if score @s exi_elytra_km matches 2478.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2478
+execute if score @s exi_elytra_km matches 2479.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2479
+execute if score @s exi_elytra_km matches 2480.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2480
+execute if score @s exi_elytra_km matches 2481.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2481
+execute if score @s exi_elytra_km matches 2482.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2482
+execute if score @s exi_elytra_km matches 2483.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2483
+execute if score @s exi_elytra_km matches 2484.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2484
+execute if score @s exi_elytra_km matches 2485.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2485
+execute if score @s exi_elytra_km matches 2486.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2486
+execute if score @s exi_elytra_km matches 2487.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2487
+execute if score @s exi_elytra_km matches 2488.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2488
+execute if score @s exi_elytra_km matches 2489.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2489
+execute if score @s exi_elytra_km matches 2490.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2490
+execute if score @s exi_elytra_km matches 2491.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2491
+execute if score @s exi_elytra_km matches 2492.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2492
+execute if score @s exi_elytra_km matches 2493.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2493
+execute if score @s exi_elytra_km matches 2494.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2494
+execute if score @s exi_elytra_km matches 2495.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2495
+execute if score @s exi_elytra_km matches 2496.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2496
+execute if score @s exi_elytra_km matches 2497.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2497
+execute if score @s exi_elytra_km matches 2498.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2498
+execute if score @s exi_elytra_km matches 2499.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2499
+execute if score @s exi_elytra_km matches 2500.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2500
+execute if score @s exi_elytra_km matches 2501.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2501
+execute if score @s exi_elytra_km matches 2502.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2502
+execute if score @s exi_elytra_km matches 2503.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2503
+execute if score @s exi_elytra_km matches 2504.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2504
+execute if score @s exi_elytra_km matches 2505.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2505
+execute if score @s exi_elytra_km matches 2506.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2506
+execute if score @s exi_elytra_km matches 2507.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2507
+execute if score @s exi_elytra_km matches 2508.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2508
+execute if score @s exi_elytra_km matches 2509.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2509
+execute if score @s exi_elytra_km matches 2510.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2510
+execute if score @s exi_elytra_km matches 2511.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2511
+execute if score @s exi_elytra_km matches 2512.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2512
+execute if score @s exi_elytra_km matches 2513.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2513
+execute if score @s exi_elytra_km matches 2514.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2514
+execute if score @s exi_elytra_km matches 2515.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2515
+execute if score @s exi_elytra_km matches 2516.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2516
+execute if score @s exi_elytra_km matches 2517.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2517
+execute if score @s exi_elytra_km matches 2518.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2518
+execute if score @s exi_elytra_km matches 2519.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2519
+execute if score @s exi_elytra_km matches 2520.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2520
+execute if score @s exi_elytra_km matches 2521.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2521
+execute if score @s exi_elytra_km matches 2522.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2522
+execute if score @s exi_elytra_km matches 2523.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2523
+execute if score @s exi_elytra_km matches 2524.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2524
+execute if score @s exi_elytra_km matches 2525.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2525
+execute if score @s exi_elytra_km matches 2526.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2526
+execute if score @s exi_elytra_km matches 2527.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2527
+execute if score @s exi_elytra_km matches 2528.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2528
+execute if score @s exi_elytra_km matches 2529.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2529
+execute if score @s exi_elytra_km matches 2530.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2530
+execute if score @s exi_elytra_km matches 2531.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2531
+execute if score @s exi_elytra_km matches 2532.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2532
+execute if score @s exi_elytra_km matches 2533.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2533
+execute if score @s exi_elytra_km matches 2534.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2534
+execute if score @s exi_elytra_km matches 2535.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2535
+execute if score @s exi_elytra_km matches 2536.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2536
+execute if score @s exi_elytra_km matches 2537.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2537
+execute if score @s exi_elytra_km matches 2538.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2538
+execute if score @s exi_elytra_km matches 2539.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2539
+execute if score @s exi_elytra_km matches 2540.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2540
+execute if score @s exi_elytra_km matches 2541.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2541
+execute if score @s exi_elytra_km matches 2542.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2542
+execute if score @s exi_elytra_km matches 2543.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2543
+execute if score @s exi_elytra_km matches 2544.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2544
+execute if score @s exi_elytra_km matches 2545.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2545
+execute if score @s exi_elytra_km matches 2546.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2546
+execute if score @s exi_elytra_km matches 2547.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2547
+execute if score @s exi_elytra_km matches 2548.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2548
+execute if score @s exi_elytra_km matches 2549.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2549
+execute if score @s exi_elytra_km matches 2550.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2550
+execute if score @s exi_elytra_km matches 2551.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2551
+execute if score @s exi_elytra_km matches 2552.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2552
+execute if score @s exi_elytra_km matches 2553.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2553
+execute if score @s exi_elytra_km matches 2554.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2554
+execute if score @s exi_elytra_km matches 2555.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2555
+execute if score @s exi_elytra_km matches 2556.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2556
+execute if score @s exi_elytra_km matches 2557.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2557
+execute if score @s exi_elytra_km matches 2558.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2558
+execute if score @s exi_elytra_km matches 2559.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2559
+execute if score @s exi_elytra_km matches 2560.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2560
+execute if score @s exi_elytra_km matches 2561.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2561
+execute if score @s exi_elytra_km matches 2562.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2562
+execute if score @s exi_elytra_km matches 2563.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2563
+execute if score @s exi_elytra_km matches 2564.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2564
+execute if score @s exi_elytra_km matches 2565.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2565
+execute if score @s exi_elytra_km matches 2566.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2566
+execute if score @s exi_elytra_km matches 2567.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2567
+execute if score @s exi_elytra_km matches 2568.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2568
+execute if score @s exi_elytra_km matches 2569.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2569
+execute if score @s exi_elytra_km matches 2570.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2570
+execute if score @s exi_elytra_km matches 2571.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2571
+execute if score @s exi_elytra_km matches 2572.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2572
+execute if score @s exi_elytra_km matches 2573.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2573
+execute if score @s exi_elytra_km matches 2574.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2574
+execute if score @s exi_elytra_km matches 2575.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2575
+execute if score @s exi_elytra_km matches 2576.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2576
+execute if score @s exi_elytra_km matches 2577.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2577
+execute if score @s exi_elytra_km matches 2578.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2578
+execute if score @s exi_elytra_km matches 2579.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2579
+execute if score @s exi_elytra_km matches 2580.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2580
+execute if score @s exi_elytra_km matches 2581.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2581
+execute if score @s exi_elytra_km matches 2582.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2582
+execute if score @s exi_elytra_km matches 2583.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2583
+execute if score @s exi_elytra_km matches 2584.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2584
+execute if score @s exi_elytra_km matches 2585.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2585
+execute if score @s exi_elytra_km matches 2586.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2586
+execute if score @s exi_elytra_km matches 2587.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2587
+execute if score @s exi_elytra_km matches 2588.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2588
+execute if score @s exi_elytra_km matches 2589.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2589
+execute if score @s exi_elytra_km matches 2590.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2590
+execute if score @s exi_elytra_km matches 2591.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2591
+execute if score @s exi_elytra_km matches 2592.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2592
+execute if score @s exi_elytra_km matches 2593.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2593
+execute if score @s exi_elytra_km matches 2594.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2594
+execute if score @s exi_elytra_km matches 2595.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2595
+execute if score @s exi_elytra_km matches 2596.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2596
+execute if score @s exi_elytra_km matches 2597.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2597
+execute if score @s exi_elytra_km matches 2598.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2598
+execute if score @s exi_elytra_km matches 2599.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2599
+execute if score @s exi_elytra_km matches 2600.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2600
+execute if score @s exi_elytra_km matches 2601.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2601
+execute if score @s exi_elytra_km matches 2602.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2602
+execute if score @s exi_elytra_km matches 2603.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2603
+execute if score @s exi_elytra_km matches 2604.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2604
+execute if score @s exi_elytra_km matches 2605.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2605
+execute if score @s exi_elytra_km matches 2606.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2606
+execute if score @s exi_elytra_km matches 2607.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2607
+execute if score @s exi_elytra_km matches 2608.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2608
+execute if score @s exi_elytra_km matches 2609.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2609
+execute if score @s exi_elytra_km matches 2610.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2610
+execute if score @s exi_elytra_km matches 2611.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2611
+execute if score @s exi_elytra_km matches 2612.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2612
+execute if score @s exi_elytra_km matches 2613.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2613
+execute if score @s exi_elytra_km matches 2614.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2614
+execute if score @s exi_elytra_km matches 2615.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2615
+execute if score @s exi_elytra_km matches 2616.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2616
+execute if score @s exi_elytra_km matches 2617.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2617
+execute if score @s exi_elytra_km matches 2618.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2618
+execute if score @s exi_elytra_km matches 2619.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2619
+execute if score @s exi_elytra_km matches 2620.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2620
+execute if score @s exi_elytra_km matches 2621.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2621
+execute if score @s exi_elytra_km matches 2622.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2622
+execute if score @s exi_elytra_km matches 2623.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2623
+execute if score @s exi_elytra_km matches 2624.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2624
+execute if score @s exi_elytra_km matches 2625.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2625
+execute if score @s exi_elytra_km matches 2626.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2626
+execute if score @s exi_elytra_km matches 2627.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2627
+execute if score @s exi_elytra_km matches 2628.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2628
+execute if score @s exi_elytra_km matches 2629.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2629
+execute if score @s exi_elytra_km matches 2630.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2630
+execute if score @s exi_elytra_km matches 2631.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2631
+execute if score @s exi_elytra_km matches 2632.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2632
+execute if score @s exi_elytra_km matches 2633.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2633
+execute if score @s exi_elytra_km matches 2634.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2634
+execute if score @s exi_elytra_km matches 2635.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2635
+execute if score @s exi_elytra_km matches 2636.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2636
+execute if score @s exi_elytra_km matches 2637.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2637
+execute if score @s exi_elytra_km matches 2638.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2638
+execute if score @s exi_elytra_km matches 2639.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2639
+execute if score @s exi_elytra_km matches 2640.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2640
+execute if score @s exi_elytra_km matches 2641.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2641
+execute if score @s exi_elytra_km matches 2642.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2642
+execute if score @s exi_elytra_km matches 2643.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2643
+execute if score @s exi_elytra_km matches 2644.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2644
+execute if score @s exi_elytra_km matches 2645.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2645
+execute if score @s exi_elytra_km matches 2646.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2646
+execute if score @s exi_elytra_km matches 2647.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2647
+execute if score @s exi_elytra_km matches 2648.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2648
+execute if score @s exi_elytra_km matches 2649.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2649
+execute if score @s exi_elytra_km matches 2650.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2650
+execute if score @s exi_elytra_km matches 2651.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2651
+execute if score @s exi_elytra_km matches 2652.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2652
+execute if score @s exi_elytra_km matches 2653.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2653
+execute if score @s exi_elytra_km matches 2654.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2654
+execute if score @s exi_elytra_km matches 2655.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2655
+execute if score @s exi_elytra_km matches 2656.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2656
+execute if score @s exi_elytra_km matches 2657.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2657
+execute if score @s exi_elytra_km matches 2658.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2658
+execute if score @s exi_elytra_km matches 2659.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2659
+execute if score @s exi_elytra_km matches 2660.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2660
+execute if score @s exi_elytra_km matches 2661.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2661
+execute if score @s exi_elytra_km matches 2662.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2662
+execute if score @s exi_elytra_km matches 2663.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2663
+execute if score @s exi_elytra_km matches 2664.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2664
+execute if score @s exi_elytra_km matches 2665.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2665
+execute if score @s exi_elytra_km matches 2666.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2666
+execute if score @s exi_elytra_km matches 2667.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2667
+execute if score @s exi_elytra_km matches 2668.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2668
+execute if score @s exi_elytra_km matches 2669.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2669
+execute if score @s exi_elytra_km matches 2670.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2670
+execute if score @s exi_elytra_km matches 2671.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2671
+execute if score @s exi_elytra_km matches 2672.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2672
+execute if score @s exi_elytra_km matches 2673.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2673
+execute if score @s exi_elytra_km matches 2674.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2674
+execute if score @s exi_elytra_km matches 2675.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2675
+execute if score @s exi_elytra_km matches 2676.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2676
+execute if score @s exi_elytra_km matches 2677.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2677
+execute if score @s exi_elytra_km matches 2678.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2678
+execute if score @s exi_elytra_km matches 2679.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2679
+execute if score @s exi_elytra_km matches 2680.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2680
+execute if score @s exi_elytra_km matches 2681.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2681
+execute if score @s exi_elytra_km matches 2682.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2682
+execute if score @s exi_elytra_km matches 2683.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2683
+execute if score @s exi_elytra_km matches 2684.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2684
+execute if score @s exi_elytra_km matches 2685.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2685
+execute if score @s exi_elytra_km matches 2686.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2686
+execute if score @s exi_elytra_km matches 2687.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2687
+execute if score @s exi_elytra_km matches 2688.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2688
+execute if score @s exi_elytra_km matches 2689.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2689
+execute if score @s exi_elytra_km matches 2690.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2690
+execute if score @s exi_elytra_km matches 2691.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2691
+execute if score @s exi_elytra_km matches 2692.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2692
+execute if score @s exi_elytra_km matches 2693.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2693
+execute if score @s exi_elytra_km matches 2694.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2694
+execute if score @s exi_elytra_km matches 2695.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2695
+execute if score @s exi_elytra_km matches 2696.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2696
+execute if score @s exi_elytra_km matches 2697.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2697
+execute if score @s exi_elytra_km matches 2698.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2698
+execute if score @s exi_elytra_km matches 2699.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2699
+execute if score @s exi_elytra_km matches 2700.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2700
+execute if score @s exi_elytra_km matches 2701.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2701
+execute if score @s exi_elytra_km matches 2702.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2702
+execute if score @s exi_elytra_km matches 2703.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2703
+execute if score @s exi_elytra_km matches 2704.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2704
+execute if score @s exi_elytra_km matches 2705.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2705
+execute if score @s exi_elytra_km matches 2706.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2706
+execute if score @s exi_elytra_km matches 2707.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2707
+execute if score @s exi_elytra_km matches 2708.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2708
+execute if score @s exi_elytra_km matches 2709.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2709
+execute if score @s exi_elytra_km matches 2710.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2710
+execute if score @s exi_elytra_km matches 2711.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2711
+execute if score @s exi_elytra_km matches 2712.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2712
+execute if score @s exi_elytra_km matches 2713.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2713
+execute if score @s exi_elytra_km matches 2714.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2714
+execute if score @s exi_elytra_km matches 2715.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2715
+execute if score @s exi_elytra_km matches 2716.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2716
+execute if score @s exi_elytra_km matches 2717.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2717
+execute if score @s exi_elytra_km matches 2718.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2718
+execute if score @s exi_elytra_km matches 2719.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2719
+execute if score @s exi_elytra_km matches 2720.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2720
+execute if score @s exi_elytra_km matches 2721.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2721
+execute if score @s exi_elytra_km matches 2722.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2722
+execute if score @s exi_elytra_km matches 2723.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2723
+execute if score @s exi_elytra_km matches 2724.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2724
+execute if score @s exi_elytra_km matches 2725.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2725
+execute if score @s exi_elytra_km matches 2726.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2726
+execute if score @s exi_elytra_km matches 2727.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2727
+execute if score @s exi_elytra_km matches 2728.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2728
+execute if score @s exi_elytra_km matches 2729.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2729
+execute if score @s exi_elytra_km matches 2730.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2730
+execute if score @s exi_elytra_km matches 2731.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2731
+execute if score @s exi_elytra_km matches 2732.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2732
+execute if score @s exi_elytra_km matches 2733.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2733
+execute if score @s exi_elytra_km matches 2734.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2734
+execute if score @s exi_elytra_km matches 2735.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2735
+execute if score @s exi_elytra_km matches 2736.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2736
+execute if score @s exi_elytra_km matches 2737.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2737
+execute if score @s exi_elytra_km matches 2738.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2738
+execute if score @s exi_elytra_km matches 2739.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2739
+execute if score @s exi_elytra_km matches 2740.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2740
+execute if score @s exi_elytra_km matches 2741.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2741
+execute if score @s exi_elytra_km matches 2742.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2742
+execute if score @s exi_elytra_km matches 2743.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2743
+execute if score @s exi_elytra_km matches 2744.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2744
+execute if score @s exi_elytra_km matches 2745.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2745
+execute if score @s exi_elytra_km matches 2746.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2746
+execute if score @s exi_elytra_km matches 2747.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2747
+execute if score @s exi_elytra_km matches 2748.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2748
+execute if score @s exi_elytra_km matches 2749.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2749
+execute if score @s exi_elytra_km matches 2750.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2750
+execute if score @s exi_elytra_km matches 2751.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2751
+execute if score @s exi_elytra_km matches 2752.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2752
+execute if score @s exi_elytra_km matches 2753.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2753
+execute if score @s exi_elytra_km matches 2754.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2754
+execute if score @s exi_elytra_km matches 2755.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2755
+execute if score @s exi_elytra_km matches 2756.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2756
+execute if score @s exi_elytra_km matches 2757.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2757
+execute if score @s exi_elytra_km matches 2758.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2758
+execute if score @s exi_elytra_km matches 2759.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2759
+execute if score @s exi_elytra_km matches 2760.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2760
+execute if score @s exi_elytra_km matches 2761.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2761
+execute if score @s exi_elytra_km matches 2762.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2762
+execute if score @s exi_elytra_km matches 2763.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2763
+execute if score @s exi_elytra_km matches 2764.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2764
+execute if score @s exi_elytra_km matches 2765.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2765
+execute if score @s exi_elytra_km matches 2766.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2766
+execute if score @s exi_elytra_km matches 2767.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2767
+execute if score @s exi_elytra_km matches 2768.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2768
+execute if score @s exi_elytra_km matches 2769.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2769
+execute if score @s exi_elytra_km matches 2770.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2770
+execute if score @s exi_elytra_km matches 2771.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2771
+execute if score @s exi_elytra_km matches 2772.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2772
+execute if score @s exi_elytra_km matches 2773.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2773
+execute if score @s exi_elytra_km matches 2774.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2774
+execute if score @s exi_elytra_km matches 2775.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2775
+execute if score @s exi_elytra_km matches 2776.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2776
+execute if score @s exi_elytra_km matches 2777.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2777
+execute if score @s exi_elytra_km matches 2778.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2778
+execute if score @s exi_elytra_km matches 2779.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2779
+execute if score @s exi_elytra_km matches 2780.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2780
+execute if score @s exi_elytra_km matches 2781.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2781
+execute if score @s exi_elytra_km matches 2782.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2782
+execute if score @s exi_elytra_km matches 2783.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2783
+execute if score @s exi_elytra_km matches 2784.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2784
+execute if score @s exi_elytra_km matches 2785.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2785
+execute if score @s exi_elytra_km matches 2786.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2786
+execute if score @s exi_elytra_km matches 2787.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2787
+execute if score @s exi_elytra_km matches 2788.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2788
+execute if score @s exi_elytra_km matches 2789.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2789
+execute if score @s exi_elytra_km matches 2790.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2790
+execute if score @s exi_elytra_km matches 2791.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2791
+execute if score @s exi_elytra_km matches 2792.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2792
+execute if score @s exi_elytra_km matches 2793.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2793
+execute if score @s exi_elytra_km matches 2794.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2794
+execute if score @s exi_elytra_km matches 2795.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2795
+execute if score @s exi_elytra_km matches 2796.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2796
+execute if score @s exi_elytra_km matches 2797.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2797
+execute if score @s exi_elytra_km matches 2798.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2798
+execute if score @s exi_elytra_km matches 2799.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2799
+execute if score @s exi_elytra_km matches 2800.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2800
+execute if score @s exi_elytra_km matches 2801.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2801
+execute if score @s exi_elytra_km matches 2802.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2802
+execute if score @s exi_elytra_km matches 2803.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2803
+execute if score @s exi_elytra_km matches 2804.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2804
+execute if score @s exi_elytra_km matches 2805.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2805
+execute if score @s exi_elytra_km matches 2806.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2806
+execute if score @s exi_elytra_km matches 2807.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2807
+execute if score @s exi_elytra_km matches 2808.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2808
+execute if score @s exi_elytra_km matches 2809.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2809
+execute if score @s exi_elytra_km matches 2810.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2810
+execute if score @s exi_elytra_km matches 2811.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2811
+execute if score @s exi_elytra_km matches 2812.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2812
+execute if score @s exi_elytra_km matches 2813.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2813
+execute if score @s exi_elytra_km matches 2814.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2814
+execute if score @s exi_elytra_km matches 2815.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2815
+execute if score @s exi_elytra_km matches 2816.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2816
+execute if score @s exi_elytra_km matches 2817.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2817
+execute if score @s exi_elytra_km matches 2818.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2818
+execute if score @s exi_elytra_km matches 2819.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2819
+execute if score @s exi_elytra_km matches 2820.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2820
+execute if score @s exi_elytra_km matches 2821.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2821
+execute if score @s exi_elytra_km matches 2822.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2822
+execute if score @s exi_elytra_km matches 2823.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2823
+execute if score @s exi_elytra_km matches 2824.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2824
+execute if score @s exi_elytra_km matches 2825.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2825
+execute if score @s exi_elytra_km matches 2826.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2826
+execute if score @s exi_elytra_km matches 2827.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2827
+execute if score @s exi_elytra_km matches 2828.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2828
+execute if score @s exi_elytra_km matches 2829.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2829
+execute if score @s exi_elytra_km matches 2830.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2830
+execute if score @s exi_elytra_km matches 2831.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2831
+execute if score @s exi_elytra_km matches 2832.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2832
+execute if score @s exi_elytra_km matches 2833.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2833
+execute if score @s exi_elytra_km matches 2834.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2834
+execute if score @s exi_elytra_km matches 2835.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2835
+execute if score @s exi_elytra_km matches 2836.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2836
+execute if score @s exi_elytra_km matches 2837.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2837
+execute if score @s exi_elytra_km matches 2838.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2838
+execute if score @s exi_elytra_km matches 2839.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2839
+execute if score @s exi_elytra_km matches 2840.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2840
+execute if score @s exi_elytra_km matches 2841.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2841
+execute if score @s exi_elytra_km matches 2842.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2842
+execute if score @s exi_elytra_km matches 2843.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2843
+execute if score @s exi_elytra_km matches 2844.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2844
+execute if score @s exi_elytra_km matches 2845.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2845
+execute if score @s exi_elytra_km matches 2846.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2846
+execute if score @s exi_elytra_km matches 2847.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2847
+execute if score @s exi_elytra_km matches 2848.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2848
+execute if score @s exi_elytra_km matches 2849.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2849
+execute if score @s exi_elytra_km matches 2850.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2850
+execute if score @s exi_elytra_km matches 2851.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2851
+execute if score @s exi_elytra_km matches 2852.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2852
+execute if score @s exi_elytra_km matches 2853.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2853
+execute if score @s exi_elytra_km matches 2854.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2854
+execute if score @s exi_elytra_km matches 2855.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2855
+execute if score @s exi_elytra_km matches 2856.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2856
+execute if score @s exi_elytra_km matches 2857.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2857
+execute if score @s exi_elytra_km matches 2858.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2858
+execute if score @s exi_elytra_km matches 2859.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2859
+execute if score @s exi_elytra_km matches 2860.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2860
+execute if score @s exi_elytra_km matches 2861.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2861
+execute if score @s exi_elytra_km matches 2862.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2862
+execute if score @s exi_elytra_km matches 2863.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2863
+execute if score @s exi_elytra_km matches 2864.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2864
+execute if score @s exi_elytra_km matches 2865.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2865
+execute if score @s exi_elytra_km matches 2866.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2866
+execute if score @s exi_elytra_km matches 2867.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2867
+execute if score @s exi_elytra_km matches 2868.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2868
+execute if score @s exi_elytra_km matches 2869.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2869
+execute if score @s exi_elytra_km matches 2870.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2870
+execute if score @s exi_elytra_km matches 2871.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2871
+execute if score @s exi_elytra_km matches 2872.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2872
+execute if score @s exi_elytra_km matches 2873.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2873
+execute if score @s exi_elytra_km matches 2874.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2874
+execute if score @s exi_elytra_km matches 2875.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2875
+execute if score @s exi_elytra_km matches 2876.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2876
+execute if score @s exi_elytra_km matches 2877.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2877
+execute if score @s exi_elytra_km matches 2878.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2878
+execute if score @s exi_elytra_km matches 2879.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2879
+execute if score @s exi_elytra_km matches 2880.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2880
+execute if score @s exi_elytra_km matches 2881.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2881
+execute if score @s exi_elytra_km matches 2882.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2882
+execute if score @s exi_elytra_km matches 2883.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2883
+execute if score @s exi_elytra_km matches 2884.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2884
+execute if score @s exi_elytra_km matches 2885.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2885
+execute if score @s exi_elytra_km matches 2886.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2886
+execute if score @s exi_elytra_km matches 2887.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2887
+execute if score @s exi_elytra_km matches 2888.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2888
+execute if score @s exi_elytra_km matches 2889.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2889
+execute if score @s exi_elytra_km matches 2890.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2890
+execute if score @s exi_elytra_km matches 2891.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2891
+execute if score @s exi_elytra_km matches 2892.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2892
+execute if score @s exi_elytra_km matches 2893.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2893
+execute if score @s exi_elytra_km matches 2894.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2894
+execute if score @s exi_elytra_km matches 2895.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2895
+execute if score @s exi_elytra_km matches 2896.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2896
+execute if score @s exi_elytra_km matches 2897.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2897
+execute if score @s exi_elytra_km matches 2898.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2898
+execute if score @s exi_elytra_km matches 2899.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2899
+execute if score @s exi_elytra_km matches 2900.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2900
+execute if score @s exi_elytra_km matches 2901.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2901
+execute if score @s exi_elytra_km matches 2902.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2902
+execute if score @s exi_elytra_km matches 2903.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2903
+execute if score @s exi_elytra_km matches 2904.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2904
+execute if score @s exi_elytra_km matches 2905.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2905
+execute if score @s exi_elytra_km matches 2906.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2906
+execute if score @s exi_elytra_km matches 2907.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2907
+execute if score @s exi_elytra_km matches 2908.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2908
+execute if score @s exi_elytra_km matches 2909.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2909
+execute if score @s exi_elytra_km matches 2910.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2910
+execute if score @s exi_elytra_km matches 2911.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2911
+execute if score @s exi_elytra_km matches 2912.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2912
+execute if score @s exi_elytra_km matches 2913.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2913
+execute if score @s exi_elytra_km matches 2914.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2914
+execute if score @s exi_elytra_km matches 2915.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2915
+execute if score @s exi_elytra_km matches 2916.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2916
+execute if score @s exi_elytra_km matches 2917.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2917
+execute if score @s exi_elytra_km matches 2918.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2918
+execute if score @s exi_elytra_km matches 2919.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2919
+execute if score @s exi_elytra_km matches 2920.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2920
+execute if score @s exi_elytra_km matches 2921.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2921
+execute if score @s exi_elytra_km matches 2922.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2922
+execute if score @s exi_elytra_km matches 2923.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2923
+execute if score @s exi_elytra_km matches 2924.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2924
+execute if score @s exi_elytra_km matches 2925.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2925
+execute if score @s exi_elytra_km matches 2926.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2926
+execute if score @s exi_elytra_km matches 2927.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2927
+execute if score @s exi_elytra_km matches 2928.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2928
+execute if score @s exi_elytra_km matches 2929.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2929
+execute if score @s exi_elytra_km matches 2930.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2930
+execute if score @s exi_elytra_km matches 2931.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2931
+execute if score @s exi_elytra_km matches 2932.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2932
+execute if score @s exi_elytra_km matches 2933.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2933
+execute if score @s exi_elytra_km matches 2934.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2934
+execute if score @s exi_elytra_km matches 2935.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2935
+execute if score @s exi_elytra_km matches 2936.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2936
+execute if score @s exi_elytra_km matches 2937.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2937
+execute if score @s exi_elytra_km matches 2938.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2938
+execute if score @s exi_elytra_km matches 2939.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2939
+execute if score @s exi_elytra_km matches 2940.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2940
+execute if score @s exi_elytra_km matches 2941.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2941
+execute if score @s exi_elytra_km matches 2942.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2942
+execute if score @s exi_elytra_km matches 2943.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2943
+execute if score @s exi_elytra_km matches 2944.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2944
+execute if score @s exi_elytra_km matches 2945.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2945
+execute if score @s exi_elytra_km matches 2946.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2946
+execute if score @s exi_elytra_km matches 2947.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2947
+execute if score @s exi_elytra_km matches 2948.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2948
+execute if score @s exi_elytra_km matches 2949.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2949
+execute if score @s exi_elytra_km matches 2950.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2950
+execute if score @s exi_elytra_km matches 2951.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2951
+execute if score @s exi_elytra_km matches 2952.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2952
+execute if score @s exi_elytra_km matches 2953.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2953
+execute if score @s exi_elytra_km matches 2954.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2954
+execute if score @s exi_elytra_km matches 2955.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2955
+execute if score @s exi_elytra_km matches 2956.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2956
+execute if score @s exi_elytra_km matches 2957.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2957
+execute if score @s exi_elytra_km matches 2958.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2958
+execute if score @s exi_elytra_km matches 2959.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2959
+execute if score @s exi_elytra_km matches 2960.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2960
+execute if score @s exi_elytra_km matches 2961.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2961
+execute if score @s exi_elytra_km matches 2962.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2962
+execute if score @s exi_elytra_km matches 2963.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2963
+execute if score @s exi_elytra_km matches 2964.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2964
+execute if score @s exi_elytra_km matches 2965.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2965
+execute if score @s exi_elytra_km matches 2966.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2966
+execute if score @s exi_elytra_km matches 2967.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2967
+execute if score @s exi_elytra_km matches 2968.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2968
+execute if score @s exi_elytra_km matches 2969.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2969
+execute if score @s exi_elytra_km matches 2970.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2970
+execute if score @s exi_elytra_km matches 2971.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2971
+execute if score @s exi_elytra_km matches 2972.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2972
+execute if score @s exi_elytra_km matches 2973.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2973
+execute if score @s exi_elytra_km matches 2974.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2974
+execute if score @s exi_elytra_km matches 2975.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2975
+execute if score @s exi_elytra_km matches 2976.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2976
+execute if score @s exi_elytra_km matches 2977.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2977
+execute if score @s exi_elytra_km matches 2978.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2978
+execute if score @s exi_elytra_km matches 2979.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2979
+execute if score @s exi_elytra_km matches 2980.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2980
+execute if score @s exi_elytra_km matches 2981.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2981
+execute if score @s exi_elytra_km matches 2982.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2982
+execute if score @s exi_elytra_km matches 2983.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2983
+execute if score @s exi_elytra_km matches 2984.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2984
+execute if score @s exi_elytra_km matches 2985.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2985
+execute if score @s exi_elytra_km matches 2986.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2986
+execute if score @s exi_elytra_km matches 2987.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2987
+execute if score @s exi_elytra_km matches 2988.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2988
+execute if score @s exi_elytra_km matches 2989.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2989
+execute if score @s exi_elytra_km matches 2990.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2990
+execute if score @s exi_elytra_km matches 2991.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2991
+execute if score @s exi_elytra_km matches 2992.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2992
+execute if score @s exi_elytra_km matches 2993.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2993
+execute if score @s exi_elytra_km matches 2994.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2994
+execute if score @s exi_elytra_km matches 2995.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2995
+execute if score @s exi_elytra_km matches 2996.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2996
+execute if score @s exi_elytra_km matches 2997.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2997
+execute if score @s exi_elytra_km matches 2998.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2998
+execute if score @s exi_elytra_km matches 2999.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 2999
+execute if score @s exi_elytra_km matches 3000.. run advancement grant @s only existence_smp:stats/elytra/frequent_flyer_club 3000

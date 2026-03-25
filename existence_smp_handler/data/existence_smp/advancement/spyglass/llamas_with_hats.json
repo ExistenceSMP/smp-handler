@@ -5,12 +5,12 @@
     },
     "title": "Llamas With Hats",
     "description": "What is wrong with you, Carl?",
-    "frame": "challenge",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "existence_smp:spyglass/goober",
+  "parent": "existence_smp:spyglass/happy_ghast",
   "criteria": {
     "carl": {
       "trigger": "minecraft:using_item",
@@ -24,11 +24,14 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:llama",
-                  "type_specific": {
-                    "type": "minecraft:llama",
-                    "variant": "gray"
+                  "equipment": {
+                    "body": {
+                      "items": "minecraft:lime_carpet"
+                    }
                   },
-                  "nbt": "{body_armor_item: {count: 1, id: \"minecraft:lime_carpet\"}}"
+                  "components": {
+                    "minecraft:llama/variant": "gray"
+                  }
                 }
               }
             }
@@ -53,11 +56,14 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:llama",
-                  "type_specific": {
-                    "type": "minecraft:llama",
-                    "variant": "creamy"
+                  "equipment": {
+                    "body": {
+                      "items": "minecraft:red_carpet"
+                    }
                   },
-                  "nbt": "{body_armor_item: {count: 1, id: \"minecraft:red_carpet\"}}"
+                  "components": {
+                    "minecraft:llama/variant": "creamy"
+                  }
                 }
               }
             }

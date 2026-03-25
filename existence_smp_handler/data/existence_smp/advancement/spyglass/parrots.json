@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "existence_smp:spyglass/mesmerizing",
+  "parent": "existence_smp:spyglass/glow_squid",
   "criteria": {
     "red": {
       "trigger": "minecraft:using_item",
@@ -24,9 +24,8 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "type_specific": {
-                    "type": "parrot",
-                    "variant": "red_blue"
+                  "components": {
+                    "minecraft:parrot/variant": "red_blue"
                   }
                 }
               }
@@ -52,9 +51,8 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "type_specific": {
-                    "type": "parrot",
-                    "variant": "blue"
+                  "components": {
+                    "minecraft:parrot/variant": "blue"
                   }
                 }
               }
@@ -80,9 +78,8 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "type_specific": {
-                    "type": "parrot",
-                    "variant": "green"
+                  "components": {
+                    "minecraft:parrot/variant": "green"
                   }
                 }
               }
@@ -108,9 +105,8 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "type_specific": {
-                    "type": "parrot",
-                    "variant": "yellow_blue"
+                  "components": {
+                    "minecraft:parrot/variant": "yellow_blue"
                   }
                 }
               }
@@ -136,9 +132,8 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "type_specific": {
-                    "type": "parrot",
-                    "variant": "gray"
+                  "components": {
+                    "minecraft:parrot/variant": "gray"
                   }
                 }
               }

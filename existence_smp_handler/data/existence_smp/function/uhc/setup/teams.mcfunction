@@ -37,6 +37,50 @@ team remove light_purple_dead
 team remove yellow_dead
 team remove white_dead
 
+#HANDLDER CLEAR
+team remove Patron
+team remove SupportPatron
+
+team remove Support
+team remove Spectator
+
+#team remove Server
+#team remove ServerBackground
+
+team remove Patron_black
+team remove Patron_dark_blue
+team remove Patron_dark_green
+team remove Patron_dark_aqua
+team remove Patron_dark_red
+team remove Patron_dark_purple
+team remove Patron_gold
+team remove Patron_gray
+team remove Patron_dark_gray
+team remove Patron_blue
+team remove Patron_green
+team remove Patron_aqua
+team remove Patron_red
+team remove Patron_light_purple
+team remove Patron_yellow
+team remove Patron_white
+
+team remove SupportPatron_black
+team remove SupportPatron_dark_blue
+team remove SupportPatron_dark_green
+team remove SupportPatron_dark_aqua
+team remove SupportPatron_dark_red
+team remove SupportPatron_dark_purple
+team remove SupportPatron_gold
+team remove SupportPatron_gray
+team remove SupportPatron_dark_gray
+team remove SupportPatron_blue
+team remove SupportPatron_green
+team remove SupportPatron_aqua
+team remove SupportPatron_red
+team remove SupportPatron_light_purple
+team remove SupportPatron_yellow
+team remove SupportPatron_white
+
 #ADD
 team add Default
 

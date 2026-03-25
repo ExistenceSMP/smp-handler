@@ -1,1001 +1,1001 @@
 #time_concerningly_well_spent
-advancement grant @s[scores={exi_playtime_h=1..}] only existence_smp:stats/playtime/time_concerningly_well_spent 1
-advancement grant @s[scores={exi_playtime_h=2..}] only existence_smp:stats/playtime/time_concerningly_well_spent 2
-advancement grant @s[scores={exi_playtime_h=3..}] only existence_smp:stats/playtime/time_concerningly_well_spent 3
-advancement grant @s[scores={exi_playtime_h=4..}] only existence_smp:stats/playtime/time_concerningly_well_spent 4
-advancement grant @s[scores={exi_playtime_h=5..}] only existence_smp:stats/playtime/time_concerningly_well_spent 5
-advancement grant @s[scores={exi_playtime_h=6..}] only existence_smp:stats/playtime/time_concerningly_well_spent 6
-advancement grant @s[scores={exi_playtime_h=7..}] only existence_smp:stats/playtime/time_concerningly_well_spent 7
-advancement grant @s[scores={exi_playtime_h=8..}] only existence_smp:stats/playtime/time_concerningly_well_spent 8
-advancement grant @s[scores={exi_playtime_h=9..}] only existence_smp:stats/playtime/time_concerningly_well_spent 9
-advancement grant @s[scores={exi_playtime_h=10..}] only existence_smp:stats/playtime/time_concerningly_well_spent 10
-advancement grant @s[scores={exi_playtime_h=11..}] only existence_smp:stats/playtime/time_concerningly_well_spent 11
-advancement grant @s[scores={exi_playtime_h=12..}] only existence_smp:stats/playtime/time_concerningly_well_spent 12
-advancement grant @s[scores={exi_playtime_h=13..}] only existence_smp:stats/playtime/time_concerningly_well_spent 13
-advancement grant @s[scores={exi_playtime_h=14..}] only existence_smp:stats/playtime/time_concerningly_well_spent 14
-advancement grant @s[scores={exi_playtime_h=15..}] only existence_smp:stats/playtime/time_concerningly_well_spent 15
-advancement grant @s[scores={exi_playtime_h=16..}] only existence_smp:stats/playtime/time_concerningly_well_spent 16
-advancement grant @s[scores={exi_playtime_h=17..}] only existence_smp:stats/playtime/time_concerningly_well_spent 17
-advancement grant @s[scores={exi_playtime_h=18..}] only existence_smp:stats/playtime/time_concerningly_well_spent 18
-advancement grant @s[scores={exi_playtime_h=19..}] only existence_smp:stats/playtime/time_concerningly_well_spent 19
-advancement grant @s[scores={exi_playtime_h=20..}] only existence_smp:stats/playtime/time_concerningly_well_spent 20
-advancement grant @s[scores={exi_playtime_h=21..}] only existence_smp:stats/playtime/time_concerningly_well_spent 21
-advancement grant @s[scores={exi_playtime_h=22..}] only existence_smp:stats/playtime/time_concerningly_well_spent 22
-advancement grant @s[scores={exi_playtime_h=23..}] only existence_smp:stats/playtime/time_concerningly_well_spent 23
-advancement grant @s[scores={exi_playtime_h=24..}] only existence_smp:stats/playtime/time_concerningly_well_spent 24
-advancement grant @s[scores={exi_playtime_h=25..}] only existence_smp:stats/playtime/time_concerningly_well_spent 25
-advancement grant @s[scores={exi_playtime_h=26..}] only existence_smp:stats/playtime/time_concerningly_well_spent 26
-advancement grant @s[scores={exi_playtime_h=27..}] only existence_smp:stats/playtime/time_concerningly_well_spent 27
-advancement grant @s[scores={exi_playtime_h=28..}] only existence_smp:stats/playtime/time_concerningly_well_spent 28
-advancement grant @s[scores={exi_playtime_h=29..}] only existence_smp:stats/playtime/time_concerningly_well_spent 29
-advancement grant @s[scores={exi_playtime_h=30..}] only existence_smp:stats/playtime/time_concerningly_well_spent 30
-advancement grant @s[scores={exi_playtime_h=31..}] only existence_smp:stats/playtime/time_concerningly_well_spent 31
-advancement grant @s[scores={exi_playtime_h=32..}] only existence_smp:stats/playtime/time_concerningly_well_spent 32
-advancement grant @s[scores={exi_playtime_h=33..}] only existence_smp:stats/playtime/time_concerningly_well_spent 33
-advancement grant @s[scores={exi_playtime_h=34..}] only existence_smp:stats/playtime/time_concerningly_well_spent 34
-advancement grant @s[scores={exi_playtime_h=35..}] only existence_smp:stats/playtime/time_concerningly_well_spent 35
-advancement grant @s[scores={exi_playtime_h=36..}] only existence_smp:stats/playtime/time_concerningly_well_spent 36
-advancement grant @s[scores={exi_playtime_h=37..}] only existence_smp:stats/playtime/time_concerningly_well_spent 37
-advancement grant @s[scores={exi_playtime_h=38..}] only existence_smp:stats/playtime/time_concerningly_well_spent 38
-advancement grant @s[scores={exi_playtime_h=39..}] only existence_smp:stats/playtime/time_concerningly_well_spent 39
-advancement grant @s[scores={exi_playtime_h=40..}] only existence_smp:stats/playtime/time_concerningly_well_spent 40
-advancement grant @s[scores={exi_playtime_h=41..}] only existence_smp:stats/playtime/time_concerningly_well_spent 41
-advancement grant @s[scores={exi_playtime_h=42..}] only existence_smp:stats/playtime/time_concerningly_well_spent 42
-advancement grant @s[scores={exi_playtime_h=43..}] only existence_smp:stats/playtime/time_concerningly_well_spent 43
-advancement grant @s[scores={exi_playtime_h=44..}] only existence_smp:stats/playtime/time_concerningly_well_spent 44
-advancement grant @s[scores={exi_playtime_h=45..}] only existence_smp:stats/playtime/time_concerningly_well_spent 45
-advancement grant @s[scores={exi_playtime_h=46..}] only existence_smp:stats/playtime/time_concerningly_well_spent 46
-advancement grant @s[scores={exi_playtime_h=47..}] only existence_smp:stats/playtime/time_concerningly_well_spent 47
-advancement grant @s[scores={exi_playtime_h=48..}] only existence_smp:stats/playtime/time_concerningly_well_spent 48
-advancement grant @s[scores={exi_playtime_h=49..}] only existence_smp:stats/playtime/time_concerningly_well_spent 49
-advancement grant @s[scores={exi_playtime_h=50..}] only existence_smp:stats/playtime/time_concerningly_well_spent 50
-advancement grant @s[scores={exi_playtime_h=51..}] only existence_smp:stats/playtime/time_concerningly_well_spent 51
-advancement grant @s[scores={exi_playtime_h=52..}] only existence_smp:stats/playtime/time_concerningly_well_spent 52
-advancement grant @s[scores={exi_playtime_h=53..}] only existence_smp:stats/playtime/time_concerningly_well_spent 53
-advancement grant @s[scores={exi_playtime_h=54..}] only existence_smp:stats/playtime/time_concerningly_well_spent 54
-advancement grant @s[scores={exi_playtime_h=55..}] only existence_smp:stats/playtime/time_concerningly_well_spent 55
-advancement grant @s[scores={exi_playtime_h=56..}] only existence_smp:stats/playtime/time_concerningly_well_spent 56
-advancement grant @s[scores={exi_playtime_h=57..}] only existence_smp:stats/playtime/time_concerningly_well_spent 57
-advancement grant @s[scores={exi_playtime_h=58..}] only existence_smp:stats/playtime/time_concerningly_well_spent 58
-advancement grant @s[scores={exi_playtime_h=59..}] only existence_smp:stats/playtime/time_concerningly_well_spent 59
-advancement grant @s[scores={exi_playtime_h=60..}] only existence_smp:stats/playtime/time_concerningly_well_spent 60
-advancement grant @s[scores={exi_playtime_h=61..}] only existence_smp:stats/playtime/time_concerningly_well_spent 61
-advancement grant @s[scores={exi_playtime_h=62..}] only existence_smp:stats/playtime/time_concerningly_well_spent 62
-advancement grant @s[scores={exi_playtime_h=63..}] only existence_smp:stats/playtime/time_concerningly_well_spent 63
-advancement grant @s[scores={exi_playtime_h=64..}] only existence_smp:stats/playtime/time_concerningly_well_spent 64
-advancement grant @s[scores={exi_playtime_h=65..}] only existence_smp:stats/playtime/time_concerningly_well_spent 65
-advancement grant @s[scores={exi_playtime_h=66..}] only existence_smp:stats/playtime/time_concerningly_well_spent 66
-advancement grant @s[scores={exi_playtime_h=67..}] only existence_smp:stats/playtime/time_concerningly_well_spent 67
-advancement grant @s[scores={exi_playtime_h=68..}] only existence_smp:stats/playtime/time_concerningly_well_spent 68
-advancement grant @s[scores={exi_playtime_h=69..}] only existence_smp:stats/playtime/time_concerningly_well_spent 69
-advancement grant @s[scores={exi_playtime_h=70..}] only existence_smp:stats/playtime/time_concerningly_well_spent 70
-advancement grant @s[scores={exi_playtime_h=71..}] only existence_smp:stats/playtime/time_concerningly_well_spent 71
-advancement grant @s[scores={exi_playtime_h=72..}] only existence_smp:stats/playtime/time_concerningly_well_spent 72
-advancement grant @s[scores={exi_playtime_h=73..}] only existence_smp:stats/playtime/time_concerningly_well_spent 73
-advancement grant @s[scores={exi_playtime_h=74..}] only existence_smp:stats/playtime/time_concerningly_well_spent 74
-advancement grant @s[scores={exi_playtime_h=75..}] only existence_smp:stats/playtime/time_concerningly_well_spent 75
-advancement grant @s[scores={exi_playtime_h=76..}] only existence_smp:stats/playtime/time_concerningly_well_spent 76
-advancement grant @s[scores={exi_playtime_h=77..}] only existence_smp:stats/playtime/time_concerningly_well_spent 77
-advancement grant @s[scores={exi_playtime_h=78..}] only existence_smp:stats/playtime/time_concerningly_well_spent 78
-advancement grant @s[scores={exi_playtime_h=79..}] only existence_smp:stats/playtime/time_concerningly_well_spent 79
-advancement grant @s[scores={exi_playtime_h=80..}] only existence_smp:stats/playtime/time_concerningly_well_spent 80
-advancement grant @s[scores={exi_playtime_h=81..}] only existence_smp:stats/playtime/time_concerningly_well_spent 81
-advancement grant @s[scores={exi_playtime_h=82..}] only existence_smp:stats/playtime/time_concerningly_well_spent 82
-advancement grant @s[scores={exi_playtime_h=83..}] only existence_smp:stats/playtime/time_concerningly_well_spent 83
-advancement grant @s[scores={exi_playtime_h=84..}] only existence_smp:stats/playtime/time_concerningly_well_spent 84
-advancement grant @s[scores={exi_playtime_h=85..}] only existence_smp:stats/playtime/time_concerningly_well_spent 85
-advancement grant @s[scores={exi_playtime_h=86..}] only existence_smp:stats/playtime/time_concerningly_well_spent 86
-advancement grant @s[scores={exi_playtime_h=87..}] only existence_smp:stats/playtime/time_concerningly_well_spent 87
-advancement grant @s[scores={exi_playtime_h=88..}] only existence_smp:stats/playtime/time_concerningly_well_spent 88
-advancement grant @s[scores={exi_playtime_h=89..}] only existence_smp:stats/playtime/time_concerningly_well_spent 89
-advancement grant @s[scores={exi_playtime_h=90..}] only existence_smp:stats/playtime/time_concerningly_well_spent 90
-advancement grant @s[scores={exi_playtime_h=91..}] only existence_smp:stats/playtime/time_concerningly_well_spent 91
-advancement grant @s[scores={exi_playtime_h=92..}] only existence_smp:stats/playtime/time_concerningly_well_spent 92
-advancement grant @s[scores={exi_playtime_h=93..}] only existence_smp:stats/playtime/time_concerningly_well_spent 93
-advancement grant @s[scores={exi_playtime_h=94..}] only existence_smp:stats/playtime/time_concerningly_well_spent 94
-advancement grant @s[scores={exi_playtime_h=95..}] only existence_smp:stats/playtime/time_concerningly_well_spent 95
-advancement grant @s[scores={exi_playtime_h=96..}] only existence_smp:stats/playtime/time_concerningly_well_spent 96
-advancement grant @s[scores={exi_playtime_h=97..}] only existence_smp:stats/playtime/time_concerningly_well_spent 97
-advancement grant @s[scores={exi_playtime_h=98..}] only existence_smp:stats/playtime/time_concerningly_well_spent 98
-advancement grant @s[scores={exi_playtime_h=99..}] only existence_smp:stats/playtime/time_concerningly_well_spent 99
-advancement grant @s[scores={exi_playtime_h=100..}] only existence_smp:stats/playtime/time_concerningly_well_spent 100
-advancement grant @s[scores={exi_playtime_h=101..}] only existence_smp:stats/playtime/time_concerningly_well_spent 101
-advancement grant @s[scores={exi_playtime_h=102..}] only existence_smp:stats/playtime/time_concerningly_well_spent 102
-advancement grant @s[scores={exi_playtime_h=103..}] only existence_smp:stats/playtime/time_concerningly_well_spent 103
-advancement grant @s[scores={exi_playtime_h=104..}] only existence_smp:stats/playtime/time_concerningly_well_spent 104
-advancement grant @s[scores={exi_playtime_h=105..}] only existence_smp:stats/playtime/time_concerningly_well_spent 105
-advancement grant @s[scores={exi_playtime_h=106..}] only existence_smp:stats/playtime/time_concerningly_well_spent 106
-advancement grant @s[scores={exi_playtime_h=107..}] only existence_smp:stats/playtime/time_concerningly_well_spent 107
-advancement grant @s[scores={exi_playtime_h=108..}] only existence_smp:stats/playtime/time_concerningly_well_spent 108
-advancement grant @s[scores={exi_playtime_h=109..}] only existence_smp:stats/playtime/time_concerningly_well_spent 109
-advancement grant @s[scores={exi_playtime_h=110..}] only existence_smp:stats/playtime/time_concerningly_well_spent 110
-advancement grant @s[scores={exi_playtime_h=111..}] only existence_smp:stats/playtime/time_concerningly_well_spent 111
-advancement grant @s[scores={exi_playtime_h=112..}] only existence_smp:stats/playtime/time_concerningly_well_spent 112
-advancement grant @s[scores={exi_playtime_h=113..}] only existence_smp:stats/playtime/time_concerningly_well_spent 113
-advancement grant @s[scores={exi_playtime_h=114..}] only existence_smp:stats/playtime/time_concerningly_well_spent 114
-advancement grant @s[scores={exi_playtime_h=115..}] only existence_smp:stats/playtime/time_concerningly_well_spent 115
-advancement grant @s[scores={exi_playtime_h=116..}] only existence_smp:stats/playtime/time_concerningly_well_spent 116
-advancement grant @s[scores={exi_playtime_h=117..}] only existence_smp:stats/playtime/time_concerningly_well_spent 117
-advancement grant @s[scores={exi_playtime_h=118..}] only existence_smp:stats/playtime/time_concerningly_well_spent 118
-advancement grant @s[scores={exi_playtime_h=119..}] only existence_smp:stats/playtime/time_concerningly_well_spent 119
-advancement grant @s[scores={exi_playtime_h=120..}] only existence_smp:stats/playtime/time_concerningly_well_spent 120
-advancement grant @s[scores={exi_playtime_h=121..}] only existence_smp:stats/playtime/time_concerningly_well_spent 121
-advancement grant @s[scores={exi_playtime_h=122..}] only existence_smp:stats/playtime/time_concerningly_well_spent 122
-advancement grant @s[scores={exi_playtime_h=123..}] only existence_smp:stats/playtime/time_concerningly_well_spent 123
-advancement grant @s[scores={exi_playtime_h=124..}] only existence_smp:stats/playtime/time_concerningly_well_spent 124
-advancement grant @s[scores={exi_playtime_h=125..}] only existence_smp:stats/playtime/time_concerningly_well_spent 125
-advancement grant @s[scores={exi_playtime_h=126..}] only existence_smp:stats/playtime/time_concerningly_well_spent 126
-advancement grant @s[scores={exi_playtime_h=127..}] only existence_smp:stats/playtime/time_concerningly_well_spent 127
-advancement grant @s[scores={exi_playtime_h=128..}] only existence_smp:stats/playtime/time_concerningly_well_spent 128
-advancement grant @s[scores={exi_playtime_h=129..}] only existence_smp:stats/playtime/time_concerningly_well_spent 129
-advancement grant @s[scores={exi_playtime_h=130..}] only existence_smp:stats/playtime/time_concerningly_well_spent 130
-advancement grant @s[scores={exi_playtime_h=131..}] only existence_smp:stats/playtime/time_concerningly_well_spent 131
-advancement grant @s[scores={exi_playtime_h=132..}] only existence_smp:stats/playtime/time_concerningly_well_spent 132
-advancement grant @s[scores={exi_playtime_h=133..}] only existence_smp:stats/playtime/time_concerningly_well_spent 133
-advancement grant @s[scores={exi_playtime_h=134..}] only existence_smp:stats/playtime/time_concerningly_well_spent 134
-advancement grant @s[scores={exi_playtime_h=135..}] only existence_smp:stats/playtime/time_concerningly_well_spent 135
-advancement grant @s[scores={exi_playtime_h=136..}] only existence_smp:stats/playtime/time_concerningly_well_spent 136
-advancement grant @s[scores={exi_playtime_h=137..}] only existence_smp:stats/playtime/time_concerningly_well_spent 137
-advancement grant @s[scores={exi_playtime_h=138..}] only existence_smp:stats/playtime/time_concerningly_well_spent 138
-advancement grant @s[scores={exi_playtime_h=139..}] only existence_smp:stats/playtime/time_concerningly_well_spent 139
-advancement grant @s[scores={exi_playtime_h=140..}] only existence_smp:stats/playtime/time_concerningly_well_spent 140
-advancement grant @s[scores={exi_playtime_h=141..}] only existence_smp:stats/playtime/time_concerningly_well_spent 141
-advancement grant @s[scores={exi_playtime_h=142..}] only existence_smp:stats/playtime/time_concerningly_well_spent 142
-advancement grant @s[scores={exi_playtime_h=143..}] only existence_smp:stats/playtime/time_concerningly_well_spent 143
-advancement grant @s[scores={exi_playtime_h=144..}] only existence_smp:stats/playtime/time_concerningly_well_spent 144
-advancement grant @s[scores={exi_playtime_h=145..}] only existence_smp:stats/playtime/time_concerningly_well_spent 145
-advancement grant @s[scores={exi_playtime_h=146..}] only existence_smp:stats/playtime/time_concerningly_well_spent 146
-advancement grant @s[scores={exi_playtime_h=147..}] only existence_smp:stats/playtime/time_concerningly_well_spent 147
-advancement grant @s[scores={exi_playtime_h=148..}] only existence_smp:stats/playtime/time_concerningly_well_spent 148
-advancement grant @s[scores={exi_playtime_h=149..}] only existence_smp:stats/playtime/time_concerningly_well_spent 149
-advancement grant @s[scores={exi_playtime_h=150..}] only existence_smp:stats/playtime/time_concerningly_well_spent 150
-advancement grant @s[scores={exi_playtime_h=151..}] only existence_smp:stats/playtime/time_concerningly_well_spent 151
-advancement grant @s[scores={exi_playtime_h=152..}] only existence_smp:stats/playtime/time_concerningly_well_spent 152
-advancement grant @s[scores={exi_playtime_h=153..}] only existence_smp:stats/playtime/time_concerningly_well_spent 153
-advancement grant @s[scores={exi_playtime_h=154..}] only existence_smp:stats/playtime/time_concerningly_well_spent 154
-advancement grant @s[scores={exi_playtime_h=155..}] only existence_smp:stats/playtime/time_concerningly_well_spent 155
-advancement grant @s[scores={exi_playtime_h=156..}] only existence_smp:stats/playtime/time_concerningly_well_spent 156
-advancement grant @s[scores={exi_playtime_h=157..}] only existence_smp:stats/playtime/time_concerningly_well_spent 157
-advancement grant @s[scores={exi_playtime_h=158..}] only existence_smp:stats/playtime/time_concerningly_well_spent 158
-advancement grant @s[scores={exi_playtime_h=159..}] only existence_smp:stats/playtime/time_concerningly_well_spent 159
-advancement grant @s[scores={exi_playtime_h=160..}] only existence_smp:stats/playtime/time_concerningly_well_spent 160
-advancement grant @s[scores={exi_playtime_h=161..}] only existence_smp:stats/playtime/time_concerningly_well_spent 161
-advancement grant @s[scores={exi_playtime_h=162..}] only existence_smp:stats/playtime/time_concerningly_well_spent 162
-advancement grant @s[scores={exi_playtime_h=163..}] only existence_smp:stats/playtime/time_concerningly_well_spent 163
-advancement grant @s[scores={exi_playtime_h=164..}] only existence_smp:stats/playtime/time_concerningly_well_spent 164
-advancement grant @s[scores={exi_playtime_h=165..}] only existence_smp:stats/playtime/time_concerningly_well_spent 165
-advancement grant @s[scores={exi_playtime_h=166..}] only existence_smp:stats/playtime/time_concerningly_well_spent 166
-advancement grant @s[scores={exi_playtime_h=167..}] only existence_smp:stats/playtime/time_concerningly_well_spent 167
-advancement grant @s[scores={exi_playtime_h=168..}] only existence_smp:stats/playtime/time_concerningly_well_spent 168
-advancement grant @s[scores={exi_playtime_h=169..}] only existence_smp:stats/playtime/time_concerningly_well_spent 169
-advancement grant @s[scores={exi_playtime_h=170..}] only existence_smp:stats/playtime/time_concerningly_well_spent 170
-advancement grant @s[scores={exi_playtime_h=171..}] only existence_smp:stats/playtime/time_concerningly_well_spent 171
-advancement grant @s[scores={exi_playtime_h=172..}] only existence_smp:stats/playtime/time_concerningly_well_spent 172
-advancement grant @s[scores={exi_playtime_h=173..}] only existence_smp:stats/playtime/time_concerningly_well_spent 173
-advancement grant @s[scores={exi_playtime_h=174..}] only existence_smp:stats/playtime/time_concerningly_well_spent 174
-advancement grant @s[scores={exi_playtime_h=175..}] only existence_smp:stats/playtime/time_concerningly_well_spent 175
-advancement grant @s[scores={exi_playtime_h=176..}] only existence_smp:stats/playtime/time_concerningly_well_spent 176
-advancement grant @s[scores={exi_playtime_h=177..}] only existence_smp:stats/playtime/time_concerningly_well_spent 177
-advancement grant @s[scores={exi_playtime_h=178..}] only existence_smp:stats/playtime/time_concerningly_well_spent 178
-advancement grant @s[scores={exi_playtime_h=179..}] only existence_smp:stats/playtime/time_concerningly_well_spent 179
-advancement grant @s[scores={exi_playtime_h=180..}] only existence_smp:stats/playtime/time_concerningly_well_spent 180
-advancement grant @s[scores={exi_playtime_h=181..}] only existence_smp:stats/playtime/time_concerningly_well_spent 181
-advancement grant @s[scores={exi_playtime_h=182..}] only existence_smp:stats/playtime/time_concerningly_well_spent 182
-advancement grant @s[scores={exi_playtime_h=183..}] only existence_smp:stats/playtime/time_concerningly_well_spent 183
-advancement grant @s[scores={exi_playtime_h=184..}] only existence_smp:stats/playtime/time_concerningly_well_spent 184
-advancement grant @s[scores={exi_playtime_h=185..}] only existence_smp:stats/playtime/time_concerningly_well_spent 185
-advancement grant @s[scores={exi_playtime_h=186..}] only existence_smp:stats/playtime/time_concerningly_well_spent 186
-advancement grant @s[scores={exi_playtime_h=187..}] only existence_smp:stats/playtime/time_concerningly_well_spent 187
-advancement grant @s[scores={exi_playtime_h=188..}] only existence_smp:stats/playtime/time_concerningly_well_spent 188
-advancement grant @s[scores={exi_playtime_h=189..}] only existence_smp:stats/playtime/time_concerningly_well_spent 189
-advancement grant @s[scores={exi_playtime_h=190..}] only existence_smp:stats/playtime/time_concerningly_well_spent 190
-advancement grant @s[scores={exi_playtime_h=191..}] only existence_smp:stats/playtime/time_concerningly_well_spent 191
-advancement grant @s[scores={exi_playtime_h=192..}] only existence_smp:stats/playtime/time_concerningly_well_spent 192
-advancement grant @s[scores={exi_playtime_h=193..}] only existence_smp:stats/playtime/time_concerningly_well_spent 193
-advancement grant @s[scores={exi_playtime_h=194..}] only existence_smp:stats/playtime/time_concerningly_well_spent 194
-advancement grant @s[scores={exi_playtime_h=195..}] only existence_smp:stats/playtime/time_concerningly_well_spent 195
-advancement grant @s[scores={exi_playtime_h=196..}] only existence_smp:stats/playtime/time_concerningly_well_spent 196
-advancement grant @s[scores={exi_playtime_h=197..}] only existence_smp:stats/playtime/time_concerningly_well_spent 197
-advancement grant @s[scores={exi_playtime_h=198..}] only existence_smp:stats/playtime/time_concerningly_well_spent 198
-advancement grant @s[scores={exi_playtime_h=199..}] only existence_smp:stats/playtime/time_concerningly_well_spent 199
-advancement grant @s[scores={exi_playtime_h=200..}] only existence_smp:stats/playtime/time_concerningly_well_spent 200
-advancement grant @s[scores={exi_playtime_h=201..}] only existence_smp:stats/playtime/time_concerningly_well_spent 201
-advancement grant @s[scores={exi_playtime_h=202..}] only existence_smp:stats/playtime/time_concerningly_well_spent 202
-advancement grant @s[scores={exi_playtime_h=203..}] only existence_smp:stats/playtime/time_concerningly_well_spent 203
-advancement grant @s[scores={exi_playtime_h=204..}] only existence_smp:stats/playtime/time_concerningly_well_spent 204
-advancement grant @s[scores={exi_playtime_h=205..}] only existence_smp:stats/playtime/time_concerningly_well_spent 205
-advancement grant @s[scores={exi_playtime_h=206..}] only existence_smp:stats/playtime/time_concerningly_well_spent 206
-advancement grant @s[scores={exi_playtime_h=207..}] only existence_smp:stats/playtime/time_concerningly_well_spent 207
-advancement grant @s[scores={exi_playtime_h=208..}] only existence_smp:stats/playtime/time_concerningly_well_spent 208
-advancement grant @s[scores={exi_playtime_h=209..}] only existence_smp:stats/playtime/time_concerningly_well_spent 209
-advancement grant @s[scores={exi_playtime_h=210..}] only existence_smp:stats/playtime/time_concerningly_well_spent 210
-advancement grant @s[scores={exi_playtime_h=211..}] only existence_smp:stats/playtime/time_concerningly_well_spent 211
-advancement grant @s[scores={exi_playtime_h=212..}] only existence_smp:stats/playtime/time_concerningly_well_spent 212
-advancement grant @s[scores={exi_playtime_h=213..}] only existence_smp:stats/playtime/time_concerningly_well_spent 213
-advancement grant @s[scores={exi_playtime_h=214..}] only existence_smp:stats/playtime/time_concerningly_well_spent 214
-advancement grant @s[scores={exi_playtime_h=215..}] only existence_smp:stats/playtime/time_concerningly_well_spent 215
-advancement grant @s[scores={exi_playtime_h=216..}] only existence_smp:stats/playtime/time_concerningly_well_spent 216
-advancement grant @s[scores={exi_playtime_h=217..}] only existence_smp:stats/playtime/time_concerningly_well_spent 217
-advancement grant @s[scores={exi_playtime_h=218..}] only existence_smp:stats/playtime/time_concerningly_well_spent 218
-advancement grant @s[scores={exi_playtime_h=219..}] only existence_smp:stats/playtime/time_concerningly_well_spent 219
-advancement grant @s[scores={exi_playtime_h=220..}] only existence_smp:stats/playtime/time_concerningly_well_spent 220
-advancement grant @s[scores={exi_playtime_h=221..}] only existence_smp:stats/playtime/time_concerningly_well_spent 221
-advancement grant @s[scores={exi_playtime_h=222..}] only existence_smp:stats/playtime/time_concerningly_well_spent 222
-advancement grant @s[scores={exi_playtime_h=223..}] only existence_smp:stats/playtime/time_concerningly_well_spent 223
-advancement grant @s[scores={exi_playtime_h=224..}] only existence_smp:stats/playtime/time_concerningly_well_spent 224
-advancement grant @s[scores={exi_playtime_h=225..}] only existence_smp:stats/playtime/time_concerningly_well_spent 225
-advancement grant @s[scores={exi_playtime_h=226..}] only existence_smp:stats/playtime/time_concerningly_well_spent 226
-advancement grant @s[scores={exi_playtime_h=227..}] only existence_smp:stats/playtime/time_concerningly_well_spent 227
-advancement grant @s[scores={exi_playtime_h=228..}] only existence_smp:stats/playtime/time_concerningly_well_spent 228
-advancement grant @s[scores={exi_playtime_h=229..}] only existence_smp:stats/playtime/time_concerningly_well_spent 229
-advancement grant @s[scores={exi_playtime_h=230..}] only existence_smp:stats/playtime/time_concerningly_well_spent 230
-advancement grant @s[scores={exi_playtime_h=231..}] only existence_smp:stats/playtime/time_concerningly_well_spent 231
-advancement grant @s[scores={exi_playtime_h=232..}] only existence_smp:stats/playtime/time_concerningly_well_spent 232
-advancement grant @s[scores={exi_playtime_h=233..}] only existence_smp:stats/playtime/time_concerningly_well_spent 233
-advancement grant @s[scores={exi_playtime_h=234..}] only existence_smp:stats/playtime/time_concerningly_well_spent 234
-advancement grant @s[scores={exi_playtime_h=235..}] only existence_smp:stats/playtime/time_concerningly_well_spent 235
-advancement grant @s[scores={exi_playtime_h=236..}] only existence_smp:stats/playtime/time_concerningly_well_spent 236
-advancement grant @s[scores={exi_playtime_h=237..}] only existence_smp:stats/playtime/time_concerningly_well_spent 237
-advancement grant @s[scores={exi_playtime_h=238..}] only existence_smp:stats/playtime/time_concerningly_well_spent 238
-advancement grant @s[scores={exi_playtime_h=239..}] only existence_smp:stats/playtime/time_concerningly_well_spent 239
-advancement grant @s[scores={exi_playtime_h=240..}] only existence_smp:stats/playtime/time_concerningly_well_spent 240
-advancement grant @s[scores={exi_playtime_h=241..}] only existence_smp:stats/playtime/time_concerningly_well_spent 241
-advancement grant @s[scores={exi_playtime_h=242..}] only existence_smp:stats/playtime/time_concerningly_well_spent 242
-advancement grant @s[scores={exi_playtime_h=243..}] only existence_smp:stats/playtime/time_concerningly_well_spent 243
-advancement grant @s[scores={exi_playtime_h=244..}] only existence_smp:stats/playtime/time_concerningly_well_spent 244
-advancement grant @s[scores={exi_playtime_h=245..}] only existence_smp:stats/playtime/time_concerningly_well_spent 245
-advancement grant @s[scores={exi_playtime_h=246..}] only existence_smp:stats/playtime/time_concerningly_well_spent 246
-advancement grant @s[scores={exi_playtime_h=247..}] only existence_smp:stats/playtime/time_concerningly_well_spent 247
-advancement grant @s[scores={exi_playtime_h=248..}] only existence_smp:stats/playtime/time_concerningly_well_spent 248
-advancement grant @s[scores={exi_playtime_h=249..}] only existence_smp:stats/playtime/time_concerningly_well_spent 249
-advancement grant @s[scores={exi_playtime_h=250..}] only existence_smp:stats/playtime/time_concerningly_well_spent 250
-advancement grant @s[scores={exi_playtime_h=251..}] only existence_smp:stats/playtime/time_concerningly_well_spent 251
-advancement grant @s[scores={exi_playtime_h=252..}] only existence_smp:stats/playtime/time_concerningly_well_spent 252
-advancement grant @s[scores={exi_playtime_h=253..}] only existence_smp:stats/playtime/time_concerningly_well_spent 253
-advancement grant @s[scores={exi_playtime_h=254..}] only existence_smp:stats/playtime/time_concerningly_well_spent 254
-advancement grant @s[scores={exi_playtime_h=255..}] only existence_smp:stats/playtime/time_concerningly_well_spent 255
-advancement grant @s[scores={exi_playtime_h=256..}] only existence_smp:stats/playtime/time_concerningly_well_spent 256
-advancement grant @s[scores={exi_playtime_h=257..}] only existence_smp:stats/playtime/time_concerningly_well_spent 257
-advancement grant @s[scores={exi_playtime_h=258..}] only existence_smp:stats/playtime/time_concerningly_well_spent 258
-advancement grant @s[scores={exi_playtime_h=259..}] only existence_smp:stats/playtime/time_concerningly_well_spent 259
-advancement grant @s[scores={exi_playtime_h=260..}] only existence_smp:stats/playtime/time_concerningly_well_spent 260
-advancement grant @s[scores={exi_playtime_h=261..}] only existence_smp:stats/playtime/time_concerningly_well_spent 261
-advancement grant @s[scores={exi_playtime_h=262..}] only existence_smp:stats/playtime/time_concerningly_well_spent 262
-advancement grant @s[scores={exi_playtime_h=263..}] only existence_smp:stats/playtime/time_concerningly_well_spent 263
-advancement grant @s[scores={exi_playtime_h=264..}] only existence_smp:stats/playtime/time_concerningly_well_spent 264
-advancement grant @s[scores={exi_playtime_h=265..}] only existence_smp:stats/playtime/time_concerningly_well_spent 265
-advancement grant @s[scores={exi_playtime_h=266..}] only existence_smp:stats/playtime/time_concerningly_well_spent 266
-advancement grant @s[scores={exi_playtime_h=267..}] only existence_smp:stats/playtime/time_concerningly_well_spent 267
-advancement grant @s[scores={exi_playtime_h=268..}] only existence_smp:stats/playtime/time_concerningly_well_spent 268
-advancement grant @s[scores={exi_playtime_h=269..}] only existence_smp:stats/playtime/time_concerningly_well_spent 269
-advancement grant @s[scores={exi_playtime_h=270..}] only existence_smp:stats/playtime/time_concerningly_well_spent 270
-advancement grant @s[scores={exi_playtime_h=271..}] only existence_smp:stats/playtime/time_concerningly_well_spent 271
-advancement grant @s[scores={exi_playtime_h=272..}] only existence_smp:stats/playtime/time_concerningly_well_spent 272
-advancement grant @s[scores={exi_playtime_h=273..}] only existence_smp:stats/playtime/time_concerningly_well_spent 273
-advancement grant @s[scores={exi_playtime_h=274..}] only existence_smp:stats/playtime/time_concerningly_well_spent 274
-advancement grant @s[scores={exi_playtime_h=275..}] only existence_smp:stats/playtime/time_concerningly_well_spent 275
-advancement grant @s[scores={exi_playtime_h=276..}] only existence_smp:stats/playtime/time_concerningly_well_spent 276
-advancement grant @s[scores={exi_playtime_h=277..}] only existence_smp:stats/playtime/time_concerningly_well_spent 277
-advancement grant @s[scores={exi_playtime_h=278..}] only existence_smp:stats/playtime/time_concerningly_well_spent 278
-advancement grant @s[scores={exi_playtime_h=279..}] only existence_smp:stats/playtime/time_concerningly_well_spent 279
-advancement grant @s[scores={exi_playtime_h=280..}] only existence_smp:stats/playtime/time_concerningly_well_spent 280
-advancement grant @s[scores={exi_playtime_h=281..}] only existence_smp:stats/playtime/time_concerningly_well_spent 281
-advancement grant @s[scores={exi_playtime_h=282..}] only existence_smp:stats/playtime/time_concerningly_well_spent 282
-advancement grant @s[scores={exi_playtime_h=283..}] only existence_smp:stats/playtime/time_concerningly_well_spent 283
-advancement grant @s[scores={exi_playtime_h=284..}] only existence_smp:stats/playtime/time_concerningly_well_spent 284
-advancement grant @s[scores={exi_playtime_h=285..}] only existence_smp:stats/playtime/time_concerningly_well_spent 285
-advancement grant @s[scores={exi_playtime_h=286..}] only existence_smp:stats/playtime/time_concerningly_well_spent 286
-advancement grant @s[scores={exi_playtime_h=287..}] only existence_smp:stats/playtime/time_concerningly_well_spent 287
-advancement grant @s[scores={exi_playtime_h=288..}] only existence_smp:stats/playtime/time_concerningly_well_spent 288
-advancement grant @s[scores={exi_playtime_h=289..}] only existence_smp:stats/playtime/time_concerningly_well_spent 289
-advancement grant @s[scores={exi_playtime_h=290..}] only existence_smp:stats/playtime/time_concerningly_well_spent 290
-advancement grant @s[scores={exi_playtime_h=291..}] only existence_smp:stats/playtime/time_concerningly_well_spent 291
-advancement grant @s[scores={exi_playtime_h=292..}] only existence_smp:stats/playtime/time_concerningly_well_spent 292
-advancement grant @s[scores={exi_playtime_h=293..}] only existence_smp:stats/playtime/time_concerningly_well_spent 293
-advancement grant @s[scores={exi_playtime_h=294..}] only existence_smp:stats/playtime/time_concerningly_well_spent 294
-advancement grant @s[scores={exi_playtime_h=295..}] only existence_smp:stats/playtime/time_concerningly_well_spent 295
-advancement grant @s[scores={exi_playtime_h=296..}] only existence_smp:stats/playtime/time_concerningly_well_spent 296
-advancement grant @s[scores={exi_playtime_h=297..}] only existence_smp:stats/playtime/time_concerningly_well_spent 297
-advancement grant @s[scores={exi_playtime_h=298..}] only existence_smp:stats/playtime/time_concerningly_well_spent 298
-advancement grant @s[scores={exi_playtime_h=299..}] only existence_smp:stats/playtime/time_concerningly_well_spent 299
-advancement grant @s[scores={exi_playtime_h=300..}] only existence_smp:stats/playtime/time_concerningly_well_spent 300
-advancement grant @s[scores={exi_playtime_h=301..}] only existence_smp:stats/playtime/time_concerningly_well_spent 301
-advancement grant @s[scores={exi_playtime_h=302..}] only existence_smp:stats/playtime/time_concerningly_well_spent 302
-advancement grant @s[scores={exi_playtime_h=303..}] only existence_smp:stats/playtime/time_concerningly_well_spent 303
-advancement grant @s[scores={exi_playtime_h=304..}] only existence_smp:stats/playtime/time_concerningly_well_spent 304
-advancement grant @s[scores={exi_playtime_h=305..}] only existence_smp:stats/playtime/time_concerningly_well_spent 305
-advancement grant @s[scores={exi_playtime_h=306..}] only existence_smp:stats/playtime/time_concerningly_well_spent 306
-advancement grant @s[scores={exi_playtime_h=307..}] only existence_smp:stats/playtime/time_concerningly_well_spent 307
-advancement grant @s[scores={exi_playtime_h=308..}] only existence_smp:stats/playtime/time_concerningly_well_spent 308
-advancement grant @s[scores={exi_playtime_h=309..}] only existence_smp:stats/playtime/time_concerningly_well_spent 309
-advancement grant @s[scores={exi_playtime_h=310..}] only existence_smp:stats/playtime/time_concerningly_well_spent 310
-advancement grant @s[scores={exi_playtime_h=311..}] only existence_smp:stats/playtime/time_concerningly_well_spent 311
-advancement grant @s[scores={exi_playtime_h=312..}] only existence_smp:stats/playtime/time_concerningly_well_spent 312
-advancement grant @s[scores={exi_playtime_h=313..}] only existence_smp:stats/playtime/time_concerningly_well_spent 313
-advancement grant @s[scores={exi_playtime_h=314..}] only existence_smp:stats/playtime/time_concerningly_well_spent 314
-advancement grant @s[scores={exi_playtime_h=315..}] only existence_smp:stats/playtime/time_concerningly_well_spent 315
-advancement grant @s[scores={exi_playtime_h=316..}] only existence_smp:stats/playtime/time_concerningly_well_spent 316
-advancement grant @s[scores={exi_playtime_h=317..}] only existence_smp:stats/playtime/time_concerningly_well_spent 317
-advancement grant @s[scores={exi_playtime_h=318..}] only existence_smp:stats/playtime/time_concerningly_well_spent 318
-advancement grant @s[scores={exi_playtime_h=319..}] only existence_smp:stats/playtime/time_concerningly_well_spent 319
-advancement grant @s[scores={exi_playtime_h=320..}] only existence_smp:stats/playtime/time_concerningly_well_spent 320
-advancement grant @s[scores={exi_playtime_h=321..}] only existence_smp:stats/playtime/time_concerningly_well_spent 321
-advancement grant @s[scores={exi_playtime_h=322..}] only existence_smp:stats/playtime/time_concerningly_well_spent 322
-advancement grant @s[scores={exi_playtime_h=323..}] only existence_smp:stats/playtime/time_concerningly_well_spent 323
-advancement grant @s[scores={exi_playtime_h=324..}] only existence_smp:stats/playtime/time_concerningly_well_spent 324
-advancement grant @s[scores={exi_playtime_h=325..}] only existence_smp:stats/playtime/time_concerningly_well_spent 325
-advancement grant @s[scores={exi_playtime_h=326..}] only existence_smp:stats/playtime/time_concerningly_well_spent 326
-advancement grant @s[scores={exi_playtime_h=327..}] only existence_smp:stats/playtime/time_concerningly_well_spent 327
-advancement grant @s[scores={exi_playtime_h=328..}] only existence_smp:stats/playtime/time_concerningly_well_spent 328
-advancement grant @s[scores={exi_playtime_h=329..}] only existence_smp:stats/playtime/time_concerningly_well_spent 329
-advancement grant @s[scores={exi_playtime_h=330..}] only existence_smp:stats/playtime/time_concerningly_well_spent 330
-advancement grant @s[scores={exi_playtime_h=331..}] only existence_smp:stats/playtime/time_concerningly_well_spent 331
-advancement grant @s[scores={exi_playtime_h=332..}] only existence_smp:stats/playtime/time_concerningly_well_spent 332
-advancement grant @s[scores={exi_playtime_h=333..}] only existence_smp:stats/playtime/time_concerningly_well_spent 333
-advancement grant @s[scores={exi_playtime_h=334..}] only existence_smp:stats/playtime/time_concerningly_well_spent 334
-advancement grant @s[scores={exi_playtime_h=335..}] only existence_smp:stats/playtime/time_concerningly_well_spent 335
-advancement grant @s[scores={exi_playtime_h=336..}] only existence_smp:stats/playtime/time_concerningly_well_spent 336
-advancement grant @s[scores={exi_playtime_h=337..}] only existence_smp:stats/playtime/time_concerningly_well_spent 337
-advancement grant @s[scores={exi_playtime_h=338..}] only existence_smp:stats/playtime/time_concerningly_well_spent 338
-advancement grant @s[scores={exi_playtime_h=339..}] only existence_smp:stats/playtime/time_concerningly_well_spent 339
-advancement grant @s[scores={exi_playtime_h=340..}] only existence_smp:stats/playtime/time_concerningly_well_spent 340
-advancement grant @s[scores={exi_playtime_h=341..}] only existence_smp:stats/playtime/time_concerningly_well_spent 341
-advancement grant @s[scores={exi_playtime_h=342..}] only existence_smp:stats/playtime/time_concerningly_well_spent 342
-advancement grant @s[scores={exi_playtime_h=343..}] only existence_smp:stats/playtime/time_concerningly_well_spent 343
-advancement grant @s[scores={exi_playtime_h=344..}] only existence_smp:stats/playtime/time_concerningly_well_spent 344
-advancement grant @s[scores={exi_playtime_h=345..}] only existence_smp:stats/playtime/time_concerningly_well_spent 345
-advancement grant @s[scores={exi_playtime_h=346..}] only existence_smp:stats/playtime/time_concerningly_well_spent 346
-advancement grant @s[scores={exi_playtime_h=347..}] only existence_smp:stats/playtime/time_concerningly_well_spent 347
-advancement grant @s[scores={exi_playtime_h=348..}] only existence_smp:stats/playtime/time_concerningly_well_spent 348
-advancement grant @s[scores={exi_playtime_h=349..}] only existence_smp:stats/playtime/time_concerningly_well_spent 349
-advancement grant @s[scores={exi_playtime_h=350..}] only existence_smp:stats/playtime/time_concerningly_well_spent 350
-advancement grant @s[scores={exi_playtime_h=351..}] only existence_smp:stats/playtime/time_concerningly_well_spent 351
-advancement grant @s[scores={exi_playtime_h=352..}] only existence_smp:stats/playtime/time_concerningly_well_spent 352
-advancement grant @s[scores={exi_playtime_h=353..}] only existence_smp:stats/playtime/time_concerningly_well_spent 353
-advancement grant @s[scores={exi_playtime_h=354..}] only existence_smp:stats/playtime/time_concerningly_well_spent 354
-advancement grant @s[scores={exi_playtime_h=355..}] only existence_smp:stats/playtime/time_concerningly_well_spent 355
-advancement grant @s[scores={exi_playtime_h=356..}] only existence_smp:stats/playtime/time_concerningly_well_spent 356
-advancement grant @s[scores={exi_playtime_h=357..}] only existence_smp:stats/playtime/time_concerningly_well_spent 357
-advancement grant @s[scores={exi_playtime_h=358..}] only existence_smp:stats/playtime/time_concerningly_well_spent 358
-advancement grant @s[scores={exi_playtime_h=359..}] only existence_smp:stats/playtime/time_concerningly_well_spent 359
-advancement grant @s[scores={exi_playtime_h=360..}] only existence_smp:stats/playtime/time_concerningly_well_spent 360
-advancement grant @s[scores={exi_playtime_h=361..}] only existence_smp:stats/playtime/time_concerningly_well_spent 361
-advancement grant @s[scores={exi_playtime_h=362..}] only existence_smp:stats/playtime/time_concerningly_well_spent 362
-advancement grant @s[scores={exi_playtime_h=363..}] only existence_smp:stats/playtime/time_concerningly_well_spent 363
-advancement grant @s[scores={exi_playtime_h=364..}] only existence_smp:stats/playtime/time_concerningly_well_spent 364
-advancement grant @s[scores={exi_playtime_h=365..}] only existence_smp:stats/playtime/time_concerningly_well_spent 365
-advancement grant @s[scores={exi_playtime_h=366..}] only existence_smp:stats/playtime/time_concerningly_well_spent 366
-advancement grant @s[scores={exi_playtime_h=367..}] only existence_smp:stats/playtime/time_concerningly_well_spent 367
-advancement grant @s[scores={exi_playtime_h=368..}] only existence_smp:stats/playtime/time_concerningly_well_spent 368
-advancement grant @s[scores={exi_playtime_h=369..}] only existence_smp:stats/playtime/time_concerningly_well_spent 369
-advancement grant @s[scores={exi_playtime_h=370..}] only existence_smp:stats/playtime/time_concerningly_well_spent 370
-advancement grant @s[scores={exi_playtime_h=371..}] only existence_smp:stats/playtime/time_concerningly_well_spent 371
-advancement grant @s[scores={exi_playtime_h=372..}] only existence_smp:stats/playtime/time_concerningly_well_spent 372
-advancement grant @s[scores={exi_playtime_h=373..}] only existence_smp:stats/playtime/time_concerningly_well_spent 373
-advancement grant @s[scores={exi_playtime_h=374..}] only existence_smp:stats/playtime/time_concerningly_well_spent 374
-advancement grant @s[scores={exi_playtime_h=375..}] only existence_smp:stats/playtime/time_concerningly_well_spent 375
-advancement grant @s[scores={exi_playtime_h=376..}] only existence_smp:stats/playtime/time_concerningly_well_spent 376
-advancement grant @s[scores={exi_playtime_h=377..}] only existence_smp:stats/playtime/time_concerningly_well_spent 377
-advancement grant @s[scores={exi_playtime_h=378..}] only existence_smp:stats/playtime/time_concerningly_well_spent 378
-advancement grant @s[scores={exi_playtime_h=379..}] only existence_smp:stats/playtime/time_concerningly_well_spent 379
-advancement grant @s[scores={exi_playtime_h=380..}] only existence_smp:stats/playtime/time_concerningly_well_spent 380
-advancement grant @s[scores={exi_playtime_h=381..}] only existence_smp:stats/playtime/time_concerningly_well_spent 381
-advancement grant @s[scores={exi_playtime_h=382..}] only existence_smp:stats/playtime/time_concerningly_well_spent 382
-advancement grant @s[scores={exi_playtime_h=383..}] only existence_smp:stats/playtime/time_concerningly_well_spent 383
-advancement grant @s[scores={exi_playtime_h=384..}] only existence_smp:stats/playtime/time_concerningly_well_spent 384
-advancement grant @s[scores={exi_playtime_h=385..}] only existence_smp:stats/playtime/time_concerningly_well_spent 385
-advancement grant @s[scores={exi_playtime_h=386..}] only existence_smp:stats/playtime/time_concerningly_well_spent 386
-advancement grant @s[scores={exi_playtime_h=387..}] only existence_smp:stats/playtime/time_concerningly_well_spent 387
-advancement grant @s[scores={exi_playtime_h=388..}] only existence_smp:stats/playtime/time_concerningly_well_spent 388
-advancement grant @s[scores={exi_playtime_h=389..}] only existence_smp:stats/playtime/time_concerningly_well_spent 389
-advancement grant @s[scores={exi_playtime_h=390..}] only existence_smp:stats/playtime/time_concerningly_well_spent 390
-advancement grant @s[scores={exi_playtime_h=391..}] only existence_smp:stats/playtime/time_concerningly_well_spent 391
-advancement grant @s[scores={exi_playtime_h=392..}] only existence_smp:stats/playtime/time_concerningly_well_spent 392
-advancement grant @s[scores={exi_playtime_h=393..}] only existence_smp:stats/playtime/time_concerningly_well_spent 393
-advancement grant @s[scores={exi_playtime_h=394..}] only existence_smp:stats/playtime/time_concerningly_well_spent 394
-advancement grant @s[scores={exi_playtime_h=395..}] only existence_smp:stats/playtime/time_concerningly_well_spent 395
-advancement grant @s[scores={exi_playtime_h=396..}] only existence_smp:stats/playtime/time_concerningly_well_spent 396
-advancement grant @s[scores={exi_playtime_h=397..}] only existence_smp:stats/playtime/time_concerningly_well_spent 397
-advancement grant @s[scores={exi_playtime_h=398..}] only existence_smp:stats/playtime/time_concerningly_well_spent 398
-advancement grant @s[scores={exi_playtime_h=399..}] only existence_smp:stats/playtime/time_concerningly_well_spent 399
-advancement grant @s[scores={exi_playtime_h=400..}] only existence_smp:stats/playtime/time_concerningly_well_spent 400
-advancement grant @s[scores={exi_playtime_h=401..}] only existence_smp:stats/playtime/time_concerningly_well_spent 401
-advancement grant @s[scores={exi_playtime_h=402..}] only existence_smp:stats/playtime/time_concerningly_well_spent 402
-advancement grant @s[scores={exi_playtime_h=403..}] only existence_smp:stats/playtime/time_concerningly_well_spent 403
-advancement grant @s[scores={exi_playtime_h=404..}] only existence_smp:stats/playtime/time_concerningly_well_spent 404
-advancement grant @s[scores={exi_playtime_h=405..}] only existence_smp:stats/playtime/time_concerningly_well_spent 405
-advancement grant @s[scores={exi_playtime_h=406..}] only existence_smp:stats/playtime/time_concerningly_well_spent 406
-advancement grant @s[scores={exi_playtime_h=407..}] only existence_smp:stats/playtime/time_concerningly_well_spent 407
-advancement grant @s[scores={exi_playtime_h=408..}] only existence_smp:stats/playtime/time_concerningly_well_spent 408
-advancement grant @s[scores={exi_playtime_h=409..}] only existence_smp:stats/playtime/time_concerningly_well_spent 409
-advancement grant @s[scores={exi_playtime_h=410..}] only existence_smp:stats/playtime/time_concerningly_well_spent 410
-advancement grant @s[scores={exi_playtime_h=411..}] only existence_smp:stats/playtime/time_concerningly_well_spent 411
-advancement grant @s[scores={exi_playtime_h=412..}] only existence_smp:stats/playtime/time_concerningly_well_spent 412
-advancement grant @s[scores={exi_playtime_h=413..}] only existence_smp:stats/playtime/time_concerningly_well_spent 413
-advancement grant @s[scores={exi_playtime_h=414..}] only existence_smp:stats/playtime/time_concerningly_well_spent 414
-advancement grant @s[scores={exi_playtime_h=415..}] only existence_smp:stats/playtime/time_concerningly_well_spent 415
-advancement grant @s[scores={exi_playtime_h=416..}] only existence_smp:stats/playtime/time_concerningly_well_spent 416
-advancement grant @s[scores={exi_playtime_h=417..}] only existence_smp:stats/playtime/time_concerningly_well_spent 417
-advancement grant @s[scores={exi_playtime_h=418..}] only existence_smp:stats/playtime/time_concerningly_well_spent 418
-advancement grant @s[scores={exi_playtime_h=419..}] only existence_smp:stats/playtime/time_concerningly_well_spent 419
-advancement grant @s[scores={exi_playtime_h=420..}] only existence_smp:stats/playtime/time_concerningly_well_spent 420
-advancement grant @s[scores={exi_playtime_h=421..}] only existence_smp:stats/playtime/time_concerningly_well_spent 421
-advancement grant @s[scores={exi_playtime_h=422..}] only existence_smp:stats/playtime/time_concerningly_well_spent 422
-advancement grant @s[scores={exi_playtime_h=423..}] only existence_smp:stats/playtime/time_concerningly_well_spent 423
-advancement grant @s[scores={exi_playtime_h=424..}] only existence_smp:stats/playtime/time_concerningly_well_spent 424
-advancement grant @s[scores={exi_playtime_h=425..}] only existence_smp:stats/playtime/time_concerningly_well_spent 425
-advancement grant @s[scores={exi_playtime_h=426..}] only existence_smp:stats/playtime/time_concerningly_well_spent 426
-advancement grant @s[scores={exi_playtime_h=427..}] only existence_smp:stats/playtime/time_concerningly_well_spent 427
-advancement grant @s[scores={exi_playtime_h=428..}] only existence_smp:stats/playtime/time_concerningly_well_spent 428
-advancement grant @s[scores={exi_playtime_h=429..}] only existence_smp:stats/playtime/time_concerningly_well_spent 429
-advancement grant @s[scores={exi_playtime_h=430..}] only existence_smp:stats/playtime/time_concerningly_well_spent 430
-advancement grant @s[scores={exi_playtime_h=431..}] only existence_smp:stats/playtime/time_concerningly_well_spent 431
-advancement grant @s[scores={exi_playtime_h=432..}] only existence_smp:stats/playtime/time_concerningly_well_spent 432
-advancement grant @s[scores={exi_playtime_h=433..}] only existence_smp:stats/playtime/time_concerningly_well_spent 433
-advancement grant @s[scores={exi_playtime_h=434..}] only existence_smp:stats/playtime/time_concerningly_well_spent 434
-advancement grant @s[scores={exi_playtime_h=435..}] only existence_smp:stats/playtime/time_concerningly_well_spent 435
-advancement grant @s[scores={exi_playtime_h=436..}] only existence_smp:stats/playtime/time_concerningly_well_spent 436
-advancement grant @s[scores={exi_playtime_h=437..}] only existence_smp:stats/playtime/time_concerningly_well_spent 437
-advancement grant @s[scores={exi_playtime_h=438..}] only existence_smp:stats/playtime/time_concerningly_well_spent 438
-advancement grant @s[scores={exi_playtime_h=439..}] only existence_smp:stats/playtime/time_concerningly_well_spent 439
-advancement grant @s[scores={exi_playtime_h=440..}] only existence_smp:stats/playtime/time_concerningly_well_spent 440
-advancement grant @s[scores={exi_playtime_h=441..}] only existence_smp:stats/playtime/time_concerningly_well_spent 441
-advancement grant @s[scores={exi_playtime_h=442..}] only existence_smp:stats/playtime/time_concerningly_well_spent 442
-advancement grant @s[scores={exi_playtime_h=443..}] only existence_smp:stats/playtime/time_concerningly_well_spent 443
-advancement grant @s[scores={exi_playtime_h=444..}] only existence_smp:stats/playtime/time_concerningly_well_spent 444
-advancement grant @s[scores={exi_playtime_h=445..}] only existence_smp:stats/playtime/time_concerningly_well_spent 445
-advancement grant @s[scores={exi_playtime_h=446..}] only existence_smp:stats/playtime/time_concerningly_well_spent 446
-advancement grant @s[scores={exi_playtime_h=447..}] only existence_smp:stats/playtime/time_concerningly_well_spent 447
-advancement grant @s[scores={exi_playtime_h=448..}] only existence_smp:stats/playtime/time_concerningly_well_spent 448
-advancement grant @s[scores={exi_playtime_h=449..}] only existence_smp:stats/playtime/time_concerningly_well_spent 449
-advancement grant @s[scores={exi_playtime_h=450..}] only existence_smp:stats/playtime/time_concerningly_well_spent 450
-advancement grant @s[scores={exi_playtime_h=451..}] only existence_smp:stats/playtime/time_concerningly_well_spent 451
-advancement grant @s[scores={exi_playtime_h=452..}] only existence_smp:stats/playtime/time_concerningly_well_spent 452
-advancement grant @s[scores={exi_playtime_h=453..}] only existence_smp:stats/playtime/time_concerningly_well_spent 453
-advancement grant @s[scores={exi_playtime_h=454..}] only existence_smp:stats/playtime/time_concerningly_well_spent 454
-advancement grant @s[scores={exi_playtime_h=455..}] only existence_smp:stats/playtime/time_concerningly_well_spent 455
-advancement grant @s[scores={exi_playtime_h=456..}] only existence_smp:stats/playtime/time_concerningly_well_spent 456
-advancement grant @s[scores={exi_playtime_h=457..}] only existence_smp:stats/playtime/time_concerningly_well_spent 457
-advancement grant @s[scores={exi_playtime_h=458..}] only existence_smp:stats/playtime/time_concerningly_well_spent 458
-advancement grant @s[scores={exi_playtime_h=459..}] only existence_smp:stats/playtime/time_concerningly_well_spent 459
-advancement grant @s[scores={exi_playtime_h=460..}] only existence_smp:stats/playtime/time_concerningly_well_spent 460
-advancement grant @s[scores={exi_playtime_h=461..}] only existence_smp:stats/playtime/time_concerningly_well_spent 461
-advancement grant @s[scores={exi_playtime_h=462..}] only existence_smp:stats/playtime/time_concerningly_well_spent 462
-advancement grant @s[scores={exi_playtime_h=463..}] only existence_smp:stats/playtime/time_concerningly_well_spent 463
-advancement grant @s[scores={exi_playtime_h=464..}] only existence_smp:stats/playtime/time_concerningly_well_spent 464
-advancement grant @s[scores={exi_playtime_h=465..}] only existence_smp:stats/playtime/time_concerningly_well_spent 465
-advancement grant @s[scores={exi_playtime_h=466..}] only existence_smp:stats/playtime/time_concerningly_well_spent 466
-advancement grant @s[scores={exi_playtime_h=467..}] only existence_smp:stats/playtime/time_concerningly_well_spent 467
-advancement grant @s[scores={exi_playtime_h=468..}] only existence_smp:stats/playtime/time_concerningly_well_spent 468
-advancement grant @s[scores={exi_playtime_h=469..}] only existence_smp:stats/playtime/time_concerningly_well_spent 469
-advancement grant @s[scores={exi_playtime_h=470..}] only existence_smp:stats/playtime/time_concerningly_well_spent 470
-advancement grant @s[scores={exi_playtime_h=471..}] only existence_smp:stats/playtime/time_concerningly_well_spent 471
-advancement grant @s[scores={exi_playtime_h=472..}] only existence_smp:stats/playtime/time_concerningly_well_spent 472
-advancement grant @s[scores={exi_playtime_h=473..}] only existence_smp:stats/playtime/time_concerningly_well_spent 473
-advancement grant @s[scores={exi_playtime_h=474..}] only existence_smp:stats/playtime/time_concerningly_well_spent 474
-advancement grant @s[scores={exi_playtime_h=475..}] only existence_smp:stats/playtime/time_concerningly_well_spent 475
-advancement grant @s[scores={exi_playtime_h=476..}] only existence_smp:stats/playtime/time_concerningly_well_spent 476
-advancement grant @s[scores={exi_playtime_h=477..}] only existence_smp:stats/playtime/time_concerningly_well_spent 477
-advancement grant @s[scores={exi_playtime_h=478..}] only existence_smp:stats/playtime/time_concerningly_well_spent 478
-advancement grant @s[scores={exi_playtime_h=479..}] only existence_smp:stats/playtime/time_concerningly_well_spent 479
-advancement grant @s[scores={exi_playtime_h=480..}] only existence_smp:stats/playtime/time_concerningly_well_spent 480
-advancement grant @s[scores={exi_playtime_h=481..}] only existence_smp:stats/playtime/time_concerningly_well_spent 481
-advancement grant @s[scores={exi_playtime_h=482..}] only existence_smp:stats/playtime/time_concerningly_well_spent 482
-advancement grant @s[scores={exi_playtime_h=483..}] only existence_smp:stats/playtime/time_concerningly_well_spent 483
-advancement grant @s[scores={exi_playtime_h=484..}] only existence_smp:stats/playtime/time_concerningly_well_spent 484
-advancement grant @s[scores={exi_playtime_h=485..}] only existence_smp:stats/playtime/time_concerningly_well_spent 485
-advancement grant @s[scores={exi_playtime_h=486..}] only existence_smp:stats/playtime/time_concerningly_well_spent 486
-advancement grant @s[scores={exi_playtime_h=487..}] only existence_smp:stats/playtime/time_concerningly_well_spent 487
-advancement grant @s[scores={exi_playtime_h=488..}] only existence_smp:stats/playtime/time_concerningly_well_spent 488
-advancement grant @s[scores={exi_playtime_h=489..}] only existence_smp:stats/playtime/time_concerningly_well_spent 489
-advancement grant @s[scores={exi_playtime_h=490..}] only existence_smp:stats/playtime/time_concerningly_well_spent 490
-advancement grant @s[scores={exi_playtime_h=491..}] only existence_smp:stats/playtime/time_concerningly_well_spent 491
-advancement grant @s[scores={exi_playtime_h=492..}] only existence_smp:stats/playtime/time_concerningly_well_spent 492
-advancement grant @s[scores={exi_playtime_h=493..}] only existence_smp:stats/playtime/time_concerningly_well_spent 493
-advancement grant @s[scores={exi_playtime_h=494..}] only existence_smp:stats/playtime/time_concerningly_well_spent 494
-advancement grant @s[scores={exi_playtime_h=495..}] only existence_smp:stats/playtime/time_concerningly_well_spent 495
-advancement grant @s[scores={exi_playtime_h=496..}] only existence_smp:stats/playtime/time_concerningly_well_spent 496
-advancement grant @s[scores={exi_playtime_h=497..}] only existence_smp:stats/playtime/time_concerningly_well_spent 497
-advancement grant @s[scores={exi_playtime_h=498..}] only existence_smp:stats/playtime/time_concerningly_well_spent 498
-advancement grant @s[scores={exi_playtime_h=499..}] only existence_smp:stats/playtime/time_concerningly_well_spent 499
-advancement grant @s[scores={exi_playtime_h=500..}] only existence_smp:stats/playtime/time_concerningly_well_spent 500
-advancement grant @s[scores={exi_playtime_h=501..}] only existence_smp:stats/playtime/time_concerningly_well_spent 501
-advancement grant @s[scores={exi_playtime_h=502..}] only existence_smp:stats/playtime/time_concerningly_well_spent 502
-advancement grant @s[scores={exi_playtime_h=503..}] only existence_smp:stats/playtime/time_concerningly_well_spent 503
-advancement grant @s[scores={exi_playtime_h=504..}] only existence_smp:stats/playtime/time_concerningly_well_spent 504
-advancement grant @s[scores={exi_playtime_h=505..}] only existence_smp:stats/playtime/time_concerningly_well_spent 505
-advancement grant @s[scores={exi_playtime_h=506..}] only existence_smp:stats/playtime/time_concerningly_well_spent 506
-advancement grant @s[scores={exi_playtime_h=507..}] only existence_smp:stats/playtime/time_concerningly_well_spent 507
-advancement grant @s[scores={exi_playtime_h=508..}] only existence_smp:stats/playtime/time_concerningly_well_spent 508
-advancement grant @s[scores={exi_playtime_h=509..}] only existence_smp:stats/playtime/time_concerningly_well_spent 509
-advancement grant @s[scores={exi_playtime_h=510..}] only existence_smp:stats/playtime/time_concerningly_well_spent 510
-advancement grant @s[scores={exi_playtime_h=511..}] only existence_smp:stats/playtime/time_concerningly_well_spent 511
-advancement grant @s[scores={exi_playtime_h=512..}] only existence_smp:stats/playtime/time_concerningly_well_spent 512
-advancement grant @s[scores={exi_playtime_h=513..}] only existence_smp:stats/playtime/time_concerningly_well_spent 513
-advancement grant @s[scores={exi_playtime_h=514..}] only existence_smp:stats/playtime/time_concerningly_well_spent 514
-advancement grant @s[scores={exi_playtime_h=515..}] only existence_smp:stats/playtime/time_concerningly_well_spent 515
-advancement grant @s[scores={exi_playtime_h=516..}] only existence_smp:stats/playtime/time_concerningly_well_spent 516
-advancement grant @s[scores={exi_playtime_h=517..}] only existence_smp:stats/playtime/time_concerningly_well_spent 517
-advancement grant @s[scores={exi_playtime_h=518..}] only existence_smp:stats/playtime/time_concerningly_well_spent 518
-advancement grant @s[scores={exi_playtime_h=519..}] only existence_smp:stats/playtime/time_concerningly_well_spent 519
-advancement grant @s[scores={exi_playtime_h=520..}] only existence_smp:stats/playtime/time_concerningly_well_spent 520
-advancement grant @s[scores={exi_playtime_h=521..}] only existence_smp:stats/playtime/time_concerningly_well_spent 521
-advancement grant @s[scores={exi_playtime_h=522..}] only existence_smp:stats/playtime/time_concerningly_well_spent 522
-advancement grant @s[scores={exi_playtime_h=523..}] only existence_smp:stats/playtime/time_concerningly_well_spent 523
-advancement grant @s[scores={exi_playtime_h=524..}] only existence_smp:stats/playtime/time_concerningly_well_spent 524
-advancement grant @s[scores={exi_playtime_h=525..}] only existence_smp:stats/playtime/time_concerningly_well_spent 525
-advancement grant @s[scores={exi_playtime_h=526..}] only existence_smp:stats/playtime/time_concerningly_well_spent 526
-advancement grant @s[scores={exi_playtime_h=527..}] only existence_smp:stats/playtime/time_concerningly_well_spent 527
-advancement grant @s[scores={exi_playtime_h=528..}] only existence_smp:stats/playtime/time_concerningly_well_spent 528
-advancement grant @s[scores={exi_playtime_h=529..}] only existence_smp:stats/playtime/time_concerningly_well_spent 529
-advancement grant @s[scores={exi_playtime_h=530..}] only existence_smp:stats/playtime/time_concerningly_well_spent 530
-advancement grant @s[scores={exi_playtime_h=531..}] only existence_smp:stats/playtime/time_concerningly_well_spent 531
-advancement grant @s[scores={exi_playtime_h=532..}] only existence_smp:stats/playtime/time_concerningly_well_spent 532
-advancement grant @s[scores={exi_playtime_h=533..}] only existence_smp:stats/playtime/time_concerningly_well_spent 533
-advancement grant @s[scores={exi_playtime_h=534..}] only existence_smp:stats/playtime/time_concerningly_well_spent 534
-advancement grant @s[scores={exi_playtime_h=535..}] only existence_smp:stats/playtime/time_concerningly_well_spent 535
-advancement grant @s[scores={exi_playtime_h=536..}] only existence_smp:stats/playtime/time_concerningly_well_spent 536
-advancement grant @s[scores={exi_playtime_h=537..}] only existence_smp:stats/playtime/time_concerningly_well_spent 537
-advancement grant @s[scores={exi_playtime_h=538..}] only existence_smp:stats/playtime/time_concerningly_well_spent 538
-advancement grant @s[scores={exi_playtime_h=539..}] only existence_smp:stats/playtime/time_concerningly_well_spent 539
-advancement grant @s[scores={exi_playtime_h=540..}] only existence_smp:stats/playtime/time_concerningly_well_spent 540
-advancement grant @s[scores={exi_playtime_h=541..}] only existence_smp:stats/playtime/time_concerningly_well_spent 541
-advancement grant @s[scores={exi_playtime_h=542..}] only existence_smp:stats/playtime/time_concerningly_well_spent 542
-advancement grant @s[scores={exi_playtime_h=543..}] only existence_smp:stats/playtime/time_concerningly_well_spent 543
-advancement grant @s[scores={exi_playtime_h=544..}] only existence_smp:stats/playtime/time_concerningly_well_spent 544
-advancement grant @s[scores={exi_playtime_h=545..}] only existence_smp:stats/playtime/time_concerningly_well_spent 545
-advancement grant @s[scores={exi_playtime_h=546..}] only existence_smp:stats/playtime/time_concerningly_well_spent 546
-advancement grant @s[scores={exi_playtime_h=547..}] only existence_smp:stats/playtime/time_concerningly_well_spent 547
-advancement grant @s[scores={exi_playtime_h=548..}] only existence_smp:stats/playtime/time_concerningly_well_spent 548
-advancement grant @s[scores={exi_playtime_h=549..}] only existence_smp:stats/playtime/time_concerningly_well_spent 549
-advancement grant @s[scores={exi_playtime_h=550..}] only existence_smp:stats/playtime/time_concerningly_well_spent 550
-advancement grant @s[scores={exi_playtime_h=551..}] only existence_smp:stats/playtime/time_concerningly_well_spent 551
-advancement grant @s[scores={exi_playtime_h=552..}] only existence_smp:stats/playtime/time_concerningly_well_spent 552
-advancement grant @s[scores={exi_playtime_h=553..}] only existence_smp:stats/playtime/time_concerningly_well_spent 553
-advancement grant @s[scores={exi_playtime_h=554..}] only existence_smp:stats/playtime/time_concerningly_well_spent 554
-advancement grant @s[scores={exi_playtime_h=555..}] only existence_smp:stats/playtime/time_concerningly_well_spent 555
-advancement grant @s[scores={exi_playtime_h=556..}] only existence_smp:stats/playtime/time_concerningly_well_spent 556
-advancement grant @s[scores={exi_playtime_h=557..}] only existence_smp:stats/playtime/time_concerningly_well_spent 557
-advancement grant @s[scores={exi_playtime_h=558..}] only existence_smp:stats/playtime/time_concerningly_well_spent 558
-advancement grant @s[scores={exi_playtime_h=559..}] only existence_smp:stats/playtime/time_concerningly_well_spent 559
-advancement grant @s[scores={exi_playtime_h=560..}] only existence_smp:stats/playtime/time_concerningly_well_spent 560
-advancement grant @s[scores={exi_playtime_h=561..}] only existence_smp:stats/playtime/time_concerningly_well_spent 561
-advancement grant @s[scores={exi_playtime_h=562..}] only existence_smp:stats/playtime/time_concerningly_well_spent 562
-advancement grant @s[scores={exi_playtime_h=563..}] only existence_smp:stats/playtime/time_concerningly_well_spent 563
-advancement grant @s[scores={exi_playtime_h=564..}] only existence_smp:stats/playtime/time_concerningly_well_spent 564
-advancement grant @s[scores={exi_playtime_h=565..}] only existence_smp:stats/playtime/time_concerningly_well_spent 565
-advancement grant @s[scores={exi_playtime_h=566..}] only existence_smp:stats/playtime/time_concerningly_well_spent 566
-advancement grant @s[scores={exi_playtime_h=567..}] only existence_smp:stats/playtime/time_concerningly_well_spent 567
-advancement grant @s[scores={exi_playtime_h=568..}] only existence_smp:stats/playtime/time_concerningly_well_spent 568
-advancement grant @s[scores={exi_playtime_h=569..}] only existence_smp:stats/playtime/time_concerningly_well_spent 569
-advancement grant @s[scores={exi_playtime_h=570..}] only existence_smp:stats/playtime/time_concerningly_well_spent 570
-advancement grant @s[scores={exi_playtime_h=571..}] only existence_smp:stats/playtime/time_concerningly_well_spent 571
-advancement grant @s[scores={exi_playtime_h=572..}] only existence_smp:stats/playtime/time_concerningly_well_spent 572
-advancement grant @s[scores={exi_playtime_h=573..}] only existence_smp:stats/playtime/time_concerningly_well_spent 573
-advancement grant @s[scores={exi_playtime_h=574..}] only existence_smp:stats/playtime/time_concerningly_well_spent 574
-advancement grant @s[scores={exi_playtime_h=575..}] only existence_smp:stats/playtime/time_concerningly_well_spent 575
-advancement grant @s[scores={exi_playtime_h=576..}] only existence_smp:stats/playtime/time_concerningly_well_spent 576
-advancement grant @s[scores={exi_playtime_h=577..}] only existence_smp:stats/playtime/time_concerningly_well_spent 577
-advancement grant @s[scores={exi_playtime_h=578..}] only existence_smp:stats/playtime/time_concerningly_well_spent 578
-advancement grant @s[scores={exi_playtime_h=579..}] only existence_smp:stats/playtime/time_concerningly_well_spent 579
-advancement grant @s[scores={exi_playtime_h=580..}] only existence_smp:stats/playtime/time_concerningly_well_spent 580
-advancement grant @s[scores={exi_playtime_h=581..}] only existence_smp:stats/playtime/time_concerningly_well_spent 581
-advancement grant @s[scores={exi_playtime_h=582..}] only existence_smp:stats/playtime/time_concerningly_well_spent 582
-advancement grant @s[scores={exi_playtime_h=583..}] only existence_smp:stats/playtime/time_concerningly_well_spent 583
-advancement grant @s[scores={exi_playtime_h=584..}] only existence_smp:stats/playtime/time_concerningly_well_spent 584
-advancement grant @s[scores={exi_playtime_h=585..}] only existence_smp:stats/playtime/time_concerningly_well_spent 585
-advancement grant @s[scores={exi_playtime_h=586..}] only existence_smp:stats/playtime/time_concerningly_well_spent 586
-advancement grant @s[scores={exi_playtime_h=587..}] only existence_smp:stats/playtime/time_concerningly_well_spent 587
-advancement grant @s[scores={exi_playtime_h=588..}] only existence_smp:stats/playtime/time_concerningly_well_spent 588
-advancement grant @s[scores={exi_playtime_h=589..}] only existence_smp:stats/playtime/time_concerningly_well_spent 589
-advancement grant @s[scores={exi_playtime_h=590..}] only existence_smp:stats/playtime/time_concerningly_well_spent 590
-advancement grant @s[scores={exi_playtime_h=591..}] only existence_smp:stats/playtime/time_concerningly_well_spent 591
-advancement grant @s[scores={exi_playtime_h=592..}] only existence_smp:stats/playtime/time_concerningly_well_spent 592
-advancement grant @s[scores={exi_playtime_h=593..}] only existence_smp:stats/playtime/time_concerningly_well_spent 593
-advancement grant @s[scores={exi_playtime_h=594..}] only existence_smp:stats/playtime/time_concerningly_well_spent 594
-advancement grant @s[scores={exi_playtime_h=595..}] only existence_smp:stats/playtime/time_concerningly_well_spent 595
-advancement grant @s[scores={exi_playtime_h=596..}] only existence_smp:stats/playtime/time_concerningly_well_spent 596
-advancement grant @s[scores={exi_playtime_h=597..}] only existence_smp:stats/playtime/time_concerningly_well_spent 597
-advancement grant @s[scores={exi_playtime_h=598..}] only existence_smp:stats/playtime/time_concerningly_well_spent 598
-advancement grant @s[scores={exi_playtime_h=599..}] only existence_smp:stats/playtime/time_concerningly_well_spent 599
-advancement grant @s[scores={exi_playtime_h=600..}] only existence_smp:stats/playtime/time_concerningly_well_spent 600
-advancement grant @s[scores={exi_playtime_h=601..}] only existence_smp:stats/playtime/time_concerningly_well_spent 601
-advancement grant @s[scores={exi_playtime_h=602..}] only existence_smp:stats/playtime/time_concerningly_well_spent 602
-advancement grant @s[scores={exi_playtime_h=603..}] only existence_smp:stats/playtime/time_concerningly_well_spent 603
-advancement grant @s[scores={exi_playtime_h=604..}] only existence_smp:stats/playtime/time_concerningly_well_spent 604
-advancement grant @s[scores={exi_playtime_h=605..}] only existence_smp:stats/playtime/time_concerningly_well_spent 605
-advancement grant @s[scores={exi_playtime_h=606..}] only existence_smp:stats/playtime/time_concerningly_well_spent 606
-advancement grant @s[scores={exi_playtime_h=607..}] only existence_smp:stats/playtime/time_concerningly_well_spent 607
-advancement grant @s[scores={exi_playtime_h=608..}] only existence_smp:stats/playtime/time_concerningly_well_spent 608
-advancement grant @s[scores={exi_playtime_h=609..}] only existence_smp:stats/playtime/time_concerningly_well_spent 609
-advancement grant @s[scores={exi_playtime_h=610..}] only existence_smp:stats/playtime/time_concerningly_well_spent 610
-advancement grant @s[scores={exi_playtime_h=611..}] only existence_smp:stats/playtime/time_concerningly_well_spent 611
-advancement grant @s[scores={exi_playtime_h=612..}] only existence_smp:stats/playtime/time_concerningly_well_spent 612
-advancement grant @s[scores={exi_playtime_h=613..}] only existence_smp:stats/playtime/time_concerningly_well_spent 613
-advancement grant @s[scores={exi_playtime_h=614..}] only existence_smp:stats/playtime/time_concerningly_well_spent 614
-advancement grant @s[scores={exi_playtime_h=615..}] only existence_smp:stats/playtime/time_concerningly_well_spent 615
-advancement grant @s[scores={exi_playtime_h=616..}] only existence_smp:stats/playtime/time_concerningly_well_spent 616
-advancement grant @s[scores={exi_playtime_h=617..}] only existence_smp:stats/playtime/time_concerningly_well_spent 617
-advancement grant @s[scores={exi_playtime_h=618..}] only existence_smp:stats/playtime/time_concerningly_well_spent 618
-advancement grant @s[scores={exi_playtime_h=619..}] only existence_smp:stats/playtime/time_concerningly_well_spent 619
-advancement grant @s[scores={exi_playtime_h=620..}] only existence_smp:stats/playtime/time_concerningly_well_spent 620
-advancement grant @s[scores={exi_playtime_h=621..}] only existence_smp:stats/playtime/time_concerningly_well_spent 621
-advancement grant @s[scores={exi_playtime_h=622..}] only existence_smp:stats/playtime/time_concerningly_well_spent 622
-advancement grant @s[scores={exi_playtime_h=623..}] only existence_smp:stats/playtime/time_concerningly_well_spent 623
-advancement grant @s[scores={exi_playtime_h=624..}] only existence_smp:stats/playtime/time_concerningly_well_spent 624
-advancement grant @s[scores={exi_playtime_h=625..}] only existence_smp:stats/playtime/time_concerningly_well_spent 625
-advancement grant @s[scores={exi_playtime_h=626..}] only existence_smp:stats/playtime/time_concerningly_well_spent 626
-advancement grant @s[scores={exi_playtime_h=627..}] only existence_smp:stats/playtime/time_concerningly_well_spent 627
-advancement grant @s[scores={exi_playtime_h=628..}] only existence_smp:stats/playtime/time_concerningly_well_spent 628
-advancement grant @s[scores={exi_playtime_h=629..}] only existence_smp:stats/playtime/time_concerningly_well_spent 629
-advancement grant @s[scores={exi_playtime_h=630..}] only existence_smp:stats/playtime/time_concerningly_well_spent 630
-advancement grant @s[scores={exi_playtime_h=631..}] only existence_smp:stats/playtime/time_concerningly_well_spent 631
-advancement grant @s[scores={exi_playtime_h=632..}] only existence_smp:stats/playtime/time_concerningly_well_spent 632
-advancement grant @s[scores={exi_playtime_h=633..}] only existence_smp:stats/playtime/time_concerningly_well_spent 633
-advancement grant @s[scores={exi_playtime_h=634..}] only existence_smp:stats/playtime/time_concerningly_well_spent 634
-advancement grant @s[scores={exi_playtime_h=635..}] only existence_smp:stats/playtime/time_concerningly_well_spent 635
-advancement grant @s[scores={exi_playtime_h=636..}] only existence_smp:stats/playtime/time_concerningly_well_spent 636
-advancement grant @s[scores={exi_playtime_h=637..}] only existence_smp:stats/playtime/time_concerningly_well_spent 637
-advancement grant @s[scores={exi_playtime_h=638..}] only existence_smp:stats/playtime/time_concerningly_well_spent 638
-advancement grant @s[scores={exi_playtime_h=639..}] only existence_smp:stats/playtime/time_concerningly_well_spent 639
-advancement grant @s[scores={exi_playtime_h=640..}] only existence_smp:stats/playtime/time_concerningly_well_spent 640
-advancement grant @s[scores={exi_playtime_h=641..}] only existence_smp:stats/playtime/time_concerningly_well_spent 641
-advancement grant @s[scores={exi_playtime_h=642..}] only existence_smp:stats/playtime/time_concerningly_well_spent 642
-advancement grant @s[scores={exi_playtime_h=643..}] only existence_smp:stats/playtime/time_concerningly_well_spent 643
-advancement grant @s[scores={exi_playtime_h=644..}] only existence_smp:stats/playtime/time_concerningly_well_spent 644
-advancement grant @s[scores={exi_playtime_h=645..}] only existence_smp:stats/playtime/time_concerningly_well_spent 645
-advancement grant @s[scores={exi_playtime_h=646..}] only existence_smp:stats/playtime/time_concerningly_well_spent 646
-advancement grant @s[scores={exi_playtime_h=647..}] only existence_smp:stats/playtime/time_concerningly_well_spent 647
-advancement grant @s[scores={exi_playtime_h=648..}] only existence_smp:stats/playtime/time_concerningly_well_spent 648
-advancement grant @s[scores={exi_playtime_h=649..}] only existence_smp:stats/playtime/time_concerningly_well_spent 649
-advancement grant @s[scores={exi_playtime_h=650..}] only existence_smp:stats/playtime/time_concerningly_well_spent 650
-advancement grant @s[scores={exi_playtime_h=651..}] only existence_smp:stats/playtime/time_concerningly_well_spent 651
-advancement grant @s[scores={exi_playtime_h=652..}] only existence_smp:stats/playtime/time_concerningly_well_spent 652
-advancement grant @s[scores={exi_playtime_h=653..}] only existence_smp:stats/playtime/time_concerningly_well_spent 653
-advancement grant @s[scores={exi_playtime_h=654..}] only existence_smp:stats/playtime/time_concerningly_well_spent 654
-advancement grant @s[scores={exi_playtime_h=655..}] only existence_smp:stats/playtime/time_concerningly_well_spent 655
-advancement grant @s[scores={exi_playtime_h=656..}] only existence_smp:stats/playtime/time_concerningly_well_spent 656
-advancement grant @s[scores={exi_playtime_h=657..}] only existence_smp:stats/playtime/time_concerningly_well_spent 657
-advancement grant @s[scores={exi_playtime_h=658..}] only existence_smp:stats/playtime/time_concerningly_well_spent 658
-advancement grant @s[scores={exi_playtime_h=659..}] only existence_smp:stats/playtime/time_concerningly_well_spent 659
-advancement grant @s[scores={exi_playtime_h=660..}] only existence_smp:stats/playtime/time_concerningly_well_spent 660
-advancement grant @s[scores={exi_playtime_h=661..}] only existence_smp:stats/playtime/time_concerningly_well_spent 661
-advancement grant @s[scores={exi_playtime_h=662..}] only existence_smp:stats/playtime/time_concerningly_well_spent 662
-advancement grant @s[scores={exi_playtime_h=663..}] only existence_smp:stats/playtime/time_concerningly_well_spent 663
-advancement grant @s[scores={exi_playtime_h=664..}] only existence_smp:stats/playtime/time_concerningly_well_spent 664
-advancement grant @s[scores={exi_playtime_h=665..}] only existence_smp:stats/playtime/time_concerningly_well_spent 665
-advancement grant @s[scores={exi_playtime_h=666..}] only existence_smp:stats/playtime/time_concerningly_well_spent 666
-advancement grant @s[scores={exi_playtime_h=667..}] only existence_smp:stats/playtime/time_concerningly_well_spent 667
-advancement grant @s[scores={exi_playtime_h=668..}] only existence_smp:stats/playtime/time_concerningly_well_spent 668
-advancement grant @s[scores={exi_playtime_h=669..}] only existence_smp:stats/playtime/time_concerningly_well_spent 669
-advancement grant @s[scores={exi_playtime_h=670..}] only existence_smp:stats/playtime/time_concerningly_well_spent 670
-advancement grant @s[scores={exi_playtime_h=671..}] only existence_smp:stats/playtime/time_concerningly_well_spent 671
-advancement grant @s[scores={exi_playtime_h=672..}] only existence_smp:stats/playtime/time_concerningly_well_spent 672
-advancement grant @s[scores={exi_playtime_h=673..}] only existence_smp:stats/playtime/time_concerningly_well_spent 673
-advancement grant @s[scores={exi_playtime_h=674..}] only existence_smp:stats/playtime/time_concerningly_well_spent 674
-advancement grant @s[scores={exi_playtime_h=675..}] only existence_smp:stats/playtime/time_concerningly_well_spent 675
-advancement grant @s[scores={exi_playtime_h=676..}] only existence_smp:stats/playtime/time_concerningly_well_spent 676
-advancement grant @s[scores={exi_playtime_h=677..}] only existence_smp:stats/playtime/time_concerningly_well_spent 677
-advancement grant @s[scores={exi_playtime_h=678..}] only existence_smp:stats/playtime/time_concerningly_well_spent 678
-advancement grant @s[scores={exi_playtime_h=679..}] only existence_smp:stats/playtime/time_concerningly_well_spent 679
-advancement grant @s[scores={exi_playtime_h=680..}] only existence_smp:stats/playtime/time_concerningly_well_spent 680
-advancement grant @s[scores={exi_playtime_h=681..}] only existence_smp:stats/playtime/time_concerningly_well_spent 681
-advancement grant @s[scores={exi_playtime_h=682..}] only existence_smp:stats/playtime/time_concerningly_well_spent 682
-advancement grant @s[scores={exi_playtime_h=683..}] only existence_smp:stats/playtime/time_concerningly_well_spent 683
-advancement grant @s[scores={exi_playtime_h=684..}] only existence_smp:stats/playtime/time_concerningly_well_spent 684
-advancement grant @s[scores={exi_playtime_h=685..}] only existence_smp:stats/playtime/time_concerningly_well_spent 685
-advancement grant @s[scores={exi_playtime_h=686..}] only existence_smp:stats/playtime/time_concerningly_well_spent 686
-advancement grant @s[scores={exi_playtime_h=687..}] only existence_smp:stats/playtime/time_concerningly_well_spent 687
-advancement grant @s[scores={exi_playtime_h=688..}] only existence_smp:stats/playtime/time_concerningly_well_spent 688
-advancement grant @s[scores={exi_playtime_h=689..}] only existence_smp:stats/playtime/time_concerningly_well_spent 689
-advancement grant @s[scores={exi_playtime_h=690..}] only existence_smp:stats/playtime/time_concerningly_well_spent 690
-advancement grant @s[scores={exi_playtime_h=691..}] only existence_smp:stats/playtime/time_concerningly_well_spent 691
-advancement grant @s[scores={exi_playtime_h=692..}] only existence_smp:stats/playtime/time_concerningly_well_spent 692
-advancement grant @s[scores={exi_playtime_h=693..}] only existence_smp:stats/playtime/time_concerningly_well_spent 693
-advancement grant @s[scores={exi_playtime_h=694..}] only existence_smp:stats/playtime/time_concerningly_well_spent 694
-advancement grant @s[scores={exi_playtime_h=695..}] only existence_smp:stats/playtime/time_concerningly_well_spent 695
-advancement grant @s[scores={exi_playtime_h=696..}] only existence_smp:stats/playtime/time_concerningly_well_spent 696
-advancement grant @s[scores={exi_playtime_h=697..}] only existence_smp:stats/playtime/time_concerningly_well_spent 697
-advancement grant @s[scores={exi_playtime_h=698..}] only existence_smp:stats/playtime/time_concerningly_well_spent 698
-advancement grant @s[scores={exi_playtime_h=699..}] only existence_smp:stats/playtime/time_concerningly_well_spent 699
-advancement grant @s[scores={exi_playtime_h=700..}] only existence_smp:stats/playtime/time_concerningly_well_spent 700
-advancement grant @s[scores={exi_playtime_h=701..}] only existence_smp:stats/playtime/time_concerningly_well_spent 701
-advancement grant @s[scores={exi_playtime_h=702..}] only existence_smp:stats/playtime/time_concerningly_well_spent 702
-advancement grant @s[scores={exi_playtime_h=703..}] only existence_smp:stats/playtime/time_concerningly_well_spent 703
-advancement grant @s[scores={exi_playtime_h=704..}] only existence_smp:stats/playtime/time_concerningly_well_spent 704
-advancement grant @s[scores={exi_playtime_h=705..}] only existence_smp:stats/playtime/time_concerningly_well_spent 705
-advancement grant @s[scores={exi_playtime_h=706..}] only existence_smp:stats/playtime/time_concerningly_well_spent 706
-advancement grant @s[scores={exi_playtime_h=707..}] only existence_smp:stats/playtime/time_concerningly_well_spent 707
-advancement grant @s[scores={exi_playtime_h=708..}] only existence_smp:stats/playtime/time_concerningly_well_spent 708
-advancement grant @s[scores={exi_playtime_h=709..}] only existence_smp:stats/playtime/time_concerningly_well_spent 709
-advancement grant @s[scores={exi_playtime_h=710..}] only existence_smp:stats/playtime/time_concerningly_well_spent 710
-advancement grant @s[scores={exi_playtime_h=711..}] only existence_smp:stats/playtime/time_concerningly_well_spent 711
-advancement grant @s[scores={exi_playtime_h=712..}] only existence_smp:stats/playtime/time_concerningly_well_spent 712
-advancement grant @s[scores={exi_playtime_h=713..}] only existence_smp:stats/playtime/time_concerningly_well_spent 713
-advancement grant @s[scores={exi_playtime_h=714..}] only existence_smp:stats/playtime/time_concerningly_well_spent 714
-advancement grant @s[scores={exi_playtime_h=715..}] only existence_smp:stats/playtime/time_concerningly_well_spent 715
-advancement grant @s[scores={exi_playtime_h=716..}] only existence_smp:stats/playtime/time_concerningly_well_spent 716
-advancement grant @s[scores={exi_playtime_h=717..}] only existence_smp:stats/playtime/time_concerningly_well_spent 717
-advancement grant @s[scores={exi_playtime_h=718..}] only existence_smp:stats/playtime/time_concerningly_well_spent 718
-advancement grant @s[scores={exi_playtime_h=719..}] only existence_smp:stats/playtime/time_concerningly_well_spent 719
-advancement grant @s[scores={exi_playtime_h=720..}] only existence_smp:stats/playtime/time_concerningly_well_spent 720
-advancement grant @s[scores={exi_playtime_h=721..}] only existence_smp:stats/playtime/time_concerningly_well_spent 721
-advancement grant @s[scores={exi_playtime_h=722..}] only existence_smp:stats/playtime/time_concerningly_well_spent 722
-advancement grant @s[scores={exi_playtime_h=723..}] only existence_smp:stats/playtime/time_concerningly_well_spent 723
-advancement grant @s[scores={exi_playtime_h=724..}] only existence_smp:stats/playtime/time_concerningly_well_spent 724
-advancement grant @s[scores={exi_playtime_h=725..}] only existence_smp:stats/playtime/time_concerningly_well_spent 725
-advancement grant @s[scores={exi_playtime_h=726..}] only existence_smp:stats/playtime/time_concerningly_well_spent 726
-advancement grant @s[scores={exi_playtime_h=727..}] only existence_smp:stats/playtime/time_concerningly_well_spent 727
-advancement grant @s[scores={exi_playtime_h=728..}] only existence_smp:stats/playtime/time_concerningly_well_spent 728
-advancement grant @s[scores={exi_playtime_h=729..}] only existence_smp:stats/playtime/time_concerningly_well_spent 729
-advancement grant @s[scores={exi_playtime_h=730..}] only existence_smp:stats/playtime/time_concerningly_well_spent 730
-advancement grant @s[scores={exi_playtime_h=731..}] only existence_smp:stats/playtime/time_concerningly_well_spent 731
-advancement grant @s[scores={exi_playtime_h=732..}] only existence_smp:stats/playtime/time_concerningly_well_spent 732
-advancement grant @s[scores={exi_playtime_h=733..}] only existence_smp:stats/playtime/time_concerningly_well_spent 733
-advancement grant @s[scores={exi_playtime_h=734..}] only existence_smp:stats/playtime/time_concerningly_well_spent 734
-advancement grant @s[scores={exi_playtime_h=735..}] only existence_smp:stats/playtime/time_concerningly_well_spent 735
-advancement grant @s[scores={exi_playtime_h=736..}] only existence_smp:stats/playtime/time_concerningly_well_spent 736
-advancement grant @s[scores={exi_playtime_h=737..}] only existence_smp:stats/playtime/time_concerningly_well_spent 737
-advancement grant @s[scores={exi_playtime_h=738..}] only existence_smp:stats/playtime/time_concerningly_well_spent 738
-advancement grant @s[scores={exi_playtime_h=739..}] only existence_smp:stats/playtime/time_concerningly_well_spent 739
-advancement grant @s[scores={exi_playtime_h=740..}] only existence_smp:stats/playtime/time_concerningly_well_spent 740
-advancement grant @s[scores={exi_playtime_h=741..}] only existence_smp:stats/playtime/time_concerningly_well_spent 741
-advancement grant @s[scores={exi_playtime_h=742..}] only existence_smp:stats/playtime/time_concerningly_well_spent 742
-advancement grant @s[scores={exi_playtime_h=743..}] only existence_smp:stats/playtime/time_concerningly_well_spent 743
-advancement grant @s[scores={exi_playtime_h=744..}] only existence_smp:stats/playtime/time_concerningly_well_spent 744
-advancement grant @s[scores={exi_playtime_h=745..}] only existence_smp:stats/playtime/time_concerningly_well_spent 745
-advancement grant @s[scores={exi_playtime_h=746..}] only existence_smp:stats/playtime/time_concerningly_well_spent 746
-advancement grant @s[scores={exi_playtime_h=747..}] only existence_smp:stats/playtime/time_concerningly_well_spent 747
-advancement grant @s[scores={exi_playtime_h=748..}] only existence_smp:stats/playtime/time_concerningly_well_spent 748
-advancement grant @s[scores={exi_playtime_h=749..}] only existence_smp:stats/playtime/time_concerningly_well_spent 749
-advancement grant @s[scores={exi_playtime_h=750..}] only existence_smp:stats/playtime/time_concerningly_well_spent 750
-advancement grant @s[scores={exi_playtime_h=751..}] only existence_smp:stats/playtime/time_concerningly_well_spent 751
-advancement grant @s[scores={exi_playtime_h=752..}] only existence_smp:stats/playtime/time_concerningly_well_spent 752
-advancement grant @s[scores={exi_playtime_h=753..}] only existence_smp:stats/playtime/time_concerningly_well_spent 753
-advancement grant @s[scores={exi_playtime_h=754..}] only existence_smp:stats/playtime/time_concerningly_well_spent 754
-advancement grant @s[scores={exi_playtime_h=755..}] only existence_smp:stats/playtime/time_concerningly_well_spent 755
-advancement grant @s[scores={exi_playtime_h=756..}] only existence_smp:stats/playtime/time_concerningly_well_spent 756
-advancement grant @s[scores={exi_playtime_h=757..}] only existence_smp:stats/playtime/time_concerningly_well_spent 757
-advancement grant @s[scores={exi_playtime_h=758..}] only existence_smp:stats/playtime/time_concerningly_well_spent 758
-advancement grant @s[scores={exi_playtime_h=759..}] only existence_smp:stats/playtime/time_concerningly_well_spent 759
-advancement grant @s[scores={exi_playtime_h=760..}] only existence_smp:stats/playtime/time_concerningly_well_spent 760
-advancement grant @s[scores={exi_playtime_h=761..}] only existence_smp:stats/playtime/time_concerningly_well_spent 761
-advancement grant @s[scores={exi_playtime_h=762..}] only existence_smp:stats/playtime/time_concerningly_well_spent 762
-advancement grant @s[scores={exi_playtime_h=763..}] only existence_smp:stats/playtime/time_concerningly_well_spent 763
-advancement grant @s[scores={exi_playtime_h=764..}] only existence_smp:stats/playtime/time_concerningly_well_spent 764
-advancement grant @s[scores={exi_playtime_h=765..}] only existence_smp:stats/playtime/time_concerningly_well_spent 765
-advancement grant @s[scores={exi_playtime_h=766..}] only existence_smp:stats/playtime/time_concerningly_well_spent 766
-advancement grant @s[scores={exi_playtime_h=767..}] only existence_smp:stats/playtime/time_concerningly_well_spent 767
-advancement grant @s[scores={exi_playtime_h=768..}] only existence_smp:stats/playtime/time_concerningly_well_spent 768
-advancement grant @s[scores={exi_playtime_h=769..}] only existence_smp:stats/playtime/time_concerningly_well_spent 769
-advancement grant @s[scores={exi_playtime_h=770..}] only existence_smp:stats/playtime/time_concerningly_well_spent 770
-advancement grant @s[scores={exi_playtime_h=771..}] only existence_smp:stats/playtime/time_concerningly_well_spent 771
-advancement grant @s[scores={exi_playtime_h=772..}] only existence_smp:stats/playtime/time_concerningly_well_spent 772
-advancement grant @s[scores={exi_playtime_h=773..}] only existence_smp:stats/playtime/time_concerningly_well_spent 773
-advancement grant @s[scores={exi_playtime_h=774..}] only existence_smp:stats/playtime/time_concerningly_well_spent 774
-advancement grant @s[scores={exi_playtime_h=775..}] only existence_smp:stats/playtime/time_concerningly_well_spent 775
-advancement grant @s[scores={exi_playtime_h=776..}] only existence_smp:stats/playtime/time_concerningly_well_spent 776
-advancement grant @s[scores={exi_playtime_h=777..}] only existence_smp:stats/playtime/time_concerningly_well_spent 777
-advancement grant @s[scores={exi_playtime_h=778..}] only existence_smp:stats/playtime/time_concerningly_well_spent 778
-advancement grant @s[scores={exi_playtime_h=779..}] only existence_smp:stats/playtime/time_concerningly_well_spent 779
-advancement grant @s[scores={exi_playtime_h=780..}] only existence_smp:stats/playtime/time_concerningly_well_spent 780
-advancement grant @s[scores={exi_playtime_h=781..}] only existence_smp:stats/playtime/time_concerningly_well_spent 781
-advancement grant @s[scores={exi_playtime_h=782..}] only existence_smp:stats/playtime/time_concerningly_well_spent 782
-advancement grant @s[scores={exi_playtime_h=783..}] only existence_smp:stats/playtime/time_concerningly_well_spent 783
-advancement grant @s[scores={exi_playtime_h=784..}] only existence_smp:stats/playtime/time_concerningly_well_spent 784
-advancement grant @s[scores={exi_playtime_h=785..}] only existence_smp:stats/playtime/time_concerningly_well_spent 785
-advancement grant @s[scores={exi_playtime_h=786..}] only existence_smp:stats/playtime/time_concerningly_well_spent 786
-advancement grant @s[scores={exi_playtime_h=787..}] only existence_smp:stats/playtime/time_concerningly_well_spent 787
-advancement grant @s[scores={exi_playtime_h=788..}] only existence_smp:stats/playtime/time_concerningly_well_spent 788
-advancement grant @s[scores={exi_playtime_h=789..}] only existence_smp:stats/playtime/time_concerningly_well_spent 789
-advancement grant @s[scores={exi_playtime_h=790..}] only existence_smp:stats/playtime/time_concerningly_well_spent 790
-advancement grant @s[scores={exi_playtime_h=791..}] only existence_smp:stats/playtime/time_concerningly_well_spent 791
-advancement grant @s[scores={exi_playtime_h=792..}] only existence_smp:stats/playtime/time_concerningly_well_spent 792
-advancement grant @s[scores={exi_playtime_h=793..}] only existence_smp:stats/playtime/time_concerningly_well_spent 793
-advancement grant @s[scores={exi_playtime_h=794..}] only existence_smp:stats/playtime/time_concerningly_well_spent 794
-advancement grant @s[scores={exi_playtime_h=795..}] only existence_smp:stats/playtime/time_concerningly_well_spent 795
-advancement grant @s[scores={exi_playtime_h=796..}] only existence_smp:stats/playtime/time_concerningly_well_spent 796
-advancement grant @s[scores={exi_playtime_h=797..}] only existence_smp:stats/playtime/time_concerningly_well_spent 797
-advancement grant @s[scores={exi_playtime_h=798..}] only existence_smp:stats/playtime/time_concerningly_well_spent 798
-advancement grant @s[scores={exi_playtime_h=799..}] only existence_smp:stats/playtime/time_concerningly_well_spent 799
-advancement grant @s[scores={exi_playtime_h=800..}] only existence_smp:stats/playtime/time_concerningly_well_spent 800
-advancement grant @s[scores={exi_playtime_h=801..}] only existence_smp:stats/playtime/time_concerningly_well_spent 801
-advancement grant @s[scores={exi_playtime_h=802..}] only existence_smp:stats/playtime/time_concerningly_well_spent 802
-advancement grant @s[scores={exi_playtime_h=803..}] only existence_smp:stats/playtime/time_concerningly_well_spent 803
-advancement grant @s[scores={exi_playtime_h=804..}] only existence_smp:stats/playtime/time_concerningly_well_spent 804
-advancement grant @s[scores={exi_playtime_h=805..}] only existence_smp:stats/playtime/time_concerningly_well_spent 805
-advancement grant @s[scores={exi_playtime_h=806..}] only existence_smp:stats/playtime/time_concerningly_well_spent 806
-advancement grant @s[scores={exi_playtime_h=807..}] only existence_smp:stats/playtime/time_concerningly_well_spent 807
-advancement grant @s[scores={exi_playtime_h=808..}] only existence_smp:stats/playtime/time_concerningly_well_spent 808
-advancement grant @s[scores={exi_playtime_h=809..}] only existence_smp:stats/playtime/time_concerningly_well_spent 809
-advancement grant @s[scores={exi_playtime_h=810..}] only existence_smp:stats/playtime/time_concerningly_well_spent 810
-advancement grant @s[scores={exi_playtime_h=811..}] only existence_smp:stats/playtime/time_concerningly_well_spent 811
-advancement grant @s[scores={exi_playtime_h=812..}] only existence_smp:stats/playtime/time_concerningly_well_spent 812
-advancement grant @s[scores={exi_playtime_h=813..}] only existence_smp:stats/playtime/time_concerningly_well_spent 813
-advancement grant @s[scores={exi_playtime_h=814..}] only existence_smp:stats/playtime/time_concerningly_well_spent 814
-advancement grant @s[scores={exi_playtime_h=815..}] only existence_smp:stats/playtime/time_concerningly_well_spent 815
-advancement grant @s[scores={exi_playtime_h=816..}] only existence_smp:stats/playtime/time_concerningly_well_spent 816
-advancement grant @s[scores={exi_playtime_h=817..}] only existence_smp:stats/playtime/time_concerningly_well_spent 817
-advancement grant @s[scores={exi_playtime_h=818..}] only existence_smp:stats/playtime/time_concerningly_well_spent 818
-advancement grant @s[scores={exi_playtime_h=819..}] only existence_smp:stats/playtime/time_concerningly_well_spent 819
-advancement grant @s[scores={exi_playtime_h=820..}] only existence_smp:stats/playtime/time_concerningly_well_spent 820
-advancement grant @s[scores={exi_playtime_h=821..}] only existence_smp:stats/playtime/time_concerningly_well_spent 821
-advancement grant @s[scores={exi_playtime_h=822..}] only existence_smp:stats/playtime/time_concerningly_well_spent 822
-advancement grant @s[scores={exi_playtime_h=823..}] only existence_smp:stats/playtime/time_concerningly_well_spent 823
-advancement grant @s[scores={exi_playtime_h=824..}] only existence_smp:stats/playtime/time_concerningly_well_spent 824
-advancement grant @s[scores={exi_playtime_h=825..}] only existence_smp:stats/playtime/time_concerningly_well_spent 825
-advancement grant @s[scores={exi_playtime_h=826..}] only existence_smp:stats/playtime/time_concerningly_well_spent 826
-advancement grant @s[scores={exi_playtime_h=827..}] only existence_smp:stats/playtime/time_concerningly_well_spent 827
-advancement grant @s[scores={exi_playtime_h=828..}] only existence_smp:stats/playtime/time_concerningly_well_spent 828
-advancement grant @s[scores={exi_playtime_h=829..}] only existence_smp:stats/playtime/time_concerningly_well_spent 829
-advancement grant @s[scores={exi_playtime_h=830..}] only existence_smp:stats/playtime/time_concerningly_well_spent 830
-advancement grant @s[scores={exi_playtime_h=831..}] only existence_smp:stats/playtime/time_concerningly_well_spent 831
-advancement grant @s[scores={exi_playtime_h=832..}] only existence_smp:stats/playtime/time_concerningly_well_spent 832
-advancement grant @s[scores={exi_playtime_h=833..}] only existence_smp:stats/playtime/time_concerningly_well_spent 833
-advancement grant @s[scores={exi_playtime_h=834..}] only existence_smp:stats/playtime/time_concerningly_well_spent 834
-advancement grant @s[scores={exi_playtime_h=835..}] only existence_smp:stats/playtime/time_concerningly_well_spent 835
-advancement grant @s[scores={exi_playtime_h=836..}] only existence_smp:stats/playtime/time_concerningly_well_spent 836
-advancement grant @s[scores={exi_playtime_h=837..}] only existence_smp:stats/playtime/time_concerningly_well_spent 837
-advancement grant @s[scores={exi_playtime_h=838..}] only existence_smp:stats/playtime/time_concerningly_well_spent 838
-advancement grant @s[scores={exi_playtime_h=839..}] only existence_smp:stats/playtime/time_concerningly_well_spent 839
-advancement grant @s[scores={exi_playtime_h=840..}] only existence_smp:stats/playtime/time_concerningly_well_spent 840
-advancement grant @s[scores={exi_playtime_h=841..}] only existence_smp:stats/playtime/time_concerningly_well_spent 841
-advancement grant @s[scores={exi_playtime_h=842..}] only existence_smp:stats/playtime/time_concerningly_well_spent 842
-advancement grant @s[scores={exi_playtime_h=843..}] only existence_smp:stats/playtime/time_concerningly_well_spent 843
-advancement grant @s[scores={exi_playtime_h=844..}] only existence_smp:stats/playtime/time_concerningly_well_spent 844
-advancement grant @s[scores={exi_playtime_h=845..}] only existence_smp:stats/playtime/time_concerningly_well_spent 845
-advancement grant @s[scores={exi_playtime_h=846..}] only existence_smp:stats/playtime/time_concerningly_well_spent 846
-advancement grant @s[scores={exi_playtime_h=847..}] only existence_smp:stats/playtime/time_concerningly_well_spent 847
-advancement grant @s[scores={exi_playtime_h=848..}] only existence_smp:stats/playtime/time_concerningly_well_spent 848
-advancement grant @s[scores={exi_playtime_h=849..}] only existence_smp:stats/playtime/time_concerningly_well_spent 849
-advancement grant @s[scores={exi_playtime_h=850..}] only existence_smp:stats/playtime/time_concerningly_well_spent 850
-advancement grant @s[scores={exi_playtime_h=851..}] only existence_smp:stats/playtime/time_concerningly_well_spent 851
-advancement grant @s[scores={exi_playtime_h=852..}] only existence_smp:stats/playtime/time_concerningly_well_spent 852
-advancement grant @s[scores={exi_playtime_h=853..}] only existence_smp:stats/playtime/time_concerningly_well_spent 853
-advancement grant @s[scores={exi_playtime_h=854..}] only existence_smp:stats/playtime/time_concerningly_well_spent 854
-advancement grant @s[scores={exi_playtime_h=855..}] only existence_smp:stats/playtime/time_concerningly_well_spent 855
-advancement grant @s[scores={exi_playtime_h=856..}] only existence_smp:stats/playtime/time_concerningly_well_spent 856
-advancement grant @s[scores={exi_playtime_h=857..}] only existence_smp:stats/playtime/time_concerningly_well_spent 857
-advancement grant @s[scores={exi_playtime_h=858..}] only existence_smp:stats/playtime/time_concerningly_well_spent 858
-advancement grant @s[scores={exi_playtime_h=859..}] only existence_smp:stats/playtime/time_concerningly_well_spent 859
-advancement grant @s[scores={exi_playtime_h=860..}] only existence_smp:stats/playtime/time_concerningly_well_spent 860
-advancement grant @s[scores={exi_playtime_h=861..}] only existence_smp:stats/playtime/time_concerningly_well_spent 861
-advancement grant @s[scores={exi_playtime_h=862..}] only existence_smp:stats/playtime/time_concerningly_well_spent 862
-advancement grant @s[scores={exi_playtime_h=863..}] only existence_smp:stats/playtime/time_concerningly_well_spent 863
-advancement grant @s[scores={exi_playtime_h=864..}] only existence_smp:stats/playtime/time_concerningly_well_spent 864
-advancement grant @s[scores={exi_playtime_h=865..}] only existence_smp:stats/playtime/time_concerningly_well_spent 865
-advancement grant @s[scores={exi_playtime_h=866..}] only existence_smp:stats/playtime/time_concerningly_well_spent 866
-advancement grant @s[scores={exi_playtime_h=867..}] only existence_smp:stats/playtime/time_concerningly_well_spent 867
-advancement grant @s[scores={exi_playtime_h=868..}] only existence_smp:stats/playtime/time_concerningly_well_spent 868
-advancement grant @s[scores={exi_playtime_h=869..}] only existence_smp:stats/playtime/time_concerningly_well_spent 869
-advancement grant @s[scores={exi_playtime_h=870..}] only existence_smp:stats/playtime/time_concerningly_well_spent 870
-advancement grant @s[scores={exi_playtime_h=871..}] only existence_smp:stats/playtime/time_concerningly_well_spent 871
-advancement grant @s[scores={exi_playtime_h=872..}] only existence_smp:stats/playtime/time_concerningly_well_spent 872
-advancement grant @s[scores={exi_playtime_h=873..}] only existence_smp:stats/playtime/time_concerningly_well_spent 873
-advancement grant @s[scores={exi_playtime_h=874..}] only existence_smp:stats/playtime/time_concerningly_well_spent 874
-advancement grant @s[scores={exi_playtime_h=875..}] only existence_smp:stats/playtime/time_concerningly_well_spent 875
-advancement grant @s[scores={exi_playtime_h=876..}] only existence_smp:stats/playtime/time_concerningly_well_spent 876
-advancement grant @s[scores={exi_playtime_h=877..}] only existence_smp:stats/playtime/time_concerningly_well_spent 877
-advancement grant @s[scores={exi_playtime_h=878..}] only existence_smp:stats/playtime/time_concerningly_well_spent 878
-advancement grant @s[scores={exi_playtime_h=879..}] only existence_smp:stats/playtime/time_concerningly_well_spent 879
-advancement grant @s[scores={exi_playtime_h=880..}] only existence_smp:stats/playtime/time_concerningly_well_spent 880
-advancement grant @s[scores={exi_playtime_h=881..}] only existence_smp:stats/playtime/time_concerningly_well_spent 881
-advancement grant @s[scores={exi_playtime_h=882..}] only existence_smp:stats/playtime/time_concerningly_well_spent 882
-advancement grant @s[scores={exi_playtime_h=883..}] only existence_smp:stats/playtime/time_concerningly_well_spent 883
-advancement grant @s[scores={exi_playtime_h=884..}] only existence_smp:stats/playtime/time_concerningly_well_spent 884
-advancement grant @s[scores={exi_playtime_h=885..}] only existence_smp:stats/playtime/time_concerningly_well_spent 885
-advancement grant @s[scores={exi_playtime_h=886..}] only existence_smp:stats/playtime/time_concerningly_well_spent 886
-advancement grant @s[scores={exi_playtime_h=887..}] only existence_smp:stats/playtime/time_concerningly_well_spent 887
-advancement grant @s[scores={exi_playtime_h=888..}] only existence_smp:stats/playtime/time_concerningly_well_spent 888
-advancement grant @s[scores={exi_playtime_h=889..}] only existence_smp:stats/playtime/time_concerningly_well_spent 889
-advancement grant @s[scores={exi_playtime_h=890..}] only existence_smp:stats/playtime/time_concerningly_well_spent 890
-advancement grant @s[scores={exi_playtime_h=891..}] only existence_smp:stats/playtime/time_concerningly_well_spent 891
-advancement grant @s[scores={exi_playtime_h=892..}] only existence_smp:stats/playtime/time_concerningly_well_spent 892
-advancement grant @s[scores={exi_playtime_h=893..}] only existence_smp:stats/playtime/time_concerningly_well_spent 893
-advancement grant @s[scores={exi_playtime_h=894..}] only existence_smp:stats/playtime/time_concerningly_well_spent 894
-advancement grant @s[scores={exi_playtime_h=895..}] only existence_smp:stats/playtime/time_concerningly_well_spent 895
-advancement grant @s[scores={exi_playtime_h=896..}] only existence_smp:stats/playtime/time_concerningly_well_spent 896
-advancement grant @s[scores={exi_playtime_h=897..}] only existence_smp:stats/playtime/time_concerningly_well_spent 897
-advancement grant @s[scores={exi_playtime_h=898..}] only existence_smp:stats/playtime/time_concerningly_well_spent 898
-advancement grant @s[scores={exi_playtime_h=899..}] only existence_smp:stats/playtime/time_concerningly_well_spent 899
-advancement grant @s[scores={exi_playtime_h=900..}] only existence_smp:stats/playtime/time_concerningly_well_spent 900
-advancement grant @s[scores={exi_playtime_h=901..}] only existence_smp:stats/playtime/time_concerningly_well_spent 901
-advancement grant @s[scores={exi_playtime_h=902..}] only existence_smp:stats/playtime/time_concerningly_well_spent 902
-advancement grant @s[scores={exi_playtime_h=903..}] only existence_smp:stats/playtime/time_concerningly_well_spent 903
-advancement grant @s[scores={exi_playtime_h=904..}] only existence_smp:stats/playtime/time_concerningly_well_spent 904
-advancement grant @s[scores={exi_playtime_h=905..}] only existence_smp:stats/playtime/time_concerningly_well_spent 905
-advancement grant @s[scores={exi_playtime_h=906..}] only existence_smp:stats/playtime/time_concerningly_well_spent 906
-advancement grant @s[scores={exi_playtime_h=907..}] only existence_smp:stats/playtime/time_concerningly_well_spent 907
-advancement grant @s[scores={exi_playtime_h=908..}] only existence_smp:stats/playtime/time_concerningly_well_spent 908
-advancement grant @s[scores={exi_playtime_h=909..}] only existence_smp:stats/playtime/time_concerningly_well_spent 909
-advancement grant @s[scores={exi_playtime_h=910..}] only existence_smp:stats/playtime/time_concerningly_well_spent 910
-advancement grant @s[scores={exi_playtime_h=911..}] only existence_smp:stats/playtime/time_concerningly_well_spent 911
-advancement grant @s[scores={exi_playtime_h=912..}] only existence_smp:stats/playtime/time_concerningly_well_spent 912
-advancement grant @s[scores={exi_playtime_h=913..}] only existence_smp:stats/playtime/time_concerningly_well_spent 913
-advancement grant @s[scores={exi_playtime_h=914..}] only existence_smp:stats/playtime/time_concerningly_well_spent 914
-advancement grant @s[scores={exi_playtime_h=915..}] only existence_smp:stats/playtime/time_concerningly_well_spent 915
-advancement grant @s[scores={exi_playtime_h=916..}] only existence_smp:stats/playtime/time_concerningly_well_spent 916
-advancement grant @s[scores={exi_playtime_h=917..}] only existence_smp:stats/playtime/time_concerningly_well_spent 917
-advancement grant @s[scores={exi_playtime_h=918..}] only existence_smp:stats/playtime/time_concerningly_well_spent 918
-advancement grant @s[scores={exi_playtime_h=919..}] only existence_smp:stats/playtime/time_concerningly_well_spent 919
-advancement grant @s[scores={exi_playtime_h=920..}] only existence_smp:stats/playtime/time_concerningly_well_spent 920
-advancement grant @s[scores={exi_playtime_h=921..}] only existence_smp:stats/playtime/time_concerningly_well_spent 921
-advancement grant @s[scores={exi_playtime_h=922..}] only existence_smp:stats/playtime/time_concerningly_well_spent 922
-advancement grant @s[scores={exi_playtime_h=923..}] only existence_smp:stats/playtime/time_concerningly_well_spent 923
-advancement grant @s[scores={exi_playtime_h=924..}] only existence_smp:stats/playtime/time_concerningly_well_spent 924
-advancement grant @s[scores={exi_playtime_h=925..}] only existence_smp:stats/playtime/time_concerningly_well_spent 925
-advancement grant @s[scores={exi_playtime_h=926..}] only existence_smp:stats/playtime/time_concerningly_well_spent 926
-advancement grant @s[scores={exi_playtime_h=927..}] only existence_smp:stats/playtime/time_concerningly_well_spent 927
-advancement grant @s[scores={exi_playtime_h=928..}] only existence_smp:stats/playtime/time_concerningly_well_spent 928
-advancement grant @s[scores={exi_playtime_h=929..}] only existence_smp:stats/playtime/time_concerningly_well_spent 929
-advancement grant @s[scores={exi_playtime_h=930..}] only existence_smp:stats/playtime/time_concerningly_well_spent 930
-advancement grant @s[scores={exi_playtime_h=931..}] only existence_smp:stats/playtime/time_concerningly_well_spent 931
-advancement grant @s[scores={exi_playtime_h=932..}] only existence_smp:stats/playtime/time_concerningly_well_spent 932
-advancement grant @s[scores={exi_playtime_h=933..}] only existence_smp:stats/playtime/time_concerningly_well_spent 933
-advancement grant @s[scores={exi_playtime_h=934..}] only existence_smp:stats/playtime/time_concerningly_well_spent 934
-advancement grant @s[scores={exi_playtime_h=935..}] only existence_smp:stats/playtime/time_concerningly_well_spent 935
-advancement grant @s[scores={exi_playtime_h=936..}] only existence_smp:stats/playtime/time_concerningly_well_spent 936
-advancement grant @s[scores={exi_playtime_h=937..}] only existence_smp:stats/playtime/time_concerningly_well_spent 937
-advancement grant @s[scores={exi_playtime_h=938..}] only existence_smp:stats/playtime/time_concerningly_well_spent 938
-advancement grant @s[scores={exi_playtime_h=939..}] only existence_smp:stats/playtime/time_concerningly_well_spent 939
-advancement grant @s[scores={exi_playtime_h=940..}] only existence_smp:stats/playtime/time_concerningly_well_spent 940
-advancement grant @s[scores={exi_playtime_h=941..}] only existence_smp:stats/playtime/time_concerningly_well_spent 941
-advancement grant @s[scores={exi_playtime_h=942..}] only existence_smp:stats/playtime/time_concerningly_well_spent 942
-advancement grant @s[scores={exi_playtime_h=943..}] only existence_smp:stats/playtime/time_concerningly_well_spent 943
-advancement grant @s[scores={exi_playtime_h=944..}] only existence_smp:stats/playtime/time_concerningly_well_spent 944
-advancement grant @s[scores={exi_playtime_h=945..}] only existence_smp:stats/playtime/time_concerningly_well_spent 945
-advancement grant @s[scores={exi_playtime_h=946..}] only existence_smp:stats/playtime/time_concerningly_well_spent 946
-advancement grant @s[scores={exi_playtime_h=947..}] only existence_smp:stats/playtime/time_concerningly_well_spent 947
-advancement grant @s[scores={exi_playtime_h=948..}] only existence_smp:stats/playtime/time_concerningly_well_spent 948
-advancement grant @s[scores={exi_playtime_h=949..}] only existence_smp:stats/playtime/time_concerningly_well_spent 949
-advancement grant @s[scores={exi_playtime_h=950..}] only existence_smp:stats/playtime/time_concerningly_well_spent 950
-advancement grant @s[scores={exi_playtime_h=951..}] only existence_smp:stats/playtime/time_concerningly_well_spent 951
-advancement grant @s[scores={exi_playtime_h=952..}] only existence_smp:stats/playtime/time_concerningly_well_spent 952
-advancement grant @s[scores={exi_playtime_h=953..}] only existence_smp:stats/playtime/time_concerningly_well_spent 953
-advancement grant @s[scores={exi_playtime_h=954..}] only existence_smp:stats/playtime/time_concerningly_well_spent 954
-advancement grant @s[scores={exi_playtime_h=955..}] only existence_smp:stats/playtime/time_concerningly_well_spent 955
-advancement grant @s[scores={exi_playtime_h=956..}] only existence_smp:stats/playtime/time_concerningly_well_spent 956
-advancement grant @s[scores={exi_playtime_h=957..}] only existence_smp:stats/playtime/time_concerningly_well_spent 957
-advancement grant @s[scores={exi_playtime_h=958..}] only existence_smp:stats/playtime/time_concerningly_well_spent 958
-advancement grant @s[scores={exi_playtime_h=959..}] only existence_smp:stats/playtime/time_concerningly_well_spent 959
-advancement grant @s[scores={exi_playtime_h=960..}] only existence_smp:stats/playtime/time_concerningly_well_spent 960
-advancement grant @s[scores={exi_playtime_h=961..}] only existence_smp:stats/playtime/time_concerningly_well_spent 961
-advancement grant @s[scores={exi_playtime_h=962..}] only existence_smp:stats/playtime/time_concerningly_well_spent 962
-advancement grant @s[scores={exi_playtime_h=963..}] only existence_smp:stats/playtime/time_concerningly_well_spent 963
-advancement grant @s[scores={exi_playtime_h=964..}] only existence_smp:stats/playtime/time_concerningly_well_spent 964
-advancement grant @s[scores={exi_playtime_h=965..}] only existence_smp:stats/playtime/time_concerningly_well_spent 965
-advancement grant @s[scores={exi_playtime_h=966..}] only existence_smp:stats/playtime/time_concerningly_well_spent 966
-advancement grant @s[scores={exi_playtime_h=967..}] only existence_smp:stats/playtime/time_concerningly_well_spent 967
-advancement grant @s[scores={exi_playtime_h=968..}] only existence_smp:stats/playtime/time_concerningly_well_spent 968
-advancement grant @s[scores={exi_playtime_h=969..}] only existence_smp:stats/playtime/time_concerningly_well_spent 969
-advancement grant @s[scores={exi_playtime_h=970..}] only existence_smp:stats/playtime/time_concerningly_well_spent 970
-advancement grant @s[scores={exi_playtime_h=971..}] only existence_smp:stats/playtime/time_concerningly_well_spent 971
-advancement grant @s[scores={exi_playtime_h=972..}] only existence_smp:stats/playtime/time_concerningly_well_spent 972
-advancement grant @s[scores={exi_playtime_h=973..}] only existence_smp:stats/playtime/time_concerningly_well_spent 973
-advancement grant @s[scores={exi_playtime_h=974..}] only existence_smp:stats/playtime/time_concerningly_well_spent 974
-advancement grant @s[scores={exi_playtime_h=975..}] only existence_smp:stats/playtime/time_concerningly_well_spent 975
-advancement grant @s[scores={exi_playtime_h=976..}] only existence_smp:stats/playtime/time_concerningly_well_spent 976
-advancement grant @s[scores={exi_playtime_h=977..}] only existence_smp:stats/playtime/time_concerningly_well_spent 977
-advancement grant @s[scores={exi_playtime_h=978..}] only existence_smp:stats/playtime/time_concerningly_well_spent 978
-advancement grant @s[scores={exi_playtime_h=979..}] only existence_smp:stats/playtime/time_concerningly_well_spent 979
-advancement grant @s[scores={exi_playtime_h=980..}] only existence_smp:stats/playtime/time_concerningly_well_spent 980
-advancement grant @s[scores={exi_playtime_h=981..}] only existence_smp:stats/playtime/time_concerningly_well_spent 981
-advancement grant @s[scores={exi_playtime_h=982..}] only existence_smp:stats/playtime/time_concerningly_well_spent 982
-advancement grant @s[scores={exi_playtime_h=983..}] only existence_smp:stats/playtime/time_concerningly_well_spent 983
-advancement grant @s[scores={exi_playtime_h=984..}] only existence_smp:stats/playtime/time_concerningly_well_spent 984
-advancement grant @s[scores={exi_playtime_h=985..}] only existence_smp:stats/playtime/time_concerningly_well_spent 985
-advancement grant @s[scores={exi_playtime_h=986..}] only existence_smp:stats/playtime/time_concerningly_well_spent 986
-advancement grant @s[scores={exi_playtime_h=987..}] only existence_smp:stats/playtime/time_concerningly_well_spent 987
-advancement grant @s[scores={exi_playtime_h=988..}] only existence_smp:stats/playtime/time_concerningly_well_spent 988
-advancement grant @s[scores={exi_playtime_h=989..}] only existence_smp:stats/playtime/time_concerningly_well_spent 989
-advancement grant @s[scores={exi_playtime_h=990..}] only existence_smp:stats/playtime/time_concerningly_well_spent 990
-advancement grant @s[scores={exi_playtime_h=991..}] only existence_smp:stats/playtime/time_concerningly_well_spent 991
-advancement grant @s[scores={exi_playtime_h=992..}] only existence_smp:stats/playtime/time_concerningly_well_spent 992
-advancement grant @s[scores={exi_playtime_h=993..}] only existence_smp:stats/playtime/time_concerningly_well_spent 993
-advancement grant @s[scores={exi_playtime_h=994..}] only existence_smp:stats/playtime/time_concerningly_well_spent 994
-advancement grant @s[scores={exi_playtime_h=995..}] only existence_smp:stats/playtime/time_concerningly_well_spent 995
-advancement grant @s[scores={exi_playtime_h=996..}] only existence_smp:stats/playtime/time_concerningly_well_spent 996
-advancement grant @s[scores={exi_playtime_h=997..}] only existence_smp:stats/playtime/time_concerningly_well_spent 997
-advancement grant @s[scores={exi_playtime_h=998..}] only existence_smp:stats/playtime/time_concerningly_well_spent 998
-advancement grant @s[scores={exi_playtime_h=999..}] only existence_smp:stats/playtime/time_concerningly_well_spent 999
-advancement grant @s[scores={exi_playtime_h=1000..}] only existence_smp:stats/playtime/time_concerningly_well_spent 1000
+execute if score @s exi_playtime_h matches 1.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 1
+execute if score @s exi_playtime_h matches 2.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 2
+execute if score @s exi_playtime_h matches 3.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 3
+execute if score @s exi_playtime_h matches 4.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 4
+execute if score @s exi_playtime_h matches 5.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 5
+execute if score @s exi_playtime_h matches 6.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 6
+execute if score @s exi_playtime_h matches 7.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 7
+execute if score @s exi_playtime_h matches 8.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 8
+execute if score @s exi_playtime_h matches 9.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 9
+execute if score @s exi_playtime_h matches 10.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 10
+execute if score @s exi_playtime_h matches 11.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 11
+execute if score @s exi_playtime_h matches 12.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 12
+execute if score @s exi_playtime_h matches 13.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 13
+execute if score @s exi_playtime_h matches 14.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 14
+execute if score @s exi_playtime_h matches 15.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 15
+execute if score @s exi_playtime_h matches 16.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 16
+execute if score @s exi_playtime_h matches 17.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 17
+execute if score @s exi_playtime_h matches 18.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 18
+execute if score @s exi_playtime_h matches 19.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 19
+execute if score @s exi_playtime_h matches 20.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 20
+execute if score @s exi_playtime_h matches 21.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 21
+execute if score @s exi_playtime_h matches 22.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 22
+execute if score @s exi_playtime_h matches 23.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 23
+execute if score @s exi_playtime_h matches 24.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 24
+execute if score @s exi_playtime_h matches 25.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 25
+execute if score @s exi_playtime_h matches 26.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 26
+execute if score @s exi_playtime_h matches 27.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 27
+execute if score @s exi_playtime_h matches 28.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 28
+execute if score @s exi_playtime_h matches 29.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 29
+execute if score @s exi_playtime_h matches 30.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 30
+execute if score @s exi_playtime_h matches 31.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 31
+execute if score @s exi_playtime_h matches 32.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 32
+execute if score @s exi_playtime_h matches 33.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 33
+execute if score @s exi_playtime_h matches 34.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 34
+execute if score @s exi_playtime_h matches 35.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 35
+execute if score @s exi_playtime_h matches 36.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 36
+execute if score @s exi_playtime_h matches 37.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 37
+execute if score @s exi_playtime_h matches 38.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 38
+execute if score @s exi_playtime_h matches 39.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 39
+execute if score @s exi_playtime_h matches 40.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 40
+execute if score @s exi_playtime_h matches 41.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 41
+execute if score @s exi_playtime_h matches 42.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 42
+execute if score @s exi_playtime_h matches 43.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 43
+execute if score @s exi_playtime_h matches 44.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 44
+execute if score @s exi_playtime_h matches 45.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 45
+execute if score @s exi_playtime_h matches 46.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 46
+execute if score @s exi_playtime_h matches 47.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 47
+execute if score @s exi_playtime_h matches 48.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 48
+execute if score @s exi_playtime_h matches 49.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 49
+execute if score @s exi_playtime_h matches 50.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 50
+execute if score @s exi_playtime_h matches 51.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 51
+execute if score @s exi_playtime_h matches 52.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 52
+execute if score @s exi_playtime_h matches 53.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 53
+execute if score @s exi_playtime_h matches 54.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 54
+execute if score @s exi_playtime_h matches 55.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 55
+execute if score @s exi_playtime_h matches 56.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 56
+execute if score @s exi_playtime_h matches 57.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 57
+execute if score @s exi_playtime_h matches 58.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 58
+execute if score @s exi_playtime_h matches 59.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 59
+execute if score @s exi_playtime_h matches 60.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 60
+execute if score @s exi_playtime_h matches 61.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 61
+execute if score @s exi_playtime_h matches 62.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 62
+execute if score @s exi_playtime_h matches 63.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 63
+execute if score @s exi_playtime_h matches 64.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 64
+execute if score @s exi_playtime_h matches 65.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 65
+execute if score @s exi_playtime_h matches 66.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 66
+execute if score @s exi_playtime_h matches 67.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 67
+execute if score @s exi_playtime_h matches 68.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 68
+execute if score @s exi_playtime_h matches 69.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 69
+execute if score @s exi_playtime_h matches 70.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 70
+execute if score @s exi_playtime_h matches 71.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 71
+execute if score @s exi_playtime_h matches 72.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 72
+execute if score @s exi_playtime_h matches 73.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 73
+execute if score @s exi_playtime_h matches 74.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 74
+execute if score @s exi_playtime_h matches 75.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 75
+execute if score @s exi_playtime_h matches 76.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 76
+execute if score @s exi_playtime_h matches 77.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 77
+execute if score @s exi_playtime_h matches 78.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 78
+execute if score @s exi_playtime_h matches 79.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 79
+execute if score @s exi_playtime_h matches 80.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 80
+execute if score @s exi_playtime_h matches 81.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 81
+execute if score @s exi_playtime_h matches 82.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 82
+execute if score @s exi_playtime_h matches 83.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 83
+execute if score @s exi_playtime_h matches 84.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 84
+execute if score @s exi_playtime_h matches 85.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 85
+execute if score @s exi_playtime_h matches 86.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 86
+execute if score @s exi_playtime_h matches 87.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 87
+execute if score @s exi_playtime_h matches 88.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 88
+execute if score @s exi_playtime_h matches 89.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 89
+execute if score @s exi_playtime_h matches 90.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 90
+execute if score @s exi_playtime_h matches 91.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 91
+execute if score @s exi_playtime_h matches 92.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 92
+execute if score @s exi_playtime_h matches 93.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 93
+execute if score @s exi_playtime_h matches 94.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 94
+execute if score @s exi_playtime_h matches 95.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 95
+execute if score @s exi_playtime_h matches 96.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 96
+execute if score @s exi_playtime_h matches 97.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 97
+execute if score @s exi_playtime_h matches 98.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 98
+execute if score @s exi_playtime_h matches 99.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 99
+execute if score @s exi_playtime_h matches 100.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 100
+execute if score @s exi_playtime_h matches 101.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 101
+execute if score @s exi_playtime_h matches 102.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 102
+execute if score @s exi_playtime_h matches 103.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 103
+execute if score @s exi_playtime_h matches 104.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 104
+execute if score @s exi_playtime_h matches 105.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 105
+execute if score @s exi_playtime_h matches 106.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 106
+execute if score @s exi_playtime_h matches 107.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 107
+execute if score @s exi_playtime_h matches 108.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 108
+execute if score @s exi_playtime_h matches 109.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 109
+execute if score @s exi_playtime_h matches 110.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 110
+execute if score @s exi_playtime_h matches 111.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 111
+execute if score @s exi_playtime_h matches 112.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 112
+execute if score @s exi_playtime_h matches 113.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 113
+execute if score @s exi_playtime_h matches 114.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 114
+execute if score @s exi_playtime_h matches 115.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 115
+execute if score @s exi_playtime_h matches 116.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 116
+execute if score @s exi_playtime_h matches 117.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 117
+execute if score @s exi_playtime_h matches 118.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 118
+execute if score @s exi_playtime_h matches 119.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 119
+execute if score @s exi_playtime_h matches 120.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 120
+execute if score @s exi_playtime_h matches 121.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 121
+execute if score @s exi_playtime_h matches 122.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 122
+execute if score @s exi_playtime_h matches 123.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 123
+execute if score @s exi_playtime_h matches 124.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 124
+execute if score @s exi_playtime_h matches 125.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 125
+execute if score @s exi_playtime_h matches 126.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 126
+execute if score @s exi_playtime_h matches 127.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 127
+execute if score @s exi_playtime_h matches 128.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 128
+execute if score @s exi_playtime_h matches 129.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 129
+execute if score @s exi_playtime_h matches 130.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 130
+execute if score @s exi_playtime_h matches 131.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 131
+execute if score @s exi_playtime_h matches 132.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 132
+execute if score @s exi_playtime_h matches 133.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 133
+execute if score @s exi_playtime_h matches 134.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 134
+execute if score @s exi_playtime_h matches 135.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 135
+execute if score @s exi_playtime_h matches 136.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 136
+execute if score @s exi_playtime_h matches 137.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 137
+execute if score @s exi_playtime_h matches 138.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 138
+execute if score @s exi_playtime_h matches 139.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 139
+execute if score @s exi_playtime_h matches 140.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 140
+execute if score @s exi_playtime_h matches 141.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 141
+execute if score @s exi_playtime_h matches 142.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 142
+execute if score @s exi_playtime_h matches 143.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 143
+execute if score @s exi_playtime_h matches 144.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 144
+execute if score @s exi_playtime_h matches 145.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 145
+execute if score @s exi_playtime_h matches 146.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 146
+execute if score @s exi_playtime_h matches 147.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 147
+execute if score @s exi_playtime_h matches 148.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 148
+execute if score @s exi_playtime_h matches 149.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 149
+execute if score @s exi_playtime_h matches 150.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 150
+execute if score @s exi_playtime_h matches 151.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 151
+execute if score @s exi_playtime_h matches 152.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 152
+execute if score @s exi_playtime_h matches 153.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 153
+execute if score @s exi_playtime_h matches 154.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 154
+execute if score @s exi_playtime_h matches 155.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 155
+execute if score @s exi_playtime_h matches 156.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 156
+execute if score @s exi_playtime_h matches 157.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 157
+execute if score @s exi_playtime_h matches 158.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 158
+execute if score @s exi_playtime_h matches 159.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 159
+execute if score @s exi_playtime_h matches 160.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 160
+execute if score @s exi_playtime_h matches 161.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 161
+execute if score @s exi_playtime_h matches 162.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 162
+execute if score @s exi_playtime_h matches 163.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 163
+execute if score @s exi_playtime_h matches 164.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 164
+execute if score @s exi_playtime_h matches 165.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 165
+execute if score @s exi_playtime_h matches 166.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 166
+execute if score @s exi_playtime_h matches 167.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 167
+execute if score @s exi_playtime_h matches 168.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 168
+execute if score @s exi_playtime_h matches 169.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 169
+execute if score @s exi_playtime_h matches 170.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 170
+execute if score @s exi_playtime_h matches 171.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 171
+execute if score @s exi_playtime_h matches 172.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 172
+execute if score @s exi_playtime_h matches 173.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 173
+execute if score @s exi_playtime_h matches 174.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 174
+execute if score @s exi_playtime_h matches 175.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 175
+execute if score @s exi_playtime_h matches 176.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 176
+execute if score @s exi_playtime_h matches 177.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 177
+execute if score @s exi_playtime_h matches 178.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 178
+execute if score @s exi_playtime_h matches 179.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 179
+execute if score @s exi_playtime_h matches 180.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 180
+execute if score @s exi_playtime_h matches 181.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 181
+execute if score @s exi_playtime_h matches 182.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 182
+execute if score @s exi_playtime_h matches 183.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 183
+execute if score @s exi_playtime_h matches 184.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 184
+execute if score @s exi_playtime_h matches 185.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 185
+execute if score @s exi_playtime_h matches 186.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 186
+execute if score @s exi_playtime_h matches 187.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 187
+execute if score @s exi_playtime_h matches 188.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 188
+execute if score @s exi_playtime_h matches 189.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 189
+execute if score @s exi_playtime_h matches 190.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 190
+execute if score @s exi_playtime_h matches 191.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 191
+execute if score @s exi_playtime_h matches 192.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 192
+execute if score @s exi_playtime_h matches 193.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 193
+execute if score @s exi_playtime_h matches 194.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 194
+execute if score @s exi_playtime_h matches 195.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 195
+execute if score @s exi_playtime_h matches 196.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 196
+execute if score @s exi_playtime_h matches 197.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 197
+execute if score @s exi_playtime_h matches 198.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 198
+execute if score @s exi_playtime_h matches 199.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 199
+execute if score @s exi_playtime_h matches 200.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 200
+execute if score @s exi_playtime_h matches 201.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 201
+execute if score @s exi_playtime_h matches 202.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 202
+execute if score @s exi_playtime_h matches 203.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 203
+execute if score @s exi_playtime_h matches 204.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 204
+execute if score @s exi_playtime_h matches 205.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 205
+execute if score @s exi_playtime_h matches 206.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 206
+execute if score @s exi_playtime_h matches 207.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 207
+execute if score @s exi_playtime_h matches 208.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 208
+execute if score @s exi_playtime_h matches 209.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 209
+execute if score @s exi_playtime_h matches 210.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 210
+execute if score @s exi_playtime_h matches 211.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 211
+execute if score @s exi_playtime_h matches 212.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 212
+execute if score @s exi_playtime_h matches 213.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 213
+execute if score @s exi_playtime_h matches 214.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 214
+execute if score @s exi_playtime_h matches 215.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 215
+execute if score @s exi_playtime_h matches 216.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 216
+execute if score @s exi_playtime_h matches 217.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 217
+execute if score @s exi_playtime_h matches 218.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 218
+execute if score @s exi_playtime_h matches 219.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 219
+execute if score @s exi_playtime_h matches 220.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 220
+execute if score @s exi_playtime_h matches 221.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 221
+execute if score @s exi_playtime_h matches 222.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 222
+execute if score @s exi_playtime_h matches 223.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 223
+execute if score @s exi_playtime_h matches 224.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 224
+execute if score @s exi_playtime_h matches 225.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 225
+execute if score @s exi_playtime_h matches 226.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 226
+execute if score @s exi_playtime_h matches 227.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 227
+execute if score @s exi_playtime_h matches 228.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 228
+execute if score @s exi_playtime_h matches 229.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 229
+execute if score @s exi_playtime_h matches 230.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 230
+execute if score @s exi_playtime_h matches 231.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 231
+execute if score @s exi_playtime_h matches 232.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 232
+execute if score @s exi_playtime_h matches 233.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 233
+execute if score @s exi_playtime_h matches 234.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 234
+execute if score @s exi_playtime_h matches 235.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 235
+execute if score @s exi_playtime_h matches 236.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 236
+execute if score @s exi_playtime_h matches 237.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 237
+execute if score @s exi_playtime_h matches 238.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 238
+execute if score @s exi_playtime_h matches 239.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 239
+execute if score @s exi_playtime_h matches 240.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 240
+execute if score @s exi_playtime_h matches 241.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 241
+execute if score @s exi_playtime_h matches 242.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 242
+execute if score @s exi_playtime_h matches 243.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 243
+execute if score @s exi_playtime_h matches 244.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 244
+execute if score @s exi_playtime_h matches 245.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 245
+execute if score @s exi_playtime_h matches 246.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 246
+execute if score @s exi_playtime_h matches 247.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 247
+execute if score @s exi_playtime_h matches 248.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 248
+execute if score @s exi_playtime_h matches 249.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 249
+execute if score @s exi_playtime_h matches 250.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 250
+execute if score @s exi_playtime_h matches 251.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 251
+execute if score @s exi_playtime_h matches 252.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 252
+execute if score @s exi_playtime_h matches 253.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 253
+execute if score @s exi_playtime_h matches 254.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 254
+execute if score @s exi_playtime_h matches 255.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 255
+execute if score @s exi_playtime_h matches 256.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 256
+execute if score @s exi_playtime_h matches 257.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 257
+execute if score @s exi_playtime_h matches 258.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 258
+execute if score @s exi_playtime_h matches 259.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 259
+execute if score @s exi_playtime_h matches 260.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 260
+execute if score @s exi_playtime_h matches 261.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 261
+execute if score @s exi_playtime_h matches 262.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 262
+execute if score @s exi_playtime_h matches 263.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 263
+execute if score @s exi_playtime_h matches 264.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 264
+execute if score @s exi_playtime_h matches 265.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 265
+execute if score @s exi_playtime_h matches 266.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 266
+execute if score @s exi_playtime_h matches 267.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 267
+execute if score @s exi_playtime_h matches 268.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 268
+execute if score @s exi_playtime_h matches 269.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 269
+execute if score @s exi_playtime_h matches 270.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 270
+execute if score @s exi_playtime_h matches 271.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 271
+execute if score @s exi_playtime_h matches 272.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 272
+execute if score @s exi_playtime_h matches 273.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 273
+execute if score @s exi_playtime_h matches 274.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 274
+execute if score @s exi_playtime_h matches 275.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 275
+execute if score @s exi_playtime_h matches 276.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 276
+execute if score @s exi_playtime_h matches 277.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 277
+execute if score @s exi_playtime_h matches 278.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 278
+execute if score @s exi_playtime_h matches 279.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 279
+execute if score @s exi_playtime_h matches 280.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 280
+execute if score @s exi_playtime_h matches 281.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 281
+execute if score @s exi_playtime_h matches 282.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 282
+execute if score @s exi_playtime_h matches 283.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 283
+execute if score @s exi_playtime_h matches 284.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 284
+execute if score @s exi_playtime_h matches 285.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 285
+execute if score @s exi_playtime_h matches 286.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 286
+execute if score @s exi_playtime_h matches 287.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 287
+execute if score @s exi_playtime_h matches 288.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 288
+execute if score @s exi_playtime_h matches 289.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 289
+execute if score @s exi_playtime_h matches 290.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 290
+execute if score @s exi_playtime_h matches 291.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 291
+execute if score @s exi_playtime_h matches 292.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 292
+execute if score @s exi_playtime_h matches 293.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 293
+execute if score @s exi_playtime_h matches 294.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 294
+execute if score @s exi_playtime_h matches 295.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 295
+execute if score @s exi_playtime_h matches 296.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 296
+execute if score @s exi_playtime_h matches 297.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 297
+execute if score @s exi_playtime_h matches 298.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 298
+execute if score @s exi_playtime_h matches 299.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 299
+execute if score @s exi_playtime_h matches 300.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 300
+execute if score @s exi_playtime_h matches 301.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 301
+execute if score @s exi_playtime_h matches 302.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 302
+execute if score @s exi_playtime_h matches 303.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 303
+execute if score @s exi_playtime_h matches 304.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 304
+execute if score @s exi_playtime_h matches 305.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 305
+execute if score @s exi_playtime_h matches 306.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 306
+execute if score @s exi_playtime_h matches 307.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 307
+execute if score @s exi_playtime_h matches 308.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 308
+execute if score @s exi_playtime_h matches 309.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 309
+execute if score @s exi_playtime_h matches 310.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 310
+execute if score @s exi_playtime_h matches 311.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 311
+execute if score @s exi_playtime_h matches 312.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 312
+execute if score @s exi_playtime_h matches 313.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 313
+execute if score @s exi_playtime_h matches 314.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 314
+execute if score @s exi_playtime_h matches 315.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 315
+execute if score @s exi_playtime_h matches 316.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 316
+execute if score @s exi_playtime_h matches 317.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 317
+execute if score @s exi_playtime_h matches 318.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 318
+execute if score @s exi_playtime_h matches 319.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 319
+execute if score @s exi_playtime_h matches 320.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 320
+execute if score @s exi_playtime_h matches 321.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 321
+execute if score @s exi_playtime_h matches 322.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 322
+execute if score @s exi_playtime_h matches 323.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 323
+execute if score @s exi_playtime_h matches 324.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 324
+execute if score @s exi_playtime_h matches 325.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 325
+execute if score @s exi_playtime_h matches 326.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 326
+execute if score @s exi_playtime_h matches 327.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 327
+execute if score @s exi_playtime_h matches 328.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 328
+execute if score @s exi_playtime_h matches 329.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 329
+execute if score @s exi_playtime_h matches 330.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 330
+execute if score @s exi_playtime_h matches 331.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 331
+execute if score @s exi_playtime_h matches 332.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 332
+execute if score @s exi_playtime_h matches 333.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 333
+execute if score @s exi_playtime_h matches 334.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 334
+execute if score @s exi_playtime_h matches 335.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 335
+execute if score @s exi_playtime_h matches 336.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 336
+execute if score @s exi_playtime_h matches 337.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 337
+execute if score @s exi_playtime_h matches 338.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 338
+execute if score @s exi_playtime_h matches 339.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 339
+execute if score @s exi_playtime_h matches 340.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 340
+execute if score @s exi_playtime_h matches 341.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 341
+execute if score @s exi_playtime_h matches 342.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 342
+execute if score @s exi_playtime_h matches 343.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 343
+execute if score @s exi_playtime_h matches 344.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 344
+execute if score @s exi_playtime_h matches 345.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 345
+execute if score @s exi_playtime_h matches 346.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 346
+execute if score @s exi_playtime_h matches 347.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 347
+execute if score @s exi_playtime_h matches 348.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 348
+execute if score @s exi_playtime_h matches 349.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 349
+execute if score @s exi_playtime_h matches 350.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 350
+execute if score @s exi_playtime_h matches 351.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 351
+execute if score @s exi_playtime_h matches 352.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 352
+execute if score @s exi_playtime_h matches 353.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 353
+execute if score @s exi_playtime_h matches 354.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 354
+execute if score @s exi_playtime_h matches 355.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 355
+execute if score @s exi_playtime_h matches 356.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 356
+execute if score @s exi_playtime_h matches 357.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 357
+execute if score @s exi_playtime_h matches 358.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 358
+execute if score @s exi_playtime_h matches 359.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 359
+execute if score @s exi_playtime_h matches 360.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 360
+execute if score @s exi_playtime_h matches 361.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 361
+execute if score @s exi_playtime_h matches 362.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 362
+execute if score @s exi_playtime_h matches 363.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 363
+execute if score @s exi_playtime_h matches 364.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 364
+execute if score @s exi_playtime_h matches 365.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 365
+execute if score @s exi_playtime_h matches 366.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 366
+execute if score @s exi_playtime_h matches 367.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 367
+execute if score @s exi_playtime_h matches 368.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 368
+execute if score @s exi_playtime_h matches 369.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 369
+execute if score @s exi_playtime_h matches 370.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 370
+execute if score @s exi_playtime_h matches 371.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 371
+execute if score @s exi_playtime_h matches 372.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 372
+execute if score @s exi_playtime_h matches 373.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 373
+execute if score @s exi_playtime_h matches 374.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 374
+execute if score @s exi_playtime_h matches 375.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 375
+execute if score @s exi_playtime_h matches 376.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 376
+execute if score @s exi_playtime_h matches 377.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 377
+execute if score @s exi_playtime_h matches 378.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 378
+execute if score @s exi_playtime_h matches 379.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 379
+execute if score @s exi_playtime_h matches 380.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 380
+execute if score @s exi_playtime_h matches 381.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 381
+execute if score @s exi_playtime_h matches 382.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 382
+execute if score @s exi_playtime_h matches 383.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 383
+execute if score @s exi_playtime_h matches 384.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 384
+execute if score @s exi_playtime_h matches 385.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 385
+execute if score @s exi_playtime_h matches 386.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 386
+execute if score @s exi_playtime_h matches 387.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 387
+execute if score @s exi_playtime_h matches 388.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 388
+execute if score @s exi_playtime_h matches 389.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 389
+execute if score @s exi_playtime_h matches 390.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 390
+execute if score @s exi_playtime_h matches 391.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 391
+execute if score @s exi_playtime_h matches 392.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 392
+execute if score @s exi_playtime_h matches 393.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 393
+execute if score @s exi_playtime_h matches 394.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 394
+execute if score @s exi_playtime_h matches 395.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 395
+execute if score @s exi_playtime_h matches 396.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 396
+execute if score @s exi_playtime_h matches 397.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 397
+execute if score @s exi_playtime_h matches 398.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 398
+execute if score @s exi_playtime_h matches 399.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 399
+execute if score @s exi_playtime_h matches 400.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 400
+execute if score @s exi_playtime_h matches 401.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 401
+execute if score @s exi_playtime_h matches 402.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 402
+execute if score @s exi_playtime_h matches 403.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 403
+execute if score @s exi_playtime_h matches 404.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 404
+execute if score @s exi_playtime_h matches 405.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 405
+execute if score @s exi_playtime_h matches 406.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 406
+execute if score @s exi_playtime_h matches 407.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 407
+execute if score @s exi_playtime_h matches 408.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 408
+execute if score @s exi_playtime_h matches 409.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 409
+execute if score @s exi_playtime_h matches 410.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 410
+execute if score @s exi_playtime_h matches 411.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 411
+execute if score @s exi_playtime_h matches 412.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 412
+execute if score @s exi_playtime_h matches 413.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 413
+execute if score @s exi_playtime_h matches 414.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 414
+execute if score @s exi_playtime_h matches 415.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 415
+execute if score @s exi_playtime_h matches 416.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 416
+execute if score @s exi_playtime_h matches 417.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 417
+execute if score @s exi_playtime_h matches 418.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 418
+execute if score @s exi_playtime_h matches 419.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 419
+execute if score @s exi_playtime_h matches 420.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 420
+execute if score @s exi_playtime_h matches 421.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 421
+execute if score @s exi_playtime_h matches 422.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 422
+execute if score @s exi_playtime_h matches 423.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 423
+execute if score @s exi_playtime_h matches 424.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 424
+execute if score @s exi_playtime_h matches 425.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 425
+execute if score @s exi_playtime_h matches 426.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 426
+execute if score @s exi_playtime_h matches 427.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 427
+execute if score @s exi_playtime_h matches 428.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 428
+execute if score @s exi_playtime_h matches 429.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 429
+execute if score @s exi_playtime_h matches 430.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 430
+execute if score @s exi_playtime_h matches 431.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 431
+execute if score @s exi_playtime_h matches 432.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 432
+execute if score @s exi_playtime_h matches 433.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 433
+execute if score @s exi_playtime_h matches 434.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 434
+execute if score @s exi_playtime_h matches 435.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 435
+execute if score @s exi_playtime_h matches 436.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 436
+execute if score @s exi_playtime_h matches 437.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 437
+execute if score @s exi_playtime_h matches 438.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 438
+execute if score @s exi_playtime_h matches 439.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 439
+execute if score @s exi_playtime_h matches 440.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 440
+execute if score @s exi_playtime_h matches 441.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 441
+execute if score @s exi_playtime_h matches 442.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 442
+execute if score @s exi_playtime_h matches 443.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 443
+execute if score @s exi_playtime_h matches 444.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 444
+execute if score @s exi_playtime_h matches 445.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 445
+execute if score @s exi_playtime_h matches 446.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 446
+execute if score @s exi_playtime_h matches 447.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 447
+execute if score @s exi_playtime_h matches 448.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 448
+execute if score @s exi_playtime_h matches 449.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 449
+execute if score @s exi_playtime_h matches 450.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 450
+execute if score @s exi_playtime_h matches 451.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 451
+execute if score @s exi_playtime_h matches 452.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 452
+execute if score @s exi_playtime_h matches 453.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 453
+execute if score @s exi_playtime_h matches 454.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 454
+execute if score @s exi_playtime_h matches 455.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 455
+execute if score @s exi_playtime_h matches 456.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 456
+execute if score @s exi_playtime_h matches 457.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 457
+execute if score @s exi_playtime_h matches 458.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 458
+execute if score @s exi_playtime_h matches 459.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 459
+execute if score @s exi_playtime_h matches 460.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 460
+execute if score @s exi_playtime_h matches 461.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 461
+execute if score @s exi_playtime_h matches 462.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 462
+execute if score @s exi_playtime_h matches 463.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 463
+execute if score @s exi_playtime_h matches 464.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 464
+execute if score @s exi_playtime_h matches 465.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 465
+execute if score @s exi_playtime_h matches 466.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 466
+execute if score @s exi_playtime_h matches 467.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 467
+execute if score @s exi_playtime_h matches 468.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 468
+execute if score @s exi_playtime_h matches 469.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 469
+execute if score @s exi_playtime_h matches 470.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 470
+execute if score @s exi_playtime_h matches 471.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 471
+execute if score @s exi_playtime_h matches 472.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 472
+execute if score @s exi_playtime_h matches 473.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 473
+execute if score @s exi_playtime_h matches 474.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 474
+execute if score @s exi_playtime_h matches 475.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 475
+execute if score @s exi_playtime_h matches 476.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 476
+execute if score @s exi_playtime_h matches 477.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 477
+execute if score @s exi_playtime_h matches 478.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 478
+execute if score @s exi_playtime_h matches 479.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 479
+execute if score @s exi_playtime_h matches 480.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 480
+execute if score @s exi_playtime_h matches 481.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 481
+execute if score @s exi_playtime_h matches 482.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 482
+execute if score @s exi_playtime_h matches 483.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 483
+execute if score @s exi_playtime_h matches 484.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 484
+execute if score @s exi_playtime_h matches 485.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 485
+execute if score @s exi_playtime_h matches 486.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 486
+execute if score @s exi_playtime_h matches 487.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 487
+execute if score @s exi_playtime_h matches 488.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 488
+execute if score @s exi_playtime_h matches 489.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 489
+execute if score @s exi_playtime_h matches 490.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 490
+execute if score @s exi_playtime_h matches 491.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 491
+execute if score @s exi_playtime_h matches 492.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 492
+execute if score @s exi_playtime_h matches 493.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 493
+execute if score @s exi_playtime_h matches 494.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 494
+execute if score @s exi_playtime_h matches 495.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 495
+execute if score @s exi_playtime_h matches 496.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 496
+execute if score @s exi_playtime_h matches 497.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 497
+execute if score @s exi_playtime_h matches 498.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 498
+execute if score @s exi_playtime_h matches 499.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 499
+execute if score @s exi_playtime_h matches 500.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 500
+execute if score @s exi_playtime_h matches 501.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 501
+execute if score @s exi_playtime_h matches 502.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 502
+execute if score @s exi_playtime_h matches 503.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 503
+execute if score @s exi_playtime_h matches 504.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 504
+execute if score @s exi_playtime_h matches 505.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 505
+execute if score @s exi_playtime_h matches 506.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 506
+execute if score @s exi_playtime_h matches 507.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 507
+execute if score @s exi_playtime_h matches 508.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 508
+execute if score @s exi_playtime_h matches 509.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 509
+execute if score @s exi_playtime_h matches 510.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 510
+execute if score @s exi_playtime_h matches 511.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 511
+execute if score @s exi_playtime_h matches 512.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 512
+execute if score @s exi_playtime_h matches 513.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 513
+execute if score @s exi_playtime_h matches 514.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 514
+execute if score @s exi_playtime_h matches 515.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 515
+execute if score @s exi_playtime_h matches 516.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 516
+execute if score @s exi_playtime_h matches 517.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 517
+execute if score @s exi_playtime_h matches 518.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 518
+execute if score @s exi_playtime_h matches 519.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 519
+execute if score @s exi_playtime_h matches 520.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 520
+execute if score @s exi_playtime_h matches 521.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 521
+execute if score @s exi_playtime_h matches 522.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 522
+execute if score @s exi_playtime_h matches 523.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 523
+execute if score @s exi_playtime_h matches 524.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 524
+execute if score @s exi_playtime_h matches 525.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 525
+execute if score @s exi_playtime_h matches 526.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 526
+execute if score @s exi_playtime_h matches 527.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 527
+execute if score @s exi_playtime_h matches 528.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 528
+execute if score @s exi_playtime_h matches 529.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 529
+execute if score @s exi_playtime_h matches 530.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 530
+execute if score @s exi_playtime_h matches 531.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 531
+execute if score @s exi_playtime_h matches 532.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 532
+execute if score @s exi_playtime_h matches 533.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 533
+execute if score @s exi_playtime_h matches 534.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 534
+execute if score @s exi_playtime_h matches 535.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 535
+execute if score @s exi_playtime_h matches 536.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 536
+execute if score @s exi_playtime_h matches 537.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 537
+execute if score @s exi_playtime_h matches 538.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 538
+execute if score @s exi_playtime_h matches 539.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 539
+execute if score @s exi_playtime_h matches 540.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 540
+execute if score @s exi_playtime_h matches 541.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 541
+execute if score @s exi_playtime_h matches 542.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 542
+execute if score @s exi_playtime_h matches 543.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 543
+execute if score @s exi_playtime_h matches 544.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 544
+execute if score @s exi_playtime_h matches 545.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 545
+execute if score @s exi_playtime_h matches 546.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 546
+execute if score @s exi_playtime_h matches 547.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 547
+execute if score @s exi_playtime_h matches 548.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 548
+execute if score @s exi_playtime_h matches 549.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 549
+execute if score @s exi_playtime_h matches 550.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 550
+execute if score @s exi_playtime_h matches 551.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 551
+execute if score @s exi_playtime_h matches 552.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 552
+execute if score @s exi_playtime_h matches 553.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 553
+execute if score @s exi_playtime_h matches 554.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 554
+execute if score @s exi_playtime_h matches 555.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 555
+execute if score @s exi_playtime_h matches 556.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 556
+execute if score @s exi_playtime_h matches 557.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 557
+execute if score @s exi_playtime_h matches 558.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 558
+execute if score @s exi_playtime_h matches 559.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 559
+execute if score @s exi_playtime_h matches 560.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 560
+execute if score @s exi_playtime_h matches 561.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 561
+execute if score @s exi_playtime_h matches 562.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 562
+execute if score @s exi_playtime_h matches 563.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 563
+execute if score @s exi_playtime_h matches 564.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 564
+execute if score @s exi_playtime_h matches 565.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 565
+execute if score @s exi_playtime_h matches 566.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 566
+execute if score @s exi_playtime_h matches 567.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 567
+execute if score @s exi_playtime_h matches 568.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 568
+execute if score @s exi_playtime_h matches 569.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 569
+execute if score @s exi_playtime_h matches 570.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 570
+execute if score @s exi_playtime_h matches 571.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 571
+execute if score @s exi_playtime_h matches 572.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 572
+execute if score @s exi_playtime_h matches 573.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 573
+execute if score @s exi_playtime_h matches 574.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 574
+execute if score @s exi_playtime_h matches 575.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 575
+execute if score @s exi_playtime_h matches 576.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 576
+execute if score @s exi_playtime_h matches 577.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 577
+execute if score @s exi_playtime_h matches 578.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 578
+execute if score @s exi_playtime_h matches 579.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 579
+execute if score @s exi_playtime_h matches 580.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 580
+execute if score @s exi_playtime_h matches 581.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 581
+execute if score @s exi_playtime_h matches 582.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 582
+execute if score @s exi_playtime_h matches 583.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 583
+execute if score @s exi_playtime_h matches 584.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 584
+execute if score @s exi_playtime_h matches 585.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 585
+execute if score @s exi_playtime_h matches 586.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 586
+execute if score @s exi_playtime_h matches 587.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 587
+execute if score @s exi_playtime_h matches 588.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 588
+execute if score @s exi_playtime_h matches 589.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 589
+execute if score @s exi_playtime_h matches 590.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 590
+execute if score @s exi_playtime_h matches 591.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 591
+execute if score @s exi_playtime_h matches 592.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 592
+execute if score @s exi_playtime_h matches 593.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 593
+execute if score @s exi_playtime_h matches 594.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 594
+execute if score @s exi_playtime_h matches 595.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 595
+execute if score @s exi_playtime_h matches 596.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 596
+execute if score @s exi_playtime_h matches 597.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 597
+execute if score @s exi_playtime_h matches 598.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 598
+execute if score @s exi_playtime_h matches 599.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 599
+execute if score @s exi_playtime_h matches 600.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 600
+execute if score @s exi_playtime_h matches 601.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 601
+execute if score @s exi_playtime_h matches 602.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 602
+execute if score @s exi_playtime_h matches 603.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 603
+execute if score @s exi_playtime_h matches 604.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 604
+execute if score @s exi_playtime_h matches 605.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 605
+execute if score @s exi_playtime_h matches 606.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 606
+execute if score @s exi_playtime_h matches 607.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 607
+execute if score @s exi_playtime_h matches 608.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 608
+execute if score @s exi_playtime_h matches 609.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 609
+execute if score @s exi_playtime_h matches 610.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 610
+execute if score @s exi_playtime_h matches 611.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 611
+execute if score @s exi_playtime_h matches 612.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 612
+execute if score @s exi_playtime_h matches 613.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 613
+execute if score @s exi_playtime_h matches 614.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 614
+execute if score @s exi_playtime_h matches 615.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 615
+execute if score @s exi_playtime_h matches 616.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 616
+execute if score @s exi_playtime_h matches 617.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 617
+execute if score @s exi_playtime_h matches 618.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 618
+execute if score @s exi_playtime_h matches 619.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 619
+execute if score @s exi_playtime_h matches 620.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 620
+execute if score @s exi_playtime_h matches 621.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 621
+execute if score @s exi_playtime_h matches 622.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 622
+execute if score @s exi_playtime_h matches 623.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 623
+execute if score @s exi_playtime_h matches 624.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 624
+execute if score @s exi_playtime_h matches 625.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 625
+execute if score @s exi_playtime_h matches 626.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 626
+execute if score @s exi_playtime_h matches 627.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 627
+execute if score @s exi_playtime_h matches 628.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 628
+execute if score @s exi_playtime_h matches 629.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 629
+execute if score @s exi_playtime_h matches 630.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 630
+execute if score @s exi_playtime_h matches 631.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 631
+execute if score @s exi_playtime_h matches 632.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 632
+execute if score @s exi_playtime_h matches 633.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 633
+execute if score @s exi_playtime_h matches 634.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 634
+execute if score @s exi_playtime_h matches 635.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 635
+execute if score @s exi_playtime_h matches 636.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 636
+execute if score @s exi_playtime_h matches 637.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 637
+execute if score @s exi_playtime_h matches 638.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 638
+execute if score @s exi_playtime_h matches 639.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 639
+execute if score @s exi_playtime_h matches 640.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 640
+execute if score @s exi_playtime_h matches 641.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 641
+execute if score @s exi_playtime_h matches 642.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 642
+execute if score @s exi_playtime_h matches 643.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 643
+execute if score @s exi_playtime_h matches 644.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 644
+execute if score @s exi_playtime_h matches 645.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 645
+execute if score @s exi_playtime_h matches 646.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 646
+execute if score @s exi_playtime_h matches 647.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 647
+execute if score @s exi_playtime_h matches 648.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 648
+execute if score @s exi_playtime_h matches 649.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 649
+execute if score @s exi_playtime_h matches 650.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 650
+execute if score @s exi_playtime_h matches 651.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 651
+execute if score @s exi_playtime_h matches 652.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 652
+execute if score @s exi_playtime_h matches 653.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 653
+execute if score @s exi_playtime_h matches 654.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 654
+execute if score @s exi_playtime_h matches 655.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 655
+execute if score @s exi_playtime_h matches 656.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 656
+execute if score @s exi_playtime_h matches 657.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 657
+execute if score @s exi_playtime_h matches 658.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 658
+execute if score @s exi_playtime_h matches 659.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 659
+execute if score @s exi_playtime_h matches 660.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 660
+execute if score @s exi_playtime_h matches 661.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 661
+execute if score @s exi_playtime_h matches 662.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 662
+execute if score @s exi_playtime_h matches 663.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 663
+execute if score @s exi_playtime_h matches 664.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 664
+execute if score @s exi_playtime_h matches 665.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 665
+execute if score @s exi_playtime_h matches 666.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 666
+execute if score @s exi_playtime_h matches 667.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 667
+execute if score @s exi_playtime_h matches 668.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 668
+execute if score @s exi_playtime_h matches 669.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 669
+execute if score @s exi_playtime_h matches 670.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 670
+execute if score @s exi_playtime_h matches 671.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 671
+execute if score @s exi_playtime_h matches 672.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 672
+execute if score @s exi_playtime_h matches 673.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 673
+execute if score @s exi_playtime_h matches 674.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 674
+execute if score @s exi_playtime_h matches 675.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 675
+execute if score @s exi_playtime_h matches 676.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 676
+execute if score @s exi_playtime_h matches 677.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 677
+execute if score @s exi_playtime_h matches 678.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 678
+execute if score @s exi_playtime_h matches 679.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 679
+execute if score @s exi_playtime_h matches 680.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 680
+execute if score @s exi_playtime_h matches 681.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 681
+execute if score @s exi_playtime_h matches 682.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 682
+execute if score @s exi_playtime_h matches 683.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 683
+execute if score @s exi_playtime_h matches 684.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 684
+execute if score @s exi_playtime_h matches 685.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 685
+execute if score @s exi_playtime_h matches 686.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 686
+execute if score @s exi_playtime_h matches 687.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 687
+execute if score @s exi_playtime_h matches 688.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 688
+execute if score @s exi_playtime_h matches 689.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 689
+execute if score @s exi_playtime_h matches 690.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 690
+execute if score @s exi_playtime_h matches 691.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 691
+execute if score @s exi_playtime_h matches 692.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 692
+execute if score @s exi_playtime_h matches 693.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 693
+execute if score @s exi_playtime_h matches 694.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 694
+execute if score @s exi_playtime_h matches 695.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 695
+execute if score @s exi_playtime_h matches 696.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 696
+execute if score @s exi_playtime_h matches 697.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 697
+execute if score @s exi_playtime_h matches 698.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 698
+execute if score @s exi_playtime_h matches 699.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 699
+execute if score @s exi_playtime_h matches 700.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 700
+execute if score @s exi_playtime_h matches 701.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 701
+execute if score @s exi_playtime_h matches 702.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 702
+execute if score @s exi_playtime_h matches 703.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 703
+execute if score @s exi_playtime_h matches 704.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 704
+execute if score @s exi_playtime_h matches 705.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 705
+execute if score @s exi_playtime_h matches 706.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 706
+execute if score @s exi_playtime_h matches 707.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 707
+execute if score @s exi_playtime_h matches 708.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 708
+execute if score @s exi_playtime_h matches 709.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 709
+execute if score @s exi_playtime_h matches 710.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 710
+execute if score @s exi_playtime_h matches 711.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 711
+execute if score @s exi_playtime_h matches 712.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 712
+execute if score @s exi_playtime_h matches 713.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 713
+execute if score @s exi_playtime_h matches 714.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 714
+execute if score @s exi_playtime_h matches 715.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 715
+execute if score @s exi_playtime_h matches 716.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 716
+execute if score @s exi_playtime_h matches 717.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 717
+execute if score @s exi_playtime_h matches 718.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 718
+execute if score @s exi_playtime_h matches 719.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 719
+execute if score @s exi_playtime_h matches 720.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 720
+execute if score @s exi_playtime_h matches 721.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 721
+execute if score @s exi_playtime_h matches 722.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 722
+execute if score @s exi_playtime_h matches 723.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 723
+execute if score @s exi_playtime_h matches 724.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 724
+execute if score @s exi_playtime_h matches 725.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 725
+execute if score @s exi_playtime_h matches 726.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 726
+execute if score @s exi_playtime_h matches 727.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 727
+execute if score @s exi_playtime_h matches 728.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 728
+execute if score @s exi_playtime_h matches 729.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 729
+execute if score @s exi_playtime_h matches 730.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 730
+execute if score @s exi_playtime_h matches 731.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 731
+execute if score @s exi_playtime_h matches 732.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 732
+execute if score @s exi_playtime_h matches 733.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 733
+execute if score @s exi_playtime_h matches 734.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 734
+execute if score @s exi_playtime_h matches 735.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 735
+execute if score @s exi_playtime_h matches 736.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 736
+execute if score @s exi_playtime_h matches 737.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 737
+execute if score @s exi_playtime_h matches 738.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 738
+execute if score @s exi_playtime_h matches 739.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 739
+execute if score @s exi_playtime_h matches 740.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 740
+execute if score @s exi_playtime_h matches 741.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 741
+execute if score @s exi_playtime_h matches 742.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 742
+execute if score @s exi_playtime_h matches 743.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 743
+execute if score @s exi_playtime_h matches 744.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 744
+execute if score @s exi_playtime_h matches 745.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 745
+execute if score @s exi_playtime_h matches 746.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 746
+execute if score @s exi_playtime_h matches 747.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 747
+execute if score @s exi_playtime_h matches 748.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 748
+execute if score @s exi_playtime_h matches 749.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 749
+execute if score @s exi_playtime_h matches 750.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 750
+execute if score @s exi_playtime_h matches 751.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 751
+execute if score @s exi_playtime_h matches 752.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 752
+execute if score @s exi_playtime_h matches 753.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 753
+execute if score @s exi_playtime_h matches 754.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 754
+execute if score @s exi_playtime_h matches 755.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 755
+execute if score @s exi_playtime_h matches 756.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 756
+execute if score @s exi_playtime_h matches 757.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 757
+execute if score @s exi_playtime_h matches 758.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 758
+execute if score @s exi_playtime_h matches 759.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 759
+execute if score @s exi_playtime_h matches 760.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 760
+execute if score @s exi_playtime_h matches 761.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 761
+execute if score @s exi_playtime_h matches 762.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 762
+execute if score @s exi_playtime_h matches 763.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 763
+execute if score @s exi_playtime_h matches 764.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 764
+execute if score @s exi_playtime_h matches 765.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 765
+execute if score @s exi_playtime_h matches 766.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 766
+execute if score @s exi_playtime_h matches 767.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 767
+execute if score @s exi_playtime_h matches 768.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 768
+execute if score @s exi_playtime_h matches 769.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 769
+execute if score @s exi_playtime_h matches 770.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 770
+execute if score @s exi_playtime_h matches 771.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 771
+execute if score @s exi_playtime_h matches 772.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 772
+execute if score @s exi_playtime_h matches 773.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 773
+execute if score @s exi_playtime_h matches 774.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 774
+execute if score @s exi_playtime_h matches 775.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 775
+execute if score @s exi_playtime_h matches 776.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 776
+execute if score @s exi_playtime_h matches 777.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 777
+execute if score @s exi_playtime_h matches 778.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 778
+execute if score @s exi_playtime_h matches 779.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 779
+execute if score @s exi_playtime_h matches 780.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 780
+execute if score @s exi_playtime_h matches 781.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 781
+execute if score @s exi_playtime_h matches 782.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 782
+execute if score @s exi_playtime_h matches 783.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 783
+execute if score @s exi_playtime_h matches 784.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 784
+execute if score @s exi_playtime_h matches 785.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 785
+execute if score @s exi_playtime_h matches 786.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 786
+execute if score @s exi_playtime_h matches 787.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 787
+execute if score @s exi_playtime_h matches 788.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 788
+execute if score @s exi_playtime_h matches 789.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 789
+execute if score @s exi_playtime_h matches 790.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 790
+execute if score @s exi_playtime_h matches 791.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 791
+execute if score @s exi_playtime_h matches 792.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 792
+execute if score @s exi_playtime_h matches 793.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 793
+execute if score @s exi_playtime_h matches 794.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 794
+execute if score @s exi_playtime_h matches 795.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 795
+execute if score @s exi_playtime_h matches 796.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 796
+execute if score @s exi_playtime_h matches 797.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 797
+execute if score @s exi_playtime_h matches 798.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 798
+execute if score @s exi_playtime_h matches 799.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 799
+execute if score @s exi_playtime_h matches 800.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 800
+execute if score @s exi_playtime_h matches 801.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 801
+execute if score @s exi_playtime_h matches 802.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 802
+execute if score @s exi_playtime_h matches 803.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 803
+execute if score @s exi_playtime_h matches 804.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 804
+execute if score @s exi_playtime_h matches 805.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 805
+execute if score @s exi_playtime_h matches 806.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 806
+execute if score @s exi_playtime_h matches 807.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 807
+execute if score @s exi_playtime_h matches 808.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 808
+execute if score @s exi_playtime_h matches 809.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 809
+execute if score @s exi_playtime_h matches 810.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 810
+execute if score @s exi_playtime_h matches 811.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 811
+execute if score @s exi_playtime_h matches 812.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 812
+execute if score @s exi_playtime_h matches 813.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 813
+execute if score @s exi_playtime_h matches 814.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 814
+execute if score @s exi_playtime_h matches 815.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 815
+execute if score @s exi_playtime_h matches 816.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 816
+execute if score @s exi_playtime_h matches 817.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 817
+execute if score @s exi_playtime_h matches 818.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 818
+execute if score @s exi_playtime_h matches 819.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 819
+execute if score @s exi_playtime_h matches 820.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 820
+execute if score @s exi_playtime_h matches 821.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 821
+execute if score @s exi_playtime_h matches 822.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 822
+execute if score @s exi_playtime_h matches 823.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 823
+execute if score @s exi_playtime_h matches 824.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 824
+execute if score @s exi_playtime_h matches 825.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 825
+execute if score @s exi_playtime_h matches 826.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 826
+execute if score @s exi_playtime_h matches 827.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 827
+execute if score @s exi_playtime_h matches 828.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 828
+execute if score @s exi_playtime_h matches 829.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 829
+execute if score @s exi_playtime_h matches 830.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 830
+execute if score @s exi_playtime_h matches 831.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 831
+execute if score @s exi_playtime_h matches 832.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 832
+execute if score @s exi_playtime_h matches 833.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 833
+execute if score @s exi_playtime_h matches 834.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 834
+execute if score @s exi_playtime_h matches 835.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 835
+execute if score @s exi_playtime_h matches 836.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 836
+execute if score @s exi_playtime_h matches 837.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 837
+execute if score @s exi_playtime_h matches 838.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 838
+execute if score @s exi_playtime_h matches 839.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 839
+execute if score @s exi_playtime_h matches 840.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 840
+execute if score @s exi_playtime_h matches 841.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 841
+execute if score @s exi_playtime_h matches 842.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 842
+execute if score @s exi_playtime_h matches 843.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 843
+execute if score @s exi_playtime_h matches 844.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 844
+execute if score @s exi_playtime_h matches 845.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 845
+execute if score @s exi_playtime_h matches 846.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 846
+execute if score @s exi_playtime_h matches 847.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 847
+execute if score @s exi_playtime_h matches 848.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 848
+execute if score @s exi_playtime_h matches 849.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 849
+execute if score @s exi_playtime_h matches 850.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 850
+execute if score @s exi_playtime_h matches 851.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 851
+execute if score @s exi_playtime_h matches 852.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 852
+execute if score @s exi_playtime_h matches 853.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 853
+execute if score @s exi_playtime_h matches 854.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 854
+execute if score @s exi_playtime_h matches 855.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 855
+execute if score @s exi_playtime_h matches 856.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 856
+execute if score @s exi_playtime_h matches 857.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 857
+execute if score @s exi_playtime_h matches 858.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 858
+execute if score @s exi_playtime_h matches 859.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 859
+execute if score @s exi_playtime_h matches 860.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 860
+execute if score @s exi_playtime_h matches 861.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 861
+execute if score @s exi_playtime_h matches 862.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 862
+execute if score @s exi_playtime_h matches 863.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 863
+execute if score @s exi_playtime_h matches 864.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 864
+execute if score @s exi_playtime_h matches 865.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 865
+execute if score @s exi_playtime_h matches 866.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 866
+execute if score @s exi_playtime_h matches 867.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 867
+execute if score @s exi_playtime_h matches 868.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 868
+execute if score @s exi_playtime_h matches 869.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 869
+execute if score @s exi_playtime_h matches 870.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 870
+execute if score @s exi_playtime_h matches 871.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 871
+execute if score @s exi_playtime_h matches 872.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 872
+execute if score @s exi_playtime_h matches 873.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 873
+execute if score @s exi_playtime_h matches 874.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 874
+execute if score @s exi_playtime_h matches 875.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 875
+execute if score @s exi_playtime_h matches 876.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 876
+execute if score @s exi_playtime_h matches 877.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 877
+execute if score @s exi_playtime_h matches 878.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 878
+execute if score @s exi_playtime_h matches 879.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 879
+execute if score @s exi_playtime_h matches 880.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 880
+execute if score @s exi_playtime_h matches 881.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 881
+execute if score @s exi_playtime_h matches 882.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 882
+execute if score @s exi_playtime_h matches 883.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 883
+execute if score @s exi_playtime_h matches 884.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 884
+execute if score @s exi_playtime_h matches 885.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 885
+execute if score @s exi_playtime_h matches 886.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 886
+execute if score @s exi_playtime_h matches 887.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 887
+execute if score @s exi_playtime_h matches 888.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 888
+execute if score @s exi_playtime_h matches 889.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 889
+execute if score @s exi_playtime_h matches 890.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 890
+execute if score @s exi_playtime_h matches 891.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 891
+execute if score @s exi_playtime_h matches 892.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 892
+execute if score @s exi_playtime_h matches 893.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 893
+execute if score @s exi_playtime_h matches 894.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 894
+execute if score @s exi_playtime_h matches 895.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 895
+execute if score @s exi_playtime_h matches 896.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 896
+execute if score @s exi_playtime_h matches 897.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 897
+execute if score @s exi_playtime_h matches 898.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 898
+execute if score @s exi_playtime_h matches 899.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 899
+execute if score @s exi_playtime_h matches 900.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 900
+execute if score @s exi_playtime_h matches 901.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 901
+execute if score @s exi_playtime_h matches 902.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 902
+execute if score @s exi_playtime_h matches 903.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 903
+execute if score @s exi_playtime_h matches 904.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 904
+execute if score @s exi_playtime_h matches 905.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 905
+execute if score @s exi_playtime_h matches 906.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 906
+execute if score @s exi_playtime_h matches 907.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 907
+execute if score @s exi_playtime_h matches 908.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 908
+execute if score @s exi_playtime_h matches 909.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 909
+execute if score @s exi_playtime_h matches 910.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 910
+execute if score @s exi_playtime_h matches 911.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 911
+execute if score @s exi_playtime_h matches 912.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 912
+execute if score @s exi_playtime_h matches 913.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 913
+execute if score @s exi_playtime_h matches 914.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 914
+execute if score @s exi_playtime_h matches 915.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 915
+execute if score @s exi_playtime_h matches 916.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 916
+execute if score @s exi_playtime_h matches 917.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 917
+execute if score @s exi_playtime_h matches 918.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 918
+execute if score @s exi_playtime_h matches 919.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 919
+execute if score @s exi_playtime_h matches 920.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 920
+execute if score @s exi_playtime_h matches 921.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 921
+execute if score @s exi_playtime_h matches 922.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 922
+execute if score @s exi_playtime_h matches 923.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 923
+execute if score @s exi_playtime_h matches 924.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 924
+execute if score @s exi_playtime_h matches 925.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 925
+execute if score @s exi_playtime_h matches 926.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 926
+execute if score @s exi_playtime_h matches 927.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 927
+execute if score @s exi_playtime_h matches 928.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 928
+execute if score @s exi_playtime_h matches 929.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 929
+execute if score @s exi_playtime_h matches 930.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 930
+execute if score @s exi_playtime_h matches 931.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 931
+execute if score @s exi_playtime_h matches 932.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 932
+execute if score @s exi_playtime_h matches 933.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 933
+execute if score @s exi_playtime_h matches 934.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 934
+execute if score @s exi_playtime_h matches 935.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 935
+execute if score @s exi_playtime_h matches 936.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 936
+execute if score @s exi_playtime_h matches 937.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 937
+execute if score @s exi_playtime_h matches 938.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 938
+execute if score @s exi_playtime_h matches 939.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 939
+execute if score @s exi_playtime_h matches 940.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 940
+execute if score @s exi_playtime_h matches 941.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 941
+execute if score @s exi_playtime_h matches 942.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 942
+execute if score @s exi_playtime_h matches 943.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 943
+execute if score @s exi_playtime_h matches 944.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 944
+execute if score @s exi_playtime_h matches 945.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 945
+execute if score @s exi_playtime_h matches 946.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 946
+execute if score @s exi_playtime_h matches 947.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 947
+execute if score @s exi_playtime_h matches 948.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 948
+execute if score @s exi_playtime_h matches 949.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 949
+execute if score @s exi_playtime_h matches 950.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 950
+execute if score @s exi_playtime_h matches 951.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 951
+execute if score @s exi_playtime_h matches 952.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 952
+execute if score @s exi_playtime_h matches 953.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 953
+execute if score @s exi_playtime_h matches 954.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 954
+execute if score @s exi_playtime_h matches 955.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 955
+execute if score @s exi_playtime_h matches 956.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 956
+execute if score @s exi_playtime_h matches 957.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 957
+execute if score @s exi_playtime_h matches 958.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 958
+execute if score @s exi_playtime_h matches 959.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 959
+execute if score @s exi_playtime_h matches 960.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 960
+execute if score @s exi_playtime_h matches 961.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 961
+execute if score @s exi_playtime_h matches 962.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 962
+execute if score @s exi_playtime_h matches 963.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 963
+execute if score @s exi_playtime_h matches 964.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 964
+execute if score @s exi_playtime_h matches 965.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 965
+execute if score @s exi_playtime_h matches 966.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 966
+execute if score @s exi_playtime_h matches 967.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 967
+execute if score @s exi_playtime_h matches 968.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 968
+execute if score @s exi_playtime_h matches 969.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 969
+execute if score @s exi_playtime_h matches 970.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 970
+execute if score @s exi_playtime_h matches 971.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 971
+execute if score @s exi_playtime_h matches 972.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 972
+execute if score @s exi_playtime_h matches 973.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 973
+execute if score @s exi_playtime_h matches 974.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 974
+execute if score @s exi_playtime_h matches 975.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 975
+execute if score @s exi_playtime_h matches 976.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 976
+execute if score @s exi_playtime_h matches 977.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 977
+execute if score @s exi_playtime_h matches 978.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 978
+execute if score @s exi_playtime_h matches 979.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 979
+execute if score @s exi_playtime_h matches 980.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 980
+execute if score @s exi_playtime_h matches 981.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 981
+execute if score @s exi_playtime_h matches 982.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 982
+execute if score @s exi_playtime_h matches 983.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 983
+execute if score @s exi_playtime_h matches 984.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 984
+execute if score @s exi_playtime_h matches 985.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 985
+execute if score @s exi_playtime_h matches 986.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 986
+execute if score @s exi_playtime_h matches 987.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 987
+execute if score @s exi_playtime_h matches 988.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 988
+execute if score @s exi_playtime_h matches 989.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 989
+execute if score @s exi_playtime_h matches 990.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 990
+execute if score @s exi_playtime_h matches 991.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 991
+execute if score @s exi_playtime_h matches 992.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 992
+execute if score @s exi_playtime_h matches 993.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 993
+execute if score @s exi_playtime_h matches 994.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 994
+execute if score @s exi_playtime_h matches 995.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 995
+execute if score @s exi_playtime_h matches 996.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 996
+execute if score @s exi_playtime_h matches 997.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 997
+execute if score @s exi_playtime_h matches 998.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 998
+execute if score @s exi_playtime_h matches 999.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 999
+execute if score @s exi_playtime_h matches 1000.. run advancement grant @s only existence_smp:stats/playtime/time_concerningly_well_spent 1000

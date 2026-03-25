@@ -6,13 +6,13 @@ difficulty hard
 
 function existence_smp:uhc/schedule_clear
 
-gamerule naturalRegeneration false
-gamerule keepInventory false
-gamerule doDaylightCycle true
-gamerule doWeatherCycle true
-gamerule doFireTick true
-gamerule doMobSpawning true
-gamerule mobGriefing true
+gamerule natural_health_regeneration false
+gamerule keep_inventory false
+gamerule advance_time true
+gamerule advance_weather true
+gamerule fire_spread_radius_around_player 128
+gamerule spawn_mobs true
+gamerule mob_griefing true
 
 worldborder center -650 335
 worldborder set 3500
@@ -35,7 +35,7 @@ clear @a
 give @a minecraft:compass
 
 title @a title {"text":"Existence Community","bold":true,"color":"red"}
-title @a subtitle {"text":"9th Anniversary UHC","bold":false,"color":"gray"}
+title @a subtitle {"text":"10th Anniversary UHC","bold":false,"color":"gray"}
 
 tellraw @a ["",{"text":"Worldborder Shrinking in 20 Minutes","bold":false,"color":"red"}]
 tellraw @a ["",{"text":"Starting size ","color":"gray"},{"text":"3500 blocks wide ","color":"red"},{"text":"Shrinking to ","color":"gray"},{"text":"100 blocks wide ","color":"red"},{"text":"in ","color":"gray"},{"text":"20 Minutes","color":"red"}]

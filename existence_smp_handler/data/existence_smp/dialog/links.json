@@ -1,0 +1,91 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "translate": "gui.existence_smp.links.title",
+    "fallback": "Links"
+  },
+  "external_title": {
+    "translate": "gui.existence_smp.links.external_title",
+    "fallback": "Links..."
+  },
+  "exit_action": {
+    "label": { "translate": "gui.back" }
+  },
+  "actions": [
+    {
+      "label": {
+        "translate": "gui.existence_smp.links.map",
+        "fallback": "Online Map"
+      },
+      "action": {
+        "type": "open_url",
+        "url": "https://map.existencesmp.com"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "known_server_link.website"
+      },
+      "action": {
+        "type": "open_url",
+        "url": "https://existencesmp.com"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "known_server_link.community_guidelines"
+      },
+      "action": {
+        "type": "open_url",
+        "url": "https://existencesmp.com/rules"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.links.discord",
+        "fallback": "Discord"
+      },
+      "action": {
+        "type": "open_url",
+        "url": "https://existencesmp.com/discord"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.links.patreon",
+        "fallback": "Patreon"
+      },
+      "action": {
+        "type": "open_url",
+        "url": "https://existencesmp.com/patreon"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.links.bluesky",
+        "fallback": "Bluesky"
+      },
+      "action": {
+        "type": "open_url",
+        "url": "https://existencesmp.com/bluesky"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.links.youtube",
+        "fallback": "YouTube"
+      },
+      "action": {
+        "type": "open_url",
+        "url": "https://existencesmp.com/youtube"
+      },
+      "width": 100
+    }
+  ]
+}

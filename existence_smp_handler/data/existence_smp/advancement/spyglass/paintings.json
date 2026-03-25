@@ -24,9 +24,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:alban"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:alban"
                   }
                 }
               }
@@ -52,9 +51,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:aztec"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:aztec"
                   }
                 }
               }
@@ -80,9 +78,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:aztec2"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:aztec2"
                   }
                 }
               }
@@ -108,9 +105,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:bomb"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:bomb"
                   }
                 }
               }
@@ -136,9 +132,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:burning_skull"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:burning_skull"
                   }
                 }
               }
@@ -164,9 +159,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:bust"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:bust"
                   }
                 }
               }
@@ -192,9 +186,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:courbet"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:courbet"
                   }
                 }
               }
@@ -220,9 +213,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:creebet"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:creebet"
                   }
                 }
               }
@@ -248,9 +240,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:donkey_kong"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:donkey_kong"
                   }
                 }
               }
@@ -276,9 +267,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:earth"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:earth"
                   }
                 }
               }
@@ -304,9 +294,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:fighters"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:fighters"
                   }
                 }
               }
@@ -332,9 +321,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:fire"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:fire"
                   }
                 }
               }
@@ -360,9 +348,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:graham"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:graham"
                   }
                 }
               }
@@ -388,9 +375,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:kebab"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:kebab"
                   }
                 }
               }
@@ -416,9 +402,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:match"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:match"
                   }
                 }
               }
@@ -444,9 +429,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:pigscene"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:pigscene"
                   }
                 }
               }
@@ -472,9 +456,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:plant"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:plant"
                   }
                 }
               }
@@ -500,9 +483,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:pointer"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:pointer"
                   }
                 }
               }
@@ -528,9 +510,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:pool"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:pool"
                   }
                 }
               }
@@ -556,9 +537,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:sea"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:sea"
                   }
                 }
               }
@@ -584,9 +564,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:skeleton"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:skeleton"
                   }
                 }
               }
@@ -612,9 +591,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:skull_and_roses"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:skull_and_roses"
                   }
                 }
               }
@@ -640,9 +618,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:stage"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:stage"
                   }
                 }
               }
@@ -668,9 +645,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:sunset"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:sunset"
                   }
                 }
               }
@@ -696,9 +672,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:void"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:void"
                   }
                 }
               }
@@ -724,9 +699,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:wanderer"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:wanderer"
                   }
                 }
               }
@@ -752,9 +726,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:wasteland"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:wasteland"
                   }
                 }
               }
@@ -780,9 +753,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:water"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:water"
                   }
                 }
               }
@@ -808,9 +780,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:wind"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:wind"
                   }
                 }
               }
@@ -836,9 +807,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:wither"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:wither"
                   }
                 }
               }
@@ -864,9 +834,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:meditative"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:meditative"
                   }
                 }
               }
@@ -892,9 +861,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:prairie_ride"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:prairie_ride"
                   }
                 }
               }
@@ -920,9 +888,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:baroque"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:baroque"
                   }
                 }
               }
@@ -948,9 +915,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:humble"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:humble"
                   }
                 }
               }
@@ -976,9 +942,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:bouquet"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:bouquet"
                   }
                 }
               }
@@ -1004,9 +969,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:cavebird"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:cavebird"
                   }
                 }
               }
@@ -1032,9 +996,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:cotan"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:cotan"
                   }
                 }
               }
@@ -1060,9 +1023,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:endboss"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:endboss"
                   }
                 }
               }
@@ -1088,9 +1050,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:fern"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:fern"
                   }
                 }
               }
@@ -1116,9 +1077,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:owlemons"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:owlemons"
                   }
                 }
               }
@@ -1144,9 +1104,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:sunflowers"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:sunflowers"
                   }
                 }
               }
@@ -1172,9 +1131,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:tides"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:tides"
                   }
                 }
               }
@@ -1200,9 +1158,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:backyard"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:backyard"
                   }
                 }
               }
@@ -1228,9 +1185,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:pond"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:pond"
                   }
                 }
               }
@@ -1256,9 +1212,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:changing"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:changing"
                   }
                 }
               }
@@ -1284,9 +1239,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:finding"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:finding"
                   }
                 }
               }
@@ -1312,9 +1266,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:lowmist"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:lowmist"
                   }
                 }
               }
@@ -1340,9 +1293,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:passage"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:passage"
                   }
                 }
               }
@@ -1368,9 +1320,8 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:orb"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:orb"
                   }
                 }
               }
@@ -1396,9 +1347,35 @@
                 "type": "minecraft:player",
                 "looking_at": {
                   "type": "minecraft:painting",
-                  "type_specific": {
-                    "type": "minecraft:painting",
-                    "variant": "minecraft:unpacked"
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:unpacked"
+                  }
+                }
+              }
+            }
+          }
+        ],
+        "item": {
+          "items": [
+            "minecraft:spyglass"
+          ]
+        }
+      }
+    },
+    "dennis": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "looking_at": {
+                  "type": "minecraft:painting",
+                  "components": {
+                    "minecraft:painting/variant": "minecraft:dennis"
                   }
                 }
               }

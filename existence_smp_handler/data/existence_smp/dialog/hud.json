@@ -1,0 +1,73 @@
+{
+  "type": "minecraft:confirmation",
+  "title": {
+    "translate": "gui.existence_smp.hud.title",
+    "fallback": "HUD Settings"
+  },
+  "external_title": {
+    "translate": "gui.existence_smp.hud.external_title",
+    "fallback": "HUD Settings..."
+  },
+  "yes": {
+    "label": {
+      "translate": "gui.submit",
+      "fallback": "Submit"
+    },
+    "action": {
+      "type": "dynamic/run_command",
+      "template": "trigger hud set $(hud)"
+    }
+  },
+  "no": {
+    "label": {
+      "translate": "gui.cancel"
+    }
+  },
+  "inputs": [
+    {
+      "key": "hud",
+      "type": "minecraft:single_option",
+      "label": {
+        "translate": "gui.existence_smp.hud.display",
+        "fallback": "Display"
+      },
+      "options": [
+        {
+          "id": "-1",
+          "display": {
+            "translate": "gui.existence_smp.hud.display.off",
+            "fallback": "OFF"
+          }
+        },
+        {
+          "id": "2",
+          "display": {
+            "translate": "gui.existence_smp.hud.display.coordinates",
+            "fallback": "Coordinates"
+          }
+        },
+        {
+          "id": "4",
+          "display": {
+            "translate": "gui.existence_smp.hud.display.coordinates_light",
+            "fallback": "Coordinates (Light Text)"
+          }
+        },
+        {
+          "id": "3",
+          "display": {
+            "translate": "gui.existence_smp.hud.display.compass",
+            "fallback": "Compass"
+          }
+        },
+        {
+          "id": "5",
+          "display": {
+            "translate": "gui.existence_smp.hud.display.compass_light",
+            "fallback": "Compass (Light Text)"
+          }
+        }
+      ]
+    }
+  ]
+}

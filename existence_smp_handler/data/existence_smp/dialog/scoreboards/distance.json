@@ -1,0 +1,152 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {
+    "translate": "gui.existence_smp.scoreboards.distance.title",
+    "fallback": "Distance Scoreboards"
+  },
+  "external_title": {
+    "translate": "gui.existence_smp.scoreboards.distance.external_title",
+    "fallback": "Distance..."
+  },
+  "exit_action": {
+    "label": { "translate": "gui.back" }
+  },
+  "actions": [
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.climb",
+        "fallback": "Climbed"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_climb"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.crouch",
+        "fallback": "Crouched"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_crouch"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.sprint",
+        "fallback": "Sprinted"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_sprint"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.swim",
+        "fallback": "Swum"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_swim"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.walk",
+        "fallback": "Walked"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_walk"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "gui.existence_smp.scoreboards.boat",
+        "fallback": "Boat"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_boat"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "item.minecraft.elytra"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_elytra"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "entity.minecraft.happy_ghast"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_happy_ghast"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "entity.minecraft.horse"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_horse"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "entity.minecraft.minecart"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_minecart"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "entity.minecraft.nautilus"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_nautilus"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "entity.minecraft.pig"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_pig"
+      },
+      "width": 100
+    },
+    {
+      "label": {
+        "translate": "entity.minecraft.strider"
+      },
+      "action": {
+        "type": "run_command",
+        "command": "trigger stats_strider"
+      },
+      "width": 100
+    }
+  ]
+}

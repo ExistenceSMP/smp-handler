@@ -4,12 +4,18 @@
         "id": "iron_pickaxe"
       },
       "title": "Existence Community",
-      "description": "Welcome to the Existence SMP Community Server",
+      "description": "Welcome to Existence Community Server",
       "frame": "task",
-      "background": "minecraft:textures/block/lime_terracotta.png",
+      "background": "minecraft:block/red_terracotta",
       "show_toast": false,
-      "announce_to_chat": false,
+      "announce_to_chat": true,
       "hidden": false
+    },
+    "rewards": {
+      "function": "existence_smp:join_first",
+      "loot": [
+        "minecraft:chests/spawn_bonus_chest"
+      ]
     },
     "criteria": {
       "requirement": {

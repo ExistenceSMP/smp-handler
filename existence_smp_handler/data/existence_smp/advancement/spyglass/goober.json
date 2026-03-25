@@ -5,12 +5,12 @@
     },
     "title": "Who's Goober?",
     "description": "Who is that?",
-    "frame": "goal",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "existence_smp:spyglass/parrots",
+  "parent": "existence_smp:spyglass/llamas_with_hats",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:using_item",
@@ -24,14 +24,19 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:cat",
-                  "nbt": "{CustomName:'\"Goober\"'}"
+                  "components": {
+                    "minecraft:custom_name": "Goober",
+                    "minecraft:cat/variant": "minecraft:red"
+                  }
                 }
               }
             }
           }
         ],
         "item": {
-          "items": ["minecraft:spyglass"]
+          "items": [
+            "minecraft:spyglass"
+          ]
         }
       }
     }

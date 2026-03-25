@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "existence_smp:brush/brush_jukebox",
+  "parent": "existence_smp:brush/brush_bookshelves",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:item_used_on_block",
@@ -19,14 +19,16 @@
           {
             "condition": "minecraft:match_tool",
             "predicate": {
-              "items": ["minecraft:brush"]
+              "items": [
+                "minecraft:brush"
+              ]
             }
           },
           {
             "condition": "minecraft:location_check",
             "predicate": {
               "block": {
-                "tag": "minecraft:shulker_boxes"
+                "blocks": "#minecraft:shulker_boxes"
               }
             }
           }

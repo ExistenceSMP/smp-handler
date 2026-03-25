@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:filled_map"
+      },
+      "title": "Never Eat Soggy Weet-Bix",
+      "description": "It's not just about breakfast; it's about being ready to take on the day.",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "existence_smp:hud/weast",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

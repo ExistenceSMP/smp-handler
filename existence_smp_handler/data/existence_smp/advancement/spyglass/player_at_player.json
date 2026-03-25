@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:spyglass"
+    },
+    "title": "Ahoy-Hoy!",
+    "description": "Who Watches the Watchers?",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "existence_smp:spyglass/player",
+  "criteria": {
+    "looking_at_player": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "player": {
+          "type_specific": {
+            "type": "minecraft:player",
+            "looking_at": {
+              "type": "minecraft:player",
+              "type_specific": {
+                "type": "minecraft:player",
+                "advancements": {
+                  "existence_smp:functional/spyglass_player": true
+                },
+                "stats": []
+              }
+            }
+          }
+        },
+        "item": {
+          "items": "minecraft:spyglass"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "looking_at_player"
+    ]
+  ]
+}

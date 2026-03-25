@@ -1,0 +1,21 @@
+{
+  "parent": "existence_smp:functional/root",
+  "criteria": {
+    "spear_mob": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "killing_blow": {
+          "tags": [
+            {
+              "id": "existence_smp:is_spear",
+              "expected": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "existence_smp:advancement_check/spear_mob"
+  }
+}

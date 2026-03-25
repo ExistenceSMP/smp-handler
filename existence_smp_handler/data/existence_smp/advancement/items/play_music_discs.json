@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "existence_smp:crafting/music_disc_5",
+  "parent": "existence_smp:items/kill_chicken_jockey",
   "criteria": {
     "13": {
       "trigger": "minecraft:item_used_on_block",
@@ -406,6 +406,48 @@
             "condition": "minecraft:match_tool",
             "predicate": {
               "items": ["minecraft:music_disc_precipice"]
+            }
+          }
+        ]
+      }
+    },
+    "tears": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": ["minecraft:jukebox"]
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": ["minecraft:music_disc_tears"]
+            }
+          }
+        ]
+      }
+    },
+    "lava_chicken": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": ["minecraft:jukebox"]
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": ["minecraft:music_disc_lava_chicken"]
             }
           }
         ]

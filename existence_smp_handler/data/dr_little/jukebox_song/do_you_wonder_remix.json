@@ -1,0 +1,9 @@
+{
+  "sound_event": {
+    "sound_id": "dr_little:music_disc.do_you_wonder_remix",
+    "range": 64
+  },
+  "description": "Little - Do you wonder? (Remix)",
+  "comparator_output": 1,
+  "length_in_seconds": 183
+}

@@ -1,0 +1,9 @@
+{
+  "condition": "entity_properties",
+  "predicate": {
+    "components": {
+      "cat/variant": "existence_smp:void"
+    }
+  },
+  "entity": "this"
+}

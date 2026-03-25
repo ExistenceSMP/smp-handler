@@ -1,10 +1,14 @@
-execute as @s[name=mcpeachpies] run function existence_smp:uhc/reset
+execute as @s[name=mcpeachpies] run time set 0
+execute as @s[name=mcpeachpies] run weather clear
 
-gamemode adventure @s
+spreadplayers -650 335 300 1000 false @s[gamemode=survival]
+execute at @s run spawnpoint @s ~ ~ ~
 
-title @s title ["",{"text":"Welcome!","color":"red","bold":true}]
-title @s subtitle ["",{"text":"Existence 9th Anniversary UHC!","color":"gray"}]
+#Welcome
+title @s title [{text:""},{text:"Welcome!",color:"gray"}]
+title @s subtitle [{text:"To the ",color:"gray"},{text:"Existence Community Server!",color:"dark_red"}]
 
-execute as @a at @s run playsound minecraft:entity.player.levelup master @s
+function existence_smp:uhc/join_first
 
-execute as @s run function existence_smp:join
+function existence_smp:join
+
