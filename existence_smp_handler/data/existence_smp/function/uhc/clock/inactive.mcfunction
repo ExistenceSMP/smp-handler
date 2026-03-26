@@ -25,4 +25,4 @@ team join white @a[team=white_dead]
 tag @a[tag=alive] remove alive
 tag @a[tag=dead] remove dead
 
-spawnpoint @a -650 128 335
+spawnpoint @a 0 128 0

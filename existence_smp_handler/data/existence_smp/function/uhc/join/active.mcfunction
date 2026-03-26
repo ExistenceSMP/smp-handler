@@ -1,6 +1,6 @@
 team join Spectator @s[tag=!alive]
 gamemode spectator @s[tag=!alive]
-tp @s[gamemode=spectator] @r[tag=alive,gamemode=!spectator]
+tp @s[team=Spectator] @r[tag=alive,gamemode=!spectator]
 
 tp @s[team=black,gamemode=spectator] @r[team=black,gamemode=!spectator]
 tp @s[team=dark_blue,gamemode=spectator] @r[team=dark_blue,gamemode=!spectator]

@@ -21,7 +21,7 @@ execute if score found_player exi_uhc matches 2.. as @r[tag=exi_uhc_found_player
 execute if score team_alive exi_uhc matches 1 run function existence_smp:uhc/end/pending
 
 #DAY
-execute store result score gamerule uhc_day run gamerule doDaylightCycle
+execute store result score gamerule uhc_day run gamerule advance_time
 execute store result score current_day uhc_day run time query day
 execute store result score current_daytime uhc_day run time query daytime
 execute if score current_day uhc_day matches 6 if score gamerule uhc_day matches 1 run function existence_smp:uhc/pause_daylight_cycle

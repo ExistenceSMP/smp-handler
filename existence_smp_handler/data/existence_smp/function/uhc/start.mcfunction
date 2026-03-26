@@ -1,4 +1,4 @@
-fill -600 127 385 -700 127 285 air replace barrier
+fill 50 127 50 -50 127 -50 air replace barrier
 
 time set 0
 weather rain 1t
@@ -14,7 +14,7 @@ gamerule fire_spread_radius_around_player 128
 gamerule spawn_mobs true
 gamerule mob_griefing true
 
-worldborder center -650 335
+worldborder center 0 0
 worldborder set 3500
 worldborder warning distance 100
 schedule function existence_smp:uhc/worldborder/shrink 1200s
@@ -22,8 +22,8 @@ schedule function existence_smp:uhc/worldborder/shrink 1200s
 tag @a[gamemode=!spectator] add alive
 
 #SPREADPLAYERS
-spreadplayers -650 335 300 1750 true @a[tag=alive,team=!Default]
-spreadplayers -650 335 300 1750 false @a[team=Default]
+spreadplayers 0 0 300 1750 true @a[tag=alive,team=!Default]
+spreadplayers 0 0 300 1750 false @a[team=Default]
 
 execute as @a[tag=alive,team=!Default] at @s run spreadplayers ~ ~ 10 11 false @s
 execute as @a[team=Spectator] run tp @s @r[tag=alive]
@@ -39,7 +39,7 @@ title @a subtitle {"text":"10th Anniversary UHC","bold":false,"color":"gray"}
 
 tellraw @a ["",{"text":"Worldborder Shrinking in 20 Minutes","bold":false,"color":"red"}]
 tellraw @a ["",{"text":"Starting size ","color":"gray"},{"text":"3500 blocks wide ","color":"red"},{"text":"Shrinking to ","color":"gray"},{"text":"100 blocks wide ","color":"red"},{"text":"in ","color":"gray"},{"text":"20 Minutes","color":"red"}]
-tellraw @a ["",{"text":"Centered on ","color":"gray"},{"text":"-650, 335","color":"red"}]
+tellraw @a ["",{"text":"Centered on ","color":"gray"},{"text":"0, 0","color":"red"}]
 tellraw @a ["",{"text":"Friendly Fire ","color":"gray"},{"text":"Disabled","color":"green"}]
 tellraw @a ["",{"text":"Gamemode ","color":"gray"},{"text":"It Takes Three","color":"green"}]
 

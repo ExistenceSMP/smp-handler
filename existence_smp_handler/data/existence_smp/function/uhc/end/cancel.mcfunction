@@ -2,7 +2,7 @@ scoreboard players set active exi_uhc 1
 
 tellraw @a ["",{"text":"Victory ","color":"gray"},{"text":"Cancelled","color":"red"}]
 
-gamerule keepInventory false
+gamerule keep_inventory false
 gamemode survival @a[tag=alive]
 execute as @a run playsound minecraft:entity.arrow.hit_player master @s
 

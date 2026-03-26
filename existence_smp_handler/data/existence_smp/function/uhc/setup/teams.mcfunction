@@ -38,6 +38,8 @@ team remove yellow_dead
 team remove white_dead
 
 #HANDLDER CLEAR
+team remove Trusted
+
 team remove Patron
 team remove SupportPatron
 

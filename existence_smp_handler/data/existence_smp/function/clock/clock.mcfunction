@@ -1,3 +1,6 @@
+#UHC
+function existence_smp:uhc/clock/clock
+
 #Warden Stats
 execute as @a run function existence_smp:deep_dark/warden
 

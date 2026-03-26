@@ -12,10 +12,9 @@ difficulty hard
 function existence_smp:setup/teams/load
 function existence_smp:setup/scoreboards
 function existence_smp:clock/clock
+function existence_smp:uhc/setup/run
 
 scoreboard objectives remove exi_handler
-
-function existence_smp:uhc/setup/run
 
 #CONFRIMATION
 scoreboard players set setup exi_setup 1

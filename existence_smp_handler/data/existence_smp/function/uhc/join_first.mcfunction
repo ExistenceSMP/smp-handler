@@ -6,3 +6,4 @@ title @s title ["",{"text":"Welcome!","color":"red","bold":true}]
 title @s subtitle ["",{"text":"Existence 10th Anniversary UHC!","color":"gray"}]
 
 execute as @a at @s run playsound minecraft:entity.player.levelup master @s
+clear @s

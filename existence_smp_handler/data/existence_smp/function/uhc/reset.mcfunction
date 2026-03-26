@@ -1,4 +1,4 @@
-fill -600 127 385 -700 127 285 barrier replace air
+fill 50 127 50 -50 127 -50 barrier replace air
 
 time set day
 weather clear
@@ -14,12 +14,12 @@ gamerule fire_spread_radius_around_player 0
 gamerule spawn_mobs false
 gamerule mob_griefing false
 
-worldborder center -650 335
+worldborder center 0 0
 worldborder set 100
 worldborder warning distance 0
 function existence_smp:uhc/schedule_clear
 
-spreadplayers -650 335 5 24 false @a
+spreadplayers 0 0 5 24 false @a
 gamemode adventure @a
 effect clear @a
 
