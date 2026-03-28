@@ -6,6 +6,7 @@ gamerule minecraft:ender_pearls_vanish_on_death true
 gamerule minecraft:fire_spread_radius_around_player 128
 gamerule locator_bar false
 
+forceload add 50 50 -50 -50
 setworldspawn 0 64 0
 
 function existence_smp:uhc/reset
@@ -14,5 +15,5 @@ function existence_smp:uhc/setup/teams
 
 #CONFRIMATION
 
-tellraw @a[tag=Support] ["",{"text":"Ran Setup for ","color":"gray"},{"text":"Existence SMP UHC Handler","italic":true,"color":"dark_red","clickEvent":{"action":"open_url","value":"https://existencesmp.com"},"hoverEvent":{"action":"show_text","contents":["",{"text":"existencesmp.com","color":"gray"}]}}]
+tellraw @a ["",{"text":"Ran Setup for ","color":"gray"},{"text":"Existence SMP UHC Handler","italic":true,"color":"dark_red","clickEvent":{"action":"open_url","value":"https://existencesmp.com"},"hoverEvent":{"action":"show_text","contents":["",{"text":"existencesmp.com","color":"gray"}]}}]
 
