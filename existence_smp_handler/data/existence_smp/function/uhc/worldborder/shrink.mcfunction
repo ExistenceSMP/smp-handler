@@ -1,6 +1,6 @@
 schedule clear existence_smp:uhc/worldborder/shrink
-worldborder set 100 7200
-worldborder warning time 120
+worldborder set 100 7200s
+worldborder warning time 120s
 
 title @a title {"text":"Worldborder","bold":true,"color":"red"}
 title @a subtitle ["",{"text":"Shrinking","bold":true,"color":"red"}]

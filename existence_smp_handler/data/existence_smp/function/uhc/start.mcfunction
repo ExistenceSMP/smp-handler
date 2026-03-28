@@ -12,6 +12,7 @@ gamerule advance_time true
 gamerule advance_weather true
 gamerule fire_spread_radius_around_player 128
 gamerule spawn_mobs true
+gamerule spawn_monsters true
 gamerule mob_griefing true
 
 worldborder center 0 0
