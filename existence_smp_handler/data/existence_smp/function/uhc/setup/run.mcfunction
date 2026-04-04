@@ -6,8 +6,8 @@ gamerule minecraft:ender_pearls_vanish_on_death true
 gamerule minecraft:fire_spread_radius_around_player 128
 gamerule locator_bar false
 
-forceload add 50 50 -50 -50
-setworldspawn 0 64 0
+forceload add -306 -175 -406 -275
+setworldspawn -356 128 -225
 
 function existence_smp:uhc/reset
 function existence_smp:uhc/setup/scoreboards
