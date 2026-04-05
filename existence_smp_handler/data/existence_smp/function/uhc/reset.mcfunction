@@ -14,6 +14,7 @@ gamerule fire_spread_radius_around_player 0
 gamerule spawn_mobs false
 gamerule spawn_monsters false
 gamerule mob_griefing false
+gamerule locator_bar true
 
 worldborder center -356 -225
 worldborder set 100
@@ -21,6 +22,7 @@ worldborder warning distance 0
 function existence_smp:uhc/schedule_clear
 
 spreadplayers -356 -225 5 24 false @a
+spawnpoint @a -356 128 -225
 gamemode adventure @a
 effect clear @a
 

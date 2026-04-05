@@ -1,4 +1,4 @@
-spreadplayers 0 0 5 24 true @s
+spreadplayers -356 -225 5 24 true @s
 gamemode adventure @s
 
 tag @a[tag=alive] remove alive

@@ -14,6 +14,7 @@ gamerule fire_spread_radius_around_player 128
 gamerule spawn_mobs true
 gamerule spawn_monsters true
 gamerule mob_griefing true
+gamerule locator_bar false
 
 worldborder center -356 -225
 worldborder set 3500

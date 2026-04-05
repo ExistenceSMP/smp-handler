@@ -4,7 +4,7 @@ gamerule minecraft:respawn_radius 50
 gamerule minecraft:spectators_generate_chunks true
 gamerule minecraft:ender_pearls_vanish_on_death true
 gamerule minecraft:fire_spread_radius_around_player 128
-gamerule locator_bar false
+gamerule minecraft:locator_bar false
 
 forceload add -306 -175 -406 -275
 setworldspawn -356 128 -225
