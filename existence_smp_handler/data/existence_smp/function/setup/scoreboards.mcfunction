@@ -227,4 +227,6 @@ scoreboard objectives modify patron_color displayname {"text":"Patron Name Color
 scoreboard objectives modify exi_uptime displayname {"text":"⌚ Server Uptime","color":"gray"}
 scoreboard objectives modify exi_entity_count displayname {"text":"Entity Counts","color":"gray"}
 
+function existence_smp:uhc/setup/scoreboards
+
 tellraw @a[tag=Support] ["",{"text":"Updated Scoreboards","color":"gray"}]

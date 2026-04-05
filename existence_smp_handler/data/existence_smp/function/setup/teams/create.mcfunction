@@ -83,14 +83,14 @@ team join Patron ArtGnat
 team join Patron Bananabubble
 team join Patron Change24
 team join Patron Demi_Wrath
-team join SupportPatron Dr_Little
+#team join Patron Dr_Little
 team join Patron EarthySand25957
 team join Patron EvieRemi
 team join Patron Faeolin_WildElf
 team join Patron Flaxxyy
 team join Patron Ha2222
-#team join SupportPatron igalaxy
-team join Patron igalaxy
+#team join Patron igalaxy
+#team join Patron ItsPurpleJay
 team join Patron KSores
 team join Patron marcoiscool
 team join Patron mcnugggzs
@@ -103,9 +103,12 @@ team join Patron Yoglington
 
 team join Spectator ExistenceSMP
 team join Support mcpeachpies
-team join Support ItsPurpleJay
+#team join Support ItsPurpleJay
+team join SupportPatron ItsPurpleJay
 #team join Support Dr_Little
+team join SupportPatron Dr_Little
 #team join Support igalaxy
+team join SupportPatron igalaxy
 team join Support kindabland
 
 function existence_smp:setup/teams/clean

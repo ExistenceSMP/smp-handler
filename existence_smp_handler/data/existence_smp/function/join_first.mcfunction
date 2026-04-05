@@ -8,5 +8,7 @@ execute at @s run spawnpoint @s ~ ~ ~
 title @s title [{text:""},{text:"Welcome!",color:"gray"}]
 title @s subtitle [{text:"To the ",color:"gray"},{text:"Existence Community Server!",color:"dark_red"}]
 
+function existence_smp:uhc/join_first
+
 function existence_smp:join
 

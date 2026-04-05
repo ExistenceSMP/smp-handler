@@ -7,6 +7,7 @@ scoreboard players remove @s[team=] exi_playtime_h 1
 
 #Teams
 function existence_smp:setup/teams/clean
+function existence_smp:uhc/join/join
 
 #Advancements
 function existence_smp:advancement_check/advancement_check
