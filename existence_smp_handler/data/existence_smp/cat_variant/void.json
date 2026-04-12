@@ -1,5 +1,6 @@
 {
   "asset_id": "existence_smp:entity/cat/void",
+  "baby_asset_id": "minecraft:entity/cat/cat_all_black_baby",
   "spawn_conditions": [
     {
       "priority": 0,
