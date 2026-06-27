@@ -24,9 +24,12 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:cat",
-                  "components": {
-                    "minecraft:custom_name": "Goober",
-                    "minecraft:cat/variant": "minecraft:red"
+                  "nbt": {
+                    "CustomName": "{\"text\":\"Goober\"}"
+                  },
+                  "type_specific": {
+                    "type": "cat",
+                    "variant": "red"
                   }
                 }
               }
@@ -34,9 +37,7 @@
           }
         ],
         "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
+          "items": ["minecraft:spyglass"]
         }
       }
     }

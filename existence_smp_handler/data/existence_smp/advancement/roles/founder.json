@@ -1,19 +1,19 @@
 {
-    "display": {
-      "icon": {
-        "id": "wooden_pickaxe"
-      },
-      "title": "Founder",
-      "description": "Join during the first month of the Community Server",
-      "frame": "goal",
-      "show_toast": true,
-      "announce_to_chat": false,
-      "hidden": true
+  "display": {
+    "icon": {
+      "id": "create:wrench"
     },
-    "parent": "existence_smp:root_events_roles",
-    "criteria": {
-      "requirement": {
-        "trigger": "minecraft:impossible"
-      }
+    "title": "Founder",
+    "description": "Join during the first month of Project Create 2",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "existence_smp:root_events_roles",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
     }
   }
+}

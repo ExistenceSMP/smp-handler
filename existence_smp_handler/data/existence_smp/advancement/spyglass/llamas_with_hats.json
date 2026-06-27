@@ -29,8 +29,9 @@
                       "items": "minecraft:lime_carpet"
                     }
                   },
-                  "components": {
-                    "minecraft:llama/variant": "gray"
+                  "type_specific": {
+                    "type": "minecraft:llama",
+                    "variant": "gray"
                   }
                 }
               }
@@ -38,9 +39,7 @@
           }
         ],
         "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
+          "items": ["minecraft:spyglass"]
         }
       }
     },
@@ -61,8 +60,9 @@
                       "items": "minecraft:red_carpet"
                     }
                   },
-                  "components": {
-                    "minecraft:llama/variant": "creamy"
+                  "type_specific": {
+                    "type": "minecraft:llama",
+                    "variant": "creamy"
                   }
                 }
               }
@@ -70,9 +70,7 @@
           }
         ],
         "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
+          "items": ["minecraft:spyglass"]
         }
       }
     }

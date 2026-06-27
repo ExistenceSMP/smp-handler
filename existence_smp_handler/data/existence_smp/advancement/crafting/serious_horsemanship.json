@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:netherite_horse_armor"
+      "id": "caverns_and_chasms:netherite_horse_armor"
     },
     "title": "Serious Horsemanship",
     "description": "Use a Netherite Ingot to upgrade Horse Armor, and then reevaluate your horse choices",
@@ -16,7 +16,7 @@
       "conditions": {
         "items": [
           {
-            "items": "minecraft:netherite_horse_armor"
+            "items": "caverns_and_chasms:netherite_horse_armor"
           }
         ]
       },

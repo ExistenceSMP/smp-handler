@@ -24,8 +24,9 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "components": {
-                    "minecraft:parrot/variant": "red_blue"
+                  "type_specific": {
+                    "type": "parrot",
+                    "variant": "red_blue"
                   }
                 }
               }
@@ -33,9 +34,7 @@
           }
         ],
         "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
+          "items": ["minecraft:spyglass"]
         }
       }
     },
@@ -51,8 +50,9 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "components": {
-                    "minecraft:parrot/variant": "blue"
+                  "type_specific": {
+                    "type": "parrot",
+                    "variant": "blue"
                   }
                 }
               }
@@ -60,9 +60,7 @@
           }
         ],
         "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
+          "items": ["minecraft:spyglass"]
         }
       }
     },
@@ -78,8 +76,9 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "components": {
-                    "minecraft:parrot/variant": "green"
+                  "type_specific": {
+                    "type": "parrot",
+                    "variant": "green"
                   }
                 }
               }
@@ -87,9 +86,7 @@
           }
         ],
         "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
+          "items": ["minecraft:spyglass"]
         }
       }
     },
@@ -105,8 +102,9 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "components": {
-                    "minecraft:parrot/variant": "yellow_blue"
+                  "type_specific": {
+                    "type": "parrot",
+                    "variant": "yellow_blue"
                   }
                 }
               }
@@ -114,9 +112,7 @@
           }
         ],
         "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
+          "items": ["minecraft:spyglass"]
         }
       }
     },
@@ -132,8 +128,9 @@
                 "type": "player",
                 "looking_at": {
                   "type": "minecraft:parrot",
-                  "components": {
-                    "minecraft:parrot/variant": "gray"
+                  "type_specific": {
+                    "type": "parrot",
+                    "variant": "gray"
                   }
                 }
               }
@@ -141,9 +138,7 @@
           }
         ],
         "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
+          "items": ["minecraft:spyglass"]
         }
       }
     },
@@ -166,9 +161,7 @@
           }
         ],
         "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
+          "items": ["minecraft:spyglass"]
         }
       }
     },
@@ -186,18 +179,13 @@
                   "type": "minecraft:player",
                   "equipment": {
                     "head": {
-                      "items": [
-                        "minecraft:player_head"
-                      ],
+                      "items": ["minecraft:player_head"],
                       "count": 1,
                       "components": {
                         "minecraft:profile": {
                           "name": "ItsPurpleJay",
                           "id": [
-                            -1461977708,
-                            1605713966,
-                            -1894269338,
-                            1979621609
+                            -1461977708, 1605713966, -1894269338, 1979621609
                           ],
                           "properties": [
                             {
@@ -216,32 +204,17 @@
           }
         ],
         "item": {
-          "items": [
-            "minecraft:spyglass"
-          ]
+          "items": ["minecraft:spyglass"]
         }
       }
     }
   },
   "requirements": [
-    [
-      "red"
-    ],
-    [
-      "green"
-    ],
-    [
-      "blue"
-    ],
-    [
-      "cyan"
-    ],
-    [
-      "silver"
-    ],
-    [
-      "itspurplejay",
-      "itspurplejay_head"
-    ]
+    ["red"],
+    ["green"],
+    ["blue"],
+    ["cyan"],
+    ["silver"],
+    ["itspurplejay", "itspurplejay_head"]
   ]
 }

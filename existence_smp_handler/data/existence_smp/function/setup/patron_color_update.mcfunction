@@ -68,8 +68,8 @@ execute as @s[tag=Patron,tag=Support] if score @s exi_patron_color matches 17 ru
 #execute as @s[tag=Patron,tag=Support] if score @s exi_patron_color matches 17 run tellraw @s[tag=!mpp_afk] ["",{"text":"Error: Sorry! White is reserved for other uses.","color":"red"}]
 #execute as @s[tag=Patron,tag=Support] if score @s exi_patron_color matches 17 run scoreboard players set @s exi_patron_color 0
 
-execute if score @s exi_patron_color matches 2..17 run tellraw @s[tag=!mpp_afk] ["",{text:"Name color updated to: ",color:"gray"},{text:"<",color:"white"},{selector:"@s"},{text:">"}]
-execute if score @s exi_patron_color matches -1 run tellraw @s[tag=!mpp_afk] ["",{text:"Name color reset to: ",color:"gray"},{text:"<",color:"white"},{selector:"@s"},{text:">"}]
+execute if score @s exi_patron_color matches 2..17 run tellraw @s[tag=!mpp_afk] ["",{"text":"Name color updated to: ","color":"gray"},{"text":"<","color":"white"},{"selector":"@s"},{"text":">"}]
+execute if score @s exi_patron_color matches -1 run tellraw @s[tag=!mpp_afk] ["",{"text":"Name color reset to: ","color":"gray"},{"text":"<","color":"white"},{"selector":"@s"},{"text":">"}]
 
 execute if score @s exi_patron_color matches -1 run scoreboard players set @s exi_patron_color 0
 execute if score @s exi_patron_color matches 2..17 run advancement grant @s only existence_smp:roles/world_of_color

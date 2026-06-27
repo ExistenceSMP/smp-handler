@@ -1,19 +1,19 @@
 {
-    "display": {
-      "icon": {
-        "id": "minecraft:red_terracotta"
-      },
-      "title": "Existence Events & Roles",
-      "description": "Be a Trusted member of the Existence Community",
-      "frame": "task",
-      "background": "minecraft:block/red_terracotta",
-      "show_toast": false,
-      "announce_to_chat": false,
-      "hidden": false
+  "display": {
+    "icon": {
+      "id": "dye_depot:aqua_terracotta"
     },
-    "criteria": {
-      "requirement": {
-        "trigger": "minecraft:tick"
-      }
+    "title": "Existence Events & Roles",
+    "description": "Be a Trusted member of the Existence Community",
+    "frame": "task",
+    "background": "dye_depot:block/aqua_terracotta",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
     }
   }
+}

@@ -30,17 +30,6 @@ scoreboard objectives add exi_warden_ticks dummy
 scoreboard objectives add exi_warden_count dummy
 scoreboard objectives add exi_warden_kill minecraft.killed:minecraft.warden
 
-#Spear
-scoreboard objectives add exi_spear_count dummy
-
-#Happy Ghast
-scoreboard objectives add exi_happy_ghast_c minecraft.custom:minecraft.happy_ghast_one_cm
-scoreboard objectives add exi_happy_ghast_km dummy
-
-#Nautilus
-scoreboard objectives add exi_nautilus_c minecraft.custom:minecraft.nautilus_one_cm
-scoreboard objectives add exi_nautilus_km dummy
-
 #Sprint
 scoreboard objectives add exi_sprint_c minecraft.custom:minecraft.sprint_one_cm
 scoreboard objectives add exi_sprint_km dummy
@@ -97,10 +86,7 @@ scoreboard objectives add stats_afk_total trigger
 scoreboard objectives add stats_sleep_total trigger
 scoreboard objectives add stats_wardens_killed trigger
 scoreboard objectives add stats_wardens_summoned trigger
-scoreboard objectives add stats_spear trigger
-scoreboard objectives add stats_happy_ghast trigger
 scoreboard objectives add stats_dried_ghast trigger
-scoreboard objectives add stats_nautilus trigger
 scoreboard objectives add stats_sprint trigger
 scoreboard objectives add stats_walk trigger
 scoreboard objectives add stats_swim trigger
@@ -166,12 +152,7 @@ scoreboard objectives modify exi_warden_ticks displayname {"text":"🗡 Time Sin
 scoreboard objectives modify exi_warden_count displayname {"text":"🗡 Total Wardens Summoned","color":"gray"}
 scoreboard objectives modify exi_warden_kill displayname {"text":"🗡 Total Wardens Killed","color":"gray"}
 
-scoreboard objectives modify exi_spear_count displayname {"text":"🍢 Total Mobs Speared",color:"gray"}
-
-scoreboard objectives modify exi_happy_ghast_km displayname {"text":"👻 Happy Ghast Distance (Kilometers)","color":"gray"}
 scoreboard objectives modify exi_craft_dried_ghast displayname {"text":"👻 Dried Ghasts Crafted","color":"gray"}
-
-scoreboard objectives modify exi_nautilus_km displayname {"text":"🐚 Nautilus Distance (Kilometers)","color":"gray"}
 
 scoreboard objectives modify exi_sprint_km displayname {"text":"🏃 Distance Sprinted (Kilometers)","color":"gray"}
 
@@ -205,8 +186,6 @@ scoreboard objectives modify stats_afk_total displayname {"text":"Total AFK Time
 scoreboard objectives modify stats_sleep_total displayname {"text":"Total Nights Slept","color":"gray"}
 scoreboard objectives modify stats_wardens_killed displayname {"text":"Total Wardens Killed","color":"gray"}
 scoreboard objectives modify stats_wardens_summoned displayname {"text":"Total Wardens Summoned","color":"gray"}
-scoreboard objectives modify stats_spear displayname {"text":"Total Mobs Speared","color":"gray"}
-scoreboard objectives modify stats_happy_ghast displayname {"text":"Happy Ghast Distance","color":"gray"}
 scoreboard objectives modify stats_dried_ghast displayname {"text":"Dried Ghasts Crafted","color":"gray"}
 scoreboard objectives modify stats_sprint displayname {"text":"Distance Sprinted","color":"gray"}
 scoreboard objectives modify stats_walk displayname {"text":"Distance Walked","color":"gray"}
@@ -226,7 +205,5 @@ scoreboard objectives modify patron_color displayname {"text":"Patron Name Color
 #Misc
 scoreboard objectives modify exi_uptime displayname {"text":"⌚ Server Uptime","color":"gray"}
 scoreboard objectives modify exi_entity_count displayname {"text":"Entity Counts","color":"gray"}
-
-function existence_smp:uhc/setup/scoreboards
 
 tellraw @a[tag=Support] ["",{"text":"Updated Scoreboards","color":"gray"}]
