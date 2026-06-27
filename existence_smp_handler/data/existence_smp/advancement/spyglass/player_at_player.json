@@ -16,16 +16,17 @@
       "trigger": "minecraft:using_item",
       "conditions": {
         "player": {
-          "type_specific": {
-            "type": "minecraft:player",
+          "minecraft:type_specific/player": {
             "looking_at": {
-              "type": "minecraft:player",
-              "type_specific": {
-                "type": "minecraft:player",
-                "advancements": {
-                  "existence_smp:functional/spyglass_player": true
-                },
-                "stats": []
+              "minecraft:entity_type": "minecraft:player",
+              "minecraft:type_specific/player": {
+                "looking_at": {
+                  "minecraft:type_specific/player": {
+                    "looking_at": {
+                      "minecraft:entity_type": "minecraft:player"
+                    }
+                  }
+                }
               }
             }
           }

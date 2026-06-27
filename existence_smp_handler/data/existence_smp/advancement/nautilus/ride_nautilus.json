@@ -17,7 +17,7 @@
       "conditions": {
         "player": {
           "vehicle": {
-            "type": "minecraft:nautilus"
+            "minecraft:entity_type": "minecraft:nautilus"
           }
         }
       }

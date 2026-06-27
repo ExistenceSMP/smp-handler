@@ -20,7 +20,7 @@
             "dimension": "minecraft:the_end"
           },
           "vehicle": {
-            "type": "minecraft:happy_ghast"
+            "minecraft:entity_type": "minecraft:happy_ghast"
           }
         }
       }

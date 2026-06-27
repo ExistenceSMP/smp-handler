@@ -5,8 +5,8 @@
       "condition": "minecraft:entity_properties",
       "entity": "this",
       "predicate": {
-        "type": "minecraft:cat",
-        "location": {
+        "minecraft:entity_type": "minecraft:cat",
+        "minecraft:location": {
           "position": {
             "y": {
               "min": -128,
@@ -21,8 +21,8 @@
       "condition": "minecraft:entity_properties",
       "entity": "this",
       "predicate": {
-        "type": "minecraft:cat",
-        "location": {
+        "minecraft:entity_type": "minecraft:cat",
+        "minecraft:location": {
           "position": {
             "y": {
               "min": -64,

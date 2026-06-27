@@ -20,17 +20,15 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:llama",
-                  "equipment": {
+                  "minecraft:components": {
+                    "minecraft:llama/variant": "gray"
+                  },
+                  "minecraft:equipment": {
                     "body": {
                       "items": "minecraft:lime_carpet"
                     }
-                  },
-                  "components": {
-                    "minecraft:llama/variant": "gray"
                   }
                 }
               }
@@ -52,17 +50,15 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:llama",
-                  "equipment": {
+                  "minecraft:components": {
+                    "minecraft:llama/variant": "creamy"
+                  },
+                  "minecraft:equipment": {
                     "body": {
                       "items": "minecraft:red_carpet"
                     }
-                  },
-                  "components": {
-                    "minecraft:llama/variant": "creamy"
                   }
                 }
               }
