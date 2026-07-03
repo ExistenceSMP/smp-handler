@@ -20,11 +20,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:alban"
                   }
                 }
@@ -47,11 +46,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:aztec"
                   }
                 }
@@ -74,11 +72,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:aztec2"
                   }
                 }
@@ -101,11 +98,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:bomb"
                   }
                 }
@@ -128,11 +124,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:burning_skull"
                   }
                 }
@@ -155,11 +150,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:bust"
                   }
                 }
@@ -182,11 +176,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:courbet"
                   }
                 }
@@ -209,11 +202,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:creebet"
                   }
                 }
@@ -236,11 +228,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:donkey_kong"
                   }
                 }
@@ -263,11 +254,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:earth"
                   }
                 }
@@ -290,11 +280,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:fighters"
                   }
                 }
@@ -317,11 +306,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:fire"
                   }
                 }
@@ -344,11 +332,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:graham"
                   }
                 }
@@ -371,11 +358,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:kebab"
                   }
                 }
@@ -398,11 +384,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:match"
                   }
                 }
@@ -425,11 +410,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:pigscene"
                   }
                 }
@@ -452,11 +436,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:plant"
                   }
                 }
@@ -479,11 +462,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:pointer"
                   }
                 }
@@ -506,11 +488,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:pool"
                   }
                 }
@@ -533,11 +514,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:sea"
                   }
                 }
@@ -560,11 +540,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:skeleton"
                   }
                 }
@@ -587,11 +566,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:skull_and_roses"
                   }
                 }
@@ -614,11 +592,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:stage"
                   }
                 }
@@ -641,11 +618,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:sunset"
                   }
                 }
@@ -668,11 +644,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:void"
                   }
                 }
@@ -695,11 +670,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:wanderer"
                   }
                 }
@@ -722,11 +696,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:wasteland"
                   }
                 }
@@ -749,11 +722,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:water"
                   }
                 }
@@ -776,11 +748,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:wind"
                   }
                 }
@@ -803,11 +774,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:wither"
                   }
                 }
@@ -830,11 +800,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:meditative"
                   }
                 }
@@ -857,11 +826,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:prairie_ride"
                   }
                 }
@@ -884,11 +852,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:baroque"
                   }
                 }
@@ -911,11 +878,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:humble"
                   }
                 }
@@ -938,11 +904,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:bouquet"
                   }
                 }
@@ -965,11 +930,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:cavebird"
                   }
                 }
@@ -992,11 +956,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:cotan"
                   }
                 }
@@ -1019,11 +982,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:endboss"
                   }
                 }
@@ -1046,11 +1008,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:fern"
                   }
                 }
@@ -1073,11 +1034,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:owlemons"
                   }
                 }
@@ -1100,11 +1060,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:sunflowers"
                   }
                 }
@@ -1127,11 +1086,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:tides"
                   }
                 }
@@ -1154,11 +1112,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:backyard"
                   }
                 }
@@ -1181,11 +1138,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:pond"
                   }
                 }
@@ -1208,11 +1164,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:changing"
                   }
                 }
@@ -1235,11 +1190,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:finding"
                   }
                 }
@@ -1262,11 +1216,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:lowmist"
                   }
                 }
@@ -1289,11 +1242,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:passage"
                   }
                 }
@@ -1316,11 +1268,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:orb"
                   }
                 }
@@ -1343,11 +1294,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:unpacked"
                   }
                 }
@@ -1370,11 +1320,10 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "minecraft:player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:painting",
-                  "components": {
+                  "minecraft:entity_type": "minecraft:painting",
+                  "minecraft:components": {
                     "minecraft:painting/variant": "minecraft:dennis"
                   }
                 }

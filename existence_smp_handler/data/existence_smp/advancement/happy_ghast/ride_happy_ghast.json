@@ -17,7 +17,7 @@
       "conditions": {
         "player": {
           "vehicle": {
-            "type": "minecraft:happy_ghast"
+            "minecraft:entity_type": "minecraft:happy_ghast"
           }
         }
       }

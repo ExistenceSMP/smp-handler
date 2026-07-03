@@ -20,13 +20,12 @@
             "condition": "minecraft:entity_properties",
             "entity": "this",
             "predicate": {
-              "type_specific": {
-                "type": "player",
+              "minecraft:type_specific/player": {
                 "looking_at": {
-                  "type": "minecraft:cat",
-                  "components": {
-                    "minecraft:custom_name": "Goober",
-                    "minecraft:cat/variant": "minecraft:red"
+                  "minecraft:entity_type": "minecraft:cat",
+                  "minecraft:components": {
+                    "minecraft:cat/variant": "minecraft:red",
+                    "minecraft:custom_name": "Goober"
                   }
                 }
               }

@@ -16,12 +16,12 @@
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": {
-          "type": "minecraft:zombie",
+          "minecraft:entity_type": "minecraft:zombie",
           "flags": {
             "is_baby": true
           },
           "vehicle": {
-            "type": "minecraft:chicken"
+            "minecraft:entity_type": "minecraft:chicken"
           }
         }
       }
