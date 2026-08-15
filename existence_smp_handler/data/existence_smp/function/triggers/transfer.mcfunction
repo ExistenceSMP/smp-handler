@@ -4,5 +4,5 @@ execute if entity @s[gamemode=creative] run tellraw @a ["",{"text":"Transferring
 advancement grant @s only existence_smp:misc/transfer
 scoreboard players set @s transfer 0
 
-execute if entity @s[gamemode=survival] run transfer server.existencesmp.com 25567
-execute if entity @s[gamemode=creative] run transfer server.existencesmp.com 25565
+execute if entity @s[gamemode=survival] run transfer 66.59.211.188 25567
+execute if entity @s[gamemode=creative] run transfer 66.59.211.188 25565
