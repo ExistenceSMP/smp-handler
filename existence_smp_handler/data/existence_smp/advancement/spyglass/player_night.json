@@ -15,31 +15,34 @@
     "requirement": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:time_check",
-            "clock": "minecraft:overworld",
-            "value": {
-              "min": 13000,
-              "max": 24000
-            },
-            "period": 24000
-          },
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:player"
-                }
+        "player": {
+          "type": "minecraft:all_of",
+          "terms": [
+            {
+              "type": "minecraft:time_check",
+              "clock": "minecraft:overworld",
+              "value": {
+                "min": 13000,
+                "max": 24000
               },
-              "minecraft:effects": {
-                "minecraft:night_vision": {}
+              "period": 24000
+            },
+            {
+              "type": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "minecraft:type_specific/player": {
+                  "looking_at": {
+                    "minecraft:entity_type": "minecraft:player"
+                  }
+                },
+                "minecraft:effects": {
+                  "minecraft:night_vision": {}
+                }
               }
             }
-          }
-        ],
+          ]
+        },
         "item": {
           "items": [
             "minecraft:spyglass"

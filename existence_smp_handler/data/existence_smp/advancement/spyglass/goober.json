@@ -15,23 +15,21 @@
     "requirement": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:cat",
-                  "minecraft:components": {
-                    "minecraft:cat/variant": "minecraft:red",
-                    "minecraft:custom_name": "Goober"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:cat",
+                "minecraft:components": {
+                  "minecraft:cat/variant": "minecraft:red",
+                  "minecraft:custom_name": "Goober"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"

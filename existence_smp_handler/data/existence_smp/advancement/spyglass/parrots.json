@@ -15,22 +15,20 @@
     "red": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:parrot",
-                  "minecraft:components": {
-                    "minecraft:parrot/variant": "red_blue"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:parrot",
+                "minecraft:components": {
+                  "minecraft:parrot/variant": "red_blue"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -41,22 +39,20 @@
     "blue": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:parrot",
-                  "minecraft:components": {
-                    "minecraft:parrot/variant": "blue"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:parrot",
+                "minecraft:components": {
+                  "minecraft:parrot/variant": "blue"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -67,22 +63,20 @@
     "green": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:parrot",
-                  "minecraft:components": {
-                    "minecraft:parrot/variant": "green"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:parrot",
+                "minecraft:components": {
+                  "minecraft:parrot/variant": "green"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -93,22 +87,20 @@
     "cyan": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:parrot",
-                  "minecraft:components": {
-                    "minecraft:parrot/variant": "yellow_blue"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:parrot",
+                "minecraft:components": {
+                  "minecraft:parrot/variant": "yellow_blue"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -119,22 +111,20 @@
     "silver": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:parrot",
-                  "minecraft:components": {
-                    "minecraft:parrot/variant": "gray"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:parrot",
+                "minecraft:components": {
+                  "minecraft:parrot/variant": "gray"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"

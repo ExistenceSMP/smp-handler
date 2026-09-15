@@ -1,5 +1,5 @@
 {
-  "condition": "entity_properties",
+  "type": "entity_properties",
   "predicate": {
     "components": {
       "cat/variant": "existence_smp:void"

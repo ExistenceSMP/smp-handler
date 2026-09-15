@@ -17,31 +17,29 @@
     "requirement": {
       "trigger": "minecraft:location",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "location": {
-                "position": {
-                  "x": {
-                    "min": -665,
-                    "max": -615
-                  },
-                  "y": {
-                    "min": -64,
-                    "max": 319
-                  },
-                  "z": {
-                    "min": 290,
-                    "max": 340
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "location": {
+              "position": {
+                "x": {
+                  "min": -665,
+                  "max": -615
                 },
-                "dimension": "minecraft:overworld"
-              }
+                "y": {
+                  "min": -64,
+                  "max": 319
+                },
+                "z": {
+                  "min": 290,
+                  "max": 340
+                }
+              },
+              "dimension": "minecraft:overworld"
             }
           }
-        ]
+        }
       }
     }
   }

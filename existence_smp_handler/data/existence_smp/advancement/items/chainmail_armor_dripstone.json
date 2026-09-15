@@ -15,31 +15,29 @@
     "dripstone_cave": {
       "trigger": "minecraft:location",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "location": {
-                "biomes": "minecraft:dripstone_caves"
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "location": {
+              "biomes": "minecraft:dripstone_caves"
+            },
+            "equipment": {
+              "head": {
+                "items": "minecraft:chainmail_helmet"
               },
-              "equipment": {
-                "head": {
-                  "items": "minecraft:chainmail_helmet"
-                },
-                "chest": {
-                  "items": "minecraft:chainmail_chestplate"
-                },
-                "legs": {
-                  "items": "minecraft:chainmail_leggings"
-                },
-                "feet": {
-                  "items": "minecraft:chainmail_boots"
-                }
+              "chest": {
+                "items": "minecraft:chainmail_chestplate"
+              },
+              "legs": {
+                "items": "minecraft:chainmail_leggings"
+              },
+              "feet": {
+                "items": "minecraft:chainmail_boots"
               }
             }
           }
-        ]
+        }
       }
     }
   }
