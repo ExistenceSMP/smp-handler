@@ -1,9 +1,12 @@
 {
-  "type": "entity_properties",
+  "type": "minecraft:entity_properties",
+  "entity": "this",
   "predicate": {
-    "components": {
-      "cat/variant": "existence_smp:void"
+    "minecraft:components": {
+      "minecraft:entity_data": {
+        "id": "minecraft:cat",
+        "variant": "existence_smp:void"
+      }
     }
-  },
-  "entity": "this"
+  }
 }
