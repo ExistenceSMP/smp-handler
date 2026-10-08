@@ -15,22 +15,20 @@
     "alban": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:alban"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:alban"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -41,22 +39,20 @@
     "aztec": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:aztec"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:aztec"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -67,22 +63,20 @@
     "aztec2": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:aztec2"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:aztec2"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -93,22 +87,20 @@
     "bomb": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:bomb"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:bomb"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -119,22 +111,20 @@
     "burning_skull": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:burning_skull"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:burning_skull"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -145,22 +135,20 @@
     "bust": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:bust"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:bust"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -171,22 +159,20 @@
     "courbet": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:courbet"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:courbet"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -197,22 +183,20 @@
     "creebet": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:creebet"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:creebet"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -223,22 +207,20 @@
     "donkey_kong": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:donkey_kong"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:donkey_kong"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -249,22 +231,20 @@
     "earth": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:earth"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:earth"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -275,22 +255,20 @@
     "fighters": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:fighters"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:fighters"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -301,22 +279,20 @@
     "fire": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:fire"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:fire"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -327,22 +303,20 @@
     "graham": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:graham"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:graham"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -353,22 +327,20 @@
     "kebab": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:kebab"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:kebab"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -379,22 +351,20 @@
     "match": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:match"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:match"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -405,22 +375,20 @@
     "pigscene": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:pigscene"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:pigscene"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -431,22 +399,20 @@
     "plant": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:plant"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:plant"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -457,22 +423,20 @@
     "pointer": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:pointer"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:pointer"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -483,22 +447,20 @@
     "pool": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:pool"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:pool"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -509,22 +471,20 @@
     "sea": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:sea"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:sea"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -535,22 +495,20 @@
     "skeleton": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:skeleton"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:skeleton"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -561,22 +519,20 @@
     "skull_and_roses": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:skull_and_roses"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:skull_and_roses"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -587,22 +543,20 @@
     "stage": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:stage"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:stage"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -613,22 +567,20 @@
     "sunset": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:sunset"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:sunset"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -639,22 +591,20 @@
     "void": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:void"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:void"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -665,22 +615,20 @@
     "wanderer": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:wanderer"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:wanderer"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -691,22 +639,20 @@
     "wasteland": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:wasteland"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:wasteland"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -717,22 +663,20 @@
     "water": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:water"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:water"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -743,22 +687,20 @@
     "wind": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:wind"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:wind"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -769,22 +711,20 @@
     "wither": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:wither"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:wither"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -795,22 +735,20 @@
     "meditative": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:meditative"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:meditative"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -821,22 +759,20 @@
     "prairie_ride": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:prairie_ride"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:prairie_ride"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -847,22 +783,20 @@
     "baroque": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:baroque"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:baroque"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -873,22 +807,20 @@
     "humble": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:humble"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:humble"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -899,22 +831,20 @@
     "bouquet": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:bouquet"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:bouquet"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -925,22 +855,20 @@
     "cavebird": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:cavebird"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:cavebird"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -951,22 +879,20 @@
     "cotan": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:cotan"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:cotan"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -977,22 +903,20 @@
     "endboss": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:endboss"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:endboss"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1003,22 +927,20 @@
     "fern": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:fern"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:fern"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1029,22 +951,20 @@
     "owlemons": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:owlemons"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:owlemons"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1055,22 +975,20 @@
     "sunflowers": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:sunflowers"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:sunflowers"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1081,22 +999,20 @@
     "tides": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:tides"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:tides"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1107,22 +1023,20 @@
     "backyard": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:backyard"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:backyard"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1133,22 +1047,20 @@
     "pond": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:pond"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:pond"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1159,22 +1071,20 @@
     "changing": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:changing"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:changing"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1185,22 +1095,20 @@
     "finding": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:finding"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:finding"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1211,22 +1119,20 @@
     "lowmist": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:lowmist"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:lowmist"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1237,22 +1143,20 @@
     "passage": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:passage"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:passage"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1263,22 +1167,20 @@
     "orb": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:orb"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:orb"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1289,22 +1191,20 @@
     "unpacked": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:unpacked"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:unpacked"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -1315,22 +1215,20 @@
     "dennis": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:entity_type": "minecraft:painting",
-                  "minecraft:components": {
-                    "minecraft:painting/variant": "minecraft:dennis"
-                  }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:entity_type": "minecraft:painting",
+                "minecraft:components": {
+                  "minecraft:painting/variant": "minecraft:dennis"
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"

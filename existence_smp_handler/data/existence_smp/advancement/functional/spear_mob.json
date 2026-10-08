@@ -7,7 +7,7 @@
         "killing_blow": {
           "tags": [
             {
-              "id": "existence_smp:is_spear",
+              "id": "#existence_smp:is_spear",
               "expected": true
             }
           ]

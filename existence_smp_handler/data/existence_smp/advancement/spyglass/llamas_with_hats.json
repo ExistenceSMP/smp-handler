@@ -15,26 +15,24 @@
     "carl": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:components": {
-                    "minecraft:llama/variant": "gray"
-                  },
-                  "minecraft:equipment": {
-                    "body": {
-                      "items": "minecraft:lime_carpet"
-                    }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:components": {
+                  "minecraft:llama/variant": "gray"
+                },
+                "minecraft:equipment": {
+                  "body": {
+                    "items": "minecraft:lime_carpet"
                   }
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"
@@ -45,26 +43,24 @@
     "paul": {
       "trigger": "minecraft:using_item",
       "conditions": {
-        "player": [
-          {
-            "condition": "minecraft:entity_properties",
-            "entity": "this",
-            "predicate": {
-              "minecraft:type_specific/player": {
-                "looking_at": {
-                  "minecraft:components": {
-                    "minecraft:llama/variant": "creamy"
-                  },
-                  "minecraft:equipment": {
-                    "body": {
-                      "items": "minecraft:red_carpet"
-                    }
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:type_specific/player": {
+              "looking_at": {
+                "minecraft:components": {
+                  "minecraft:llama/variant": "creamy"
+                },
+                "minecraft:equipment": {
+                  "body": {
+                    "items": "minecraft:red_carpet"
                   }
                 }
               }
             }
           }
-        ],
+        },
         "item": {
           "items": [
             "minecraft:spyglass"

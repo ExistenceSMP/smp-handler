@@ -16,12 +16,20 @@
       "trigger": "minecraft:started_riding",
       "conditions": {
         "player": {
-          "vehicle": {
-            "minecraft:entity_type": "minecraft:nautilus"
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "vehicle": {
+              "minecraft:entity_type": "minecraft:nautilus"
+            }
           }
         }
       }
     }
   },
-  "requirements": [["ride_nautilus"]]
+  "requirements": [
+    [
+      "ride_nautilus"
+    ]
+  ]
 }

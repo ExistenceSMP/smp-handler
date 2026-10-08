@@ -14,7 +14,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "existence_smp:nether_wart"
+        "recipes": "existence_smp:nether_wart"
       }
     }
   },
